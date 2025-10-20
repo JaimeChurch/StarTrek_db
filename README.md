@@ -31,7 +31,8 @@
     
 10/02:
 
-    I decided to update my database schema now that I have some understanding of what I'm doing. I created a new GitHub repository for the project since I was essentially starting from scratch. The new database contains 11 tables, 7 main tables and 4 junction tables. 
+    I decided to update my database schema now that I have some understanding of what I'm doing. I created a new GitHub repository for the project 
+    since I was essentially starting from scratch. The new database contains 11 tables, 7 main tables and 4 junction tables. 
 
     The tables in the database are as follows:
         1. Species
