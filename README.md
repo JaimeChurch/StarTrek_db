@@ -32,7 +32,8 @@
 10/02:
 
     I decided to update my database schema now that I have some understanding of what I'm doing. I created a new GitHub repository for the project 
-    since I was essentially starting from scratch. The new database contains 11 tables, 7 main tables and 4 junction tables. 
+    since I was essentially starting from scratch. The new database contains 11 tables, 7 main tables and 4 junction tables. I also switched from 
+    scraping the Memory Alpha wiki to the using Star Trek API for more a more consistent data structure. 
 
     The tables in the database are as follows:
         1. Species
