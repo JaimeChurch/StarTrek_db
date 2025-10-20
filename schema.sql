@@ -13,18 +13,6 @@ CREATE TABLE Species (
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Origins table: stores planets, star systems, or locations
-CREATE TABLE Origins (
-    origin_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name VARCHAR(100) NOT NULL UNIQUE,
-    type VARCHAR(50), -- e.g., planet, moon, space station, star system
-    quadrant VARCHAR(50), -- Alpha, Beta, Gamma, Delta
-    sector VARCHAR(100),
-    description TEXT,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
 -- Organizations table: stores Starfleet, Klingon Empire, etc.
 CREATE TABLE Organizations (
     organization_id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -72,7 +60,6 @@ CREATE TABLE Characters (
     rank VARCHAR(50), -- e.g., Captain, Commander, Ensign
     title VARCHAR(100), -- e.g., Chief Engineer, Chief Medical Officer
     species_id INTEGER,
-    origin_id INTEGER,
     birth_year INTEGER,
     death_year INTEGER,
     gender VARCHAR(20),
@@ -80,8 +67,7 @@ CREATE TABLE Characters (
     bio TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (species_id) REFERENCES Species(species_id),
-    FOREIGN KEY (origin_id) REFERENCES Origins(origin_id)
+    FOREIGN KEY (species_id) REFERENCES Species(species_id)
 );
 
 -- Character_Actors junction table: links characters to actors (many-to-many)
@@ -170,7 +156,6 @@ CREATE TABLE Character_Episodes (
 
 -- Create indexes for better query performance
 CREATE INDEX idx_characters_species ON Characters(species_id);
-CREATE INDEX idx_characters_origin ON Characters(origin_id);
 CREATE INDEX idx_characters_name ON Characters(name);
 CREATE INDEX idx_ships_organization ON Ships(organization_id);
 CREATE INDEX idx_character_actors_character ON Character_Actors(character_id);

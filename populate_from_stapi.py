@@ -2,8 +2,29 @@
 Populate Star Trek Database using STAPI (Star Trek API)
 http://stapi.co/
 
-This script fetches data from STAPI and populates the database
-with characters, species, performers (actors), and spacecraft.
+*** TESTING SCRIPT - PARTIAL POPULATION ONLY ***
+
+This script is designed for TESTING the STAPI API and quickly populating 
+a SMALL PORTION of the database. It only populates 4 main tables:
+- Species
+- Actors (Performers)  
+- Characters
+- Ships (Spacecraft)
+
+This script does NOT populate:
+- Series
+- Episodes
+- Organizations
+- Any junction tables (Character_Actors, Character_Episodes, etc.)
+
+For COMPLETE database population with all tables and relationships, 
+use populate_full.py instead (takes 2-4 hours).
+
+Use this script when:
+- Testing the database structure
+- Quick setup for development
+- You only need basic entity data
+- Time: ~5-10 minutes
 """
 
 import sqlite3
@@ -279,7 +300,7 @@ class STAPIPopulator:
         print("="*70)
         
         tables = [
-            'Species', 'Origins', 'Organizations', 'Actors', 'Ships',
+            'Species', 'Organizations', 'Actors', 'Ships',
             'Characters', 'Series', 'Episodes'
         ]
         

@@ -11,15 +11,6 @@ INSERT INTO Species (name, homeworld, classification, warp_capable, description)
 ('Android', NULL, 'Artificial', 0, 'Artificial lifeform'),
 ('Klingon-Human Hybrid', NULL, 'Humanoid', 1, 'Mixed species heritage');
 
--- Insert Origins
-INSERT INTO Origins (name, type, quadrant, sector, description) VALUES
-('Earth', 'Planet', 'Alpha', 'Sol System', 'Homeworld of humanity and capital of the United Federation of Planets'),
-('Vulcan', 'Planet', 'Alpha', 'Vulcan System', 'Desert planet and homeworld of the Vulcan species'),
-('Qo''noS', 'Planet', 'Beta', 'Klingon Empire', 'Homeworld of the Klingon Empire'),
-('Betazed', 'Planet', 'Alpha', 'Betazed System', 'Homeworld of the Betazoid species'),
-('Deep Space 9', 'Space Station', 'Alpha', 'Bajoran System', 'Former Cardassian station near the Bajoran wormhole'),
-('Omicron Theta', 'Planet', 'Unknown', 'Unknown', 'Colony world where Data was discovered');
-
 -- Insert Organizations
 INSERT INTO Organizations (name, type, affiliation, description) VALUES
 ('Starfleet', 'Military', 'United Federation of Planets', 'Space exploration and defense organization'),
@@ -58,16 +49,16 @@ INSERT INTO Series (name, abbreviation, start_year, end_year, num_seasons, num_e
 ('Star Trek: Discovery', 'DIS', 2017, NULL, 5, 65);
 
 -- Insert Characters
-INSERT INTO Characters (name, rank, title, species_id, origin_id, gender, occupation, bio) VALUES
-('James T. Kirk', 'Captain', 'Commanding Officer', 1, 1, 'Male', 'Starfleet Officer', 'Legendary Starfleet captain known for his diplomatic and military achievements'),
-('Jean-Luc Picard', 'Captain', 'Commanding Officer', 1, 1, 'Male', 'Starfleet Officer', 'Distinguished captain and diplomat, commanding officer of USS Enterprise-D and E'),
-('Spock', 'Commander', 'Science Officer', 2, 2, 'Male', 'Starfleet Officer', 'Half-Vulcan, half-human science officer known for his logic and loyalty'),
-('Data', 'Lieutenant Commander', 'Operations Officer', 6, 6, 'Male', 'Starfleet Officer', 'Sentient android seeking to understand humanity'),
-('Deanna Troi', 'Commander', 'Counselor', 5, 4, 'Female', 'Starfleet Officer', 'Empathic counselor aboard USS Enterprise-D'),
-('Worf', 'Lieutenant Commander', 'Security Chief', 3, 3, 'Male', 'Starfleet Officer', 'First Klingon officer in Starfleet'),
-('Benjamin Sisko', 'Captain', 'Commanding Officer', 1, 1, 'Male', 'Starfleet Officer', 'Commander of Deep Space 9 and Emissary to the Prophets'),
-('Kathryn Janeway', 'Captain', 'Commanding Officer', 1, 1, 'Female', 'Starfleet Officer', 'Captain of USS Voyager stranded in the Delta Quadrant'),
-('B''Elanna Torres', 'Lieutenant', 'Chief Engineer', 7, 3, 'Female', 'Starfleet Officer', 'Half-Klingon, half-human engineer on USS Voyager');
+INSERT INTO Characters (name, rank, title, species_id, gender, occupation, bio) VALUES
+('James T. Kirk', 'Captain', 'Commanding Officer', 1, 'Male', 'Starfleet Officer', 'Legendary Starfleet captain known for his diplomatic and military achievements'),
+('Jean-Luc Picard', 'Captain', 'Commanding Officer', 1, 'Male', 'Starfleet Officer', 'Distinguished captain and diplomat, commanding officer of USS Enterprise-D and E'),
+('Spock', 'Commander', 'Science Officer', 2, 'Male', 'Starfleet Officer', 'Half-Vulcan, half-human science officer known for his logic and loyalty'),
+('Data', 'Lieutenant Commander', 'Operations Officer', 6, 'Male', 'Starfleet Officer', 'Sentient android seeking to understand humanity'),
+('Deanna Troi', 'Commander', 'Counselor', 5, 'Female', 'Starfleet Officer', 'Empathic counselor aboard USS Enterprise-D'),
+('Worf', 'Lieutenant Commander', 'Security Chief', 3, 'Male', 'Starfleet Officer', 'First Klingon officer in Starfleet'),
+('Benjamin Sisko', 'Captain', 'Commanding Officer', 1, 'Male', 'Starfleet Officer', 'Commander of Deep Space 9 and Emissary to the Prophets'),
+('Kathryn Janeway', 'Captain', 'Commanding Officer', 1, 'Female', 'Starfleet Officer', 'Captain of USS Voyager stranded in the Delta Quadrant'),
+('B''Elanna Torres', 'Lieutenant', 'Chief Engineer', 7, 'Female', 'Starfleet Officer', 'Half-Klingon, half-human engineer on USS Voyager');
 
 -- Link Characters to Actors
 INSERT INTO Character_Actors (character_id, actor_id, series, first_appearance, episodes_count) VALUES

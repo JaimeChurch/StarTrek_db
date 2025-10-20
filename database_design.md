@@ -15,17 +15,10 @@ Stores information about different species in the Star Trek universe.
 - `classification`: Type of species (humanoid, non-humanoid, etc.)
 - `description`: Detailed information about the species
 - `warp_capable`: Whether the species has warp technology
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 2. **Origins**
-Stores planets, star systems, and other locations.
-- `origin_id` (PK): Unique identifier
-- `name`: Location name (e.g., Earth, Vulcan, Qo'noS)
-- `type`: Type of location (planet, moon, space station, star system)
-- `quadrant`: Galactic quadrant (Alpha, Beta, Gamma, Delta)
-- `sector`: Specific sector within the quadrant
-- `description`: Additional information
-
-#### 3. **Organizations**
+#### 2. **Organizations**
 Stores various organizations, governments, and groups.
 - `organization_id` (PK): Unique identifier
 - `name`: Organization name (e.g., Starfleet, Klingon Empire)
@@ -33,16 +26,20 @@ Stores various organizations, governments, and groups.
 - `founded_year`: Year of establishment
 - `affiliation`: Parent organization or alliance
 - `description`: Additional details
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 4. **Actors**
+#### 3. **Actors**
 Stores real-world actors who portray characters.
 - `actor_id` (PK): Unique identifier
 - `first_name`, `last_name`: Actor's name
 - `birth_date`: Date of birth
 - `nationality`: Actor's nationality
 - `bio`: Biography information
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 5. **Ships**
+#### 4. **Ships**
 Stores starships and other vessels.
 - `ship_id` (PK): Unique identifier
 - `name`: Ship name (e.g., USS Enterprise)
@@ -52,29 +49,36 @@ Stores starships and other vessels.
 - `launched_year`: Year commissioned
 - `status`: Current status (active, destroyed, decommissioned)
 - `organization_id` (FK): Owning organization
+- `description`: Additional ship details
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 6. **Characters**
+#### 5. **Characters**
 Stores fictional characters from Star Trek.
 - `character_id` (PK): Unique identifier
 - `name`: Character name (e.g., James T. Kirk, Jean-Luc Picard)
 - `rank`: Military or organizational rank
 - `title`: Position or role
 - `species_id` (FK): Character's species
-- `origin_id` (FK): Character's birthplace
 - `birth_year`, `death_year`: Lifespan
 - `gender`: Character's gender
 - `occupation`: Primary occupation
 - `bio`: Character biography
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 7. **Series**
+#### 6. **Series**
 Stores information about different Star Trek TV series.
 - `series_id` (PK): Unique identifier
 - `name`: Full series name
-- `abbreviation`: Common abbreviation (TOS, TNG, DS9, VOY, etc.)
+- `abbreviation`: Common abbreviation (TOS, TNG, DS9, VOY, ENT, DIS, PIC, SNW, LD, PRO)
 - `start_year`, `end_year`: Years the series aired
 - `num_seasons`, `num_episodes`: Episode counts
+- `description`: Additional series information
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
-#### 8. **Episodes**
+#### 7. **Episodes**
 Stores individual episode information.
 - `episode_id` (PK): Unique identifier
 - `series_id` (FK): Parent series
@@ -82,33 +86,59 @@ Stores individual episode information.
 - `season`, `episode_number`: Episode numbering
 - `air_date`: Original air date
 - `description`: Episode synopsis
+- `created_at`: Timestamp when record was created
+- `updated_at`: Timestamp when record was last updated
 
 ### Junction Tables (Many-to-Many Relationships)
 
-#### 9. **Character_Actors**
+#### 8. **Character_Actors**
 Links characters to the actors who portrayed them.
-- Handles cases where multiple actors play the same character (different ages, series)
-- Tracks which series and how many episodes
+- `character_actor_id` (PK): Unique identifier
+- `character_id` (FK): Reference to Characters table
+- `actor_id` (FK): Reference to Actors table
+- `series`: Which series the actor portrayed the character in (e.g., TOS, TNG, DS9)
+- `first_appearance`: First episode or movie appearance
+- `last_appearance`: Last episode or movie appearance
+- `episodes_count`: Number of episodes the actor appeared as this character
+- `notes`: Additional information about the portrayal
+- `created_at`: Timestamp when record was created
+- Unique constraint on (character_id, actor_id, series)
 
-#### 10. **Character_Organizations**
+#### 9. **Character_Organizations**
 Links characters to organizations they belong to.
-- Tracks roles within organizations
-- Records duration of membership
+- `char_org_id` (PK): Unique identifier
+- `character_id` (FK): Reference to Characters table
+- `organization_id` (FK): Reference to Organizations table
+- `role`: Character's role in the organization (e.g., member, leader, founder)
+- `start_year`: When the character joined
+- `end_year`: When the character left (NULL if still a member)
+- `notes`: Additional information
+- `created_at`: Timestamp when record was created
 
-#### 11. **Character_Ships**
+#### 10. **Character_Ships**
 Links characters to ships they served on.
-- Records their role on the ship
-- Tracks service duration
+- `char_ship_id` (PK): Unique identifier
+- `character_id` (FK): Reference to Characters table
+- `ship_id` (FK): Reference to Ships table
+- `role`: Character's role on the ship (e.g., Captain, First Officer, Chief Engineer)
+- `start_year`: When service began
+- `end_year`: When service ended (NULL if still serving)
+- `notes`: Additional information
+- `created_at`: Timestamp when record was created
 
-#### 12. **Character_Episodes**
+#### 11. **Character_Episodes**
 Tracks which characters appear in which episodes.
-- Records whether they were main, recurring, or guest characters
+- `char_episode_id` (PK): Unique identifier
+- `character_id` (FK): Reference to Characters table
+- `episode_id` (FK): Reference to Episodes table
+- `role_type`: Type of appearance (main, recurring, guest)
+- `created_at`: Timestamp when record was created
+- Unique constraint on (character_id, episode_id)
 
 ## Entity Relationships
 
 ```
 Species (1) ─────< (M) Characters
-Origins (1) ─────< (M) Characters
 Organizations (1) ─────< (M) Ships
 Organizations (M) ─────< (M) Characters (via Character_Organizations)
 Ships (M) ─────< (M) Characters (via Character_Ships)
@@ -179,10 +209,10 @@ WHERE o.name = 'Starfleet';
 
 ## Data Population Strategy
 
-1. **Start with reference data**: Species, Origins, Organizations, Series
+1. **Start with reference data**: Species, Organizations, Series
 2. **Add Ships**: Link to organizations
 3. **Add Actors**: Real-world people
-4. **Add Characters**: Link to species and origins
+4. **Add Characters**: Link to species
 5. **Create relationships**: Link characters to actors, organizations, ships
 6. **Add Episodes**: Link to series
 7. **Track appearances**: Link characters to episodes

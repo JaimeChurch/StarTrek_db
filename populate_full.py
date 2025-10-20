@@ -615,7 +615,7 @@ class STAPIFullPopulator:
         print("="*70)
         
         tables = [
-            'Species', 'Origins', 'Organizations', 'Actors', 'Ships',
+            'Species', 'Organizations', 'Actors', 'Ships',
             'Characters', 'Series', 'Episodes', 'Character_Actors',
             'Character_Organizations', 'Character_Ships', 'Character_Episodes'
         ]

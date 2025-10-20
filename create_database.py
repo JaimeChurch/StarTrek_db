@@ -1,17 +1,23 @@
 """
 Star Trek Database Creation Script
-This script creates the SQLite database and populates it with sample data
+This script creates the SQLite database with an empty schema.
+
+Usage:
+    python create_database.py              # Create empty database
+    python create_database.py --sample     # Create database with sample data
 """
 
 import sqlite3
 import os
+import sys
 
-def create_database(db_path='startrek.db'):
+def create_database(db_path='startrek.db', include_sample_data=False):
     """
-    Create the Star Trek database and populate it with schema and sample data
+    Create the Star Trek database with schema
     
     Args:
         db_path: Path to the database file (default: startrek.db)
+        include_sample_data: If True, populate with sample data from sample_data.sql
     """
     # Remove existing database if it exists
     if os.path.exists(db_path):
@@ -29,11 +35,14 @@ def create_database(db_path='startrek.db'):
         schema_sql = f.read()
         cursor.executescript(schema_sql)
     
-    # Read and execute sample data
-    print("Inserting sample data...")
-    with open('sample_data.sql', 'r', encoding='utf-8') as f:
-        data_sql = f.read()
-        cursor.executescript(data_sql)
+    # Optionally insert sample data
+    if include_sample_data:
+        print("Inserting sample data...")
+        with open('sample_data.sql', 'r', encoding='utf-8') as f:
+            data_sql = f.read()
+            cursor.executescript(data_sql)
+    else:
+        print("Skipping sample data (empty database created)")
     
     # Commit changes
     conn.commit()
@@ -44,7 +53,7 @@ def create_database(db_path='startrek.db'):
     print("-" * 50)
     
     tables = [
-        'Species', 'Origins', 'Organizations', 'Actors', 'Ships',
+        'Species', 'Organizations', 'Actors', 'Ships',
         'Characters', 'Series', 'Episodes', 'Character_Actors',
         'Character_Organizations', 'Character_Ships', 'Character_Episodes'
     ]
@@ -125,13 +134,36 @@ def test_queries(db_path='startrek.db'):
     conn.close()
 
 if __name__ == '__main__':
-    # Create the database
-    create_database()
+    # Check for command-line arguments
+    include_sample = '--sample' in sys.argv or '-s' in sys.argv
+    run_tests = '--test' in sys.argv or '-t' in sys.argv
     
-    # Run test queries
-    test_queries()
+    if '--help' in sys.argv or '-h' in sys.argv:
+        print(__doc__)
+        print("\nOptions:")
+        print("  --sample, -s    Include sample data from sample_data.sql")
+        print("  --test, -t      Run test queries after creation")
+        print("  --help, -h      Show this help message")
+        sys.exit(0)
+    
+    # Create the database
+    create_database(include_sample_data=include_sample)
+    
+    # Optionally run test queries
+    if run_tests:
+        if include_sample:
+            test_queries()
+        else:
+            print("\nNote: Skipping test queries (no sample data to query)")
     
     print("\n" + "=" * 70)
     print("Setup complete! You can now use the database with any SQLite tool.")
     print("Database file: startrek.db")
+    if include_sample:
+        print("Sample data: INCLUDED")
+    else:
+        print("Sample data: NOT included (empty database)")
+    print("\nTo populate with real data, run:")
+    print("  python populate_from_stapi.py  (quick, partial data)")
+    print("  python populate_full.py        (complete, takes 30-60 min)")
     print("=" * 70)
