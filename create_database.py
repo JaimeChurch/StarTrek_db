@@ -55,7 +55,7 @@ def create_database(db_path='startrek.db', include_sample_data=False):
     tables = [
         'Species', 'Organizations', 'Actors', 'Ships',
         'Characters', 'Series', 'Episodes', 'Character_Actors',
-        'Character_Organizations', 'Character_Ships', 'Character_Episodes'
+        'Character_Organizations', 'Character_Episodes'
     ]
     
     for table in tables:
@@ -165,5 +165,5 @@ if __name__ == '__main__':
         print("Sample data: NOT included (empty database)")
     print("\nTo populate with real data, run:")
     print("  python populate_from_stapi.py  (quick, partial data)")
-    print("  python populate_full.py        (complete, takes 30-60 min)")
+    print("  python populate_full.py        (complete, takes 3-5 hours)")
     print("=" * 70)

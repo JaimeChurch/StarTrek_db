@@ -111,6 +111,172 @@ class STAPIFullPopulator:
             print(f"    Error fetching {endpoint}/{uid}: {e}")
             return None
     
+    def populate_species(self, max_pages=None):
+        """Fetch and insert species data"""
+        print("\n" + "="*70)
+        print("POPULATING SPECIES")
+        print("="*70)
+        
+        species_list = self.fetch_with_pagination('species', max_pages=max_pages)
+        
+        inserted = 0
+        for species in species_list:
+            try:
+                name = species.get('name')
+                if not name:
+                    continue
+                
+                homeworld = species.get('homeworld', {}).get('name') if species.get('homeworld') else None
+                classification = species.get('type')
+                warp_capable = species.get('warpCapableSpecies', False)
+                
+                self.cursor.execute("""
+                    INSERT OR IGNORE INTO Species (name, homeworld, classification, warp_capable)
+                    VALUES (?, ?, ?, ?)
+                """, (name, homeworld, classification, int(warp_capable)))
+                
+                if self.cursor.rowcount > 0:
+                    inserted += 1
+                    
+            except Exception as e:
+                print(f"  Error inserting species {species.get('name')}: {e}")
+        
+        self.conn.commit()
+        print(f"Inserted {inserted} new species")
+        return inserted
+    
+    def populate_performers(self, max_pages=None):
+        """Fetch and insert actor/performer data"""
+        print("\n" + "="*70)
+        print("POPULATING PERFORMERS (ACTORS)")
+        print("="*70)
+        
+        performers = self.fetch_with_pagination('performer', max_pages=max_pages)
+        
+        inserted = 0
+        for performer in performers:
+            try:
+                name = performer.get('name', '')
+                if not name:
+                    continue
+                
+                # Split name into first and last
+                name_parts = name.split(maxsplit=1)
+                first_name = name_parts[0] if name_parts else ''
+                last_name = name_parts[1] if len(name_parts) > 1 else ''
+                
+                birth_date = performer.get('birthDate')
+                
+                # Check if actor already exists
+                self.cursor.execute("""
+                    SELECT actor_id FROM Actors 
+                    WHERE first_name = ? AND last_name = ?
+                """, (first_name, last_name))
+                
+                if self.cursor.fetchone() is None:
+                    self.cursor.execute("""
+                        INSERT INTO Actors (first_name, last_name, birth_date)
+                        VALUES (?, ?, ?)
+                    """, (first_name, last_name, birth_date))
+                    inserted += 1
+                    
+            except Exception as e:
+                print(f"  Error inserting performer {performer.get('name')}: {e}")
+        
+        self.conn.commit()
+        print(f"Inserted {inserted} new actors")
+        return inserted
+    
+    def populate_characters(self, max_pages=None):
+        """Fetch and insert character data"""
+        print("\n" + "="*70)
+        print("POPULATING CHARACTERS")
+        print("="*70)
+        
+        characters = self.fetch_with_pagination('character', max_pages=max_pages)
+        
+        inserted = 0
+        for character in characters:
+            try:
+                name = character.get('name')
+                if not name or not character.get('uid'):
+                    continue
+                
+                # Get species
+                species_name = None
+                if character.get('characterSpecies'):
+                    species_name = character['characterSpecies'][0].get('name')
+                
+                species_id = None
+                if species_name:
+                    self.cursor.execute("SELECT species_id FROM Species WHERE name = ?", (species_name,))
+                    result = self.cursor.fetchone()
+                    if result:
+                        species_id = result[0]
+                
+                gender = character.get('gender')
+                
+                # Check if character exists
+                self.cursor.execute("SELECT character_id FROM Characters WHERE name = ?", (name,))
+                
+                if self.cursor.fetchone() is None:
+                    self.cursor.execute("""
+                        INSERT INTO Characters (name, species_id, gender)
+                        VALUES (?, ?, ?)
+                    """, (name, species_id, gender))
+                    inserted += 1
+                    
+            except Exception as e:
+                print(f"  Error inserting character {character.get('name')}: {e}")
+        
+        self.conn.commit()
+        print(f"Inserted {inserted} new characters")
+        return inserted
+    
+    def populate_spacecraft(self, max_pages=None):
+        """Fetch and insert spacecraft data"""
+        print("\n" + "="*70)
+        print("POPULATING SPACECRAFT")
+        print("="*70)
+        
+        spacecraft_list = self.fetch_with_pagination('spacecraft', max_pages=max_pages)
+        
+        # Get Starfleet organization ID
+        self.cursor.execute("SELECT organization_id FROM Organizations WHERE name = 'Starfleet'")
+        result = self.cursor.fetchone()
+        starfleet_id = result[0] if result else None
+        
+        inserted = 0
+        for spacecraft in spacecraft_list:
+            try:
+                name = spacecraft.get('name')
+                if not name:
+                    continue
+                
+                registry = spacecraft.get('registry')
+                ship_class = spacecraft.get('spacecraftClass', {}).get('name') if spacecraft.get('spacecraftClass') else None
+                status = spacecraft.get('status')
+                
+                # Check if ship exists
+                self.cursor.execute("""
+                    SELECT ship_id FROM Ships 
+                    WHERE name = ? AND (registry = ? OR registry IS NULL)
+                """, (name, registry))
+                
+                if self.cursor.fetchone() is None:
+                    self.cursor.execute("""
+                        INSERT INTO Ships (name, registry, class, organization_id, status)
+                        VALUES (?, ?, ?, ?, ?)
+                    """, (name, registry, ship_class, starfleet_id, status))
+                    inserted += 1
+                    
+            except Exception as e:
+                print(f"  Error inserting spacecraft {spacecraft.get('name')}: {e}")
+        
+        self.conn.commit()
+        print(f"Inserted {inserted} new spacecraft")
+        return inserted
+    
     def populate_series(self):
         """Populate series table"""
         print("\n" + "="*70)
@@ -507,8 +673,9 @@ class STAPIFullPopulator:
                 # Fetch character details
                 char_details = self.fetch_entity_details('character', uid)
                 
-                if char_details and char_details.get('characterOrganizations'):
-                    for org in char_details['characterOrganizations']:
+                # Use 'organizations' field (not 'characterOrganizations')
+                if char_details and char_details.get('organizations'):
+                    for org in char_details['organizations']:
                         org_name = org.get('name')
                         if not org_name:
                             continue
@@ -541,73 +708,6 @@ class STAPIFullPopulator:
         print(f"\nLinked {linked} character-organization relationships")
         return linked
     
-    def link_character_ships(self, max_chars=None):
-        """Link characters to ships using character details"""
-        print("\n" + "="*70)
-        print("LINKING CHARACTERS TO SHIPS")
-        print("="*70)
-        
-        # Get all characters from database
-        self.cursor.execute("SELECT character_id, name FROM Characters")
-        characters = self.cursor.fetchall()
-        
-        if max_chars:
-            characters = characters[:max_chars]
-        
-        print(f"Processing {len(characters)} characters...")
-        
-        linked = 0
-        processed = 0
-        
-        for char_id, char_name in characters:
-            processed += 1
-            if processed % 100 == 0:
-                print(f"  {processed}/{len(characters)} processed, {linked} links created")
-                self.conn.commit()
-            
-            # Get UID from cache
-            uid = self.character_uids.get(char_name)
-            if not uid:
-                continue
-            
-            try:
-                # Fetch character details
-                char_details = self.fetch_entity_details('character', uid)
-                
-                if char_details and char_details.get('characterSpacecrafts'):
-                    for ship in char_details['characterSpacecrafts']:
-                        ship_name = ship.get('name')
-                        if not ship_name:
-                            continue
-                        
-                        # Find ship in database (match by name)
-                        self.cursor.execute("""
-                            SELECT ship_id FROM Ships WHERE name = ?
-                        """, (ship_name,))
-                        
-                        result = self.cursor.fetchone()
-                        if result:
-                            ship_id = result[0]
-                            
-                            # Link character to ship
-                            self.cursor.execute("""
-                                INSERT OR IGNORE INTO Character_Ships 
-                                (character_id, ship_id, role)
-                                VALUES (?, ?, ?)
-                            """, (char_id, ship_id, 'crew member'))
-                            
-                            if self.cursor.rowcount > 0:
-                                linked += 1
-                
-                time.sleep(0.2)
-                
-            except Exception as e:
-                continue
-        
-        self.conn.commit()
-        print(f"\nLinked {linked} character-ship relationships")
-        return linked
-    
     def show_statistics(self):
         """Display database statistics"""
         print("\n" + "="*70)
@@ -617,7 +717,7 @@ class STAPIFullPopulator:
         tables = [
             'Species', 'Organizations', 'Actors', 'Ships',
             'Characters', 'Series', 'Episodes', 'Character_Actors',
-            'Character_Organizations', 'Character_Ships', 'Character_Episodes'
+            'Character_Organizations', 'Character_Episodes'
         ]
         
         for table in tables:
@@ -631,7 +731,7 @@ def main():
     print("FULL STAR TREK DATABASE POPULATION FROM STAPI")
     print("="*70)
     print("\nThis will fetch ALL data including relationships.")
-    print("This may take 30-60 minutes due to API rate limiting.\n")
+    print("This may take 3-5 hours due to API rate limiting.\n")
     
     response = input("Proceed? (y/n): ")
     if response.lower() != 'y':
@@ -642,26 +742,36 @@ def main():
     populator.connect()
     
     try:
-        # Step 1: Populate main tables (already done, but will add any new)
+        # Step 1: Populate main tables (base entities first)
         print("\n" + "="*70)
-        print("STEP 1: UPDATING MAIN TABLES")
+        print("STEP 1: POPULATING BASE TABLES")
+        print("="*70)
+        
+        populator.populate_species(max_pages=None)
+        populator.populate_performers(max_pages=None)
+        populator.populate_characters(max_pages=None)
+        populator.populate_spacecraft(max_pages=None)
+        
+        # Step 2: Populate supporting tables
+        print("\n" + "="*70)
+        print("STEP 2: POPULATING SUPPORTING TABLES")
         print("="*70)
         
         populator.populate_series()
         populator.populate_organizations()
         populator.populate_episodes(max_pages=None)  # Fetch ALL episodes
         
-        # Step 2: Build UID caches
+        # Step 3: Build UID caches
         print("\n" + "="*70)
-        print("STEP 2: BUILDING UID CACHES")
+        print("STEP 3: BUILDING UID CACHES")
         print("="*70)
         
         populator.build_character_uid_cache(max_pages=None)
         populator.build_episode_uid_cache(max_pages=None)
         
-        # Step 3: Link relationships
+        # Step 4: Link relationships
         print("\n" + "="*70)
-        print("STEP 3: LINKING RELATIONSHIPS")
+        print("STEP 4: LINKING RELATIONSHIPS")
         print("="*70)
         print("\nNote: This step is intensive and may take a while...")
         
@@ -673,9 +783,6 @@ def main():
         
         # Link ALL character organizations
         populator.link_character_organizations(max_chars=None)
-        
-        # Link ALL character ships
-        populator.link_character_ships(max_chars=None)
         
         # Show final stats
         populator.show_statistics()

@@ -29,7 +29,7 @@
   Created find_common_species.py that SELECTs all the species from the character table and counts them. The script then
     finds the percentage of each species and prints them in order. 
     
-10/02:
+10/16:
 
     I decided to update my database schema now that I have some understanding of what I'm doing. I created a new GitHub repository for the project 
     since I was essentially starting from scratch. The new database contains 11 tables, 7 main tables and 4 junction tables. I also switched from 
@@ -44,7 +44,7 @@
                 classification - Type (humanoid, non-humanoid, artificial)
                 warp_capable - Boolean for warp drive capability
             Relationships:
-                One species → Many characters (One-to-Many)
+                One species → Many characters
 
         2. Organizations 
             Key Fields: 
@@ -179,15 +179,53 @@
                 │             │ │             │
                 ▼             ▼ ▼             ▼
             ┌────────┐   ┌──────────┐   ┌──────────┐
-            │ Actors │   │  Ships   │   │Episodes  │
+            │ Actors │   │  Ships   │   │ Episodes │
             └────────┘   └──────────┘   └──────────┘
-                            │              │
-                            ▼              ▼
-                     ┌──────────────┐ ┌────────┐
-                     │Organizations │ │ Series │
-                     └──────────────┘ └────────┘
+                             │              │
+                             ▼              ▼
+                      ┌──────────────┐ ┌────────┐
+                      │ Organizations│ │ Series │
+                      └──────────────┘ └────────┘
 
-     
+11/02:
+    I spent the last week cleaning up the database and filling in 
+    missing information. There were a lot of columns that did not 
+    properly populate. I think this came from switching from web 
+    scraping Memory Alpha to querying STAPI. Several columns were 
+    meant to contain data that was not provided by STAPI, and 
+    those columns have been removed, and the schema updated. 
+    The db is now fully populated. 
+
+    I added imdb ratings and number of ratings to the episode 
+    table by scraping the imdb website. 
+    
+    I also modified the db to handle characters that appear in 
+    multiple series as separate rows. Previously, the populate 
+    script was overwriting any characters that appeared in 
+    multiple series, so only the last series was saved. 
+
+    Columns removed:
+        Species: 
+            classification
+            description
+        Organizations:
+            founded_year
+            affiliation
+            description
+        Actors:
+            nationality --> changed to birth_place
+        Ships:
+            description
+        Character_Organization:
+            role
+            start_year
+            end_year
+        Episodes:
+            description
+            (added) imdb_rating
+            (added) imdb_votes
+
+
          
          
             

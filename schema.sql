@@ -1,13 +1,10 @@
 -- Star Trek Database Schema
--- Based on Memory Alpha data structure
 
 -- Species table: stores information about different species in Star Trek
 CREATE TABLE Species (
     species_id INTEGER PRIMARY KEY AUTOINCREMENT,
     name VARCHAR(100) NOT NULL UNIQUE,
     homeworld VARCHAR(100),
-    classification VARCHAR(50), -- e.g., humanoid, non-humanoid
-    description TEXT,
     warp_capable BOOLEAN,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -18,9 +15,6 @@ CREATE TABLE Organizations (
     organization_id INTEGER PRIMARY KEY AUTOINCREMENT,
     name VARCHAR(100) NOT NULL UNIQUE,
     type VARCHAR(50), -- e.g., military, government, religious, criminal
-    founded_year INTEGER,
-    affiliation VARCHAR(100), -- e.g., United Federation of Planets
-    description TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
@@ -31,7 +25,7 @@ CREATE TABLE Actors (
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     birth_date DATE,
-    nationality VARCHAR(50),
+    birth_place VARCHAR(100),
     bio TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
@@ -43,14 +37,11 @@ CREATE TABLE Ships (
     name VARCHAR(100) NOT NULL,
     registry VARCHAR(50), -- e.g., NCC-1701
     class VARCHAR(50), -- e.g., Constitution, Galaxy, Intrepid
-    type VARCHAR(50), -- e.g., Starship, Shuttle, Warship
+    type VARCHAR(50), -- e.g., Starship, Shuttle, Space station
     launched_year INTEGER,
     status VARCHAR(50), -- active, destroyed, decommissioned
-    organization_id INTEGER,
-    description TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (organization_id) REFERENCES Organizations(organization_id)
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- Characters table: stores fictional characters from Star Trek
@@ -64,7 +55,6 @@ CREATE TABLE Characters (
     death_year INTEGER,
     gender VARCHAR(20),
     occupation VARCHAR(100),
-    bio TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (species_id) REFERENCES Species(species_id)
@@ -91,27 +81,10 @@ CREATE TABLE Character_Organizations (
     char_org_id INTEGER PRIMARY KEY AUTOINCREMENT,
     character_id INTEGER NOT NULL,
     organization_id INTEGER NOT NULL,
-    role VARCHAR(100), -- e.g., member, leader, founder
-    start_year INTEGER,
-    end_year INTEGER,
     notes TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (character_id) REFERENCES Characters(character_id),
     FOREIGN KEY (organization_id) REFERENCES Organizations(organization_id)
-);
-
--- Character_Ships junction table: links characters to ships they served on (many-to-many)
-CREATE TABLE Character_Ships (
-    char_ship_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    character_id INTEGER NOT NULL,
-    ship_id INTEGER NOT NULL,
-    role VARCHAR(100), -- e.g., Captain, First Officer, Chief Engineer
-    start_year INTEGER,
-    end_year INTEGER,
-    notes TEXT,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (character_id) REFERENCES Characters(character_id),
-    FOREIGN KEY (ship_id) REFERENCES Ships(ship_id)
 );
 
 -- Series table: stores information about different Star Trek series
@@ -137,6 +110,8 @@ CREATE TABLE Episodes (
     episode_number INTEGER,
     air_date DATE,
     description TEXT,
+    imdb_rating DECIMAL(3,1),
+    imdb_votes INTEGER,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (series_id) REFERENCES Series(series_id)
@@ -162,8 +137,7 @@ CREATE INDEX idx_character_actors_character ON Character_Actors(character_id);
 CREATE INDEX idx_character_actors_actor ON Character_Actors(actor_id);
 CREATE INDEX idx_character_organizations_character ON Character_Organizations(character_id);
 CREATE INDEX idx_character_organizations_org ON Character_Organizations(organization_id);
-CREATE INDEX idx_character_ships_character ON Character_Ships(character_id);
-CREATE INDEX idx_character_ships_ship ON Character_Ships(ship_id);
 CREATE INDEX idx_episodes_series ON Episodes(series_id);
+CREATE INDEX idx_episodes_rating ON Episodes(imdb_rating);
 CREATE INDEX idx_character_episodes_character ON Character_Episodes(character_id);
 CREATE INDEX idx_character_episodes_episode ON Character_Episodes(episode_id);
