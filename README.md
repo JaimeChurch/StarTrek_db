@@ -225,6 +225,23 @@
             (added) imdb_rating
             (added) imdb_votes
 
+11/16
+    I spent the last module working on a neural net that will analyze the 
+    characters, actors, species, planets, directors, and writers for each
+    episode based on the episode rating. The number of votes for each 
+    episode will be used for weighting. In order to do that I had to scrape
+    the episode descriptions, writers, and directors from IMDB. Since IMDB
+    doesn't have an API the formatting is sometimes inconsistent, and 
+    scraping was a bit of a pain. Some episodes still need cells filled in.
+    I used Claude to develop the neural net, and initially the script was
+    using an algorithm to calculate the popularity, which worked, but I 
+    wanted to see how that compared to calculations done by the neural net, 
+    so I started a new script, but I haven't gotten the second neural net 
+    working the way I want yet. My plan going forward is to get the rest 
+    of the episodes table populated, then finish the new neural net and 
+    see how the calculations compare to the first. I also plan to clean
+    up my repository and sort everything into folders for easier 
+    navigation. 
 
          
          

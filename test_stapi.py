@@ -78,10 +78,57 @@ def test_specific_character(name):
     except Exception as e:
         print(f"Error: {e}")
 
+def test_episode_details():
+    """Test episode endpoint specifically for descriptions"""
+    print(f"\n{'='*70}")
+    print("TESTING EPISODE ENDPOINT - CHECKING FOR DESCRIPTIONS")
+    print(f"{'='*70}")
+    
+    url = f"{BASE_URL}/episode/search"
+    params = {
+        'pageNumber': 0,
+        'pageSize': 3
+    }
+    
+    try:
+        response = requests.get(url, params=params, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        
+        episodes = data.get('episodes', [])
+        print(f"\nFound {len(episodes)} episodes")
+        
+        for i, ep in enumerate(episodes, 1):
+            print(f"\n--- Episode {i} ---")
+            print(f"Title: {ep.get('title')}")
+            print(f"Season: {ep.get('seasonNumber')}")
+            print(f"Episode Number: {ep.get('episodeNumber')}")
+            print(f"Series: {ep.get('series', {}).get('title', 'N/A')}")
+            
+            # Check for description-related fields
+            print(f"\nChecking for description fields:")
+            description_fields = ['description', 'stardateFrom', 'stardateTo', 
+                                'usAirDate', 'finalScriptDate', 'productionSerialNumber']
+            for field in description_fields:
+                value = ep.get(field)
+                if value:
+                    print(f"  {field}: {value}")
+            
+            # Show all available fields
+            print(f"\nAll available fields for this episode:")
+            for key in sorted(ep.keys()):
+                print(f"  - {key}")
+            
+    except Exception as e:
+        print(f"Error: {e}")
+
 def main():
     print("="*70)
     print("STAPI API TESTING TOOL")
     print("="*70)
+    
+    # First test episode details specifically
+    test_episode_details()
     
     # Test various endpoints
     endpoints = [

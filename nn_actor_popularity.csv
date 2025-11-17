@@ -1,0 +1,2260 @@
+actor_name,main_characters,num_episodes,nn_avg_rating,total_votes,series,popularity_score
+Michael Dorn,"Worf, Duchamps, Willie Hawkins",280,7.03,106760,"DS9, TNG, PIC",4.59
+Kate Mulgrew,"Kathryn Janeway, The Doctor, Dal R'El",192,6.92,169586,"VOY, PRO, TNG",4.38
+Colm Meaney,"Miles O'Brien, Albert Macklin, Falcon",222,6.98,71766,"DS9, TNG",4.22
+Jonathan Frakes,"William T. Riker, Thomas Riker",193,6.98,87990,"TNG, VOY, DS9, PIC, LD, ENT",4.19
+Brent Spiner,"Data, Adam Soong, Lore",194,6.93,91973,"TNG, ENT, PIC",4.18
+Marina Sirtis,"Deanna Troi, Durango",180,6.98,80420,"TNG, VOY, LD, PIC, ENT",4.1
+Candace Villwock,Deanna Troi,178,6.98,80392,"TNG, VOY, PIC, LD, ENT",4.09
+Nicole Villwock,Deanna Troi,178,6.98,80392,"TNG, VOY, PIC, LD, ENT",4.09
+Aikins ,Geordi La Forge,176,6.96,80397,"TNG, PIC, VOY",4.07
+Jeri Ryan,"The Doctor, Seven of Nine, Reginald Barclay",198,6.92,60614,"VOY, PIC, TNG",4.03
+Gates McFadden,Beverly Crusher,164,7.03,67038,"TNG, PIC, PRO",3.99
+Tim Russ,"Tuvok, Reginald Barclay, Devor",178,6.9,55636,"VOY, PIC, TNG, DS9",3.91
+Robert Beltran,"Chakotay, The Doctor, Dred 2",175,6.9,53749,"VOY, PRO",3.89
+Douglas Spain,Chakotay,175,6.9,53749,"VOY, PRO",3.89
+Robert Duncan McNeill,"Tom Paris, Bobby Davis, Marseilles",170,6.89,51336,"VOY, TNG, LD",3.84
+Dan Butler,Tom Paris,169,6.88,51299,"VOY, LD",3.83
+Taylor Chong,Harry Kim,168,6.88,51286,VOY,3.83
+Kenny Yee,Harry Kim,168,6.88,51286,VOY,3.83
+Robert Picardo,"The Doctor, Lewis Zimmerman, Emergency Medical Android",169,6.88,51310,"VOY, DS9",3.83
+Armin Shimerman,"Kira Nerys, Quark, Bractor",178,7.0,38101,"DS9, VOY, TNG, LD",3.83
+Garrett Wang,"Harry Kim, Kymble",168,6.88,51286,VOY,3.83
+Randy Riener,Tom Paris,169,6.88,51299,"VOY, LD",3.83
+Kaitlin Hopkins,"The Doctor, Dala, Kilana",168,6.88,51282,"VOY, DS9",3.83
+Agostino Castagnola,The Doctor,167,6.88,51257,VOY,3.82
+Roxann Dawson,"B'Elanna Torres, The Doctor, Brigitte",167,6.88,51257,VOY,3.82
+Jessica Gaona,B'Elanna Torres,167,6.88,51257,VOY,3.82
+Nichole McAuley,The Doctor,167,6.88,51257,VOY,3.82
+Leah Burrough,Kira Nerys,174,7.0,33975,"DS9, LD",3.77
+Avery Brooks,"Benjamin Sisko, Joran Dax, Benny Russell",173,7.0,33961,DS9,3.77
+Alexander Siddig,"Julian Bashir, Julius Eaton, Krajensky",174,7.0,33994,"DS9, TNG",3.77
+Nana Visitor,"Kira Nerys, Female Changeling, Iliana Ghemor",174,7.0,33975,"DS9, LD",3.77
+Leonard Nimoy,"Spock, Frank McLowery, Garth",126,6.85,63679,"TOS, SNW, TAS, DIS, PRO, TNG",3.67
+Katelin Petersen,Seven of Nine,126,7.0,47004,"VOY, PIC",3.65
+Erica Lynne Bryan,Seven of Nine,126,7.0,47004,"VOY, PIC",3.65
+Tony Todd,"Jake Sisko, Kurn, Rodek",149,7.0,25522,"DS9, TNG",3.56
+Thomas Hobson,Jake Sisko,146,6.99,25404,DS9,3.54
+Cirroc Lofton,"Jake Sisko, Kosst Amojan",146,6.99,25404,DS9,3.54
+Tarik Ergin,"Ayala, Satan's Robot, Kid Chaos",124,6.93,38443,VOY,3.53
+Terry Farrell,"Jadzia Dax, Darlene Kursky, Honey Bare",151,6.98,19613,DS9,3.47
+"William Shatner, OC","James T. Kirk, George Samuel Kirk, Garth",106,6.8,53966,"TOS, SNW, TAS, ENT",3.46
+John Billingsley,Phlox,99,6.99,33718,"ENT, DIS, VOY",3.35
+Scott Bakula,Jonathan Archer,98,6.98,33691,"ENT, DIS",3.34
+Dominic Keating,Malcolm Reed,98,6.98,33691,"ENT, DIS",3.34
+Linda Park,Hoshi Sato,98,6.98,33691,"ENT, DIS",3.34
+Connor Trinneer,"Charles Tucker III, Silik, Sim",98,6.98,33691,"ENT, DIS",3.34
+DeForest Kelley,"Leonard McCoy, Nancy Crater, Tom McLowery",96,6.79,45993,"TOS, TAS, TNG",3.34
+Jolene Blalock,"T'Pol, T'Mir",98,6.98,33691,"ENT, DIS",3.34
+James Doohan,"Montgomery Scott, Arex, Kor",97,6.76,48296,"TOS, SNW, TAS, DS9, PRO, TNG, DIS",3.34
+Michael Braveheart,Martinez,84,6.97,36974,TNG,3.26
+Nichelle Nichols,"Nyota Uhura, Dara, Alice",92,6.83,36261,"TOS, SNW, TAS, TNG, PRO",3.25
+Guy Vardaman,Darien Wallace,64,6.99,49149,TNG,3.15
+William A. Wallace,Wesley Crusher,70,6.78,54499,"TNG, PIC",3.15
+Wil Wheaton,Wesley Crusher,70,6.78,54499,"TNG, PIC",3.15
+David B. Levinson,Broik,89,6.93,23947,"DS9, VOY",3.14
+Debbie David,"Russell, Frank Darwin",71,7.03,28275,"TNG, VOY",3.08
+Billy Blackburn,"Hadley, White Rabbit, Herman series",67,6.9,32431,"TOS, TAS, DIS",3.02
+George Takei,"Hikaru Sulu, Kuri",68,6.71,34165,"TAS, TOS, LD, VOY",2.97
+Rachen Assapiomonwait,Nelson,58,7.02,30032,"TNG, VOY",2.95
+Eddie Paskey,"Leslie, Connors",56,6.98,31315,TOS,2.92
+Christian Sloan,Jae,63,7.0,19219,TNG,2.87
+J. Patrick McCormack,"Bennett, Prax",59,6.8,30115,"TNG, ENT, VOY, DS9",2.87
+Sonequa Martin-Green,Michael Burnham,55,6.6,38988,"DIS, SNW",2.81
+Anthony Rapp,Paul Stamets,54,6.58,38932,DIS,2.79
+Doug Jones,Saru,53,6.58,38899,DIS,2.77
+Emily Coutts,Keyla Detmer,49,6.61,38742,DIS,2.73
+Janna Michaels,Kes,70,6.78,11515,VOY,2.7
+Jennifer Lien,"Kes, Tieran",70,6.78,11515,VOY,2.7
+Frank da Vinci,"Brent, Vinci, Jon Daily",51,6.94,18123,TOS,2.69
+Mary Wiseman,Sylvia Tilly,46,6.68,35754,DIS,2.69
+Oyin Oladejo,Joann Owosekun,46,6.59,38528,DIS,2.68
+Louis Ortiz,Culhane,56,6.78,17074,VOY,2.67
+Kerry Hoyt,"Fitzpatrick, Doug Bronowski, Grimes",50,6.91,17054,"VOY, DIS, TOS",2.65
+Jeffrey Combs,"Weyoun 5, Thy'lek Shran, Brunt",46,7.25,12929,"DS9, LD, ENT, VOY",2.64
+James G. Becker,Youngblood,41,6.64,33470,TNG,2.58
+Marc Alaimo,"Dukat, Badar N'D'D, Anjohl Tennan",39,7.37,11928,"DS9, TNG",2.55
+Andrew Robinson,Elim Garak,37,7.44,11804,DS9,2.54
+Patrick Kwok-Choon,Gen Rhys,43,6.57,25477,DIS,2.52
+Rylee Alazraqui,Rok-Tahk,19,7.18,114153,PRO,2.5
+Ronnie Rowe Jr.,Ronald A. Bryce,39,6.59,29322,DIS,2.5
+John Noble,The Diviner,19,7.18,114153,PRO,2.5
+Dee Bradley Baker,"Dal R'El, Murf, James'T",19,7.18,114153,PRO,2.5
+Brett Gray,Dal R'El,19,7.18,114153,PRO,2.5
+Brook Chalmers,"Dal R'El, Rok-Tahk, Maximillion",19,7.18,114153,PRO,2.5
+Angus Imrie,Zero,19,7.18,114153,PRO,2.5
+Ella Purnell,Gwyndala,19,7.18,114153,PRO,2.5
+Jason Mantzoukas,Jankom Pog,19,7.18,114153,PRO,2.5
+Max Grodénchik,"Rom, Gint, Par Lenor",39,7.06,13879,"DS9, TNG",2.49
+Isis J. Jones,Guinan,33,7.1,21243,"TNG, PIC",2.49
+Ito Aghayere,Guinan,33,7.1,21243,"TNG, PIC",2.49
+Whoopi Goldberg,Guinan,33,7.1,21243,"TNG, PIC",2.49
+Aron Eisenberg,"Nog, Karden",47,7.06,8083,"DS9, VOY",2.46
+Wilson Cruz,Hugh Culber,40,6.5,27346,DIS,2.46
+Joyce Robinson,Gates,46,7.01,8714,TNG,2.45
+Cameron ,Kellogg,41,7.07,10489,TNG,2.45
+Denise Crosby,"Natasha Yar, Sela",32,6.82,21298,"TNG, PIC",2.38
+"Solomon Burke, Jr.",Billy,37,6.94,12673,ENT,2.38
+Jimmi Simpson,"Drednok, Dred 2",16,7.18,112983,PRO,2.37
+Evan English,Tanner,36,6.81,14610,ENT,2.36
+Majel Barrett Roddenberry,"Una Chin-Riley, Lwaxana Troi, M'Ress",34,6.78,17261,"SNW, DIS, VOY, TNG, DS9, TAS, TOS",2.35
+Fred Tatasciore,"Shaxs, David Garrovick, Armus",32,7.17,10787,"LD, PRO, TOS, TNG",2.33
+Joe Baumann,Garvey,33,7.04,12136,TNG,2.33
+Mark Correy,Alex,35,6.92,10666,"ENT, DIS",2.3
+Richard Sarstedt,"William McKenzie, Henard",37,6.94,8755,VOY,2.29
+Shazad Latif,"Ash Tyler, Voq",25,6.95,24036,DIS,2.29
+J.G. Hertzler,"Martok, Kolos, Laas",29,7.44,8605,"DS9, ENT, LD",2.29
+David Keith Anderson,"Ashmore, Slar",36,6.96,8706,"VOY, ENT",2.28
+Nicole de Boer,"Ezri Dax, Ezri Tigan",25,7.11,16393,DS9,2.25
+Roger Holloway,Roger Lemli,34,6.76,10221,TOS,2.22
+Hannah Cheesman,Airiam,24,6.9,19966,DIS,2.2
+Hilde Garcia,Rossi,26,6.95,14417,ENT,2.19
+Casey Biggs,"Damar, Wykoff",23,7.49,8468,DS9,2.15
+John Tampoya,Kashimuro Nozawa,38,6.92,4848,VOY,2.15
+Vaughn Armstrong,"Maxwell Forrest, Seskal, Danar",22,7.15,13382,"ENT, VOY, TNG, DS9",2.13
+Alison Pill,"Agnes Jurati, Borg Queen",29,7.02,7225,"PIC, VOY, LD",2.12
+Ivy Borg,Rita Tannenbaum,36,6.91,4791,DS9,2.11
+Walter Koenig,"Pavel Chekov, Anton Chekov, William Claiborne",36,6.79,5414,"TOS, PIC",2.11
+Michelle Yeoh Choo-Kheng,Philippa Georgiou,27,6.74,11120,DIS,2.09
+Sara Mitich,Nilsson,26,6.38,18759,DIS,2.07
+Eugene Cordero,"Sam Rutherford, Winger Bingston, Jr., Siggi",30,7.15,4355,LD,2.06
+Diana Muldaur,"Katherine Pulaski, Ann Mulhall, Miranda Jones",22,6.62,20716,"TNG, TOS",2.06
+Noël Wells,D'Vana Tendi,30,7.15,4355,LD,2.06
+Jack Quaid,"Brad Boimler, William Boimler",30,7.15,4355,LD,2.06
+Jerry O'Connell,Jack Ransom,30,7.15,4355,LD,2.06
+Erin Price,"Renlay Sharr, Elizabeth Tucker",23,6.99,10397,"VOY, ENT",2.06
+Dawnn Lewis,"Carol Freeman, Minooki",30,7.15,4355,LD,2.06
+Michelle Hurd,Raffaela Musiker,28,7.12,5358,PIC,2.06
+Natalie Wood,Bailey,21,6.99,12726,TNG,2.04
+Shepard Ross,Murphy,29,6.98,4604,VOY,2.0
+Joyce Lasley,Lydia Anderson,21,6.79,12309,VOY,1.98
+Gillian Vigman,"T'Ana, Dayton",26,7.15,4300,LD,1.97
+Jef Ayres,Haynem,21,6.88,10374,ENT,1.97
+Caroline Junko King,Keiko O'Brien,27,6.94,4731,"DS9, TNG",1.96
+Rosalind Chao,Keiko O'Brien,27,6.94,4731,"DS9, TNG",1.96
+Dawn Cleveland,Keiko O'Brien,27,6.94,4731,"DS9, TNG",1.96
+Susanna Thompson,"Borg Queen, Jaya, Lenara Kahn",21,7.25,5722,"PIC, ENT, VOY, TNG, LD, DS9",1.94
+Scarlett Pomers,Naomi Wildman,19,6.97,10345,VOY,1.93
+Brooke Stephens,Naomi Wildman,19,6.97,10345,VOY,1.93
+Vanessa Branch,Naomi Wildman,19,6.97,10345,VOY,1.93
+Emily Leibovitch,Naomi Wildman,19,6.97,10345,VOY,1.93
+Jason Isaacs,Gabriel Lorca,15,6.99,19664,DIS,1.92
+Cathy DeBuono,M'Pella,23,7.09,4512,DS9,1.9
+Rebecca Romijn,"Una Chin-Riley, Z'ymira",16,7.16,10803,"SNW, DIS, TOS",1.89
+Jennifer Edwards,Kyle,18,7.24,6823,"SNW, TAS, TOS, TNG",1.88
+Michelle Haro,Armstrong,25,6.96,3917,"TNG, PIC, ENT",1.88
+Arratia ,Alfonse Pacelli,20,6.63,10661,TNG,1.87
+Scott Sterling Hill,Hutchison,22,7.06,4378,ENT,1.86
+Damaris Cordelia,Foster,21,7.16,4459,"VOY, ENT",1.86
+David Benjamin Tomlinson,"Linus, Su'Kal, Or'Eq",25,6.36,7907,DIS,1.86
+Salome Jens,Female Changeling,15,7.53,6265,DS9,1.83
+Penny Johnson,"Kasidy Yates-Sisko, Cassie, Dobara",16,7.23,6342,"DS9, TNG",1.79
+Ron Veto,Harrison,18,6.96,5845,TOS,1.78
+Annie Wersching,"Borg Queen, Liana",18,7.17,4647,"PIC, VOY, LD, ENT",1.78
+Ricky Lomax,W. Woods,22,7.17,2409,"ENT, DIS",1.75
+Rick Worthy,"Jannar, Noah Lessing, Automated Commander 122",14,7.31,6234,"ENT, VOY, DS9",1.73
+Michael Horton,"Daniels, Kovin",15,7.1,6355,"ENT, TNG, VOY",1.73
+Denise Lynne Roberts,Patti,14,7.07,8458,TNG,1.73
+Patti Yasutake,Alyssa Ogawa,16,7.15,4676,TNG,1.71
+Raven Dauda,Tracy Pollard,16,6.51,10559,DIS,1.71
+Chase Masterson,"Leeta, Emony Dax",17,7.0,4364,DS9,1.7
+Paul Scheer,"Andy Billups, Addix",17,7.14,3226,LD,1.67
+Santiago Cabrera,"Cristóbal Rios, Emil, Emmet",18,6.65,4772,PIC,1.66
+Mary Chieffo,L'Rell,14,6.96,6692,DIS,1.66
+Blu del Barrio,Adira Tal,18,6.06,10508,DIS,1.65
+Tig Notaro,Jett Reno,14,6.51,11408,DIS,1.65
+Jane Edwina Seymour,Borg Queen,17,7.2,2647,"PIC, VOY, LD",1.64
+Alice Krige,Borg Queen,17,7.2,2647,"PIC, VOY, LD",1.64
+Garth Kemp,Borg Queen,17,7.2,2647,"PIC, VOY, LD",1.64
+Jayne Brook,Katrina Cornwell,12,6.87,10481,DIS,1.63
+James Frain,Sarek,14,7.07,4625,"DIS, TOS, TNG, TAS",1.62
+Scott MacDonald,"Dolim, Goran'Agar, N'Vek",12,7.37,5235,"ENT, DS9, VOY, TNG",1.62
+Oded Fehr,Charles Vance,16,6.1,11422,DIS,1.61
+Jon Cavett,Kelly,17,7.18,2349,"DS9, ENT, TOS",1.61
+Barry Jenner,William Ross,12,7.49,4230,DS9,1.6
+Louise Fletcher,Winn Adami,14,7.06,4281,DS9,1.6
+Ian Nunney,Elnor,15,6.74,4632,PIC,1.58
+Evan Evagora,Elnor,15,6.74,4632,PIC,1.58
+Rachael Ancheril,D. Nhan,15,6.76,4562,DIS,1.58
+Hana Hatae,Molly O'Brien,14,6.92,4345,"DS9, TNG",1.57
+Isa Briones,"Soji Asha, Dahj Asha, Kore Soong",14,6.85,4654,PIC,1.57
+Angelica Tedeski,Molly O'Brien,14,6.92,4345,"DS9, TNG",1.57
+Michelle Krusiec,Molly O'Brien,14,6.92,4345,"DS9, TNG",1.57
+Angela Tedeski,Molly O'Brien,14,6.92,4345,"DS9, TNG",1.57
+Mark Bennington,Icheb,12,6.76,8179,"VOY, PIC",1.56
+Manu Intiraymi,Icheb,12,6.76,8179,"VOY, PIC",1.56
+Babs Olusanmokun,"Joseph M'Benga, King, Ridley",11,7.13,6545,"TOS, SNW",1.56
+Casey King,Icheb,12,6.76,8179,"VOY, PIC",1.56
+Booker Bradshaw,Joseph M'Benga,11,7.13,6545,"TOS, SNW",1.56
+Megan Parlen,Ro Laren,9,7.45,8284,"TNG, PIC",1.55
+Michelle Forbes,Ro Laren,9,7.45,8284,"TNG, PIC",1.55
+Melissa Navia,"Erica Ortegas, Adya",10,7.27,6532,SNW,1.53
+Ava Cheung,La'an Noonien-Singh,10,7.27,6532,SNW,1.53
+Christina Chong,"La'an Noonien-Singh, Thalia",10,7.27,6532,SNW,1.53
+Kenneth Mitchell,"Kol, Aurellio, Tenavik",11,6.63,10404,"DIS, VOY, TNG",1.52
+Arvo Katajisto,"Torigan, M'ret",15,6.7,3474,TNG,1.52
+Randy Oglesby,"Degra, Ah-Kel, Kir",14,7.2,2262,"ENT, VOY, DS9",1.51
+Winona Ryder,Amanda Grayson,12,7.0,4476,"DIS, TOS, TAS",1.51
+Martha Hackett,"Seska, T'Rul",15,6.94,2326,"VOY, DS9",1.49
+Gary Graham,Soval,12,7.43,2260,ENT,1.47
+Dwight Schultz,Reginald Barclay,11,7.1,4262,"VOY, TNG",1.47
+Christine Delgado,Susan Nicoletti,27,6.81,614,VOY,1.46
+Sir Patrick Stewart,"Locutus of Borg, Michael Williams",8,7.69,5396,"DS9, PIC, TNG",1.45
+Marvin De Baca,Patrick Gibson,12,6.71,4223,VOY,1.44
+Leeu ,Grudge,11,6.14,10275,DIS,1.41
+Durban ,Grudge,11,6.14,10275,DIS,1.41
+Kenneth Marshall,Michael Eddington,9,7.53,3200,DS9,1.4
+Dorenda Moore,"S. Money, J. Carender, Parsons",12,7.08,2203,ENT,1.4
+Sylvester Foster,Timothy Lang,12,7.04,2249,VOY,1.39
+Grace Lee Whitney,Janice Rand,9,6.99,5411,"TOS, VOY",1.38
+Orla Brady,"Laris, Tallinn",11,6.58,4511,PIC,1.38
+Jeffrey Hayenga,"Orta, Yuris",11,7.17,2284,"DS9, TNG, ENT",1.38
+Jessica McKenna,Barnes,14,7.19,1162,LD,1.37
+April Grace,"Maggie Hubbell, Sally Whitley",7,7.14,9208,"TNG, DS9, PIC",1.36
+Jameela Jamil,Asencia,9,7.25,3509,PRO,1.36
+Carl Tart,"Kayshon, Cor'Dee",10,7.32,2069,LD,1.34
+Tara Rosling,T'Rina,10,5.91,11184,DIS,1.32
+Tiny Ron,"Maihar'du, Idrin",9,6.77,4169,"DS9, VOY",1.3
+Norman Large,"Neral, Viterian, Maques",17,7.24,481,"DS9, TNG",1.29
+Daveed Diggs,Tysess,8,7.31,3106,PRO,1.29
+Todd Stashwick,"Liam Shaw, Talok",11,8.02,585,"PIC, ENT",1.27
+Dan Jeannotte,George Samuel Kirk,6,7.47,6279,"SNW, TOS",1.27
+Ian Alexander,Gray Tal,10,5.92,7291,DIS,1.26
+Alan van Sprang,Leland,8,6.86,4296,DIS,1.26
+Jason Alexander,"Noum, Kurros",8,7.2,2727,"PRO, VOY",1.25
+Alexander Enberg,"Vorik, Taurik",9,7.01,2204,"VOY, TNG",1.24
+James Darren,Vic Fontaine,8,7.3,2178,DS9,1.23
+"Hal Landon, Jr.",Neral,15,7.31,423,"DS9, TNG",1.23
+Ed Speleers,"Jack Crusher, Vadic",10,8.05,566,PIC,1.22
+Ashlei Sharpe Chestnut,"Sidney La Forge, Eli Foster",10,8.05,566,PIC,1.22
+Joseph Lee,Matthew Mura,10,8.05,566,PIC,1.22
+Jin Maley,Kova Esmar,10,8.05,566,PIC,1.22
+Eric Pierpoint,"Harris, Kortar, Shiraht",7,6.81,5091,"ENT, VOY, TNG",1.21
+Andreas Katsulas,"Tomalak, Drennik",5,7.49,8166,"TNG, ENT",1.21
+Josh Clark,Joe Carey,7,6.66,6120,VOY,1.21
+Andrew MacBeth,E. Hamboyan,17,7.11,329,ENT,1.19
+Jonathan Del Arco,"Hugh, Fantome",7,7.37,2274,"TNG, PIC, VOY",1.18
+Lauren Lapkus,Jennifer Sh'reyan,9,7.36,1081,LD,1.18
+Dan Sachoff,Williams,6,7.2,4167,"TNG, ENT",1.17
+Brock Peters,Joseph Sisko,7,7.35,2158,DS9,1.17
+James Sloyan,"Alexander Rozhenko, Mora Pol, Alidar Jarok",15,6.84,464,"TNG, VOY, DS9",1.17
+Rekha Sharma,Ellen Landry,5,6.74,13121,DIS,1.15
+S. Reed,Burton,7,6.81,3215,TNG,1.14
+Sonja Sohn,"Gabrielle Burnham, Red Angel",6,6.53,8141,DIS,1.14
+Wallace Shawn,Zek,7,6.56,4119,DS9,1.13
+Cooper ,Reel,13,6.91,481,TNG,1.13
+Saxon Trainor,Larson,6,7.49,2142,"VOY, TNG",1.12
+Ator Tamras,A. Tamras,14,7.23,271,ENT,1.1
+Nancy Hower,Samantha Wildman,8,6.55,2157,VOY,1.1
+Cody Wetherill,Rebi,6,6.73,4082,VOY,1.09
+Suzie Plakson,"K'Ehleyr, Selar, Tarah",5,7.0,6111,"ENT, TNG",1.09
+Chelah Horsdal,Laira Rillak,9,5.84,3227,DIS,1.09
+Kurt Wetherill,Azan,6,6.73,4082,VOY,1.09
+Madeline Wise,Yvette Picard,7,6.2,4252,"PIC, TNG",1.08
+Herta Ware,Yvette Picard,7,6.2,4252,"PIC, TNG",1.08
+Jason Collins,R. Ryan,14,6.99,278,"ENT, DIS",1.07
+Aaron White,R. Ryan,14,6.99,278,"ENT, DIS",1.07
+Ella McKenzie,"Soji Asha, Dahj Asha",10,7.09,547,PIC,1.07
+Orville Cummings,Christopher,8,6.0,3202,"DIS, TNG",1.06
+Christopher Shea,"Keevan, Sajen, Saowin",5,7.15,4071,"ENT, DS9, VOY",1.06
+Sol Rodriguez,Teresa Ramirez,7,6.11,4234,PIC,1.06
+David Cronenberg,Kovich,7,6.09,4185,DIS,1.06
+Shawn Doyle,Ruon Tarka,8,5.92,3170,DIS,1.05
+Stephanie Czajkowski,T'Veen,8,7.88,421,PIC,1.05
+Carolyn Seymour,"Templeton, Mirasta Yale, Taris",5,6.98,4122,"VOY, TNG",1.04
+Frank Collison,Dolak,11,7.29,310,"DS9, TNG",1.04
+Susan Gibney,"Leah Brahms, Benteen",5,6.97,4094,"TNG, DS9, LD",1.04
+Lawrence Montaigne,"Decius, Stonn",4,6.96,11094,"SNW, TOS",1.04
+Cyia Batten,"Tora Ziyal, Irina, Navaar",11,7.34,261,"ENT, DS9, VOY",1.02
+Rong Fu,Jenna Mitchell,4,7.25,6197,SNW,1.02
+Lisa Vanasco,Golwat,6,6.77,2108,VOY,1.01
+John Vickery,"Rusot, Andrus Hagan, Orak",5,7.38,2097,"ENT, TNG, DS9",1.01
+Mary Meinel-Newport,Golwat,6,6.77,2108,VOY,1.01
+Rene Auberjonois,"Curzon Dax, Douglas Pabst, Ezral",4,7.1,7065,"DS9, ENT",1.01
+Anthony De Longis,Culluh,6,6.79,2110,VOY,1.01
+Julie Plum,Golwat,6,6.77,2108,VOY,1.01
+Duncan K. Fraser,Walsh,13,6.82,262,"DIS, ENT",1.0
+Willie ,"Spot, Leonard",10,7.04,348,"TNG, VOY, PIC",0.99
+Jon Steuer,Alexander Rozhenko,11,6.79,350,"TNG, DS9",0.99
+Brian Bonsall,Alexander Rozhenko,11,6.79,350,"TNG, DS9",0.99
+Marc Worden,Alexander Rozhenko,11,6.79,350,"TNG, DS9",0.99
+Deborah Lacey,Sarah Sisko,5,7.25,2093,DS9,0.99
+John Arndt,"Fields, Sturgeon",4,7.11,5164,TOS,0.98
+Penelope Mitchell,"Tallinn, Renée Picard",6,6.05,4195,PIC,0.98
+Johnny Martin,"Bertram, Valek",5,7.07,2100,"VOY, DS9",0.97
+John Fleck,"Silik, Koval, Ornithar",10,7.3,260,"ENT, DS9, TNG",0.97
+William Campbell,"Koloth, Trelane",4,6.98,5075,"DS9, TAS, TOS",0.96
+Todd Slayton,Gor,4,7.18,4040,DS9,0.96
+Harry Treadaway,Narek,8,7.07,450,PIC,0.95
+Vanessa Jackson,Audrey Willa,5,6.37,4147,DIS,0.95
+Jerry Hardin,"Samuel Clemens, Neria, Radue",4,7.13,4104,"VOY, TNG",0.95
+Elizabeth Rogers,Palmer,4,6.94,5119,"TNG, TOS",0.95
+Phumzile Sitole,Diatta Ndoye,6,6.07,3135,DIS,0.95
+Marley McClean,Mezoti,5,6.85,2082,VOY,0.94
+Melanie Smith,Tora Ziyal,9,7.52,224,DS9,0.94
+Tracy Middendorf,Tora Ziyal,9,7.52,224,DS9,0.94
+Jorge Benevides,R. Azar,11,7.04,202,ENT,0.93
+Andrea Martin,Ishka,5,6.8,2093,DS9,0.93
+Brandy ,Spot,9,7.0,326,"TNG, PIC",0.93
+Monster ,Spot,9,7.0,326,"TNG, PIC",0.93
+Carlos Alazraqui,Les Buenamigo,5,7.48,1020,LD,0.93
+Chase Kim,R. Azar,11,7.04,202,ENT,0.93
+Jack Nolan,R. Azar,11,7.04,202,ENT,0.93
+James Cromwell,"Zefram Cochrane, Jaglom Shrek, Hanok",9,7.11,288,"TNG, ENT, LD, TOS, DS9",0.93
+Richard Riehle,"Jeremy Lucas, Seamus",5,6.79,2083,"ENT, VOY",0.93
+Zoe ,Spot,9,7.0,326,"TNG, PIC",0.93
+Charles Macaulay,"Landru, Jaris",3,7.31,10019,"LD, TOS",0.93
+Tyler ,Spot,9,7.0,326,"TNG, PIC",0.93
+Cecily Adams,Ishka,5,6.8,2093,DS9,0.93
+Bud ,Spot,9,7.0,326,"TNG, PIC",0.93
+Avaah Blackwell,"Ina, Rahma",5,6.16,4138,DIS,0.92
+Steve Gutierrez,Ricardo,5,6.11,4154,PIC,0.91
+Christopher Russell,Milton Richter,3,6.89,13059,DIS,0.9
+Jeremy Trabucco,Michael Parsons,10,6.78,244,VOY,0.9
+Tina Lifford,Lee,4,6.75,4091,"PIC, DS9",0.9
+Joseph Will,"Michael Rostov, Kelis",4,6.45,6018,"VOY, ENT",0.9
+John Parsons,Michael Parsons,10,6.78,244,VOY,0.9
+Michael Barrier,DeSalle,3,7.62,5101,TOS,0.9
+James Farley,Lang,4,7.21,2098,"TOS, VOY",0.89
+Kellie Waymire,"Cutler, Layna",4,6.69,4047,"ENT, VOY",0.89
+Byron Quiros,Vadic,6,7.87,304,PIC,0.88
+Amanda Plummer,Vadic,6,7.87,304,PIC,0.88
+Mark Deakins,"Axum, Turanj",4,7.13,2065,VOY,0.88
+Peyton List,Narissa,7,7.04,370,PIC,0.87
+Steve Casavant,Longo,4,6.39,4164,TNG,0.86
+Tom Kenny,"Cody, D'Onni, John Anderson",4,6.9,2037,LD,0.85
+Robert Schenkkan,Dexter Remmick,3,6.73,8043,TNG,0.84
+Max Omega,Pran,3,7.87,2050,DS9,0.83
+Janet Kidder,Osyraa,4,6.2,4107,DIS,0.83
+Erick Weiss,"Kane, Stephan",3,7.23,4070,"TNG, DS9",0.83
+Mica Burton,Alandra La Forge,5,8.22,286,PIC,0.83
+Ronny Cox,Edward Jellico,4,7.65,844,"TNG, PRO",0.83
+John Colicos,Kor,5,6.76,975,"DS9, TOS, TAS",0.83
+Bruce Horak,"Hemmer, Debra",6,7.18,370,SNW,0.83
+Julianna McCarthy,Mila,3,7.8,2056,DS9,0.83
+Ross Carter,Haj,7,6.79,320,DIS,0.82
+Tiffany Shepis,Ohk,5,8.1,292,PIC,0.82
+Joel Swetow,"Jasad, Thoris, Yog",3,6.95,5047,"DS9, TNG, ENT",0.82
+Daniel Riordan,"Duras, son of Toral, Rondon",3,7.15,4038,"TNG, ENT",0.82
+Josh Drennen,Thalen,3,7.69,2038,ENT,0.81
+Christopher Goodman,Thalen,3,7.69,2038,ENT,0.81
+Molly Brink,Talas,3,7.69,2036,ENT,0.81
+Malachi Throne,"The Keeper, José I. Mendez, Pardek",6,7.27,298,"DIS, TOS, TNG",0.81
+Chad Lindberg,Eli Foster,5,7.88,280,PIC,0.8
+Eric Watson,Eli Foster,5,7.88,280,PIC,0.8
+Jerome Butler,Korok,3,6.95,4021,"ENT, VOY",0.8
+Mark Rogerson,Brian Sofin,3,6.84,4042,VOY,0.79
+Tamlyn Tomita,Oh,6,7.04,313,PIC,0.79
+Camille Saviola,Opaka,3,6.67,5048,DS9,0.79
+David L. Ross,Galloway,6,7.21,281,TOS,0.79
+Leigh J. McCloskey,"Joran Dax, Tieran",4,6.45,2067,"DS9, VOY",0.79
+Jack Shearer,"Hayes, Ruwon, Vadosia",7,7.24,190,"VOY, TNG, DS9",0.79
+William Sadler,Luther Sloan,3,7.37,2047,DS9,0.78
+John Rhys-Davies,Leonardo da Vinci,3,7.33,2046,"VOY, LD",0.77
+Richard Herd,"Owen Paris, L'Kor",8,6.82,175,"VOY, TNG",0.77
+Philip Anglim,Bareil Antos,8,6.63,194,DS9,0.77
+Peter Dennis,"Isaac Newton, Hendricks",3,7.28,2061,"VOY, TNG",0.77
+James Otis,Solbor,3,7.28,2040,DS9,0.77
+Hiro Kanagawa,Hirai,4,5.96,3069,DIS,0.77
+Jennifer Hetrick,Vash,3,6.66,4067,"TNG, DS9",0.77
+Felecia M. Bell,Jennifer Sisko,3,6.53,5046,DS9,0.77
+Gary Cole,Leonardo da Vinci,3,7.33,2046,"VOY, LD",0.77
+Ali Hassan,Hansen Al-Salah,2,7.42,11000,"SNW, TOS",0.76
+Mathieu Bourassa,Decius,2,7.42,11000,"SNW, TOS",0.76
+Garry Walberg,Hansen Al-Salah,2,7.42,11000,"SNW, TOS",0.76
+Adil Hussain,Aditya Sahil,3,6.58,4092,DIS,0.76
+Lee Arenberg,"Gral, Bok, Pelk",7,6.91,191,"ENT, TNG, VOY, DS9",0.76
+Bruce McGill,Braxton,3,7.21,2052,VOY,0.76
+Allan G.Royal,Braxton,3,7.21,2052,VOY,0.76
+Jake Weber,Zareh,3,6.52,4075,DIS,0.75
+Mark Rolston,"Kuroda Lor-ehn, Magh, Walter Pierce",3,6.72,3036,"ENT, TNG",0.75
+Simon Billig,Hogan,7,7.09,164,VOY,0.75
+Melanie Scrofano,Batel,2,7.86,6075,SNW,0.75
+Michael Pataki,"Korax, Karnas",3,6.53,4048,"TAS, TOS, TNG",0.75
+Gene Dynarski,"Ben Childress, Krodak, Quinteros",3,6.5,4104,"TNG, TOS",0.75
+Michael Ensign,"Krola, Lojal, Oratt",3,6.98,2066,"TNG, ENT, DS9",0.74
+Ken Gruz,Kurt Bendera,8,6.68,157,VOY,0.74
+Bart LaRue,"Guardian of Forever, Provider 1, Yarnek",6,6.97,235,"DIS, TOS, TAS",0.74
+Robert Cox,"Marquez, Bruno Salvatore",3,6.64,3067,TNG,0.74
+Kelli Coloma,Dorado,8,6.75,148,VOY,0.74
+Pamela Kosh,"Carmichael, Jessel",2,7.97,4097,TNG,0.73
+Natalia Nogulich,Alynna Nechayev,6,7.2,188,"TNG, DS9",0.73
+Martin Rayner,Doctor Chaotica,3,6.88,2047,VOY,0.73
+Chris Torres,B. Moreno,7,7.13,138,ENT,0.73
+James Lashly,"George Primmin, Kopf",3,6.31,4055,"TNG, DS9",0.73
+Ali Momen,Kamran Gant,5,7.04,293,DIS,0.72
+George Colucci,Henry,3,6.77,2059,"DS9, ENT, TNG",0.72
+Rick Ryan,Fletcher,5,7.34,236,"TNG, ENT, LD",0.72
+Alan Echeverria,Tamar,2,7.43,6023,"DS9, TOS",0.71
+Deirdre L. Imershein,"Joval, Watley",2,7.8,4046,"TNG, DS9",0.71
+Eric Bauza,"Barniss Frex, Sool'U",3,7.21,1164,PRO,0.71
+Todd Merrill,Gleason,2,7.8,4059,TNG,0.71
+Georgia King,Petra Aberdeen,3,7.47,994,LD,0.71
+Leland Crooke,"Gelnon, Plinn",3,6.74,2045,"DS9, ENT",0.71
+Larry Cedar,"Nydrom, Tersa, Tessic",3,6.67,2046,"VOY, DS9, ENT",0.71
+Brian Thompson,"Valdore, Inglatu, Klag",6,7.35,147,"TNG, ENT, DS9",0.71
+Bill Irwin,Su'Kal,3,6.09,4076,DIS,0.7
+Mickey Cassidy,M. Romero,6,7.55,115,ENT,0.7
+Nicholas Worth,"Lonzak, Sorm",3,6.61,2045,"DS9, VOY",0.7
+James Noah,"Hanor Pren, Rislan",2,7.34,5000,"VOY, DS9",0.69
+Devon MacDonald,Harrington,2,7.14,7048,DIS,0.69
+Warren Munson,"Owen Paris, Marcus Holt",7,6.7,138,"VOY, TNG",0.69
+Cameron Arnett,Mandel,2,7.62,4013,"TNG, LD",0.69
+Michael Aron,Jack London,2,7.6,4041,TNG,0.69
+Ethan Peck,"T'Pring, Pollux",5,6.78,296,"TOS, SNW",0.69
+Rickey D'Shon Collins,Eric Burton,3,6.2,3063,TNG,0.69
+Jeff Magnus McBride,Joran Dax,3,6.5,2046,DS9,0.69
+Phil LaMarr,"Alonzo Freeman, Klingon Encounter holograms, L. Playa",7,7.17,100,LD,0.69
+Conor O'Farrell,"Burzaan, D'Jamat, Jeff",3,6.42,2042,"ENT, DS9",0.68
+Dey Young,"Arissa, Hannah Bates, Keyla",3,6.38,2054,"DS9, TNG, ENT",0.68
+Stephen Yoakam,Velal,2,7.43,4000,DS9,0.68
+Adrian Holmes,Robert April,3,7.13,929,"SNW, TAS",0.68
+Ben Rodgers,"Steve Stevens, Knicknac, Shempo",7,7.06,102,LD,0.68
+Richard Poe,Evek,6,6.77,180,"VOY, TNG, DS9",0.68
+Carel Struycken,"Homn, The Spectre",6,6.41,213,"TNG, VOY",0.67
+Jay Karnes,"Martin Wells, Ducane",3,6.11,2075,"PIC, VOY",0.65
+Ante Dekovic,Kroad,2,7.12,4053,DIS,0.65
+Hanneke Talbot,Mann,2,7.12,4053,DIS,0.65
+Rudolph Willrich,"Reittan Grax, Kuulan",3,6.14,2065,"TNG, ENT",0.65
+Sean Morgan,"Brenner, O'Neil",2,6.99,5038,TOS,0.65
+Raphael Sbarge,Michael Jonas,6,6.77,136,VOY,0.65
+Samora Smallwood,Amin,2,7.12,4053,DIS,0.65
+Kay Elliot,Stella Mudd,2,6.81,6039,"TOS, DIS",0.65
+Beth Rogers,Jarvis,6,6.94,124,VOY,0.65
+Yadira Guevara-Prip,Me Hani Ika Hali Ka Po,2,7.12,4053,DIS,0.65
+John Putch,"Mendon, Mordock",2,7.09,4044,TNG,0.65
+"Mel Johnson, Jr.",Broca,2,7.8,2029,DS9,0.65
+Carolyn McCormick,"Min Riker, Minuet",2,6.57,8000,TNG,0.65
+Chai Valladares,Nicola,2,7.12,4053,DIS,0.65
+Nicole Dickinson,Colt,2,7.12,4053,DIS,0.65
+Adrian Walters,Taahz Gorev,3,5.77,3075,DIS,0.64
+Alan Oppenheimer,"Keogh, Koroth",2,7.23,3026,"TNG, DS9",0.64
+Jana Marie Hupp,"Monroe, Pavlik",2,6.97,4036,TNG,0.64
+Barbara Babcock,"Isis, Loskene, Mea 3",5,6.82,194,TOS,0.64
+Stan Ivar,Mark Johnson,6,6.47,159,VOY,0.64
+Frank Owen Smith,Curzon Dax,2,6.84,5023,DS9,0.64
+James Horan,"Ikat'ika, Barnaby, Jo'Bril",5,7.26,137,"DS9, TNG, VOY",0.64
+B.J. Davis,Burke,2,7.02,4023,"DS9, TNG",0.64
+Chris Obi,T'Kuvma,4,7.11,257,DIS,0.64
+Thamela Mpumlwana,T'Kuvma,4,7.11,257,DIS,0.64
+Richard Jin,Moshe,2,6.86,4051,PIC,0.63
+Anushka Rani,Sing,2,6.86,4051,PIC,0.63
+W. Morgan Sheppard,"Ira Graves, Qatai",2,6.87,4022,"VOY, TNG",0.63
+Roy Brocksmith,"Razka Karn, Sirna Kolrami",2,6.88,4026,"DS9, TNG",0.63
+Elizabeth Dennehy,Elizabeth Shelby,3,8.59,191,"TNG, PIC",0.63
+John Snyder,"Aaron Conor, Bochra",2,6.86,4033,TNG,0.63
+Steve Rankin,"Patahk, Yeto",2,6.87,4025,"DS9, TNG",0.63
+Michael Reilly Burke,"Koss, Goval, Hogue",5,7.27,121,"TNG, ENT, DS9",0.63
+Brian Brophy,Bruce Maddox,4,7.26,216,"PIC, TNG",0.63
+John Ales,Bruce Maddox,4,7.26,216,"PIC, TNG",0.63
+Geri-Nikole Love,Urtern,2,6.86,4051,PIC,0.63
+Romaine Waite,Troy Januzzi,4,7.05,258,DIS,0.63
+Laura Interval,"Erin Hansen, Veylo",5,7.37,118,"ENT, VOY",0.63
+Chris Violette,Britch Weeton,4,7.05,258,DIS,0.63
+Alex Daniels,Anya,2,6.96,4014,"LD, TNG",0.63
+Cindy Sorensen,Anya,2,6.96,4014,"LD, TNG",0.63
+Adele Shepherd,Kemi,2,6.86,4051,PIC,0.63
+Thomas Kopache,"Kira Taban, Mirok, Tos",5,6.89,158,"ENT, TNG, VOY, DS9",0.63
+Mädchen Amick,Anya,2,6.96,4014,"LD, TNG",0.63
+Billy Campbell,Thadiun Okona,3,6.82,779,"PRO, TNG",0.63
+Paddi Edwards,Anya,2,6.96,4014,"LD, TNG",0.63
+Kathy ,Towles,4,7.71,153,TNG,0.62
+Susan Oliver,Vina,4,7.1,220,"DIS, TOS",0.62
+Ward Costello,Gregory Quinn,2,6.82,4043,TNG,0.62
+Melissa George,Vina,4,7.1,220,"DIS, TOS",0.62
+L.J. Dougherty,Sharr,5,7.22,117,VOY,0.62
+Susan Bay,Rollman,2,7.1,3028,DS9,0.62
+Titus Welliver,Maxwell Burke,2,6.81,4023,VOY,0.62
+Olivia Birkelund,Marla Gilmore,2,6.81,4023,VOY,0.62
+John Savage,Rudolph Ransom,2,6.81,4023,VOY,0.62
+Brian Simpson,Angelo Tassoni,2,6.81,4023,VOY,0.62
+Arlene Martel,T'Pring,4,6.95,225,"TOS, SNW",0.61
+Michelle Horn,Saghi,2,7.24,2023,DS9,0.61
+Mary Rice,T'Pring,4,6.95,225,"TOS, SNW",0.61
+Joanna Heimbold,Laura,2,7.24,2021,VOY,0.61
+Julie Warner,Christy Henshaw,2,6.71,4035,TNG,0.61
+Robert Foxworth,"V'Las, Leyton",5,7.39,102,"ENT, DS9",0.61
+Robert C. Johnson,"Pitcairn, Provider 3",4,6.98,218,TOS,0.61
+Debra Dilley,Sela,4,7.57,150,TNG,0.61
+Robert Ito,"Chang, John Kim",2,6.72,4019,"VOY, TNG",0.61
+Gia Sandhu,T'Pring,4,6.95,225,"TOS, SNW",0.61
+Bonnie Beecher,Sylvia,2,6.71,4053,TOS,0.61
+Gregory Itzin,"Black, Dysek, Hain",5,7.12,115,"VOY, DS9, ENT",0.61
+Paul Dooley,Enabran Tain,4,7.89,109,DS9,0.6
+Scott Burkholder,"Hilliard, Rellus Tagrim",2,7.16,2019,"ENT, DS9",0.6
+Thomas Dekker,"Henry Burleigh, Titus Rikka",4,7.65,128,"PIC, VOY",0.6
+Cindy Katz,"Kejal, Yteppa",2,7.12,2026,"VOY, DS9",0.6
+Dennis Christopher,"Borath, Danik",2,7.17,2026,"ENT, DS9",0.6
+Conrad Coates,Terral,4,6.84,217,DIS,0.59
+Ann Gillespie,"Jabara, Hildebrant",5,6.63,141,"DS9, TNG",0.59
+Nolan North,"Benbassat, K'ranch, Niko",4,7.7,112,"LD, PIC",0.59
+Betty Matsushita,T'Pau,5,6.97,113,"TOS, ENT, VOY",0.59
+Kara Zediker,T'Pau,5,6.97,113,"TOS, ENT, VOY",0.59
+Celia Lovsky,T'Pau,5,6.97,113,"TOS, ENT, VOY",0.59
+John Prosky,"Brathaw, Otrin",2,7.02,2024,"DS9, VOY",0.59
+Jeffrey Dean Morgan,Damron,2,7.05,2018,ENT,0.59
+Tom Morga,"Carlson, Janklow, Madrat",5,6.91,116,"VOY, DS9",0.59
+Henry Farnam,Damron,2,7.05,2018,ENT,0.59
+Mark Riccardi,Franklin,2,6.99,2034,"TNG, ENT",0.59
+Pamela Winslow,McKnight,4,7.27,152,TNG,0.59
+Linda Robertson,McKnight,4,7.27,152,TNG,0.59
+Paul Guilfoyle,Guardian of Forever,4,7.1,158,"DIS, TOS, TAS",0.58
+Charles Esten,"Dathan Alaris, Divok",2,6.62,3021,"VOY, TNG",0.58
+Gabrielle Ruiz,"Castro, T'Lyn, Lemonts",5,7.56,69,LD,0.58
+Mark L. Taylor,"Haritath, Jarlath",2,6.89,2041,"VOY, TNG",0.58
+James Read,Jaffen,2,6.92,2019,VOY,0.58
+Glenn Morshower,"MacReady, Orton",2,6.9,2036,"ENT, TNG",0.58
+Sheila Franklin,Felton,5,6.36,165,TNG,0.58
+Clyde Kusatsu,Nakamura,3,7.93,199,TNG,0.58
+Damon Runyan,Ujilli,4,6.71,221,DIS,0.58
+Nancy Youngblut,"Kolana, Taleen",2,6.93,2022,"VOY, DS9",0.58
+Don Most,Kadan,2,6.92,2019,VOY,0.58
+Dorren Lee,Teemo,2,6.39,4033,DIS,0.58
+John Durbin,"Lemec, Ssestar, Traidy",4,7.03,152,"DS9, TNG",0.57
+Hannah Spear,Issa,2,6.24,4036,DIS,0.57
+Scott Klace,"Dremk, Goff",2,6.81,2024,"VOY, ENT",0.57
+Karen Robinson,Pav,2,6.22,4047,DIS,0.57
+Steven Culp,J. Hayes,5,7.05,92,ENT,0.57
+Ian Abercrombie,"Milo, Robert Picard",2,6.77,2049,"TNG, VOY",0.57
+Lanei Chapman,Sariel Rager,4,7.03,151,TNG,0.57
+Brian Cousins,"Crosis, Paltani, Parem",4,7.3,127,"TNG, ENT",0.57
+Juan Garcia,John Torres,2,6.74,2019,VOY,0.56
+Sean McGowan,F. Hawkins,5,6.71,108,"DIS, ENT",0.56
+Lisa LoCicero,Miral Paris,2,6.66,2003,VOY,0.56
+Carolyn Corley,Miral Paris,2,6.66,2003,VOY,0.56
+Mathew Corley,Miral Paris,2,6.66,2003,VOY,0.56
+Sandra Nelson,"Marayna, Tavana",2,6.71,2022,"VOY, DS9",0.56
+Zoe McLellan,Tal Celes,2,6.68,2019,VOY,0.56
+Kenneth Tigar,"Dammar, Margan",2,6.65,2045,"VOY, TNG",0.56
+Bahia Watson,May Ahearn,4,6.7,179,DIS,0.56
+James Callis,Maurice Picard,4,6.68,177,"PIC, TNG",0.56
+Clive Church,Maurice Picard,4,6.68,177,"PIC, TNG",0.56
+Lisa Moncure,Latia,2,6.61,2023,"DS9, ENT",0.55
+Kurtwood Smith,"Annorax, Clar, Thrax",4,7.45,94,"DS9, LD, VOY",0.55
+Christopher Carroll,"Alben, Benil",2,6.61,2026,"VOY, DS9",0.55
+Bari Hochwald,"E'Lis, Elizabeth Lense",2,6.58,2024,"DS9, ENT",0.55
+David Anthony Marshall,Magnus Hansen,4,7.45,95,VOY,0.55
+Kirk Baily,Magnus Hansen,4,7.45,95,VOY,0.55
+Kathleen Garrett,Tanis,2,6.55,2021,VOY,0.55
+Aaron Stanford,Sneed,3,7.83,159,PIC,0.55
+Tom Towles,"Hon-Tihl, Vatm",2,6.53,2025,"DS9, VOY",0.55
+Mark Piatelli,Brin,2,6.52,2021,"DS9, VOY",0.55
+Paul Baxley,"Freeman, Black Knight",4,6.72,161,TOS,0.55
+Boris Karloff,"Frankenstein's monster, Boris Karloff",2,6.61,2018,ENT,0.55
+Georgina Shore,Van Mayter,4,6.84,143,TNG,0.55
+Nikki Tyler,Erin Hansen,4,7.45,95,VOY,0.55
+Marco Rodriguez,"Paul Rice, Telle",3,7.5,179,TNG,0.54
+Patrick Massett,"Duras, son of Ja'rod",3,7.57,165,"PIC, TNG",0.54
+Daniel Davis,James Moriarty,3,7.81,142,"TNG, PIC",0.54
+Michael Ansara,"Kang, Jeyal",4,7.08,110,"DS9, TOS, VOY",0.54
+Tom Morello,Mitchell,2,6.47,2022,"VOY, ENT",0.54
+J. Michael Flynn,"Nijil, Zayner",4,7.42,93,"ENT, TNG",0.54
+Robert Pine,"Liria, Tavin",2,6.48,2021,"ENT, VOY",0.54
+James Parks,"Bennings, Vel",2,6.41,2021,"ENT, VOY",0.54
+Mary Holland,"Helena Gibson, Toz",2,7.08,1011,LD,0.54
+Jim Goodwin,John Farrell,3,7.3,183,TOS,0.53
+Keith Szarabajka,"Damrus, Teero Anaydis",2,6.34,2019,"VOY, ENT",0.53
+Megan Cole,"Kimara Cretak, Noor",4,7.07,106,"DS9, TNG",0.53
+Danny Goldring,"Karr, Kell",4,7.11,105,"DS9, VOY, TNG",0.53
+Kimber Lee Renay,T'Pel,4,7.08,108,"VOY, TNG",0.53
+Marva Hicks,T'Pel,4,7.08,108,"VOY, TNG",0.53
+Irene Tsu,Mary Kim,2,6.29,2019,VOY,0.53
+Barry Russo,Bob Wesley,2,6.87,1039,"TAS, TOS",0.52
+Kimberly Brooks,Kaseth,2,7.18,737,PRO,0.52
+Jamie McShane,Zhaban,3,7.03,201,PIC,0.52
+Lou Scheimer,"Demos, Lemus",2,6.37,1618,TAS,0.52
+Melissa Villaseñor,Nandi,2,7.04,863,PRO,0.52
+Artemis Pebdani,Karavitus,2,6.88,1016,LD,0.52
+Sumalee Montano,Mom AI,3,7.2,186,PIC,0.52
+Sam Vartholomeos,Danby Connor,3,7.01,210,DIS,0.52
+Grey Griffin,Nandi,2,7.04,863,PRO,0.52
+Deborah May,"Haneek, Lyris",2,6.08,2024,"VOY, DS9",0.51
+Steven Dennis,"Tholos, Fennim, Onquanii",4,7.15,87,"ENT, VOY",0.51
+Ian Patrick Williams,Fitzgerald,2,6.15,2033,"VOY, TOS",0.51
+Henriette Ivanans,Maggie O'Halloran,2,6.07,2023,VOY,0.51
+Yoshio Iizuka,V. Brown,4,7.23,82,ENT,0.51
+Duffie McIntire,Grace Declan,2,6.07,2023,VOY,0.51
+Garth Pillsbury,Wilson,3,7.33,155,TOS,0.51
+Fred Romming,Liam,2,6.07,2023,VOY,0.51
+Henry Woronicz,"Forra Gegen, J'Dan, Quarren",3,7.83,104,"VOY, TNG",0.51
+Fintan McKeown,Michael Sullivan,2,6.07,2023,VOY,0.51
+Frank Corsentino,"Bok, Gegis, Tog",4,6.49,128,"TNG, VOY",0.51
+Daniel Dae Kim,"D. Chang, Gotana-Retz",4,6.96,93,"VOY, ENT",0.51
+F.J. Rio,"Enrique Muniz, Joleg",4,7.0,90,"DS9, VOY",0.51
+Brian Markinson,"Pete Durst, Elias Giger, Sulan",4,6.81,101,"VOY, TNG, DS9",0.51
+Merrin Dungey,"Wendy, Richter",3,7.73,115,"LD, PIC",0.51
+Meg Wyllie,The Keeper,3,7.2,171,"DIS, TOS",0.51
+Rob Brownstein,The Keeper,3,7.2,171,"DIS, TOS",0.51
+Shawn Crowder,"B. Cotton, N. Myers",4,7.34,73,ENT,0.51
+Clegg W. Hoyt,Pitcairn,3,6.95,175,TOS,0.5
+Tim Kelleher,"Gaines, P'Chan, Pell",3,7.31,137,"TNG, VOY, ENT",0.5
+Tricia O'Neil,"Korinas, Kurak, Rachel Garrett",3,7.49,124,"DS9, TNG",0.5
+Derek Magyar,Kelby,4,7.14,75,ENT,0.5
+Seamus Patterson,Harral,2,5.71,3034,DIS,0.5
+Alex Diehl,"Harvey, 335, F5",3,7.07,159,PIC,0.5
+Scott Leva,"Ramirez, Fredik, Ortikan",4,7.03,85,"VOY, DS9, ENT",0.5
+Chris River,Maat Al-Salah,1,8.29,6000,SNW,0.5
+Adam Roarke,Garison,3,6.95,175,TOS,0.5
+Peter Duryea,José Tyler,3,6.95,175,TOS,0.5
+Tim de Zarn,"Halb Daier, Haliz, Satler",4,6.73,98,"VOY, TNG, DS9",0.5
+Debra Wilson,"Lisa Cusak, Trij",2,7.32,422,"PRO, DS9",0.49
+J.D. Cullum,"Toral, son of Duras",3,7.56,102,"TNG, DS9",0.49
+Sage Arrindell,Rukiya,3,6.78,178,SNW,0.49
+Makambe Simamba,Rukiya,3,6.78,178,SNW,0.49
+Rick Pasqualone,"Toral, son of Duras",3,7.56,102,"TNG, DS9",0.49
+Clare McConnell,Dennas,3,6.83,177,DIS,0.49
+David Selburg,"Syrus, Toscat, Whalen",3,7.11,130,"VOY, TNG",0.48
+Peter Slutsker,"Nibor, Birta, Reyga",4,6.17,124,"TNG, ENT",0.48
+J. Paul Boehmer,"Mestral, One, Vornar",3,7.91,76,"ENT, VOY, DS9",0.48
+Nathan Anderson,"N. Kemper, Namon",4,6.56,94,"DIS, ENT, VOY",0.48
+Zachary James Rukavina,Patient 8923/3,3,6.82,163,PIC,0.48
+Morgan Farley,Hacom,1,7.97,6000,TOS,0.48
+Duncan Regehr,"Shakaar Edon, Ronin",4,6.46,104,"DS9, TNG",0.48
+Lycia Naff,Sonya Gomez,3,7.48,106,"LD, TNG",0.48
+Torin Thatcher,Marplon,1,7.97,6000,TOS,0.48
+Rebecca Wisocky,Ramdha,3,6.9,155,PIC,0.48
+Harry Townes,Reger,1,7.97,6000,TOS,0.48
+Marcia Brown,Alice,2,6.4,911,"TAS, TOS",0.48
+Brioni Farrell,Tula,1,7.97,6000,TOS,0.48
+Christopher Held,Lindstrom,1,7.97,6000,TOS,0.48
+William Windom,Matt Decker,1,7.92,5000,TOS,0.47
+William Lucking,"Furel, Harrad-Sar",4,6.54,83,"ENT, DS9",0.47
+Ken Thorley,Mot,3,7.17,111,TNG,0.47
+Michael Bell,"Borum, Drofo Awa, Zorn",3,6.94,129,"TNG, DS9",0.47
+Riley Gilchrist,Shukar,3,6.93,137,DIS,0.47
+Stephen Brooks,David Garrovick,2,7.09,422,"PRO, TOS",0.47
+Harry Judge,Gorch,3,6.93,137,DIS,0.47
+Michael Keenan,"Patrick, Hrothgar, Maturin",4,6.22,104,"DS9, VOY, TNG",0.47
+Brendan Beiser,Eli,3,6.91,125,"TOS, DIS",0.46
+Kimberly Broumand,Madeline,3,6.81,126,TNG,0.46
+Joseph Ruskin,"Tumek, Galt",3,7.22,95,"DS9, TOS",0.46
+Clint Howard,"Balok, Grady, Muk",3,6.97,110,"ENT, DS9, TOS",0.45
+Annette Helde,"Karina, Nadia Larkin, Takar",3,7.51,75,"VOY, DS9",0.45
+McKenzie Westmore,"Jenkins, Rhomsew",3,6.99,105,"VOY, PIC",0.45
+George Murdock,J.P. Hanson,2,8.55,122,TNG,0.45
+Alan Altshuld,"Lumas, Pomet, Yranac",3,7.11,91,"VOY, TNG",0.45
+Ray Walston,Boothby,3,7.16,83,"VOY, TNG",0.44
+Phil Morris,"John Kelly, Remata'Klan, Thopok",3,7.35,72,"DS9, VOY",0.44
+John MacDonald,Kowski,1,7.09,7000,DIS,0.44
+Elias Toufexis,Cold,1,7.09,7000,DIS,0.44
+"John Cothran, Jr.","Gralik Durr, Nu'Daq, Telok",3,7.19,82,"DS9, TNG, ENT",0.44
+Susan Patterson,Marie Kaplan,3,7.41,75,VOY,0.44
+Alan Scarfe,"Augris, Mendak, Tokath",3,6.93,98,"TNG, VOY",0.44
+Ron Canada,"Ch'Pok, Fesek, Martin Benbeck",3,7.11,84,"VOY, DS9, TNG",0.44
+Saad Siddiqui,Straal,1,7.09,7000,DIS,0.44
+Tim Ryan,Bejal Otner,1,7.85,3000,DS9,0.44
+Grace Lynn Kung,Psycho,1,7.09,7000,DIS,0.44
+Randy J. Goodwin,Jae Hwang,2,8.14,130,PIC,0.44
+Venita Wolf,Teresa Ross,1,7.28,5000,TOS,0.43
+Frank Langella,Jaro Essa,3,7.11,78,DS9,0.43
+Christian R. Conrad,"H. Dunbar, Brilgar",3,7.16,74,"VOY, DS9",0.43
+Fionnula Flanagan,"Enina Tandro, Juliana Tainer, V'Lar",3,7.06,81,"DS9, ENT, TNG",0.43
+Richard Carlyle,Carl Jaeger,1,7.28,5000,TOS,0.43
+Patricia Tallman,"Kiros, Nima, Tagana",3,6.95,85,"DS9, TNG",0.43
+Adrienne Barbeau,Kimara Cretak,3,7.27,68,DS9,0.43
+Eric Menyuk,The Traveler,3,6.5,117,TNG,0.43
+Michael Krawic,"Rahmin, Stron, William Samuels",3,7.28,73,"ENT, VOY, DS9",0.43
+Erich Anderson,Kieran MacDuff,1,7.56,4000,TNG,0.43
+James Gleason,Apollinaire,1,7.54,4000,TNG,0.43
+Tom Jackson,"The Traveler, Lakanta",3,6.5,117,TNG,0.43
+Liz Vassey,Kristin,1,7.56,4000,TNG,0.43
+Caitlin Brown,"Vekor, Ty Kajada",3,6.87,93,"TNG, DS9",0.43
+Christopher Collins,"Durg, Grebnedlog, Kargan",3,6.62,107,"TNG, DS9",0.43
+Richard Beymer,Li Nalas,3,7.11,78,DS9,0.43
+Richard Lineback,"Kessick, Romas, Selin Peers",3,6.8,92,"DS9, TNG, ENT",0.43
+Paul S. Eckstein,"Limara'Son, Morak, Yost",3,7.29,68,"VOY, DS9",0.43
+Christopher Darga,"Kaybok, Vorok, Y'Sek",3,7.16,76,"DS9, VOY, ENT",0.43
+Erick Avari,"B'iJik, Jamin, Yarka",3,6.92,84,"DS9, ENT, TNG",0.43
+Gregory Wagrowski,"Solok, Ceris",3,6.95,86,"TNG, ENT, DS9",0.43
+Doug Wert,Jack R. Crusher,3,6.56,113,TNG,0.43
+Shannon Cochran,"Kalita, Sirella",3,7.13,80,"DS9, TNG",0.43
+Dennis Madalone,"Atul, Hedrick, Ramos",3,6.76,99,"TNG, DS9",0.43
+Kaylee Harwood,Parker,2,8.1,123,"SNW, TNG",0.43
+John Christian Graas,Jay Gordon Graas,1,7.29,4000,TNG,0.42
+John Rubinstein,"Kuvak, John Evansville",3,7.29,63,"ENT, VOY",0.42
+Susan Diol,"Danara Pel, Carmen Davila",3,6.83,79,"VOY, TNG",0.42
+Harry Groener,"Nathan Samuels, Tam Elbrun",3,7.09,73,"ENT, TNG",0.42
+Bertila Damas,"Sakonna, Marika Wilkarah",3,7.12,70,"VOY, DS9",0.42
+Jennifer Gatti,"Ba'el, Libby",3,6.69,89,"TNG, VOY",0.42
+Brad Dourif,Lon Suder,3,7.15,68,VOY,0.42
+Glen Hambly,Gareb,3,7.6,54,ENT,0.42
+Erika Flores,Marissa Flores,1,7.29,4000,TNG,0.42
+Scott Rinker,Gareb,3,7.6,54,ENT,0.42
+Lawrence Pressman,"Tekeny Ghemor, Krajensky",3,7.16,71,DS9,0.42
+Leland Orser,"Dejaren, Gai, Lovok",3,7.1,74,"VOY, DS9",0.42
+Brian Demonbreun,Andrew Powell,2,7.81,132,TNG,0.42
+Richard McGonagle,"Pete Harkins, Ja'Dar",3,6.98,77,"VOY, TNG",0.42
+Max Supera,Paterson Supra,1,7.29,4000,TNG,0.42
+Hilary Shepard Turner,"Lauren, Hoya",3,6.92,71,DS9,0.41
+Noah Averbach-Katz,Ryn,3,6.26,108,DIS,0.41
+Dennis Andres,Rance,1,6.75,6000,DIS,0.41
+Ada Maris,Hernandez,3,7.21,60,ENT,0.41
+Cory Danziger,Jake Potts,1,7.08,4000,TNG,0.41
+Chris Demetral,"Ethan, Jean-Luc Riker",1,7.11,4000,TNG,0.41
+Leslie Neale,Nagel,1,7.1,4000,TNG,0.41
+Lynnda Ferguson,Doran,1,6.98,5000,DS9,0.41
+Nehemiah Persoff,Palor Toff,1,7.08,4000,TNG,0.41
+Margot Rose,"Eline, K'Par Rinn",2,7.82,113,"DS9, TNG",0.41
+Sherman Howard,"Endar, Syvar, T'Greth",3,6.71,80,"VOY, DS9, TNG",0.41
+Jane Daly,Varria,1,7.08,4000,TNG,0.41
+Dana Tjulander,Barash,1,7.11,4000,TNG,0.41
+Adam Ryan,Willie Potts,1,7.08,4000,TNG,0.41
+Lawrence Monoson,"Hovath, Matthew Ryan",3,6.8,76,"ENT, DS9",0.41
+Jordan Lund,"Kulge, Skalaar, Woban",3,6.73,82,"ENT, TNG, DS9",0.41
+Saul Rubinek,Kivas Fajo,1,7.08,4000,TNG,0.41
+Ned Romero,"Krell, Anthwara",3,6.63,88,"TOS, ENT, TNG",0.41
+Wanda Willis,W. Willis,3,7.47,54,ENT,0.41
+Thalmus Rasulala,Donald Varley,1,7.09,4000,TNG,0.41
+Larry A. Hankin,Gaunt Gary,3,6.92,73,VOY,0.41
+Carlos Carrasco,"Bahrat, D'Ghor, Krole",3,6.95,69,"VOY, DS9",0.41
+Mary Kohnert,Allenby,3,6.33,102,TNG,0.41
+Henry Darrow,"Kolopak, Savar",3,6.65,87,"VOY, TNG",0.41
+John Schuck,"Antaak, Parn",3,7.23,59,"ENT, DS9",0.41
+Fernando Funan Chien,Saul,3,7.2,55,ENT,0.4
+Terrence Evans,"Ambassador, Baltrim, Proka Migdal",3,6.65,74,"DS9, VOY",0.4
+Abby Brammell,Persis,3,7.2,55,ENT,0.4
+Dinero ,Number One,2,7.39,133,PIC,0.4
+Albert Hall,Galek Sar,1,6.87,4000,TNG,0.4
+Alec Newman,Malik,3,7.2,55,ENT,0.4
+Chris Derrick,Lurak T'Luco,2,7.85,107,PIC,0.4
+Megan Gallagher,"Garland, Jaryn, Mareel",3,6.78,70,"VOY, DS9",0.4
+Olivia Youngers,Riggs,2,7.87,98,PIC,0.4
+Hamilton Camp,"Leck, Vrelk",3,6.78,68,"VOY, DS9",0.4
+Rich Fulcher,"Grubdin, Jackabog, Rebner",3,7.57,46,LD,0.4
+Jordan Orr,Malik,3,7.2,55,ENT,0.4
+Leslie Bevis,Rionoj,3,7.12,51,DS9,0.39
+Michael Tierney,Tajor,2,7.9,85,TNG,0.39
+David Warner,Madred,2,7.9,85,TNG,0.39
+Cameron Roberts,Manu Noonien-Singh,2,7.55,107,SNW,0.39
+Leroy D. Brazile,Lonar,1,7.43,2000,DS9,0.39
+Colby French,Weldon,1,7.44,2000,DS9,0.39
+Mic Rodgers,Corak,2,7.9,85,TNG,0.39
+Tasia Valenza,T'Shanik,1,6.81,4000,TNG,0.39
+Karen Landry,Ajur,1,6.79,4000,TNG,0.39
+Kelly Curtis,Sarda,1,7.02,3000,DS9,0.39
+Stephen Gregory,Jake Kurland,1,6.81,4000,TNG,0.39
+Ethan Phillips,"Farek, Ulis",3,6.27,87,"ENT, TNG",0.39
+Brad Greenquist,"Demmas, Khata'n Zshaar, Krit",3,6.74,64,"ENT, VOY, DS9",0.39
+Matthew Cannon Hanson,James Morrow,3,6.89,61,VOY,0.39
+Terry Serpico,Brett Anderson,2,6.93,158,DIS,0.39
+Michael Champion,Boratus,1,6.79,4000,TNG,0.39
+Edward Madden,Fisher,2,7.13,137,TOS,0.39
+David Carzell,Caler,2,7.09,145,PIC,0.39
+John Gegenhuber,"Surat, Teirna",3,6.82,64,VOY,0.39
+Estee Chandler,Oliana Mirren,1,6.81,4000,TNG,0.39
+Tony Sears,Four of Twelve,1,7.25,2000,VOY,0.38
+Shannon Fill,Sito Jaxa,2,7.72,83,TNG,0.38
+Jeremy Crittenden,Eling,2,7.42,100,DIS,0.38
+John Balma,Muroc,1,7.29,2000,ENT,0.38
+Barbara Alyn Woods,Kareen Brianon,1,6.56,4000,TNG,0.38
+Lindsey Haun,"Beatrice Burleigh, Belle",3,7.15,45,VOY,0.38
+Ache Hernandez,Kyheem,3,5.78,112,DIS,0.38
+Grant Woods,Kelowitz,2,7.49,96,TOS,0.38
+Francis Guinan,"Gosis, Kray, Zar",3,6.57,62,"VOY, ENT",0.38
+Andreas Apergis,Xi,3,5.87,106,DIS,0.38
+Charlie Brill,Arne Darvin,2,7.78,83,"TOS, DS9",0.38
+Iona Morris,Umali,1,7.13,2000,VOY,0.38
+John K. Shull,"Brok'tan, K'Temang, Nocona",3,6.56,62,"VOY, DS9",0.38
+Jacqueline Schultz,Jessica Sloan,1,7.0,2000,DS9,0.37
+Michael Shamus Wiles,Bosaal,1,6.98,2000,VOY,0.37
+Claudine Quadrat,Amanda Manes,1,6.44,4000,PIC,0.37
+Sean Kenney,DePaul,2,7.3,95,TOS,0.37
+Laurel Goodwin,J.M. Colt,2,7.03,126,TOS,0.37
+Robin Sachs,Valen,1,6.98,2000,VOY,0.37
+Kate Asner,Bandee,1,7.0,2000,DS9,0.37
+Stephen Root,K'Vada,2,7.63,78,TNG,0.37
+Ben Slack,K'Tal,2,7.71,76,TNG,0.37
+Derek Webster,Tarent,2,7.36,99,PIC,0.37
+Charles Cooper,K'mpec,2,7.61,83,TNG,0.37
+Nicholas Kepros,Movar,2,7.71,76,TNG,0.37
+John Hancock,Haden,2,7.59,87,TNG,0.37
+Dwain Murphy,Maddox,2,7.3,99,DIS,0.37
+Ryan Bollman,Donik,1,6.97,2000,VOY,0.37
+Scott Lawrence,Garon,1,6.98,2000,VOY,0.37
+Jeffrey Nordling,Tahna Los,1,6.69,3000,DS9,0.37
+Charles Lucia,"Keene, Mabus, Ves Alkar",3,6.22,74,"VOY, ENT, TNG",0.37
+Paul Willson,Loquar,1,6.98,2000,VOY,0.37
+Larry Anthony,Berkley,2,7.18,110,TOS,0.37
+Norman Snow,Torin,1,6.71,3000,TNG,0.37
+Ashley Judd,Robin Lefler,2,7.46,96,TNG,0.37
+Jeff Yagher,Iden,1,6.97,2000,VOY,0.37
+Howie Seago,Riva,1,6.35,4000,TNG,0.36
+Bruce Hyde,Kevin Riley,2,6.94,106,TOS,0.36
+Dean Stockwell,Grat,1,6.81,2000,ENT,0.36
+Donna DuPlantier,Georgia Tandy,1,6.83,2000,ENT,0.36
+Ann Magnuson,Kirsten Clancy,2,6.88,109,PIC,0.36
+Clayton Rohner,Mark Jameson,1,6.2,4000,TNG,0.36
+Emmanuel Kabongo,V'Kir,1,6.27,4000,DIS,0.36
+Alan Bergmann,Lal,2,7.28,86,"TOS, TNG",0.36
+Marsha Hunt,Anne Jameson,1,6.2,4000,TNG,0.36
+Michael Childers,Lawrence Strode,1,6.83,2000,ENT,0.36
+Kari Wahlgren,"Angie, Kearns, Sylvia Ront",3,7.01,40,LD,0.36
+David Kagen,Klev,1,6.81,2000,ENT,0.36
+Stephanie Belding,Shira,1,6.27,4000,DIS,0.36
+Robin Christopher,Neela,2,7.74,69,DS9,0.36
+Nicole Sarah Fellows,Elizabeth Torres,1,6.84,2000,VOY,0.36
+Tara Nicodemo,Patar,2,7.42,86,DIS,0.36
+Budd Albright,"Barnhart, Rayburn",2,6.96,104,TOS,0.36
+Joshua Harris,Timothy,2,7.18,96,"TOS, TNG",0.36
+Paul Robert Langdon,Dean Torres,1,6.84,2000,VOY,0.36
+Anne Elizabeth Ramsay,Clancy,2,7.26,90,TNG,0.36
+Melinda Page Hamilton,Feezal Phlox,1,6.91,2000,ENT,0.36
+Gilbert R. Leal,Michael Torres,1,6.84,2000,VOY,0.36
+Ryan Spahn,First,1,6.88,2000,VOY,0.36
+Javier Grajeda,Carl Torres,1,6.84,2000,VOY,0.36
+Oliver Becker,N'Raj,1,6.27,4000,DIS,0.36
+Jessica D. Stone,Narra,1,6.81,2000,ENT,0.36
+Laurence Rosenthal,Molina,1,6.84,2000,VOY,0.36
+Bob Hoy,"Sam, Mother Horta",2,7.22,97,TOS,0.36
+Shawn Ahmed,Shankar,2,6.96,106,SNW,0.36
+Michelle C. Bonilla,Bu'kaH,1,6.77,2000,ENT,0.36
+Joanna Miles,Perrin,2,7.48,81,TNG,0.36
+Ted Cassidy,"Balok, Ruk",2,6.76,110,TOS,0.35
+Iva Lane,Zero Zero,1,6.03,4000,TNG,0.35
+Katy Boyer,Zero One,1,6.03,4000,TNG,0.35
+Anthony Holiday,Rulat,1,6.61,2000,VOY,0.35
+Enrique Murciano,Tolaris,1,6.62,2000,ENT,0.35
+Mike Perfetuo,Codex,2,6.97,95,PIC,0.35
+Matt Perfetuo,Rune,2,6.97,95,PIC,0.35
+Johanna McCloy,Maddy Calloway,1,6.34,3000,TNG,0.35
+Ken Land,Verin,1,6.68,2000,VOY,0.35
+Cynthia Graham,Wheeler,2,7.32,79,"SNW, DS9",0.35
+Dugan Savoye,William Hodges,1,6.34,3000,TNG,0.35
+Barbara Williams,"Anna, Voval",1,6.36,3000,TNG,0.35
+John Harrington Bland,Kov,1,6.62,2000,ENT,0.35
+Charles Dierkop,Morla,1,6.07,4000,TOS,0.35
+John Short,Drake,2,7.41,70,"ENT, DIS",0.35
+Terrell Clayton,Andrews,1,6.61,2000,VOY,0.35
+Claudette Sutherland,Maya,1,6.6,2000,ENT,0.35
+Jess Harnell,K'orin,1,6.63,2000,LD,0.35
+Joseph Bernard,Tark,1,6.07,4000,TOS,0.35
+Tom Bergeron,D'Marr,1,6.6,2000,ENT,0.35
+James W. Jansen,"Faren Kag, Lucsly",2,7.38,72,DS9,0.35
+Nora Leonhardt,Marla E. Finn,1,6.34,3000,TNG,0.35
+Gary Werntz,Mavek,2,7.64,64,"TNG, DS9",0.35
+Pilar Seurat,Sybo,1,6.07,4000,TOS,0.35
+Michael Reisz,William Telfer,1,6.67,2000,VOY,0.35
+Paul Eiding,Loquel,1,6.36,3000,TNG,0.35
+Jade Ramsey,Arcana,2,6.97,95,PIC,0.35
+Michael Harris,Byleth,1,6.36,3000,TNG,0.35
+Jay Underwood,Mortimer Harren,1,6.67,2000,VOY,0.35
+Donald Sage Mackay,Shilat,1,6.6,2000,ENT,0.35
+John Loprieno,Obrist,2,7.98,56,VOY,0.35
+Alexandra Johnson,One Zero,1,6.03,4000,TNG,0.35
+Kelli Ann McNally,One One,1,6.03,4000,TNG,0.35
+David Paymer,Moritz Benayoun,2,6.77,107,PIC,0.35
+Peter Neptune,Aron,1,6.1,4000,TNG,0.35
+Nancy Harewood,Nara,1,6.34,3000,TNG,0.35
+Walker Edmiston,"Balok, Provider 2",2,6.85,104,TOS,0.35
+Jamie Hubbard,Salia,1,6.1,4000,TNG,0.35
+Nikita Ramsey,Saga,2,6.97,95,PIC,0.35
+Dakin Matthews,Patterson,1,6.67,2000,VOY,0.35
+Jim Norton,Albert Einstein,2,7.37,73,TNG,0.35
+Tim Lounibos,Daniel Kwan,1,6.34,3000,TNG,0.35
+John Fiedler,"Hengist, Redjac",1,6.07,4000,TOS,0.35
+Ashley Edner,Yun,1,6.68,2000,VOY,0.35
+Morgan Woodward,"Ronald Tracey, Simon Van Gelder",2,6.97,92,TOS,0.35
+Kiara Groulx,Rose,2,6.85,88,"DIS, TNG",0.34
+Ray Wise,"Arturis, Liko",2,7.32,71,"VOY, TNG",0.34
+L.L. Ginter,Saavdra,1,6.55,2000,VOY,0.34
+Judson Scott,"Rekar, Sobi",2,7.22,74,"VOY, TNG",0.34
+Ian Wolfe,"Atoz, Septimus",2,7.05,76,TOS,0.34
+Jesse James Rutherford,Q'ell,1,6.37,2000,ENT,0.34
+Tony Cecere,Terril,1,6.46,2000,VOY,0.34
+Dan Kern,"Dean, Kellan",2,7.25,71,"VOY, TNG",0.34
+Gwynyth Walsh,Nimira,1,6.46,2000,VOY,0.34
+Jeffrey Eith,Nash,1,6.48,2000,ENT,0.34
+John Neville,Isaac Newton,2,7.58,61,"VOY, TNG",0.34
+Emily Bergl,Bethany,1,6.48,2000,ENT,0.34
+Kelly Connell,Sklar,1,6.41,2000,VOY,0.34
+Curtis Legault,Carter,2,6.83,93,"SNW, TOS",0.34
+Steven Klein,Draysik,1,6.48,2000,ENT,0.34
+Renee E. Goldsberry,J. Kelly,1,6.47,2000,ENT,0.34
+Bruce Mars,"Charley, Finnegan",2,6.82,88,TOS,0.34
+Geof Prysirr,Hanjuan,1,6.41,2000,VOY,0.34
+Wayne Péré,Guill,1,6.46,2000,VOY,0.34
+Sean Clements,B'Nir,1,7.22,972,LD,0.34
+Lisa Kaminir,Lillias,1,6.41,2000,VOY,0.34
+Michael Houston King,Jero,1,6.44,2000,VOY,0.34
+Alexandria M. Salling,Taliyah,1,6.48,2000,ENT,0.34
+Rebecca McFarland,Talli,1,6.46,2000,VOY,0.34
+Ian Meltzer,Brax,2,7.12,75,"VOY, SNW",0.34
+Jon Baron,Yral,1,6.48,2000,ENT,0.34
+Alison Becker,Victoria Nuzé,1,7.22,972,LD,0.34
+Gary Bullock,Goth,1,6.41,2000,VOY,0.34
+Michael Zaslow,"Darnell, Jordan",2,6.84,94,TOS,0.34
+John Vargas,Tau,1,6.43,2000,VOY,0.34
+Tracey Walter,"Berik, Kayron",2,6.97,87,TNG,0.34
+Steve Blalock,Zabel,1,6.47,2000,ENT,0.34
+Vidal Peterson,"D'Tan, Rugal",2,7.34,65,"DS9, TNG",0.34
+Ted Barba,Malin,1,6.46,2000,VOY,0.34
+Steven Flynn,Maklii,1,6.37,2000,ENT,0.34
+Tyler Hynes,Stephen,2,7.06,79,DIS,0.34
+Mike Gomez,"Lurin, Tarr",2,6.97,87,TNG,0.34
+Jeanette Miller,Tembit,1,6.46,2000,VOY,0.34
+Bobby Burns,Frane,1,6.46,2000,VOY,0.34
+"Ed Begley, Jr.",Henry Starling,2,7.48,52,VOY,0.33
+Ayushi Chhabra,Pel,2,6.72,81,"DS9, PIC",0.33
+Katherine Moffat,"Etana, Vaatrik Pallra",2,7.2,66,"DS9, TNG",0.33
+Georgia Brown,Helena Rozhenko,2,6.91,81,TNG,0.33
+Cameron Thor,Narik,2,7.21,67,TNG,0.33
+Roderick McNeil,Stonn,2,6.51,94,"TOS, SNW",0.33
+Erin Macdonald,MacDonald,1,7.79,448,PRO,0.33
+Stephen Ralston,Larg,2,7.28,60,"VOY, TNG",0.33
+Marty Rackham,Chu'lak,1,6.35,2000,DS9,0.33
+Cyndi Pass,Ginger,2,7.53,54,DS9,0.33
+Sabrina LeBeauf,Giusti,2,7.21,67,TNG,0.33
+Stewart Moss,"Hanar, Joe Tormolen",2,6.7,93,TOS,0.33
+Marshall R. Teague,"Haluk, Temo'Zuma",2,7.5,52,"VOY, DS9",0.33
+Padma Lakshmi,Kaitaama,1,6.23,2000,ENT,0.33
+Donnamarie Recco,Dee'Ahn,1,6.34,2000,ENT,0.33
+Blaisdel Makee,"Singh, Spinelli",2,6.56,91,"TNG, TOS",0.33
+Daniel Fawcett,Matthew,2,6.76,84,TNG,0.33
+Charlotte Nicdao,"Meredith, Moxy",1,6.93,1000,LD,0.33
+Art Chudabala,Hector Ilario,1,6.35,2000,DS9,0.33
+William Knight,Moody,2,6.63,91,TOS,0.33
+Janos Prohaska,"Mother Horta, Yarnek",2,6.88,79,TOS,0.33
+Mark Moses,"Henry Archer, Naroq",2,7.04,72,"ENT, VOY",0.33
+Chris Kelly,Zim Brott,1,6.35,2000,DS9,0.33
+Rudolf Martin,Ravis,1,6.34,2000,ENT,0.33
+Anne Haney,"Els Renora, Rishon Uxbridge",2,6.97,74,"DS9, TNG",0.33
+Sarah Silverman,Rain Robinson,2,7.48,52,VOY,0.33
+Steven Vincent Leigh,Reese,2,7.65,52,DS9,0.33
+Tibbis ,Rhylo,1,6.34,2000,ENT,0.33
+Geoff Meed,Dee'Ahn,1,6.34,2000,ENT,0.33
+Valerie Ann Miller,Greta Vanderweg,1,6.35,2000,DS9,0.33
+Christine Anne Baur,Corelki,2,7.2,68,TNG,0.33
+Andy Milder,"Boq'ta, Nar",2,7.57,54,"DS9, VOY",0.33
+Richard Lynch,Arctus Baran,2,7.21,67,TNG,0.33
+Robin Curtis,"Tallera, T'Paal",2,7.21,67,TNG,0.33
+Charles McIntosh,Ba'ktor,2,6.85,66,TNG,0.32
+Mikael Salazar,Janel Tigan,1,6.15,2000,DS9,0.32
+Rod Arrants,"Daleth, Rex",2,6.94,66,"VOY, TNG",0.32
+Michael Snyder,"Morta, Qol",2,6.86,73,TNG,0.32
+Kenneth Welsh,Senna Tal,2,6.47,86,DIS,0.32
+Al Rodrigo,Bernardo Calvera,2,7.24,54,DS9,0.32
+Bairbre Dowling,Edith Mulchaey,1,6.02,2000,VOY,0.32
+Mary Kay Adams,Grilka,2,7.29,52,DS9,0.32
+Dick Miller,Vin,2,7.24,54,DS9,0.32
+Charles Maxwell,Virgil Earp,1,5.54,4000,TOS,0.32
+Angela Dohrmann,Ricky,2,7.37,52,VOY,0.32
+Leigh Taylor-Young,Yanas Tigan,1,6.15,2000,DS9,0.32
+Bruce Gray,Chekote,2,7.1,60,"TNG, DS9",0.32
+Robert Knepper,"Gaul, Wyatt Miller",2,6.93,66,"VOY, TNG",0.32
+Ron Soble,Wyatt Earp,1,5.54,4000,TOS,0.32
+John Lendale Bennett,"Gabriel Bell, Kozak",2,7.34,55,DS9,0.32
+Jim Metzler,Christopher Brynner,2,7.24,54,DS9,0.32
+Clayton Landey,Fuchida,1,6.15,2000,DS9,0.32
+Victor Brandt,"Tongo Rad, Watson",2,6.66,81,TOS,0.32
+Cristine Rose,Gi'ral,2,6.85,66,TNG,0.32
+Lawrence Tierney,"Cyrus Redblock, Regent of Palamar",2,6.84,67,"DS9, TNG",0.32
+Richard Lee Jackson,Danny Webb,2,7.24,54,DS9,0.32
+Inez Edwards,Turla,2,6.85,66,TNG,0.32
+Kevin Rahm,Norvo Tigan,1,6.15,2000,DS9,0.32
+Ted Parker,Sentith,2,6.85,66,TNG,0.32
+Rex Holman,Morgan Earp,1,5.54,4000,TOS,0.32
+John Paragon,Thadial Bokar,1,6.15,2000,DS9,0.32
+Paul Lambert,"Howard Clark, Melian",2,6.64,77,TNG,0.32
+Bill Smitrovich,Michael Webb,2,7.24,54,DS9,0.32
+Frank Military,Biddle Coleridge,2,7.24,54,DS9,0.32
+Cari Shayne,Eliann,1,5.95,2000,VOY,0.31
+Todd Waring,"DeCurtis, Lasaran",2,7.11,49,DS9,0.31
+Bernie Casey,Calvin Hudson,2,7.19,49,DS9,0.31
+Basil Langton,Caretaker,2,6.77,67,VOY,0.31
+Herschel Sparber,Jaresh-Inyo,2,7.21,47,DS9,0.31
+Ray Reinhardt,"Aaron, Tolen Ren",2,6.65,67,"TNG, VOY",0.31
+Amanda Carlin,Kobb,2,7.19,49,DS9,0.31
+Cenita L. Johnson,Glidia,2,7.13,49,DS9,0.31
+Clara Bravo,Kirayoshi O'Brien,2,7.1,52,DS9,0.31
+James Worthy,Koral,2,6.97,54,"TNG, DS9",0.31
+Rothaford Gray,Tareckx,1,5.54,3000,DIS,0.31
+Kathie Browne,Deela,2,6.79,61,"DS9, TOS",0.31
+Kimberly Cullum,Gia,2,7.01,57,"DS9, TNG",0.31
+Jeremy Roberts,"Dimitri Valtane, Meso'Clan",2,7.15,49,"VOY, DS9",0.31
+Danielle Thorpe,Johnson,2,6.49,78,"TOS, PIC",0.31
+Michael J. O'Laskey,M. Forbes,2,7.82,37,ENT,0.31
+Davida Williams,Lisa,2,6.97,59,"DS9, TOS",0.31
+Patrick Fabian,Taymon,1,5.95,2000,VOY,0.31
+Chloé Wepper,Gabi,2,6.43,84,PIC,0.31
+Judy Geeson,Sandríne,2,7.04,51,VOY,0.31
+Kelli Kirkland,Rinna,1,5.95,2000,VOY,0.31
+Wallace Langham,Flotter,2,6.65,69,"VOY, PIC",0.31
+Ted Knight,Carter Winston,1,6.52,944,TAS,0.31
+Ransom Gates,O'Donnell,2,7.39,44,VOY,0.31
+Tony Plana,Amaros,2,7.19,49,DS9,0.31
+Mickey Cottrell,"Alrik, Dumah",2,6.9,58,"TNG, VOY",0.31
+Scott Trost,Shipley,2,6.62,73,TNG,0.31
+Michael Rose,Niles,2,7.19,49,DS9,0.31
+Dan Curry,"Ches'sarro Seeto, Dekon Elig",2,7.01,56,DS9,0.31
+Brian Tochi,"Lin, Ray Tsing Tao",2,6.6,72,"TOS, TNG",0.31
+Kristanna S. Loken,Malia,1,5.95,2000,VOY,0.31
+Andrew Prine,"Suna, Turrel",2,6.93,61,"TNG, DS9",0.31
+Tom Wright,"Ghrath, Tuvix",2,6.99,46,"ENT, VOY",0.3
+Jason Marsden,"Grimp, Raymond Marr",2,6.76,57,"DS9, TNG",0.3
+Dieter Hornemann,"Kinis, Remi",2,7.11,45,VOY,0.3
+Joanna Cassidy,T'Les,2,7.25,43,ENT,0.3
+Neil C. Vipond,"Darok, Kleg",2,7.1,43,"VOY, DS9",0.3
+Michael Hugghins,B. Scott,2,7.31,40,ENT,0.3
+Bahni Turpin,Swinn,2,6.95,49,VOY,0.3
+Rachel Nichols,Gaila,2,7.11,47,DS9,0.3
+Kitty Swink,"Luaran, Rozahn",2,7.12,45,DS9,0.3
+Kevin Brief,Naarg,2,7.66,36,ENT,0.3
+Leif Gantvoort,Morris,2,6.24,79,PIC,0.3
+Fritz Sperberg,"Ixtana'Rax, Ranek",2,7.2,45,"VOY, DS9",0.3
+Samantha Smith,Huur'A,1,7.21,385,PRO,0.3
+Shazdeh Kapadia,Tolpra,2,6.37,76,DIS,0.3
+Jake Epstein,Attis,2,6.37,76,DIS,0.3
+Ava MacKinnon,Amma,2,6.37,76,DIS,0.3
+Bruce Wright,"Fer'at, Sarish Rez",2,7.31,42,"DS9, ENT",0.3
+John Wan,Biggs,2,7.35,41,ENT,0.3
+Marc Lawrence,"Carl Zeemo, Volnoth",2,6.61,60,"DS9, TNG",0.3
+Virginia Madsen,Kellin,2,7.02,49,"DS9, VOY",0.3
+Ivar Brogger,"Barus, Orum",2,7.21,44,VOY,0.3
+Kirsten Turner,Constance Goodheart,2,7.02,47,VOY,0.3
+Geno Silva,Vrax,2,7.57,36,ENT,0.3
+Wade Andrew Williams,"Garos, Trajis Lo-Tarik",2,7.12,45,"ENT, VOY",0.3
+Nick Tate,"Dirgo, Liam Bilby",2,6.67,58,"TNG, DS9",0.3
+Phyllis Douglas,"Mavig, Mears",2,6.1,85,TOS,0.3
+Jill Jacobson,"Chalan Aroya, Vanessa",2,7.08,44,"DS9, TNG",0.3
+David Graf,"Fred Noonan, Leskit",2,6.92,48,"DS9, VOY",0.3
+Barry Atwater,Surak,2,6.84,52,"ENT, TOS",0.3
+Barbara J. Tarbuck,"Kalev, Leka Trion",2,6.68,55,"ENT, TNG",0.3
+Phillip Pine,Phillip Green,2,6.7,51,"ENT, TOS",0.29
+Seth MacFarlane,Rivers,2,7.25,36,ENT,0.29
+"Guy Fernandez, Jr.",A. Finch,2,6.21,73,PIC,0.29
+Amick Byram,"Ian Andrew Troi, Paul Hickman",2,6.29,66,TNG,0.29
+Nicholas Cascone,"Davies, Timor",2,6.45,62,"DS9, TNG",0.29
+Zach Sowers,R. Chandler,2,6.21,73,PIC,0.29
+Juliana Donald,"Emi, Tayna",2,6.46,59,"TNG, DS9",0.29
+Stanley Adams,Cyrano Jones,2,6.7,48,"TAS, TOS",0.29
+Adam Clark,Josiah,2,7.25,35,ENT,0.29
+Mona Grudt,Graham,2,6.24,70,TNG,0.29
+Jeff Allin,"Gedrin, Sutter",2,6.52,53,"VOY, TNG",0.29
+Ron Gans,Armus,2,6.59,51,"TNG, LD",0.29
+Mart McChesney,Armus,2,6.59,51,"TNG, LD",0.29
+Adam Grimes,Lokesh,2,7.22,36,ENT,0.29
+Pablo Soriano,"Demalos, Terev",2,7.0,44,"ENT, VOY",0.29
+Biff Yeager,Argyle,2,5.94,84,TNG,0.29
+Kareem Stroud,M. Mather,2,6.21,73,PIC,0.29
+Michael Spound,Lorrum,2,7.01,45,VOY,0.29
+Michael F. Bofshever,Toran,2,6.62,50,DS9,0.29
+Jack McBrayer,Badgey,2,7.35,35,LD,0.29
+Charles Dennis,"Sunad, Trellit",2,6.53,54,"ENT, TNG",0.29
+Johanna Watts,Gannet,2,7.25,35,ENT,0.29
+Peter Weller,John Frederick Paxton,2,7.25,35,ENT,0.29
+Richard Leacock,Musa,2,6.21,73,PIC,0.29
+Karl Wiedergott,"Ameron, Larr",2,6.84,45,"ENT, VOY",0.29
+Joel West,Raakin,2,7.14,37,ENT,0.29
+Riley Norris,Elizabeth,2,7.25,35,ENT,0.29
+Grace Norris,Elizabeth,2,7.25,35,ENT,0.29
+Nathan Bowers,Raakin,2,7.14,37,ENT,0.29
+Ian Lake,Tolor,2,6.11,75,DIS,0.29
+Amy Hill,Jago,1,7.08,359,PRO,0.29
+Peter Mensah,Daniel Greaves,2,7.25,35,ENT,0.29
+William Schallert,"Nilz Baris, Varani",2,6.49,61,"DS9, TOS",0.29
+Brian George,"O'Zaal, Richard Bashir",2,6.87,43,"DS9, VOY",0.29
+April Jacobson,A. Jacobson,2,6.51,52,ENT,0.28
+David Drew Gallagher,Riley Aldrin Shepard,2,6.62,45,DS9,0.28
+Jeff Kober,"Iko, Traeg",2,6.97,40,"VOY, ENT",0.28
+Kether Donohue,Peanut Hamper,2,7.22,32,LD,0.28
+Eve H. Brenner,"Inad, Korenna Mirell",2,6.31,53,"VOY, TNG",0.28
+Di Santis,Mendez,2,6.31,52,"TNG, VOY",0.28
+Brian Phelps,Mendez,2,6.31,52,"TNG, VOY",0.28
+Steven R. Schirripa,Carmine,2,6.84,38,ENT,0.28
+Skip Homeier,"Melakon, Sevrin",2,5.77,77,TOS,0.28
+Jennifer Nash,Meribor,1,8.9,91,TNG,0.28
+Amber Connally,Meribor,1,8.9,91,TNG,0.28
+Mark Major,Valek,2,6.68,42,VOY,0.28
+Daniel Stewart,Batai,1,8.9,91,TNG,0.28
+Zehra Fazal,Boxy,1,6.87,352,PRO,0.28
+Logan White,Batai,1,8.9,91,TNG,0.28
+Ed Bishop,Asmodeus,1,5.93,928,TAS,0.28
+David Gerrold,Em/3/Green,1,6.1,819,TAS,0.28
+Faith C. Salie,Sarina Douglas,2,6.73,46,DS9,0.28
+Dan Shor,Arridor,2,6.22,59,"VOY, TNG",0.28
+Terrell Tilford,Marab,2,7.24,35,ENT,0.28
+Michael Cumpsty,Lord Burleigh,2,6.58,45,VOY,0.28
+Dell Yount,"B'Rat Ud, Tilikia",2,6.69,42,"ENT, DS9",0.28
+Jeff Cadiente,Loran,2,6.68,42,VOY,0.28
+Dan Carton,Loran,2,6.68,42,VOY,0.28
+Robert O'Reilly,"Kago, Scarface",2,6.26,55,"ENT, TNG",0.28
+Jane Webb,Lara,1,6.1,819,TAS,0.28
+Noley Thornton,"Clara Sutter, Taya",2,6.38,57,"TNG, DS9",0.28
+Kieran Mulroney,"Benzan, Shaw",2,6.19,63,"ENT, TNG",0.28
+James Avery,K'Vagh,2,7.24,35,ENT,0.28
+Michael Canavan,"Curneth, Tamal",2,6.68,47,"DS9, VOY",0.28
+Jack Gwaltney,Vosk,2,6.84,38,ENT,0.28
+William Harwood,Kamie,1,8.9,91,TNG,0.28
+Barry Gordon,"Ardon Broht, Nava",2,6.62,46,"VOY, DS9",0.28
+Golden Brooks,Alicia Travers,2,6.84,38,ENT,0.28
+Mitch Mamulo,Young,2,7.06,35,"VOY, LD",0.28
+Tommie Earl Jenkins,Adreek-Hu,1,6.87,352,PRO,0.28
+Julianne Christie,"Ah'len, Dexa",2,6.82,43,"VOY, ENT",0.28
+Robert Rusler,Orgoth,2,6.27,53,"DIS, ENT",0.27
+Jad Mager,Tabor,2,6.56,40,VOY,0.27
+Tom Virtue,Walter Baxter,2,6.46,47,VOY,0.27
+Keone Young,"Buck Bokai, Sato",2,6.4,45,"DS9, ENT",0.27
+Alison Brooks,Nell Chilton,1,8.4,97,TNG,0.27
+Julia Rose,J. McKenzie,2,6.27,53,"DIS, ENT",0.27
+Toks Olagundoye,Amina Ramsey,2,7.34,27,LD,0.27
+David Paul Christian,Martin,2,6.19,53,"TNG, VOY",0.27
+Len Cariou,Janeway,2,6.14,53,"VOY, TNG",0.27
+Bruce Davison,"Jareth, Menos",2,6.52,40,"VOY, ENT",0.27
+Diane Salinger,Lupaza,2,6.52,44,DS9,0.27
+Matthew Kaminsky,Cunningham,2,6.76,37,ENT,0.27
+Rob LaBelle,"Kafar, Oxilon",2,6.59,41,VOY,0.27
+Sam Richardson,Vendome,2,7.23,29,LD,0.27
+Daniel Kash,"Duggan, Haz Mazaro",2,6.06,60,DIS,0.27
+Stephen Davies,"Arak'Taral, Nakahn",2,6.6,43,"VOY, DS9",0.27
+Patrick Kilpatrick,"Assan, Razik",2,6.46,41,VOY,0.27
+Alex McCooeye,Lee'U,2,5.88,68,DIS,0.27
+Charles Napier,"Adam, Denning",2,6.05,61,"DS9, TOS",0.27
+Giovanni Spina,Sta'Kiar,2,5.71,59,DIS,0.26
+Joan Collins,Edith Keeler,1,8.57,73,TOS,0.26
+Mirron E. Willis,Rettik,2,6.1,47,VOY,0.26
+Amanda McBroom,Phillipa Louvois,1,8.42,69,TNG,0.25
+Derek McGrath,Chell,2,7.29,21,VOY,0.25
+Baron Vaughn,Maier,2,7.3,22,LD,0.25
+Kenny Morrison,Gerron,2,7.29,21,VOY,0.25
+Kelly Burris,Fredericks,1,8.6,67,TNG,0.25
+Christopher McDonald,Richard Castillo,1,8.6,67,TNG,0.25
+Jack Blessing,Dulmur,1,8.81,46,DS9,0.24
+Howard Shangraw,Grathon Tolar,1,8.75,48,DS9,0.24
+Stephen McHattie,Vreenak,1,8.75,48,DS9,0.24
+Kirk Acevedo,Krinn,1,8.17,53,PIC,0.23
+Richard Webb,Benjamin Finney,1,8.01,63,TOS,0.23
+Michael Forest,Apollo,1,8.27,57,TOS,0.23
+Kelsey Grammer,Morgan Bateson,1,8.22,53,TNG,0.23
+Alice Rawlings,Jame Finney,1,8.01,63,TOS,0.23
+Maya Eshet,Index,1,7.5,82,PIC,0.23
+Leslie Parrish,Carolyn Palamas,1,8.27,57,TOS,0.23
+Joan Marshall,Areel Shaw,1,8.01,63,TOS,0.23
+Nicolas Coster,Haftel,1,7.86,51,TNG,0.22
+Jerry Catron,Montgomery,1,7.93,55,TOS,0.22
+Reggie Nalder,Shras,1,7.93,55,TOS,0.22
+Etan Muskat,Hadad,1,7.43,75,SNW,0.22
+Rae Norman,Penny Muroc,1,8.16,47,TNG,0.22
+William O'Connell,Thelev,1,7.93,55,TOS,0.22
+J.C. Brandy,Marta Batanides,1,8.16,47,TNG,0.22
+Dan Gauthier,Sam Lavelle,1,8.17,46,TNG,0.22
+Heather Lauren Olson,Jil Orra,1,8.2,44,TNG,0.22
+Bruce Beatty,Ben,1,8.17,46,TNG,0.22
+John Wheeler,Gav,1,7.93,55,TOS,0.22
+Ted Sorel,Kaval,1,8.34,42,DS9,0.22
+Tony Rizzoli,Kainon,1,8.34,42,DS9,0.22
+Don Reilly,Joret Dal,1,8.17,46,TNG,0.22
+James Mitchell,Josephs,1,7.93,55,TOS,0.22
+Theo Marcuse,Korob,1,7.87,53,TOS,0.22
+Ned Vaughn,Cortan Zweller,1,8.16,47,TNG,0.22
+Sandy Kerr,Key,1,7.43,75,SNW,0.22
+Paul Winfield,Dathon,1,7.98,57,TNG,0.22
+Harris Yulin,Aamin Marritza,1,8.34,42,DS9,0.22
+Emma Ho,Oriana,1,7.49,51,SNW,0.21
+Stacie Foster,Bartel,1,7.78,44,TNG,0.21
+Spencer Garrett,Simon Tarses,1,7.74,47,TNG,0.21
+Sophia Webster,Fig,1,7.6,56,SNW,0.21
+Glenn Hetrick,K'Vort,1,7.47,53,DIS,0.21
+Maggie Thrett,Ruth Bonaventure,1,7.17,71,TOS,0.21
+Earl Billings,Thomas Henry,1,7.74,47,TNG,0.21
+Justin Howell,Rejac,1,6.79,83,DIS,0.21
+Lulu Wilson,Kestra Troi-Riker,1,7.64,53,PIC,0.21
+Jon Lormer,Theodore Haskins,1,7.06,79,TOS,0.21
+Graham Parkhurst,Dever,1,7.35,56,SNW,0.21
+Tahirih Vejdani,K'Tyll,1,7.35,56,SNW,0.21
+BarBara Luna,Marlena Moreau,1,7.75,45,TOS,0.21
+Seamon Glass,Benton,1,7.17,71,TOS,0.21
+Maulik Pancholy,Nambue,1,6.79,83,DIS,0.21
+Kim Darby,Miri,1,7.51,54,TOS,0.21
+Pete Kellett,Farrell,1,7.75,45,TOS,0.21
+Bruce French,Sabin Genestra,1,7.74,47,TNG,0.21
+Susan Denberg,Magda Kovacs,1,7.17,71,TOS,0.21
+Ann Shea,Nellen Tore,1,7.74,47,TNG,0.21
+Kat Sawyer-Young,Terrina,1,8.36,37,VOY,0.21
+Keith Taylor,Jahn,1,7.51,54,TOS,0.21
+Michael J. Pollard,Jahn,1,7.51,54,TOS,0.21
+Irene Sale,Louise,1,7.51,54,TOS,0.21
+Corbin Bernsen,Q2,1,7.88,48,TNG,0.21
+Jon Kowal,Herm Gossett,1,7.17,71,TOS,0.21
+Jean Simmons,Norah Satie,1,7.74,47,TNG,0.21
+Alden Adair,Barjan T'Or,1,7.35,56,SNW,0.21
+Frank Overton,Elias Sandoval,1,7.7,48,TOS,0.21
+Dick Scotter,Painter,1,7.7,48,TOS,0.21
+Jessica Danecker,Chia,1,7.49,51,SNW,0.21
+Richard Cansino,Garin,1,7.88,48,TNG,0.21
+Karen Steele,Eve McHuron,1,7.17,71,TOS,0.21
+Vic Perrin,Tharn,1,7.75,45,TOS,0.21
+Ron Kennell,Vasso L'Gaelia,1,7.35,56,SNW,0.21
+Mark Bramhall,Nador,1,8.14,43,TNG,0.21
+Carlos Albornoz,Buckley,1,7.49,51,SNW,0.21
+Liza Seneca,Alice Gavin,1,7.49,51,SNW,0.21
+Jill Ireland,Leila Kalomi,1,7.7,48,TOS,0.21
+Oscar Moreno,Zuniga,1,7.6,56,SNW,0.21
+Atticus Mitchell,Todd,1,7.6,56,SNW,0.21
+Torri Webster,Zier,1,7.35,56,SNW,0.21
+Scott Strozier,Malko,1,8.33,33,DS9,0.2
+Melinda Clarke,Sarin,1,7.13,51,ENT,0.2
+Andrew Moodie,Jacob,1,7.22,49,DIS,0.2
+Natalie Norwick,Martha Leighton,1,7.38,52,TOS,0.2
+William Sargent,Thomas Leighton,1,7.38,52,TOS,0.2
+David Opatoshu,Anan 7,1,7.33,47,TOS,0.2
+Obi Ndefo,Drex,1,8.33,33,DS9,0.2
+Stephanie Beacham,Regina Barthalomew,1,7.8,41,TNG,0.2
+Thelma Lee,Kahlest,1,7.55,42,TNG,0.2
+Ricky Luna,Carlos,1,7.13,51,ENT,0.2
+Sheila McCarthy,Amesha,1,7.22,49,DIS,0.2
+Arnold Moss,Anton Karidian,1,7.38,52,TOS,0.2
+David Tristan Birkin,René Picard,1,7.52,49,TNG,0.2
+Al Roberts,Roberts,1,7.42,45,TOS,0.2
+Judi Durand,Amarie,1,7.71,39,TNG,0.2
+Harriet Leider,Amarie,1,7.71,39,TNG,0.2
+Rod Loomis,Paul Manheim,1,7.45,48,TNG,0.2
+Marianna Hill,Helen Noel,1,7.34,55,TOS,0.2
+Jimmy Ortega,Torres,1,6.58,79,TNG,0.2
+Kathryn Leigh Scott,Nuria,1,7.23,49,TNG,0.2
+Clifton Jones,Keith Craig,1,7.73,38,TNG,0.2
+Huse Madhavji,Gamal,1,7.16,51,SNW,0.2
+Tom Troupe,Harold,1,7.27,48,TOS,0.2
+Michelle Phillips,Jenice Manheim,1,7.45,48,TNG,0.2
+Time Winters,Daro,1,7.56,41,TNG,0.2
+S.A. Templeman,John Bates,1,7.61,46,TNG,0.2
+Miko Mayama,Tamura,1,7.33,47,TOS,0.2
+"Tommy 'Tiny' Lister, Jr.",Klaang,1,7.13,51,ENT,0.2
+Daniel Gravelle,Lance,1,7.07,56,SNW,0.2
+Isabel Lorca,Gabrielle,1,7.45,48,TNG,0.2
+Timothy Carhart,Christopher Hobson,1,7.73,38,TNG,0.2
+Tony Cruz,Terry,1,7.73,38,TNG,0.2
+Kelly Ashmore,Francine,1,7.45,48,TNG,0.2
+Jeanne Bal,Nancy Crater,1,7.01,55,TOS,0.2
+Sandra Gimpel,Nancy Crater,1,7.01,55,TOS,0.2
+Pamela Segall,Oji,1,7.23,49,TNG,0.2
+Bob Gunton,Benjamin Maxwell,1,7.56,41,TNG,0.2
+Nancy Vawter,Margaret Blackwell,1,7.7,38,TNG,0.2
+Lois Hall,Mary Warren,1,7.23,49,TNG,0.2
+Biff Elliot,Schmitter,1,7.42,45,TOS,0.2
+Samantha Eggar,Marie Picard,1,7.52,49,TNG,0.2
+Francine Pyne,Nancy Crater,1,7.01,55,TOS,0.2
+Paul Fix,Mark Piper,1,6.75,66,TOS,0.2
+Dennis Creaghan,Louis,1,7.52,49,TNG,0.2
+William Dennis Hunt,Huraga,1,8.33,33,DS9,0.2
+Sally Kellerman,Elizabeth Dehner,1,6.75,66,TOS,0.2
+France Nuyen,Elaan,1,7.78,43,TOS,0.2
+Jean-Paul Vignon,Edouard,1,7.45,48,TNG,0.2
+Kathy Hammers,Locklin,1,7.5,43,TNG,0.2
+James Greene,Barron,1,7.23,49,TNG,0.2
+Billy MacLellan,Barlow,1,7.42,51,DIS,0.2
+John McLiam,Fento,1,7.23,49,TNG,0.2
+Shelly Desai,V'Sal,1,7.44,43,TNG,0.2
+Andre Colquhoun,Probasco,1,7.07,56,SNW,0.2
+Ken Lynch,Vanderberg,1,7.42,45,TOS,0.2
+Sierra Pecheur,Selok,1,7.44,43,TNG,0.2
+David-Troy ,Larry Matson,1,7.38,52,TOS,0.2
+James McIntire,Hali,1,7.23,49,TNG,0.2
+Spencer Daniels,Johnny,1,7.5,43,TNG,0.2
+Tony Young,Kryton,1,7.78,43,TOS,0.2
+Alan Shearman,Lestrade,1,7.47,49,TNG,0.2
+Sheldon Peters Wolfchild,Joe Falling Hawk,1,7.65,41,TNG,0.2
+Robert Sampson,Sar 6,1,7.33,47,TOS,0.2
+Jay Robinson,Petri,1,7.78,43,TOS,0.2
+Gary Lockwood,Gary Mitchell,1,6.75,66,TOS,0.2
+Paul Carr,Lee Kelso,1,6.75,66,TOS,0.2
+Michael Mack,Sirol,1,7.7,38,TNG,0.2
+Lloyd Haynes,Alden,1,6.75,66,TOS,0.2
+Susanne Wasson,Lethe,1,7.34,55,TOS,0.2
+James Gregory,Tristan Adams,1,7.34,55,TOS,0.2
+Lee Duncan,Evans,1,7.78,43,TOS,0.2
+Terry O'Quinn,Erik Pressman,1,7.7,38,TNG,0.2
+Vince Howard,Nancy Crater,1,7.01,55,TOS,0.2
+Jim Beaver,Daniel Leonard,1,7.13,51,ENT,0.2
+Lindy Booth,Alora,1,7.16,51,SNW,0.2
+Bruce Watson,"Green, Nancy Crater",1,7.01,55,TOS,0.2
+Barbara Anderson,Lenore Karidian,1,7.38,52,TOS,0.2
+Christopher James Miller,René Picard,1,7.52,49,TNG,0.2
+Alfred Ryder,Robert Crater,1,7.01,55,TOS,0.2
+Fran Bennett,Shanthi,1,7.73,38,TNG,0.2
+Theodore Bikel,Sergey Rozhenko,1,7.52,49,TNG,0.2
+William Bastiani,Omag,1,7.71,39,TNG,0.2
+Gene Lyons,Robert Fox,1,7.33,47,TOS,0.2
+Jeremy Kemp,Robert Picard,1,7.52,49,TNG,0.2
+Brad Weston,Ed Appel,1,7.42,45,TOS,0.2
+Mariette Hartley,Zarabeth,1,7.43,38,TOS,0.19
+Steven Anderson,Nilrem,1,7.43,41,TNG,0.19
+Amirah Vann,Zani,1,6.72,53,PIC,0.19
+Heather Wynters,Shai,1,6.72,53,PIC,0.19
+Mary Anne McGarry,Tabris,1,7.89,29,VOY,0.19
+Brandon McGibbon,Ithyk,1,6.78,53,DIS,0.19
+Harry Basch,Brown,1,6.9,49,TOS,0.19
+Vincent Teixeira,Alonzo Vandermeer,1,7.08,46,PIC,0.19
+Angelique Pettyjohn,Shahna,1,7.08,43,TOS,0.19
+Anthony Call,Dave Bailey,1,6.62,61,TOS,0.19
+Richard Gilbert-Hill,Bosus,1,7.51,34,TNG,0.19
+Sean Connolly Affleck,Evan Connolly,1,6.92,53,DIS,0.19
+Erik Alvarez,Bidran,1,6.72,53,PIC,0.19
+Amanda Foreman,Brackett,1,7.56,39,TNG,0.19
+Jake Michaels,Ithor,1,6.78,53,DIS,0.19
+Rocco Sisto,Sakkath,1,7.4,42,TNG,0.19
+Shelby Leverington,Brossmer,1,7.58,39,TNG,0.19
+Donny Boaz,Skantal,1,6.72,53,PIC,0.19
+Darryl Henriques,Portal 63,1,7.08,51,TNG,0.19
+William Boyett,Dan Bell,1,6.94,46,TNG,0.19
+Raymond Cruz,Vargas,1,7.94,28,DS9,0.19
+Bill Erwin,Dalen Quaice,1,7.24,43,TNG,0.19
+Steve Sandor,Lars,1,7.08,43,TOS,0.19
+Bebe Neuwirth,Lanel,1,7.43,41,TNG,0.19
+Mary Thompson,Torsus,1,7.51,34,TNG,0.19
+William Marshall,Richard Daystrom,1,7.32,39,TOS,0.19
+Wayne Thomas Yorke,Zet,1,8.0,31,VOY,0.19
+Toni Belafonte,Zilah,1,7.24,45,PIC,0.19
+Michael Strong,Roger Korby,1,6.9,49,TOS,0.19
+Robert Walker,Charles Evans,1,7.02,52,TOS,0.19
+P. Flannery,Zegov,1,7.37,44,TNG,0.19
+Wendy Davis,Kabath,1,6.68,63,PIC,0.19
+Michael Hough,Remy,1,6.76,55,SNW,0.19
+George Hearn,Berel,1,7.43,41,TNG,0.19
+Kenneth Meseroll,McDowell,1,7.58,39,TNG,0.19
+Gary Armagnac,McNary,1,6.94,46,TNG,0.19
+Madlyn Rhue,Marla McGivers,1,7.16,45,TOS,0.19
+Valerie Wildman,Nevala,1,7.96,29,VOY,0.19
+Jesse James Keitel,Angel,1,6.76,55,SNW,0.19
+Stephen Hawking,Stephen Hawking,1,7.51,34,TNG,0.19
+Vince Deadrick,Mathews,1,6.9,49,TOS,0.19
+Sherry Jackson,Andrea,1,6.9,49,TOS,0.19
+Patton Oswalt,Spot 73,1,7.24,45,PIC,0.19
+Dallas Mitchell,Tom Nellis,1,7.02,52,TOS,0.19
+Victoria George,Jana Haines,1,7.08,43,TOS,0.19
+Christine Harnos,Tessa Omond,1,7.99,29,VOY,0.19
+Charles J. Stewart,Ramart,1,7.02,52,TOS,0.19
+Sophia Walker,Fran,1,6.76,55,SNW,0.19
+Linda Thorson,Ocett,1,7.34,38,TNG,0.19
+Mickey Morton,Kloog,1,7.08,43,TOS,0.19
+Graham Jarvis,Klim Dokachin,1,7.56,39,TNG,0.19
+Jane Ross,Tamoon,1,7.08,43,TOS,0.19
+Jake Dengel,Mordoc,1,7.08,51,TNG,0.19
+Stephen James Carver,Tayar,1,7.51,34,TNG,0.19
+Sachi Parker,Tava,1,7.43,41,TNG,0.19
+Barbara Eve Harris,Emily Bosch,1,7.2,48,PIC,0.19
+David Sparrow,Loth,1,8.0,31,VOY,0.19
+Evan Parke,Tenqem Adrev,1,6.72,53,PIC,0.19
+Brian Fitzpatrick,Tedran,1,7.89,29,VOY,0.19
+Luke Humphrey,V'Latak,1,6.78,55,DIS,0.19
+Harvey Jason,Felix Leech,1,6.94,46,TNG,0.19
+Chelsea Harris,Naáshala Kunamadéstifee,1,6.68,63,PIC,0.19
+Patricia McNulty,Tina Lawton,1,7.02,52,TOS,0.19
+Greg Ellis,Ekoor,1,8.17,29,DS9,0.19
+Laura Drake,Vekma,1,7.37,44,TNG,0.19
+Carolyn Allport,Jessica Bradley,1,6.94,46,TNG,0.19
+Anthony R. Jones,Pincus,1,6.68,63,PIC,0.19
+Mark Tobin,Joaquin,1,7.16,45,TOS,0.19
+Laurence Luckinbill,Sybok,1,6.76,55,SNW,0.19
+Dick Cangey,Otto,1,7.16,45,TOS,0.19
+Leon Russom,Toddman,1,8.19,29,DS9,0.19
+William Denis,Ki Mendrossen,1,7.4,42,TNG,0.19
+Benedict Cumberbatch,Khan Noonien Singh,1,7.16,45,TOS,0.19
+George Coe,Avel Durken,1,7.43,41,TNG,0.19
+John Anderson,Kevin Uxbridge,1,7.2,46,TNG,0.19
+Kathy Ahart,Kati,1,7.16,45,TOS,0.19
+Sambo ,Isis,1,6.95,42,TOS,0.18
+Gavan O'Herlihy,Jabin,1,6.88,46,VOY,0.18
+Lewis R. Stegman,Thaddius Riker,1,7.64,27,VOY,0.18
+David Spielberg,Calvin Hutchinson,1,7.33,36,TNG,0.18
+Lincoln Demyan,Lipton,1,6.95,42,TOS,0.18
+Robert Lansing,Gary Seven,1,6.95,42,TOS,0.18
+Michael G. Hagerty,Skoran,1,7.16,34,TNG,0.18
+Benito Martinez,Salazar,1,7.22,35,TNG,0.18
+Robert Brown,Lazarus,1,6.97,44,TOS,0.18
+Ursaline Bryant,Tryla Scott,1,6.83,43,TNG,0.18
+Eric David Johnson,Daggin,1,6.88,46,VOY,0.18
+Dave Frankham,Lawrence Marvick,1,7.11,37,TOS,0.18
+Jess Bush,Audrey,1,6.11,71,SNW,0.18
+Scott Marlowe,Keeve Falor,1,7.18,38,TNG,0.18
+Oliver McGowan,Keeper,1,6.69,46,TOS,0.18
+Cal Bolder,Keel,1,6.96,41,TOS,0.18
+Eileen Seeley,Ard'rian McKenzie,1,6.94,41,TNG,0.18
+Lance LeGault,K'Temoc,1,7.05,41,TNG,0.18
+Robert Bralver,Grant,1,6.96,41,TOS,0.18
+Georgann Johnson,Gromek,1,7.05,41,TNG,0.18
+Grainger Hines,Gosheven,1,6.94,41,TNG,0.18
+Karen Montgomery,Beata,1,6.89,45,TNG,0.18
+Jacqueline Brookes,Brand,1,7.27,37,TNG,0.18
+Paul Hayes,R. Ascher,1,7.81,27,ENT,0.18
+Perry Lopez,Esteban Rodriguez,1,6.69,46,TOS,0.18
+Richard Merrifield,Webb,1,6.68,43,TOS,0.18
+Jonathan Farwell,Walker Keel,1,6.83,43,TNG,0.18
+Andrew Bicknell,Wagnor,1,6.89,39,TNG,0.18
+Bree Wasylenko,Shava,1,6.63,47,DIS,0.18
+Jerry Ayres,Rizzo,1,6.97,37,TOS,0.18
+Dominic Burgess,Vup,1,6.55,55,PIC,0.18
+Terri Garr,Roberta Lincoln,1,6.95,42,TOS,0.18
+Barry Lynch,DeSeve,1,7.2,36,TNG,0.18
+Michael Berryman,Rixx,1,6.83,43,TNG,0.18
+Maurishka ,Zahra,1,7.04,41,TOS,0.18
+Don Marshall,Boma,1,6.66,47,TOS,0.18
+Warren Stevens,Rojan,1,6.91,39,TOS,0.18
+Angela Paton,Adah,1,6.88,46,VOY,0.18
+Michael Rothhaar,Garvin,1,7.16,34,TNG,0.18
+John Jarvis,Quinn,1,7.64,27,VOY,0.18
+Todd Babcock,Mulchaey,1,7.9,28,VOY,0.18
+Molly Hagan,Eris,1,7.75,26,DS9,0.18
+Necar Zadegan,Bjayzl,1,6.55,55,PIC,0.18
+Raye Birk,Wrenn,1,6.76,45,TNG,0.18
+Anna Katarina,Valeda Innis,1,6.76,45,TNG,0.18
+George Sawaya,Humbolt,1,6.79,49,TOS,0.18
+Kevin Tighe,Henry Janeway,1,7.89,25,VOY,0.18
+Ed Peck,Fellini,1,6.68,43,TOS,0.18
+Edward Wiley,Vagh,1,7.15,35,TNG,0.18
+Ron Marasco,Tellus,1,7.81,27,ENT,0.18
+Nina Minton,Frola Gegen,1,7.86,28,VOY,0.18
+Don Keefer,Cromwell,1,6.95,42,TOS,0.18
+Julie Newmar,Eleen,1,6.96,41,TOS,0.18
+Sarah MacDonnell,Neeley,1,7.76,26,DS9,0.18
+Tom Nibley,Neil,1,7.33,36,TNG,0.18
+Michael Dante,Maab,1,6.96,41,TOS,0.18
+David Coburn,Brower,1,7.23,39,TNG,0.18
+Concetta Tomei,Odala,1,7.86,28,VOY,0.18
+Matthew Binkley,Shavo,1,6.63,47,DIS,0.18
+Richard Ortega-Miro,Rainer,1,7.16,34,TNG,0.18
+Scott Jaeck,Cavit,1,6.88,46,VOY,0.18
+Joe Murphy,Yak'Talon,1,7.76,26,DS9,0.18
+Walker Brandt,Jean Hajar,1,7.27,37,TNG,0.18
+Mason Gooding,Gabriel Hwang,1,6.55,55,PIC,0.18
+Chris Wynne,Moninger,1,7.82,28,ENT,0.18
+James Gruzal,Don Juan,1,6.69,46,TOS,0.18
+John Carroll Lynch,Gerald Moss,1,7.89,25,VOY,0.18
+Bradley Pierce,Jason Janeway,1,7.89,25,VOY,0.18
+Roger Perry,John Christopher,1,6.68,43,TOS,0.18
+Tige Andrews,Kras,1,6.96,41,TOS,0.18
+Michael Boisvert,T'Shen Kovil,1,6.47,49,DIS,0.18
+Lisabeth Hush,Companion,1,6.69,45,TOS,0.18
+Elinor Donahue,"Companion, Nancy Hedford",1,6.69,45,TOS,0.18
+Danitza Kingsley,Ariana,1,6.76,45,TNG,0.18
+Patricia McPherson,Ariel,1,6.89,45,TNG,0.18
+Emily Banks,Tonia Barrows,1,6.69,46,TOS,0.18
+Peter Marko,Gaetano,1,6.66,47,TOS,0.18
+Ben Gage,Akaar,1,6.96,41,TOS,0.18
+Sam Hennings,Ramsey,1,6.89,45,TNG,0.18
+Ed Lauter,Albert,1,7.27,37,TNG,0.18
+Julie Parrish,Piper,1,6.79,49,TOS,0.18
+Basil Poledouris,Bardoli,1,6.97,37,TOS,0.18
+April Tatro,Isis,1,6.95,42,TOS,0.18
+Alicia Coppola,Stadi,1,6.88,46,VOY,0.18
+Martin Goslins,Satok,1,7.28,33,TNG,0.18
+Philip LeStrange,Coutu,1,7.5,28,DS9,0.18
+Page Leong,Anaya,1,7.23,39,TNG,0.18
+Maury Ginsberg,Maury Ginsberg,1,7.64,27,VOY,0.18
+Celia Rose Gooding,Neve,1,6.11,71,SNW,0.18
+Marie Marshall,Kelsey,1,7.33,36,TNG,0.18
+Cliff Potts,Kennelly,1,7.18,38,TNG,0.18
+Lilyan Chauvin,Yassim,1,7.76,26,DS9,0.18
+Brett Rickaby,Yerdrin Lek,1,7.87,24,ENT,0.18
+Leslie Hoffman,Yassim,1,7.76,26,DS9,0.18
+Robert Greenberg,Devro,1,7.75,27,VOY,0.18
+Tami-Adrian George,Kesha,1,7.64,27,DS9,0.18
+Richard Allen,Kentor,1,6.94,41,TNG,0.18
+Robert Ellenstein,Steven Miller,1,6.76,45,TNG,0.18
+Kristina Hayes,Marci Collins,1,7.89,25,VOY,0.18
+Richard Fancy,Satelk,1,7.27,37,TNG,0.18
+Marc Daniels,Jackson Roykirk,1,6.85,42,TOS,0.18
+Shirley Bonne,Ruth,1,6.69,46,TOS,0.18
+Janet MacLachlan,Charlene Masters,1,6.97,44,TOS,0.18
+Morgan Jones,Jack Nesvig,1,6.95,42,TOS,0.18
+Anson Mount,Amand Rauth,1,6.11,71,SNW,0.18
+Nan Martin,Victoria Miller,1,6.76,45,TNG,0.18
+Joan Swift,Aurelan Kirk,1,7.04,41,TOS,0.18
+Adrian Pavone,Gene,1,6.78,42,DIS,0.18
+Christopher Liam Moore,Tova Veer,1,7.86,28,VOY,0.18
+Runa Ewok,Runa,1,6.11,71,SNW,0.18
+Dave Armstrong,Kartan,1,7.04,41,TOS,0.18
+Jonathan Koensgen,Kal,1,6.78,42,DIS,0.18
+Barbara Bouchet,Kelinda,1,6.91,39,TOS,0.18
+Alex Datcher,Taitt,1,7.22,35,TNG,0.18
+Cress Williams,Talak'talan,1,7.75,26,DS9,0.18
+Ronnie Claire Edwards,Talur,1,7.16,34,TNG,0.18
+Ray Buktenica,Deyos,1,8.06,26,DS9,0.18
+Kirk Raymone,Duur,1,6.96,41,TOS,0.18
+Lindsay Owen Pierre,Os'ir,1,6.78,42,DIS,0.18
+Carlos LaCamara,Retaya,1,7.81,27,DS9,0.18
+Jeff McCarthy,Roga Danar,1,6.89,39,TNG,0.18
+Steven Marlo,Zabo,1,6.87,37,TOS,0.17
+Dave Rossi,Dave,1,7.52,27,VOY,0.17
+Jimmie F. Skaggs,Boheeka,1,7.56,27,DS9,0.17
+Brenda Bakke,Rivan,1,6.51,43,TNG,0.17
+Caroline Kava,Toby Russell,1,6.8,34,TNG,0.17
+John P. Connolly,Orn Lote,1,6.85,35,TNG,0.17
+Gary Pillar,Yutan,1,6.57,39,TOS,0.17
+Buddy Garion,Karf,1,6.87,37,TOS,0.17
+Andrew Shaver,Vos,1,6.21,47,DIS,0.17
+Clive Revill,Guy of Gisbourne,1,6.78,38,TNG,0.17
+Jandi Swanson,Katie,1,6.48,39,TNG,0.17
+Lee Delano,Kalo,1,6.87,37,TOS,0.17
+Famke Janssen,Kamala,1,6.86,37,TNG,0.17
+Angelina Fiordellisi,Kaminer,1,6.99,35,TNG,0.17
+Samantha Mudd,Chandler,1,7.54,24,DS9,0.17
+Deborah Taylor,Chantal Zaheva,1,6.71,36,TNG,0.17
+Clynell Jackson III,H'ta,1,7.62,24,DS9,0.17
+Craig Hurley,Peeples,1,6.71,36,TNG,0.17
+Olivia d'Abo,Amanda Rogers,1,6.85,35,TNG,0.17
+Jerry Daniels,Marple,1,6.75,41,TOS,0.17
+Celeste Yarnall,Martha Landon,1,6.75,41,TOS,0.17
+William Glover,Jacob Marley,1,6.79,38,TNG,0.17
+Diana Ewing,Droxine,1,6.84,36,TOS,0.17
+Lois Jewell,Drusilla,1,6.67,38,TOS,0.17
+Thad Lamey,Devil,1,6.79,38,TNG,0.17
+Bobby Bass,Oscar series,1,6.66,39,TOS,0.17
+Davis Roberts,Ozaba,1,6.69,35,TOS,0.17
+Gary Frank,Yedrin Dax,1,7.46,26,DS9,0.17
+Iggy Pop,Yelgrun,1,7.48,26,DS9,0.17
+Tony Papenfuss,Yeln,1,7.27,26,DS9,0.17
+Jennifer S. Parsons,Miranda O'Brien,1,7.46,26,DS9,0.17
+Donovan Brown,Andre Haynes,1,6.35,44,DIS,0.17
+Shari Nims,Sayana,1,6.75,41,TOS,0.17
+Bill Bolender,The Albino,1,7.25,27,DS9,0.17
+Gary Baxley,Thorne,1,6.7,35,TNG,0.17
+David Ogden Stiers,Timicin,1,6.85,37,TNG,0.17
+Mario Roccuzzo,Arthur Malencon,1,6.68,41,TNG,0.17
+Rhodes Reason,Flavius Maximus,1,6.67,38,TOS,0.17
+Robin Gammell,Mauric,1,7.03,32,TNG,0.17
+Dierk Torsek,"Harry Bernard, Sr.",1,6.48,39,TNG,0.17
+Charles Douglass,Haskell,1,6.64,41,TNG,0.17
+John Franklyn-Robbins,Macias,1,7.26,31,TNG,0.17
+Starr Wilson,Maisie series,1,6.66,39,TOS,0.17
+Tamara Wilson,Maisie series,1,6.66,39,TOS,0.17
+David Soul,Makora,1,6.75,41,TOS,0.17
+Nikki Cox,Sarjenka,1,6.46,39,TNG,0.17
+Gregory Beecroft,Mickey D,1,6.38,42,TNG,0.17
+Ed Long,Midro,1,6.84,36,TOS,0.17
+Kenric Green,Mike Burnham,1,6.77,36,DIS,0.17
+Joycelyn O'Brien,Mitena Haro,1,6.87,38,TNG,0.17
+Marci Brickhouse,Mona Luvsitt,1,7.42,26,DS9,0.17
+Scott Barry,Chu'vok,1,8.03,21,DS9,0.17
+Susan Howard,Mara,1,6.81,35,TOS,0.17
+John Harmon,Tepo,1,6.87,37,TOS,0.17
+Michele Scarabelli,Jenna D'Sora,1,6.7,35,TNG,0.17
+Philip N. Waller,Harry Bernard,1,6.48,39,TNG,0.17
+Jan Kelley,Cheney,1,6.99,36,TNG,0.17
+Michael Witney,Tyree,1,6.57,39,TOS,0.17
+Tom Magee,Fek'lhr,1,6.79,38,TNG,0.17
+Marybeth Massett,Parell,1,7.46,26,DS9,0.17
+Brian Evaret Chandler,Brota,1,7.46,26,DS9,0.17
+Morreen Thornton,Barbara series,1,6.66,39,TOS,0.17
+John Pyper-Ferguson,Eli Hollander,1,6.96,36,TNG,0.17
+Nancy Bell,Ahni Jetal,1,7.64,25,VOY,0.17
+Frank Atienza,Liyang,1,6.59,37,TOS,0.17
+Keith Andes,Akuta,1,6.75,41,TOS,0.17
+Whitney Rydbeck,Alans,1,6.46,39,TNG,0.17
+Jonathan Kim,Albert Kim,1,6.35,44,DIS,0.17
+"William Thomas, Jr.",Santos,1,7.26,31,TNG,0.17
+Freyda Thomas,Alenis Grem,1,7.27,26,DS9,0.17
+Jessica Bova,Alexandra,1,6.48,39,TNG,0.17
+Vyto Ruginis,Logan,1,6.53,41,TNG,0.17
+Lou Antonio,Lokai,1,6.72,36,TOS,0.17
+Vic Tayback,Jojo Krako,1,6.87,37,TOS,0.17
+Marta Dubois,Ardra,1,6.79,38,TNG,0.17
+Billy Burke,Ari,1,7.27,26,DS9,0.17
+Elizabeth Lindsey,Luisa Kim,1,6.68,41,TNG,0.17
+Whit Bissell,Lurry,1,6.76,37,TOS,0.17
+Lenore Kasdorf,Lorin,1,7.03,32,TNG,0.17
+Jay Jones,Mirt,1,6.87,37,TOS,0.17
+Charlene Polite,Vanna,1,6.84,36,TOS,0.17
+Earl Boen,Nagilum,1,6.64,41,TNG,0.17
+Stefan Gierasch,Moseley,1,6.79,35,TNG,0.17
+William Lithgow,Pran Tainer,1,7.01,32,TNG,0.17
+Deborah Van Valkenburgh,Preston,1,7.31,27,DS9,0.17
+Julia Nickson,Lian T'Su,1,6.53,41,TNG,0.17
+Jay Louden,Liator,1,6.51,43,TNG,0.17
+Jason Wingreen,Linke,1,6.69,35,TOS,0.17
+Merritt Butrick,T'Jon,1,6.47,45,TNG,0.17
+Brent Hinkley,Butch,1,7.44,25,VOY,0.17
+Melissa Young,Caprice,1,7.42,26,DS9,0.17
+Irene Kelly,Sirah,1,6.59,37,TOS,0.17
+Ericka Klein,Sitak,1,7.82,24,DS9,0.17
+Mark Yerkes,Falcon,1,7.42,26,DS9,0.17
+Ellen Bry,Farallon,1,6.88,32,TNG,0.17
+Noble Willingham,Texas,1,6.38,42,TNG,0.17
+Willard Sage,Thann,1,6.69,35,TOS,0.17
+Alyce Andrece,Alice series,1,6.66,39,TOS,0.17
+Deborah Strang,T'Lara,1,7.5,27,DS9,0.17
+Christopher Heyerdahl,Wen,1,6.72,39,DIS,0.17
+Lloyd Kino,Wu,1,6.59,37,TOS,0.17
+Kathryn Hays,Gem,1,6.69,35,TOS,0.17
+Terrence E. McNally,B'Tardat,1,6.85,37,TNG,0.17
+Keith Allan,Raan,1,7.61,26,ENT,0.17
+Jeff Corey,Plasus,1,6.84,36,TOS,0.17
+Gerard Prendergast,Bjorn Bensen,1,6.68,41,TNG,0.17
+Vanessa Bova,Alexandra,1,6.48,39,TNG,0.17
+Dick Dial,Kaplan,1,6.75,41,TOS,0.17
+Marj Dusay,Kara,1,6.77,38,TOS,0.17
+Doug Warhit,Kazago,1,6.56,45,TNG,0.17
+Gregory Sierra,Entek,1,7.27,26,DS9,0.17
+Colleen Thorton,Barbara series,1,6.66,39,TOS,0.17
+Ted LeGarde,Herman series,1,6.66,39,TOS,0.17
+Tom LeGarde,Herman series,1,6.66,39,TOS,0.17
+Joe Reynolds,Hickam,1,7.56,23,DS9,0.17
+Anthony Caruso,Bela Okmyx,1,6.87,37,TOS,0.17
+Frank Gorshin,Bele,1,6.72,36,TOS,0.17
+William Smithers,R.M. Merik,1,6.67,38,TOS,0.17
+Robert MacKenzie,Trazko,1,7.46,27,DS9,0.17
+Kimberly Farr,Langor,1,6.47,45,TNG,0.17
+Robert Bauer,Kunivas,1,6.7,41,TNG,0.17
+David Birney,Letant,1,7.59,23,DS9,0.17
+Fred Williamson,Anka,1,6.84,36,TOS,0.17
+Marlys Burdette,Annabelle series,1,6.66,39,TOS,0.17
+Joy Garrett,Annie,1,6.96,36,TNG,0.17
+Michèle Marsh,Leda,1,6.48,39,TNG,0.17
+Elle Alexander,Huss,1,7.62,24,DS9,0.17
+Jason Matthew Smith,Hendorff,1,6.75,41,TOS,0.17
+Daniel Zacapa,Henry Garcia,1,7.31,27,DS9,0.17
+Nancy Kovack,Nona,1,6.57,39,TOS,0.17
+Richard Tatro,Norman,1,6.66,39,TOS,0.17
+Paul Stader,Claudius Marcus,1,6.67,38,TOS,0.17
+Tyce Bune,Edward Hagler,1,6.99,35,TNG,0.17
+Ivy Bethune,Duana,1,6.48,39,TNG,0.17
+Brenda Strong,Rashella,1,6.48,39,TNG,0.17
+Robert Towers,Rata,1,6.56,45,TNG,0.17
+Duke Moosekian,Gillespie,1,6.71,36,TNG,0.17
+Bart McCarthy,Cobum,1,7.82,24,DS9,0.17
+Walter Gotell,Kurt Mandl,1,6.68,41,TNG,0.17
+Amy Wheaton,Tara,1,6.48,39,TNG,0.17
+Wendy Hughes,Nella Daren,1,6.99,36,TNG,0.17
+Bernard Kates,Sigmund Freud,1,6.96,33,TNG,0.17
+Adam Taylor Gordon,Sim,1,7.74,24,ENT,0.17
+Maximillian Orion Kesmodel,Sim,1,7.74,24,ENT,0.17
+Shane Sweet,Sim,1,7.74,24,ENT,0.17
+David Froman,K'Nera,1,6.7,41,TNG,0.17
+Charles H. Hyman,Konmel,1,6.7,41,TNG,0.17
+Matt Frewer,Berlinghoff Rasmussen,1,6.79,35,TNG,0.17
+Benjamin Brown,Kagan,1,7.54,24,DS9,0.17
+S. Moriarty,Joseph A. Longo,1,6.71,36,TNG,0.17
+Bradley Weinholtz,Joshua Kelly,1,6.86,33,TNG,0.17
+Roy Jenson,Cloud William,1,6.59,37,TOS,0.17
+Ellen Geer,Kila Marr,1,6.77,35,TNG,0.17
+J. Downing,Kelso,1,6.88,32,TNG,0.17
+Arthur Bernard,Apella,1,6.57,39,TOS,0.17
+Rhae Andrece,Alice series,1,6.66,39,TOS,0.17
+"Sterling Macer, Jr.",Toq,1,6.79,33,TNG,0.17
+Connie Danese,Toya,1,6.48,39,TNG,0.17
+Xavier Sotelo,Diego Vela,1,6.35,44,DIS,0.17
+Mike Howden,Rowe,1,6.66,39,TOS,0.17
+Barry Wiggins,Sims,1,7.52,27,VOY,0.17
+Michael Cavanaugh,Robert DeSoto,1,6.76,38,TNG,0.17
+Raymond Stewart,T'vis,1,7.62,24,DS9,0.17
+Dan Mason,Accolan,1,6.48,39,TNG,0.17
+Marcelo Tubert,Acost Jared,1,6.79,38,TNG,0.17
+Tim O'Connor,Briam,1,6.86,37,TNG,0.17
+Lisa Wilcox,Yuta,1,6.25,36,TNG,0.16
+Lee Bergere,Abraham Lincoln,1,6.33,34,TOS,0.16
+Darleen Carr,E'Tyshra,1,6.91,25,DS9,0.16
+Joe Piscopo,Ronald B. Moore,1,6.1,42,TNG,0.16
+Paul Nakauchi,Romah Doek,1,7.04,26,DS9,0.16
+Jon De Vries,"Victor Granger, Wilson Granger",1,6.12,39,TNG,0.16
+Lori Hallier,Riley Frazier,1,7.26,23,VOY,0.16
+Dion Anderson,Zolan,1,6.98,26,DS9,0.16
+Jack R. Orend,0413 Theta,1,7.22,26,DS9,0.16
+Dan Tirman,O'Halloran,1,7.24,24,VOY,0.16
+Meg Foster,Onaya,1,7.13,23,DS9,0.16
+Peter White,Sharat,1,6.91,25,DS9,0.16
+James Saito,Nogami,1,6.85,26,VOY,0.16
+Andrea Robinson,Nina,1,6.97,24,DS9,0.16
+Paul Sorvino,Nikolai Rozhenko,1,6.61,31,TNG,0.16
+Lori Lively,Siana,1,7.26,23,DS9,0.16
+Mark Margolis,Nel Apgar,1,6.41,37,TNG,0.16
+Harley Venton,Hutchinson,1,6.36,33,TNG,0.16
+Beth Toussaint,Ishara Yar,1,6.38,36,TNG,0.16
+Liam Sullivan,Parmen,1,6.27,35,TOS,0.16
+Yvonne Suhor,Eudana,1,7.1,24,VOY,0.16
+Katherine Woodville,Natira,1,6.27,37,TOS,0.16
+Katherine Trowell,Bandra,1,6.34,36,DIS,0.16
+Scott Grimes,Eric,1,6.33,39,TNG,0.16
+Ted Scott,Eraclitus,1,6.27,35,TOS,0.16
+Sue Henley,Valerie Archer,1,7.24,24,VOY,0.16
+Kate Vernon,Valerie Archer,1,7.24,24,VOY,0.16
+Barrie Ingham,Danilo Odell,1,6.12,39,TNG,0.16
+Steven Weber,Day,1,7.2,26,DS9,0.16
+Larissa Laskin,Calla,1,7.05,23,ENT,0.16
+Ray Young,Morka,1,7.2,24,DS9,0.16
+Cyril O'Reilly,Nahsk,1,7.08,24,DS9,0.16
+Mel Winkler,Jack Hayes,1,6.85,26,VOY,0.16
+Bill Mondy,Jakin,1,6.91,25,DS9,0.16
+Kim Hamilton,Songi,1,6.44,36,TNG,0.16
+"Vince Deadrick, Jr.",Slar,1,7.43,21,ENT,0.16
+David Sobolov,Slar,1,7.43,21,ENT,0.16
+Joey Aresco,Brull,1,6.25,36,TNG,0.16
+David A. Kimball,Esaak,1,7.38,24,ENT,0.16
+Jackie Geary,Mona,1,6.32,36,PIC,0.16
+Rosalind Allen,Yanar,1,6.1,42,TNG,0.16
+Sara Mornell,Carson,1,7.15,24,DS9,0.16
+Fadwa El Guindi,Amsha Bashir,1,7.12,24,DS9,0.16
+Kelli Dawn Hancock,Stauss,1,6.17,43,PIC,0.16
+James Wellman,Starnes,1,6.5,36,TOS,0.16
+Melinda Culea,Soren,1,6.47,38,TNG,0.16
+Sabrina Scharf,Miramanee,1,6.42,37,TOS,0.16
+Tucker Smallwood,Bullock,1,7.24,24,VOY,0.16
+Karole Selmon,Yareena,1,6.14,46,TNG,0.16
+Sharon Lawrence,Amelia Earhart,1,6.85,26,VOY,0.16
+Jeffrey King,Amaro,1,7.13,23,DS9,0.16
+Rosemary Forsyth,Alzen,1,7.39,23,VOY,0.16
+Tom Hodges,Pechetti,1,7.13,23,DS9,0.16
+Russ Fega,Paxim,1,7.17,22,VOY,0.16
+Ken Jenkins,Paul Stubbs,1,6.33,39,TNG,0.16
+Andrew Hill Newman,Jaret Otel,1,7.1,24,VOY,0.16
+Sandra Smith,Janice Lester,1,6.48,33,TOS,0.16
+Sarah Marshall,Janet Wallace,1,6.42,38,TOS,0.16
+Don Mirault,Hayne,1,6.38,36,TNG,0.16
+Becky Wahlstrom,Charles,1,7.05,23,ENT,0.16
+Rachel Robinson,Melanie,1,7.17,24,DS9,0.16
+Nathalie Huot,Carlotta,1,7.39,23,VOY,0.16
+Pamelyn Ferdin,Mary Janowski,1,6.5,36,TOS,0.16
+Nancy Parsons,Marouk,1,6.25,36,TNG,0.16
+Debi A. Monahan,Melissa,1,6.9,25,DS9,0.16
+James Daly,Flint,1,6.67,34,TOS,0.16
+Gregg Sargeant,Thon,1,7.39,24,ENT,0.16
+Gina Hecht,Manua Apgar,1,6.41,37,TNG,0.16
+Susan Powell,Marla Aster,1,6.4,38,TNG,0.16
+Marjean Holden,Stolzoff,1,7.13,23,DS9,0.16
+Charles Drake,Stocker,1,6.42,38,TOS,0.16
+Jay Baker,Stevens,1,7.15,24,DS9,0.16
+Caesar Belli,Steve O'Connel,1,6.5,36,TOS,0.16
+Craig Hundley,Tommy Starnes,1,6.5,36,TOS,0.16
+Gabriel Damon,Jeremy Aster,1,6.4,38,TNG,0.16
+Peggy Jo Jacobs,Ch'Rega,1,7.4,21,VOY,0.16
+Stephen Lee,Chorgan,1,6.25,36,TNG,0.16
+Robert Miano,Frank Chalmers,1,6.97,24,DS9,0.16
+Patti Tippo,Temple,1,6.55,35,TNG,0.16
+Elkanah J. Burns,Temarek,1,6.25,36,TNG,0.16
+Harry Landers,Arthur Coleman,1,6.48,33,TOS,0.16
+Beverly Washburn,Arlene Galway,1,6.42,38,TOS,0.16
+Karl T. Wright,Francis Puga,1,6.17,43,PIC,0.16
+John Mahon,Gardner,1,7.43,21,ENT,0.16
+Mark Robert Brown,Don Linden,1,6.5,36,TOS,0.16
+James Wellington,Al,1,6.97,24,DS9,0.16
+Lee Meriwether,Losira,1,6.56,35,TOS,0.16
+Nettenstrom ,Susanna Leijten,1,6.37,34,TNG,0.16
+Maryann Plunkett,Susanna Leijten,1,6.37,34,TNG,0.16
+Jessie Lawrence Ferguson,Lutan,1,6.14,46,TNG,0.16
+Kenneth Washington,John B. Watkins,1,6.56,35,TOS,0.16
+Charles Rocket,Jippeq,1,7.03,24,VOY,0.16
+Charles Tentindo,Jimenez,1,7.06,23,DS9,0.16
+Chad Allen,Jono,1,6.19,37,TNG,0.16
+Sharon Conley,Jomat Luson,1,6.98,26,DS9,0.16
+Boris Krutonog,Lojur,1,7.15,25,VOY,0.16
+Kerrie Keane,Alexana Devos,1,6.5,37,TNG,0.16
+Ronald Guttman,Gathorel Labin,1,7.1,24,VOY,0.16
+Bob Minor,Bo'rak,1,7.2,24,DS9,0.16
+Naomi Pollack,Rahda,1,6.56,35,TOS,0.16
+Jason Evers,Rael,1,6.61,35,TOS,0.16
+Peggy Roeder,Y'Pora,1,7.22,23,DS9,0.16
+Brad Forrest,Wyatt,1,6.56,35,TOS,0.16
+Byron Morrow,Westervliet,1,6.27,37,TOS,0.16
+Barbara Townsend,Connaught Rossa,1,6.19,37,TNG,0.16
+Geoffrey Binney,Compton,1,6.61,35,TOS,0.16
+Walker Boone,Leland T. Lynch,1,6.31,39,TNG,0.16
+Musetta Vander,Derran Tal,1,7.03,24,VOY,0.16
+Julian Christopher,Hagon,1,6.14,46,TNG,0.16
+Brian Quinn,Dale,1,6.17,43,PIC,0.16
+Arthur Batanides,D'Amato,1,6.56,35,TOS,0.16
+Teri Hatcher,B.G. Robinson,1,6.1,42,TNG,0.16
+Carolyn Nelson,Atkins,1,6.42,38,TOS,0.16
+Jillian Ziesmer,Asha,1,6.98,26,DS9,0.16
+Rudy Solari,Salish,1,6.42,37,TOS,0.16
+Richard Cox,Kyril Finn,1,6.5,37,TNG,0.16
+Bridget Ann White,Larell,1,7.08,24,DS9,0.16
+Ivo Nandi,Leclerc,1,6.32,36,PIC,0.16
+Paul Tompkins,Anthony Brevelle,1,6.37,34,TNG,0.16
+Mark Thompson,Anthony Brevelle,1,6.37,34,TNG,0.16
+Amy O'Neill,Annette,1,6.33,39,TNG,0.16
+Scott Thompson Baker,Kudak'Etan,1,7.09,23,DS9,0.16
+Callan White,Krite,1,6.47,38,TNG,0.16
+Douglas Rowe,Debin,1,6.1,42,TNG,0.16
+Derek Partridge,Dionyd,1,6.27,35,TOS,0.16
+Christian Zimmerman,Lamat'Ukan,1,7.09,23,DS9,0.16
+Daniel Jun,Lai,1,6.34,36,DIS,0.16
+Linford Mark Robinson,L'Teis Kardashev,1,6.34,36,DIS,0.16
+Chip Mayer,Ryan,1,6.97,24,DS9,0.16
+Laura Wood,Elaine Johnson,1,6.42,38,TOS,0.16
+Erik Holland,Ekor,1,6.61,35,TOS,0.16
+Ken Magee,Emck,1,7.18,23,VOY,0.16
+Mark La Mura,John Doe,1,6.55,35,TNG,0.16
+Susan Christy,Tarrana,1,6.61,31,TNG,0.16
+Vladimir Velasco,Tan Tsu,1,6.38,36,TNG,0.16
+Albert Stratton,Kushell,1,6.1,42,TNG,0.16
+Craig Richard Nelson,Krag,1,6.41,37,TNG,0.16
+Robert Mandan,Kotan Pa'Dar,1,6.98,26,DS9,0.16
+Stanley Kamel,Kosinski,1,6.18,42,TNG,0.16
+Joan Stuart Morris,T'Pan,1,6.6,31,TNG,0.16
+Ken Lesco,T'Lor,1,7.3,25,DS9,0.16
+J. Shoemaker,Reiskin,1,7.24,24,VOY,0.16
+Leslie Morris,Reginod,1,6.3,37,TNG,0.16
+Roderick Garr,Regana Tosh,1,7.15,24,DS9,0.16
+Louise Sorel,Rayna Kapec,1,6.67,34,TOS,0.16
+John Paul Lona,Runepp,1,7.13,23,DS9,0.16
+Galyn Görg,Korena,1,7.17,24,DS9,0.16
+Arell Blanton,Dickerson,1,6.33,34,TOS,0.16
+Stacie Renna,Traistana,1,7.05,23,ENT,0.16
+Randy Lowell,Torat,1,7.35,24,VOY,0.16
+David Ruprecht,Kojiro Vance,1,7.96,16,PRO,0.16
+Wren T. Brown,Kohlar,1,7.4,21,VOY,0.16
+Gary Hunter,Connor Rossa,1,6.19,37,TNG,0.16
+Jeff Ricketts,Keval,1,7.39,24,ENT,0.16
+Patricia Smith,Kingsley,1,6.25,38,TNG,0.16
+Marc Buckland,Katik Shaw,1,6.5,37,TNG,0.16
+Mike Starr,Tony Cicci,1,6.97,24,DS9,0.16
+Richard Hale,Goro,1,6.42,37,TOS,0.16
+Melvin Belli,Gorgan,1,6.5,36,TOS,0.16
+Lisa Berry,Kanak,1,6.54,33,DIS,0.16
+Edward Penn,Kateras,1,6.61,31,TNG,0.16
+Mark Harelik,Kashyk,1,7.35,24,VOY,0.16
+Brenda Jean Wright,Karyn Berlin,1,6.85,26,VOY,0.16
+Felix Locher,Robert Johnson,1,6.42,38,TOS,0.16
+Mike Genovese,Zef'No,1,7.07,26,DS9,0.16
+Zach Galligan,David Gentry,1,7.24,24,VOY,0.16
+Raymond Forchion,Ben Prieto,1,6.31,39,TNG,0.16
+Rosalyn Landor,Brenna Odell,1,6.12,39,TNG,0.16
+Jake Sakson,Adar,1,7.35,24,VOY,0.16
+Emilia Crow,Zyree,1,6.89,26,DS9,0.16
+William Wintersole,Abrom,1,6.0,39,TOS,0.15
+Adolf Hitler,Adolf Hitler,1,6.0,39,TOS,0.15
+Edward Laurence Albert,Zayra,1,6.49,29,DS9,0.15
+Brad Blaisdell,Yint,1,6.9,22,DS9,0.15
+"Richard J. Zobel, Jr.",Gaumen,1,6.95,21,VOY,0.15
+Geraldine Farrell,Galis,1,6.57,29,DS9,0.15
+John Kassir,Gar,1,7.21,21,VOY,0.15
+Emilio Borelli,Frool,1,6.76,22,DS9,0.15
+Kaj-Erik Eriksen,Udar,1,7.12,18,ENT,0.15
+Wendy Robie,Ulani Belor,1,6.92,23,DS9,0.15
+John Davis Chandler,Flith,1,6.9,22,DS9,0.15
+Gretchen German,Rebecca Sullivan,1,7.0,21,DS9,0.15
+Heidi Swedberg,Rekelen,1,6.77,24,DS9,0.15
+Joseph Culp,Raimus,1,6.9,22,DS9,0.15
+John Cirigliano,Ranora,1,6.83,24,VOY,0.15
+Amy Pietz,Sandra Rhodes,1,6.27,28,TNG,0.15
+Tracy Scoggins,Gilora Rejal,1,6.92,23,DS9,0.15
+David Hillary Hughes,Trefayne,1,5.7,43,TOS,0.15
+Michael Sarrazin,Trevean,1,6.88,23,DS9,0.15
+Steve Ihnat,Garth,1,6.29,34,TOS,0.15
+Jefrey Alan Chandler,Hatil Garan,1,6.83,24,VOY,0.15
+Gordon Clapp,Hadran,1,6.6,26,DS9,0.15
+Hugh Hodgin,"Automated Unit 6263, Prototype Unit 0001",1,6.96,23,VOY,0.15
+John Abbott,Ayelborne,1,5.7,43,TOS,0.15
+Paul Chipello,Claude,1,6.99,23,VOY,0.15
+Peter Brocco,Claymare,1,5.7,43,TOS,0.15
+Kenneth Mars,Colyus,1,6.83,25,DS9,0.15
+Patrick B. Egan,Whatley,1,6.87,22,DS9,0.15
+"Ernest Perry, Jr.",Charlie Whatley,1,6.7,22,DS9,0.15
+Michael Corbett,Rabal,1,6.22,31,TNG,0.15
+Robert Symonds,Porta,1,6.86,23,DS9,0.15
+Joseph Hindy,Prah Mantoos,1,7.08,21,ENT,0.15
+Cecile Callan,Ptera,1,6.83,24,VOY,0.15
+Tom Schanley,Greer,1,7.26,19,ENT,0.15
+Matt Malloy,Grish,1,6.97,22,ENT,0.15
+Dawn Arnemann,Gladstone,1,5.82,44,TNG,0.15
+Jonathan Banks,Golin Shel-la,1,6.4,26,DS9,0.15
+Colin Mitchell,Gorta,1,6.43,29,TNG,0.15
+Scott Thomson,Goss,1,6.12,37,TNG,0.15
+Michael O'Hagan,Fraddock,1,7.08,21,ENT,0.15
+Henri Lubatti,Ethan Novakovich,1,6.58,23,ENT,0.15
+Robert DoQui,Noggra,1,6.85,24,DS9,0.15
+Heide Margolis,Norva,1,6.88,23,DS9,0.15
+Nicolas Surovy,Pe'Nar Makull,1,6.67,25,VOY,0.15
+Margaret Reed,Serova,1,6.22,31,TNG,0.15
+Lennon Parham,Shari yn Yem,1,7.74,14,LD,0.15
+Louahn Lowe,Okala,1,6.76,22,DS9,0.15
+Cliff DeYoung,Croden,1,6.6,26,DS9,0.15
+William Utay,Vanik,1,6.74,22,ENT,0.15
+Patrick Horgan,Eneg,1,6.0,39,TOS,0.15
+Dylan Haggerty,Epran,1,6.88,23,DS9,0.15
+Rafael Boza,Askwith,1,7.53,18,ENT,0.15
+Bo Zenga,Asoth,1,6.57,29,DS9,0.15
+Seymour Cassel,Hester Dealt,1,5.82,44,TNG,0.15
+David Hurst,Hodin,1,6.28,33,TOS,0.15
+Kirsten Dunst,"Hedril, Kestra Troi",1,6.21,32,TNG,0.15
+Thomas Prisco,Heler,1,6.65,26,DS9,0.15
+Robin Atkin Downes,Togg,1,7.98,15,LD,0.15
+Michelan Sisti,Tol,1,6.27,28,TNG,0.15
+Paul Scherrer,Voje,1,7.21,21,VOY,0.15
+George Aguilar,Wakasa,1,6.07,32,TNG,0.15
+Michael L. Maguire,Benaren,1,7.06,22,VOY,0.15
+Clarence Williams III,Omet'iklan,1,7.03,23,DS9,0.15
+David Carpenter,Onara,1,6.86,23,DS9,0.15
+Joel Polis,Ny Terla,1,6.67,25,VOY,0.15
+Sharon Acker,Odona,1,6.28,33,TOS,0.15
+Richard Evans,Isak,1,6.0,39,TOS,0.15
+Josh Bell,Ian Troi,1,5.82,44,TNG,0.15
+R.J. Williams,Ian Troi,1,5.82,44,TNG,0.15
+Zachary Benjamin,Ian Troi,1,5.82,44,TNG,0.15
+Michael McKean,The Clown,1,6.6,26,VOY,0.15
+Ken Olandt,Jason Vigo,1,6.27,28,TNG,0.15
+Glenn Harris,Jeffrey,1,6.84,22,VOY,0.15
+Dave Power,Jeffrey Pierce,1,7.16,19,ENT,0.15
+Mary Crosby,Natima Lang,1,6.77,24,DS9,0.15
+Brian Keith,Mullibok,1,6.46,26,DS9,0.15
+Rodrigo Fernandez-Stol,Nalas,1,5.89,41,DIS,0.15
+Ron Fassler,Morin,1,7.1,21,VOY,0.15
+Robert Costanzo,Slade Bender,1,5.99,37,TNG,0.15
+Victor Bevine,Belar,1,6.76,22,DS9,0.15
+Craig Benton,Davis,1,6.08,32,TNG,0.15
+Chuck Courtney,Davod,1,6.0,39,TOS,0.15
+Valora Noland,Daras,1,6.0,39,TOS,0.15
+Kipleigh Brown,Jane Taylor,1,7.27,18,ENT,0.15
+Kim Braden,Janet Brooks,1,5.95,35,TNG,0.15
+Justin Williams,Jarvin,1,6.72,26,VOY,0.15
+Jack Kehler,Jaheel,1,6.57,29,DS9,0.15
+Morgan Peters,J. Hawkings,1,6.09,37,PIC,0.15
+Amy Kate Connolly,Irina Karlovassi,1,7.12,18,ENT,0.15
+David Brian,John Gill,1,6.0,39,TOS,0.15
+Ben Lemon,Jev,1,6.08,32,TNG,0.15
+Alexandra Lydon,Jhamel,1,7.47,18,ENT,0.15
+Benjamin W.S. Lum,Jim Shimoda,1,5.31,51,TNG,0.15
+Kevin P. Stillwell,Moklor,1,6.86,21,VOY,0.15
+Benita Andre,Anara,1,6.59,25,DS9,0.15
+Christopher Aguilar,Andrew Kim,1,7.06,22,VOY,0.15
+Jan Shutan,Mira Romaine,1,6.11,32,TOS,0.15
+Cástulo Guerra,Mendoza,1,6.12,37,TNG,0.15
+Martin Cassidy,Merruk,1,6.83,25,DS9,0.15
+Adam Pally,Mesk,1,7.82,14,LD,0.15
+Leonard Kelly-Young,Sonsorra,1,7.08,21,ENT,0.15
+Larc Spies,Stel,1,7.53,18,ENT,0.15
+Scott Haven,Virak'kara,1,7.03,23,DS9,0.15
+Jane Carr,Mary Reed,1,7.06,21,ENT,0.15
+Erica Mer,Maryl,1,7.06,22,VOY,0.15
+Josh Holt,Masaro,1,7.43,18,ENT,0.15
+Yvonne Craig,Marta,1,6.29,34,TOS,0.15
+Rachael Harris,Martis,1,7.06,22,VOY,0.15
+David Jeffries,Stol,1,6.4,29,DS9,0.15
+Guy Siner,Stuart Reed,1,7.06,21,ENT,0.15
+Mimi Craven,Jisa,1,7.1,21,VOY,0.15
+Constance Towers,Taxco,1,6.59,25,DS9,0.15
+Dublin James,Tebbis,1,7.21,21,VOY,0.15
+Rosie Malek-Yonan,Tekoa,1,6.87,22,DS9,0.15
+Patrick Cronin,Erko,1,6.0,32,TNG,0.15
+Craig Wasson,Ee'char,1,6.74,22,DS9,0.15
+Ellen Wheeler,Ekoria,1,6.88,23,DS9,0.15
+Blake Lindsley,Synon,1,7.03,22,DS9,0.15
+Michael Nouri,Syrran,1,7.53,18,ENT,0.15
+Marc Evan Jackson,Syvek,1,7.98,15,LD,0.15
+Jessica Lowe,T'Gai,1,7.98,15,LD,0.15
+Matt McCoy,Devinoni Ral,1,6.12,37,TNG,0.15
+Mike Baldridge,Dillard,1,6.76,24,ENT,0.15
+Jessica Hendra,Dejar,1,6.92,23,DS9,0.15
+Neil Maffin,Ven,1,7.06,22,VOY,0.15
+John Glover,Verad,1,6.48,25,DS9,0.15
+Tawny Newsome,Vindicta,1,7.42,17,LD,0.15
+Robert Mammana,Eddie,1,7.06,21,ENT,0.15
+Richard Libertini,Akorem Laan,1,6.86,23,DS9,0.15
+Keye Luke,"Donald Cory, Garth",1,6.29,34,TOS,0.15
+Colton Dunn,Dorg,1,7.98,15,LD,0.15
+Jeannetta Arnette,Karen Loews,1,6.92,24,DS9,0.15
+Tess Lina,Karyn Archer,1,7.26,19,ENT,0.15
+William Newman,Kalin Trose,1,6.21,34,TNG,0.15
+Nicole Orth-Pallavicini,Kareel Odan,1,6.21,34,TNG,0.15
+Chad Haywood,K'Kath,1,6.84,22,VOY,0.15
+David Sage,Tarmin,1,6.08,32,TNG,0.15
+Patty Maloney,Little Woman,1,6.6,26,VOY,0.15
+Mark A. Sheppard,Leucon,1,6.98,21,VOY,0.15
+Kevin Peter Hall,Leyor,1,6.12,37,TNG,0.15
+Jessica Collins,Linnis Paris,1,7.06,22,VOY,0.15
+John Rosenfeld,Mark Latrelle,1,7.06,21,ENT,0.15
+Caroline Lagerfelt,Makbar,1,6.99,23,DS9,0.15
+Sidney Liufau,Manuele Atoa,1,6.86,23,DS9,0.15
+Brooke Bundy,MacDougal,1,5.31,51,TNG,0.15
+Paula Malcomson,Madeline Reed,1,7.06,21,ENT,0.15
+Matthew Faison,Surmak Ren,1,6.57,29,DS9,0.15
+Albie Selznick,Tash,1,6.94,21,VOY,0.15
+Fritz Weaver,Kovat,1,6.99,23,DS9,0.15
+Lou Wagner,Krax,1,6.61,27,DS9,0.15
+John Franklin,Kipp,1,7.21,21,VOY,0.15
+Andrew Kavovit,Kirby,1,6.95,23,DS9,0.15
+Andreana Weiner,Kestra Troi,1,6.21,32,TNG,0.15
+Annie O'Donnell,Keena,1,6.46,26,DS9,0.15
+Grace Zandarski,Latara,1,6.86,23,DS9,0.15
+Robert Harper,Lathal Bine,1,6.21,34,TNG,0.15
+Brady Bluhm,Latika,1,6.67,25,VOY,0.15
+Jerry Sroka,Laxeth,1,7.04,22,VOY,0.15
+Tom Klunis,Lamonay S.,1,6.49,29,DS9,0.15
+Kristin Bauer,Laneth,1,7.25,17,ENT,0.15
+Mitchell Ryan,Kyle Riker,1,6.12,36,TNG,0.15
+Mark Barrett,Lonzo,1,6.7,23,DS9,0.15
+Robin Groves,Loria,1,6.83,24,VOY,0.15
+David Andrews,Lorian,1,7.26,19,ENT,0.15
+Alicia Adams,Lissan,1,7.47,18,ENT,0.15
+Tracey Ellis,Yifay,1,6.98,21,VOY,0.15
+William Daniels,Allocator,1,7.21,21,VOY,0.15
+Jeff Austin,Allos,1,6.92,22,VOY,0.15
+Tony Jay,Campio,1,6.0,32,TNG,0.15
+Elizabeth Hoffman,Bhavani,1,6.12,37,TNG,0.15
+Paul Collins,Zlangco,1,6.4,26,DS9,0.15
+Eric Ritter,Yivel,1,6.98,21,VOY,0.15
+Diane DiLascio,Riaan,1,6.77,22,ENT,0.15
+Stan Petier,Rul the Obscure,1,6.4,29,DS9,0.15
+Kenneth Tobey,Rurigan,1,6.83,25,DS9,0.15
+John Beck,Raymond Boone,1,6.99,23,DS9,0.15
+Larry Drake,Chellick,1,7.21,21,VOY,0.15
+Michael Harney,Chadwick,1,6.9,22,DS9,0.15
+Wendy Schaal,Charlene,1,6.84,22,VOY,0.15
+Leslie Engelberg,Yareth,1,6.6,26,DS9,0.15
+Robert Joy,Yerid,1,6.72,19,VOY,0.14
+Christopher Neiman,Yeggie,1,6.86,19,VOY,0.14
+Joel Grey,Caylem,1,6.55,22,VOY,0.14
+Steven Houska,Chardis,1,6.7,21,VOY,0.14
+Sam Zeller,Ch'Targh,1,6.59,22,DS9,0.14
+Michael John Anderson,Rumpelstiltskin,1,6.3,26,DS9,0.14
+Hillary Hayes,Ruby,1,6.94,19,ENT,0.14
+Beans Morocco,Rib,1,6.35,21,VOY,0.14
+Clancy Brown,Zobral,1,6.52,19,ENT,0.14
+Don McManus,Zio,1,6.35,21,VOY,0.14
+Michael Mahonen,Brone,1,6.49,22,VOY,0.14
+Nck Name,Callum,1,5.54,34,DIS,0.14
+Victor Rivers,Altovar,1,6.23,23,DS9,0.14
+K Callan,Alsia,1,6.2,23,DS9,0.14
+Gail Strickland,Alixus,1,6.34,26,DS9,0.14
+Robin Stapler,Alixia,1,6.55,21,VOY,0.14
+Matt Walsh,Ron Docent,1,6.98,17,LD,0.14
+Paul Williams,Koru,1,6.63,22,VOY,0.14
+Amy Jo Traicoff,T'Pera,1,6.72,21,VOY,0.14
+Bert Remsen,Kubus Oak,1,6.64,22,DS9,0.14
+Leon Rippy,L.Q. Clemonds,1,8.84,9,TNG,0.14
+Lark Voorhies,Leanne,1,6.33,23,DS9,0.14
+Matt Roe,Latha Mabrin,1,6.52,22,DS9,0.14
+Mark Kiely,Lasca,1,6.39,23,VOY,0.14
+Sharisse Baker-Bernard,Leosa,1,6.86,19,VOY,0.14
+Courtney Peldon,Karen Farris,1,6.49,23,DS9,0.14
+Terrence Beasor,Talmadge,1,5.65,32,TNG,0.14
+Renée Jones,Aquiel Uhnari,1,5.94,32,TNG,0.14
+Leslie Hope,Kira Meru,1,6.49,21,DS9,0.14
+Mark Elliot Silverberg,Kraul,1,6.84,19,ENT,0.14
+Brant Cotton,Tauvid Rem,1,6.36,21,DS9,0.14
+Sarah Booth,Luda,1,5.96,28,DIS,0.14
+Lemuel Perry,Leo,1,6.94,19,ENT,0.14
+John Doman,Lenaris Holem,1,6.52,22,DS9,0.14
+Marnie McPhail,Alcia,1,6.4,22,VOY,0.14
+Robin McKee,Lidell Ren,1,6.46,24,VOY,0.14
+Stephanie Erb,Liva,1,5.65,32,TNG,0.14
+Charlie Curtis,Talura,1,6.73,21,DS9,0.14
+Robert Tyler,Joxom,1,6.62,19,VOY,0.14
+Richard Wharton,Jossen,1,6.5,19,ENT,0.14
+Steve Vinovich,Joseph,1,6.34,26,DS9,0.14
+Meghan Murphy,Karya,1,6.49,22,VOY,0.14
+Greville Henwood,Akary,1,6.28,22,ENT,0.14
+Kevin Michael Richardson,Vindor,1,6.75,18,LD,0.14
+Cully Fredricksen,Dereth,1,6.21,24,VOY,0.14
+Maurice LaMarche,Drew Prachett,1,6.96,16,LD,0.14
+Ashley Brianne McDonogh,Dorian Collins,1,6.49,23,DS9,0.14
+Lindsay Ridgeway,Suspiria,1,6.67,21,VOY,0.14
+Christine Romeo,Susan Khouri,1,7.07,17,ENT,0.14
+Charles Parks,Eblan,1,6.64,22,DS9,0.14
+Jennifer Hale,"Durga, The Dog",1,6.96,16,LD,0.14
+Sarah Rayne,Elani,1,6.4,22,VOY,0.14
+Robert Axelrod,Egrid,1,6.8,19,VOY,0.14
+Ben Vereen,Edward M. La Forge,1,6.05,29,TNG,0.14
+Brian Reddy,Temec,1,6.54,19,ENT,0.14
+Stephen Mendillo,Tavek,1,6.5,19,ENT,0.14
+Geoffrey Blake,Arjin,1,6.24,23,DS9,0.14
+John Harnagel,Joe Prazki,1,6.84,19,ENT,0.14
+Jill Sayre,Mardah,1,6.54,23,DS9,0.14
+Chris Sarandon,Martus Mazur,1,6.2,23,DS9,0.14
+Marilyn Fox,Marna,1,6.49,22,VOY,0.14
+Daphne Ashbrook,Melora Pazlar,1,6.22,25,DS9,0.14
+Heidi Krämer,Megan Delaney,1,6.68,21,VOY,0.14
+David Bowe,Basso,1,6.49,21,DS9,0.14
+Michael Buchman Silver,Vinod,1,6.34,26,DS9,0.14
+Nina Magnesson,Vinka,1,6.63,22,VOY,0.14
+Gizmo ,Neeka,1,6.46,24,VOY,0.14
+Lori Petty,Noss,1,6.71,21,VOY,0.14
+Lisa Madigan,Meg,1,6.34,26,DS9,0.14
+Robert Curtis Brown,Sorad,1,6.21,24,DS9,0.14
+Patrick Fischler,Mercer,1,7.07,17,ENT,0.14
+Maureen Flannigan,Mika,1,6.37,21,DS9,0.14
+Reg E. Cathey,Morag,1,5.94,32,TNG,0.14
+Kim Rhodes,"Jhet'leya, Lyndsay Ballard",1,6.57,21,VOY,0.14
+Athena Massey,Jessen,1,6.53,21,VOY,0.14
+Eugene Roche,Jor Brel,1,6.53,21,VOY,0.14
+Mary Linda Rapelye,Irina Galliulin,1,5.54,38,TOS,0.14
+Lorinne Vozoff,Irene Hansen,1,6.63,19,VOY,0.14
+Rick Scarry,Jarth,1,5.65,32,TNG,0.14
+Tom Todoroff,Darod,1,6.55,22,VOY,0.14
+Tom Villard,Bek,1,6.64,22,DS9,0.14
+Gregg Daniel,Mobar,1,6.7,19,VOY,0.14
+Stephen B. Rappaport,Motura,1,6.21,24,VOY,0.14
+Mary Carver,Nadet,1,6.28,22,ENT,0.14
+Gabrielle Union,N'Garen,1,6.59,22,DS9,0.14
+Lauren Tom,Nguyen,1,6.98,17,LD,0.14
+Alissa Krämer,Jenny Delaney,1,6.68,21,VOY,0.14
+Don Stark,Ashrock,1,6.22,25,DS9,0.14
+Paul Popowich,Tim Watters,1,6.49,23,DS9,0.14
+Peter Lauritson,Thomas Raymond,1,8.84,9,TNG,0.14
+Anthony James,Thei,1,8.84,9,TNG,0.14
+Bruce Bohne,Ishan,1,6.72,21,VOY,0.14
+Shay Astar,Isabella,1,5.93,32,TNG,0.14
+Terry Lester,Haron,1,6.62,21,VOY,0.14
+George D. Wallace,Simons,1,5.65,32,TNG,0.14
+Madge Sinclair,Silva La Forge,1,6.05,29,TNG,0.14
+Haley Joel Osment,O'Connor,1,6.85,17,LD,0.14
+Michael William Rivkin,Nunk,1,6.86,19,VOY,0.14
+Dennis Cockrum,Orek,1,6.7,19,VOY,0.14
+Matthew Kimbrough,Okalar,1,6.54,23,DS9,0.14
+Richard Garon,Bennet,1,6.4,22,VOY,0.14
+Matt McKenzie,Weld Ram,1,6.44,23,DS9,0.14
+James G. MacDonald,Wainwright,1,6.56,23,DS9,0.14
+Kamala Lopez-Dawson,Tincoo,1,6.63,22,VOY,0.14
+Brian Jacobs,Athan,1,6.28,22,ENT,0.14
+Betty McGuire,Vayna,1,6.21,24,DS9,0.14
+Ted Rooney,Varn,1,6.7,19,VOY,0.14
+Gina Philips,Varis Sul,1,5.94,26,DS9,0.14
+Nicholas Shaffer,Cowl,1,6.21,24,DS9,0.14
+Louis Giambalvo,Cosimo,1,6.39,23,VOY,0.14
+Albert Henderson,Cos,1,6.2,23,DS9,0.14
+Tahj D. Mowry,Corin,1,6.4,22,VOY,0.14
+Jason Leland Adams,Benyan,1,6.37,21,DS9,0.14
+Susan French,Sev Maylor,1,5.65,32,TNG,0.14
+Scott Hamm,Parton,1,6.49,23,DS9,0.14
+Vanessa Marshall,Ottessa Warren,1,6.96,16,LD,0.14
+Noa Tishby,Amanda Cole,1,6.86,19,ENT,0.14
+Peter Crombie,Fallit Kot,1,6.22,25,DS9,0.14
+Norman Parker,Fala,1,6.37,21,DS9,0.14
+Salli Elise Richardson,"Fenna, Nidell",1,6.08,24,DS9,0.14
+Michael Greyeyes,Felix,1,5.96,28,DIS,0.14
+Robin Van Sharner,Farran,1,6.53,21,VOY,0.14
+Tim Halligan,Farrakk,1,6.73,21,DS9,0.14
+Chris Nelson Norris,Trajok,1,6.24,23,DS9,0.14
+Marie Caldare,Azen,1,6.63,22,VOY,0.14
+Ed Trotta,Pit,1,6.35,21,VOY,0.14
+Rosemary Morgan,Piri,1,6.35,21,VOY,0.14
+Mark Erickson,Piersall,1,6.08,24,DS9,0.14
+Booth Colman,Penno,1,6.49,22,VOY,0.14
+Kevin Lowe,Q'ret,1,6.57,21,VOY,0.14
+Matt E. Levin,Rafin,1,6.49,22,VOY,0.14
+Gracie Harrison,Clare Raymond,1,8.84,9,TNG,0.14
+Aaron Lustig,Guri,1,6.88,19,ENT,0.14
+Steven Berkoff,Hagath,1,6.73,21,DS9,0.14
+Michael Durrell,Hazar,1,6.21,24,DS9,0.14
+Andrew Koenig,Tumak,1,6.21,24,DS9,0.14
+Tiffany Taubman,Tressa,1,6.4,22,VOY,0.14
+Jennifer Savidge,Trentin Fala,1,6.52,22,DS9,0.14
+Carole Davis,Giuseppina Pentangeli,1,6.7,21,VOY,0.14
+Richard Kiley,Gideon Seyetik,1,6.08,24,DS9,0.14
+Zach Grenier,Renth,1,6.88,19,ENT,0.14
+Barbara Bosson,Roana,1,6.2,23,DS9,0.14
+Eva Loseth,Riska,1,6.33,23,DS9,0.14
+Willie Garson,Riga,1,6.68,21,VOY,0.14
+Nancy Kaine,Sanric,1,6.53,21,VOY,0.14
+Joe Maruzzo,Sal,1,6.84,19,ENT,0.14
+Jay Harrington,Ravoc,1,6.72,19,VOY,0.14
+James Harper,Rao Vantika,1,6.21,26,DS9,0.14
+Peter Mark Richman,Ralph Offenhouse,1,8.84,9,TNG,0.14
+Lisa Banes,Renhol,1,6.43,23,DS9,0.14
+Sochi Fried,Patri Doxica,1,5.96,28,DIS,0.14
+Neil Casey,Gernba,1,6.75,18,LD,0.14
+Patrick Haye,Ferin,1,5.54,34,DIS,0.14
+Amanda Arcuri,Val Sasha,1,5.54,34,DIS,0.14
+Christopher Neame,Unferth,1,6.36,22,VOY,0.14
+Marjorie Monaghan,Freya,1,6.36,22,VOY,0.14
+Rick Schatz,Gantt,1,6.65,21,DS9,0.14
+Keith Carradine,A.G. Robinson,1,6.94,19,ENT,0.14
+Sima Sepehri,Adhar,1,5.96,28,DIS,0.14
+Harvey Vernon,Yolad Belar,1,6.43,23,DS9,0.14
+Gregg Henry,Zho'Kaan,1,6.83,19,ENT,0.14
+Benjamin Livingston,Burkus,1,6.68,21,VOY,0.14
+Ray Xifo,Abarca,1,6.63,22,VOY,0.14
+D.C. Douglas,Zepht,1,6.63,17,ENT,0.13
+David Lee Smith,Zahir,1,6.06,19,VOY,0.13
+Claudia Jurt,Zakari,1,5.9,24,DIS,0.13
+Sean Whalen,Zoumas,1,6.5,18,ENT,0.13
+Carly Thomas,Alison,1,6.5,19,ENT,0.13
+Bob Rudd,Brell,1,6.26,18,VOY,0.13
+Steve Larson,Zjod,1,6.53,18,ENT,0.13
+Mark Chaet,Yolen,1,6.63,17,ENT,0.13
+Mark Rafael Truitt,Yosa,1,6.37,19,VOY,0.13
+Anthony Crivello,Adin,1,6.3,21,VOY,0.13
+Jan Claire,Francis Sullivan,1,6.11,23,VOY,0.13
+Kevin Derr,G. Austin,1,6.53,18,ENT,0.13
+Ed O'Ross,Gaavrin,1,6.53,18,ENT,0.13
+Sylvain Cecile,Uri'lash,1,5.84,23,DS9,0.13
+Paul F. O'Brien,Geral,1,6.26,18,VOY,0.13
+Morgan H. Margolis,Baird,1,6.5,19,ENT,0.13
+Justin Louis,Trevis,1,6.09,21,VOY,0.13
+Laura Putney,Trevix,1,6.63,17,ENT,0.13
+Joel Brooks,Falow,1,5.65,29,DS9,0.13
+Monika Kusley,Tria,1,6.21,21,VOY,0.13
+Michael Garvey,Goroth,1,6.53,18,ENT,0.13
+Ellen Albertini Dow,Felisa Howard,1,5.05,36,TNG,0.13
+Sherman Augustus,Hij'qa,1,6.03,21,VOY,0.13
+Warren Scherer,Ato Kurr,1,5.9,24,DIS,0.13
+Henry Stram,Hudak,1,6.63,17,ENT,0.13
+Scott Thompson,Tomin,1,6.21,21,VOY,0.13
+Elizabeth Goldstein,Alandra,1,6.21,21,VOY,0.13
+Philip Anthony-Rodriguez,Juan,1,6.3,18,ENT,0.13
+Ron McCoy,Tieran,1,6.3,21,VOY,0.13
+Lindsey Stoddart,Indava,1,6.4,19,ENT,0.13
+Taylor Sheridan,Jareb,1,6.4,19,ENT,0.13
+Carol Krnic,Jor,1,6.37,19,VOY,0.13
+Scott Miles,Terek,1,6.26,18,VOY,0.13
+Ayesha Mansur Gonsalves,J'Vini,1,5.54,32,DIS,0.13
+Eric Matsumoto,Eric Motz,1,5.54,29,ENT,0.13
+Noél De Souza,Mahatma Gandhi,1,6.06,19,VOY,0.13
+E. Michael Fincke,M. Fincke,1,5.54,29,ENT,0.13
+Christopher Clarke,Lord Byron,1,6.06,19,VOY,0.13
+Terry Virts,T. Virts,1,5.54,29,ENT,0.13
+Jasmine Anthony,Talla,1,5.54,29,ENT,0.13
+Joseph Palmas,Antonio,1,6.05,22,VOY,0.13
+Maury Sterling,Tarquin,1,6.51,18,ENT,0.13
+Vince Grant,Yarrick,1,6.4,19,ENT,0.13
+Bobby Moynihan,"Carlton Dennis, Gavin",1,7.17,12,LD,0.13
+Clara Bryant,Chandra,1,5.65,29,DS9,0.13
+Charles Emmett,Resh,1,6.3,21,VOY,0.13
+Symba Smith,Aluura,1,5.84,23,DS9,0.13
+Joan Pringle,Rianna Mayweather,1,6.3,18,ENT,0.13
+Chuck Magnus,Reskat,1,6.1,21,VOY,0.13
+Ron Glass,Loken,1,6.26,18,VOY,0.13
+Scott Alan Smith,Doyle,1,6.37,19,VOY,0.13
+Steve Kehela,Sutok,1,6.44,19,VOY,0.13
+Shay Duffin,Ned Quint,1,5.05,36,TNG,0.13
+Karen Austin,Miral,1,6.03,21,VOY,0.13
+Andy Simonson,Andy Simonson,1,5.54,29,ENT,0.13
+Menina Fortunato,Maras,1,6.46,18,ENT,0.13
+David Burke,Steven Price,1,6.21,21,VOY,0.13
+Jason Gosbee,Mat'trub,1,5.9,24,DIS,0.13
+Don Rutherford,Socrates,1,6.06,19,VOY,0.13
+Beverly Leech,Dayla,1,6.26,18,VOY,0.13
+Crystal Allen,D'Nesh,1,6.46,18,ENT,0.13
+Mary Elizabeth McGlynn,Daelen,1,6.31,19,VOY,0.13
+Henry Gibson,Nilva,1,5.84,23,DS9,0.13
+Osric Chau,Oros,1,5.9,23,DIS,0.13
+Elyssa D. Vito,Nadine,1,6.27,21,ENT,0.13
+David Youse,Nalbis,1,6.4,19,ENT,0.13
+Keith Sutherland,Sepek,1,7.38,13,TAS,0.13
+Steven Allerick,Cook,1,6.56,18,ENT,0.13
+Brian McNamara,William Chapman,1,6.21,21,VOY,0.13
+James Nardini,Wixiban,1,6.44,19,VOY,0.13
+June Diane Raphael,Paolana,1,7.18,12,LD,0.13
+Corey Mendell Parker,Paul Mayweather,1,6.3,18,ENT,0.13
+Khalil Abdul-Malik,Patrick Fickett,1,5.54,32,DIS,0.13
+Nicole Forester,Nora,1,6.3,18,ENT,0.13
+Adam Paul,Charlie Nichols,1,6.3,18,ENT,0.13
+Doug Mirabello,Phil Wallace,1,5.54,29,ENT,0.13
+Shaun Bieniek,Pinar,1,6.04,23,DS9,0.13
+Michelle Agnew,Scharn,1,6.3,21,VOY,0.13
+Edward Zoellner,R. Wilcox,1,5.54,29,ENT,0.13
+Ryan Wilcox,R. Wilcox,1,5.54,29,ENT,0.13
+Nikita Ager,Rajiin,1,6.53,18,ENT,0.13
+Ronald Robinson,Sek,1,6.37,19,VOY,0.13
+"Harry Shum, Jr.",Rawda,1,6.57,13,LD,0.12
+James Sie,Kaltorus,1,6.57,13,LD,0.12
+Seth Morris,Illustor,1,7.23,11,LD,0.12
+Bill Cobbs,Emory Erickson,1,6.12,18,ENT,0.12
+Paul F. Tompkins,Hyde,1,6.84,12,LD,0.12
+Anthony Atamanuik,Honus,1,6.84,12,LD,0.12
+Roger Cross,Tret,1,5.92,19,ENT,0.12
+Mark Humphrey,Lito,1,5.54,24,DS9,0.12
+Noel Manzano,Burrows,1,6.12,18,ENT,0.12
+Monte Markham,Pascal Fullerton,1,5.54,24,DS9,0.12
+Troy Baker,Sherwyns,1,7.17,11,LD,0.12
+Leslie Silva,Danica Erickson,1,6.12,18,ENT,0.12
+Brett Cullen,Deral,1,5.54,24,DS9,0.12
+Alice Wetterlund,Melponar triplets,1,7.23,11,LD,0.12
+Vanessa Williams,Arandis,1,5.54,24,DS9,0.12
+John Towey,Ossan,1,5.66,21,DS9,0.12
+Christine Healy,Seltin Rakal,1,5.54,24,DS9,0.12
+Donovan Knowles,Quinn Erickson,1,6.12,18,ENT,0.12
+Robert Gilbert,Patingi,1,6.84,12,LD,0.12
+Catherine MacNeal,Henley,1,8.21,2,VOY,0.06
+Amy Lindsay,Lana,1,6.48,3,VOY,0.06
+Armand Schultz,Kenneth Dalby,1,8.21,2,VOY,0.06
+Andrew Hawkes,Amat'igan,1,7.77,2,DS9,0.06
+Ashley Sierra Hughes,Sabrina,1,6.48,3,VOY,0.06

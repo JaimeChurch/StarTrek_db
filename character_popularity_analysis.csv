@@ -1,0 +1,3033 @@
+Character ID,Character Name,Species,Episode Count,Avg Rating (Weighted),Total IMDB Votes,Series,Popularity Score
+6692,Worf,Klingon,280,7.35,106760,"DS9, TNG, PIC",8.51
+2800,Jean-Luc Picard,Unknown,208,7.29,97748,"TNG, PIC, DS9, ENT",8.372
+3181,Kathryn Janeway,Human,187,6.95,165439,"VOY, PRO",8.351
+1363,Deanna Troi,Betazoid,178,7.36,80392,"TNG, VOY, PIC, LD, ENT",8.308
+6661,William T. Riker,Human,192,7.29,87964,"TNG, VOY, PIC, LD, ENT",8.302
+4275,Miles O'Brien,Human,221,7.42,71724,"DS9, TNG",8.298
+1294,Data,Unknown,183,7.29,87641,"TNG, PIC, ENT",8.294
+2025,Geordi La Forge,Unknown,176,7.3,80397,"TNG, PIC, VOY",8.245
+623,Beverly Crusher,Human,164,7.39,67038,"TNG, PIC, PRO",8.211
+2238,Gwyndala,Unknown,19,6.95,114153,PRO,8.089
+2754,Jankom Pog,Unknown,19,6.95,114153,PRO,8.089
+4401,Murf,Mellanoid slime worm,19,6.95,114153,PRO,8.089
+1236,Dal R'El,Human,19,6.95,114153,PRO,8.089
+5307,Rok-Tahk,Brikar,19,6.95,114153,PRO,8.089
+6132,The Diviner,Vau N'Akat,19,6.95,114153,PRO,8.089
+6799,Zero,Medusan,19,6.95,114153,PRO,8.089
+5740,Spock,Human,126,7.31,63679,"TOS, SNW, TAS, DIS, PRO, TNG",8.084
+1513,Drednok,Unknown,16,6.94,112983,PRO,8.072
+2729,James T. Kirk,Human,102,7.36,53728,"TOS, SNW, TAS, ENT",8.022
+553,Batel,Human,2,9.09,6075,SNW,7.917
+3878,Maat Al-Salah,Human,1,9.1,6000,SNW,7.917
+2038,George Samuel Kirk,Human,6,9.05,6279,"SNW, TOS",7.913
+3468,Kyle,Human,18,8.96,6823,"SNW, TAS, TOS, TNG",7.907
+2821,Jenna Mitchell,Human,4,9.04,6197,SNW,7.896
+1707,Erica Ortegas,Human,10,8.99,6532,SNW,7.893
+3511,La'an Noonien-Singh,Human,10,8.99,6532,SNW,7.893
+3013,Joseph M'Benga,Human,11,8.97,6545,"TOS, SNW",7.883
+4499,Nelson,Human,58,7.6,30032,"TNG, VOY",7.837
+6601,Wesley Crusher,Human,70,7.17,54499,"TNG, PIC",7.823
+4961,Quark,Ferengi,170,7.54,31919,"DS9, VOY, TNG, LD",7.818
+2705,Jake Sisko,Human,146,7.69,25404,DS9,7.798
+3322,Kira Nerys,Bajoran,174,7.47,33975,"DS9, LD",7.792
+3044,Julian Bashir,Changeling,174,7.47,33994,"DS9, TNG",7.792
+591,Benjamin Sisko,Human,173,7.47,33961,DS9,7.792
+4345,Montgomery Scott,Human,86,7.21,46222,"TOS, SNW, TAS, PRO, TNG",7.745
+3630,Leslie,Human,56,7.48,31315,TOS,7.745
+2260,Hadley,Orion,65,7.48,31527,"TOS, DIS",7.743
+1031,Christopher Pike,Human,27,8.29,11265,"SNW, DIS, TOS",7.734
+6392,Una Chin-Riley,Illyrian,16,8.33,10803,"SNW, DIS, TOS",7.734
+4625,Odo,Changeling,173,7.45,31992,"DS9, PRO, PIC",7.727
+3619,Leonard McCoy,Human,96,7.18,45993,"TOS, TAS, TNG",7.713
+756,Brent,Human,41,7.85,17696,TOS,7.674
+788,Broik,Ferengi,89,7.58,23947,"DS9, VOY",7.645
+1279,Darien Wallace,Human,64,7.07,49149,TNG,7.635
+2999,Jones,Human,86,7.76,18362,"DS9, TNG",7.622
+948,Chakotay,Human,175,7.0,53749,"VOY, PRO",7.62
+5374,Russell,Human,71,7.41,28275,"TNG, VOY",7.598
+4683,Osborne,Human,3,8.69,6092,TOS,7.573
+4042,Martinez,Human,84,7.2,36974,TNG,7.573
+3529,Landru,Unknown,2,8.7,6019,"LD, TOS",7.571
+6359,Tula,Unknown,1,8.7,6000,TOS,7.569
+5131,Reger,Unknown,1,8.7,6000,TOS,7.569
+4025,Marplon,Unknown,1,8.7,6000,TOS,7.569
+2255,Hacom,Unknown,1,8.7,6000,TOS,7.569
+3673,Lindstrom,Human,1,8.7,6000,TOS,7.569
+6004,Tamar,Teplan,2,8.7,6023,"DS9, TOS",7.568
+6370,Tuvok,Vulcan,171,6.96,51428,"VOY, PIC, DS9",7.552
+6249,Tom Paris,Human,169,6.96,51299,"VOY, LD",7.545
+4488,Neelix,Unknown,168,6.96,51286,VOY,7.545
+2313,Harry Kim,Human,168,6.96,51286,VOY,7.545
+464,B'Elanna Torres,Klingon,167,6.96,51257,VOY,7.543
+6133,The Doctor,Unknown,167,6.96,51257,VOY,7.543
+294,Angela Martine,Human,4,8.1,11091,"SNW, TOS",7.54
+4598,Nyota Uhura,Human,90,7.2,35280,"TOS, SNW, TAS, PRO",7.539
+5281,Robert Tomlinson,Human,2,8.1,11000,"SNW, TOS",7.538
+2292,Hansen Al-Salah,Human,2,8.1,11000,"SNW, TOS",7.538
+1370,Decius,Romulan,2,8.1,11000,"SNW, TOS",7.538
+5579,Seven of Nine,Human,126,7.0,47004,"VOY, PIC",7.532
+6752,Youngblood,Human,41,7.23,33470,TNG,7.528
+4368,Morn,Lurian,95,7.46,24181,"DS9, TNG, VOY",7.526
+2693,Jadzia Dax,Trill,151,7.61,19613,DS9,7.524
+406,Ash Tyler,Klingon,25,7.45,24036,DIS,7.514
+4864,Phlox,Overlooker,99,7.19,33718,"ENT, DIS, VOY",7.498
+975,Charles Tucker III,Human,98,7.19,33691,"ENT, DIS",7.497
+3926,Malcolm Reed,Human,98,7.19,33691,"ENT, DIS",7.497
+5907,T'Pol,Vulcan,98,7.19,33691,"ENT, DIS",7.497
+2992,Jonathan Archer,Human,98,7.19,33691,"ENT, DIS",7.497
+6324,Travis Mayweather,Human,98,7.19,33691,"ENT, DIS",7.497
+2438,Hoshi Sato,Human,98,7.19,33691,"ENT, DIS",7.497
+1025,Christine Chapel,Human,38,7.93,11907,"TOS, SNW, TAS",7.441
+5872,Sylvia Tilly,Human,46,7.09,35754,DIS,7.436
+457,Ayala,Human,124,7.02,38443,VOY,7.412
+2394,Hikaru Sulu,Human,68,7.1,34165,"TAS, TOS, LD, VOY",7.408
+129,Airiam,Unknown,24,7.48,19966,DIS,7.402
+1948,Gabriel Lorca,Human,15,7.48,19664,DIS,7.395
+4208,Michael Burnham,Human,55,6.97,38988,"DIS, SNW",7.366
+4789,Paul Stamets,Human,54,6.97,38932,DIS,7.362
+5509,Saru,Kelpien,53,6.97,38899,DIS,7.362
+3281,Keyla Detmer,Unknown,49,6.97,38742,DIS,7.36
+2886,Joann Owosekun,Human,46,6.96,38528,DIS,7.354
+2710,James,Human,6,8.56,5292,TOS,7.34
+594,Bennett,Human,58,7.11,30091,"TNG, ENT, DS9",7.328
+1429,Diana Giddings,Human,58,7.13,29060,TNG,7.328
+4089,Matt Decker,Human,1,8.6,5000,TOS,7.325
+4730,Palmer,Human,4,8.56,5119,"TNG, TOS",7.314
+2694,Jae,Human,63,7.4,19219,TNG,7.301
+5245,Ro Laren,Bajoran,9,8.05,8284,"TNG, PIC",7.266
+2227,Guinan,El-Aurian,33,7.29,21243,"TNG, PIC",7.265
+5320,Ronald A. Bryce,Human,39,7.02,29322,DIS,7.224
+1530,Dukat,Cardassian,35,7.7,11791,DS9,7.217
+509,Bailey,Human,21,7.63,12726,TNG,7.211
+1242,Damar,Cardassian,23,7.85,8468,DS9,7.099
+1647,Ellen Landry,Unknown,5,7.47,13121,DIS,7.079
+4278,Milton Richter,Human,3,7.47,13059,DIS,7.078
+1754,Ezri Dax,Trill,25,7.28,16393,DS9,7.061
+4776,Patti,Human,14,7.79,8458,TNG,7.045
+1630,Elim Garak,Cardassian,37,7.46,11804,DS9,6.997
+6251,Tomalak,Romulan,4,7.77,8143,TNG,6.997
+2450,Hugh Culber,Human,40,6.84,27346,DIS,6.986
+1988,Garvey,Human,33,7.42,12136,TNG,6.982
+3907,Maggie Hubbell,Human,6,7.65,9157,"TNG, DS9",6.975
+171,Alex,Human,35,7.51,10666,"ENT, DIS",6.964
+1145,Culhane,Human,56,7.13,17074,VOY,6.949
+4570,Nog,Ferengi,46,7.72,8061,DS9,6.946
+1265,Daniels,Human,14,7.92,6334,"ENT, TNG",6.932
+3178,Katherine Pulaski,Human,20,6.98,20641,TNG,6.931
+4044,Martok,Klingon,25,7.61,8494,"DS9, LD",6.889
+4214,Michael Eddington,Human,9,8.48,3200,DS9,6.844
+5311,Rom,Ferengi,37,7.44,9842,DS9,6.841
+6015,Tanner,Human,36,7.13,14610,ENT,6.841
+5341,Rossi,Human,26,7.14,14417,ENT,6.837
+4472,Natasha Yar,Human,28,6.86,21148,"TNG, PIC",6.835
+5801,Stone,Human,2,7.71,7063,"DIS, TOS",6.833
+2305,Harrington,Human,2,7.7,7048,DIS,6.823
+1073,Cold,Human,1,7.7,7000,DIS,6.817
+3410,Kowski,Human,1,7.7,7000,DIS,6.817
+5806,Straal,Human,1,7.7,7000,DIS,6.817
+4944,Psycho,Human,1,7.7,7000,DIS,6.817
+3138,Kane,Human,2,8.2,4044,TNG,6.813
+5464,Samuel Clemens,Human,2,8.2,4041,TNG,6.811
+2674,Jack London,Human,2,8.2,4041,TNG,6.811
+2287,Hanor Pren,Trill,1,8.5,3000,DS9,6.806
+3610,Lenara Kahn,Trill,1,8.5,3000,DS9,6.806
+565,Bejal Otner,Trill,1,8.5,3000,DS9,6.806
+2013,Gen Rhys,Human,43,6.71,25477,DIS,6.804
+3431,Kristin,Human,1,8.2,4000,TNG,6.801
+3291,Kieran MacDuff,Unknown,1,8.2,4000,TNG,6.801
+902,Carmichael,Human,1,8.2,4000,TNG,6.801
+344,Apollinaire,Human,1,8.2,4000,TNG,6.801
+1999,Gates,Human,46,7.49,8714,TNG,6.793
+1804,Female Changeling,Changeling,15,7.76,6265,DS9,6.781
+6186,Thy'lek Shran,Andorian,10,8.13,4166,ENT,6.778
+3175,Kasidy Yates-Sisko,Human,15,7.74,6311,DS9,6.777
+6656,William Ross,Human,12,8.1,4230,DS9,6.767
+1355,DeSalle,Human,3,7.91,5101,TOS,6.754
+5300,Roger Lemli,Human,34,7.3,10221,TOS,6.742
+4859,Philippa Georgiou,Human,27,7.24,11120,DIS,6.741
+6330,Trelane,Unknown,1,7.9,5000,TOS,6.729
+890,Carl Jaeger,Human,1,7.9,5000,TOS,6.729
+6097,Teresa Ross,Human,1,7.9,5000,TOS,6.729
+5573,Seskal,Cardassian,2,8.1,4000,DS9,6.718
+6468,Velal,Romulan,2,8.1,4000,DS9,6.718
+4119,Maxwell Forrest,Human,14,7.67,6270,ENT,6.71
+3192,Katrina Cornwell,Human,12,7.25,10481,DIS,6.709
+2326,Haynem,Human,21,7.17,10374,ENT,6.627
+6678,Winn Adami,Bajoran,14,7.92,4281,DS9,6.625
+3217,Keiko O'Brien,Human,27,7.82,4731,"DS9, TNG",6.62
+6610,Weyoun 8,Vorta,5,7.96,4071,DS9,6.618
+5151,Renlay Sharr,Human,20,7.15,10336,VOY,6.611
+408,Ashmore,Human,35,7.27,8685,VOY,6.594
+649,Billy,Human,37,6.98,12673,ENT,6.592
+3703,Locutus of Borg,Borg,7,7.66,5350,"DS9, PIC, TNG",6.58
+4330,Molly O'Brien,Human,14,7.85,4345,"DS9, TNG",6.58
+3940,Mandel,Human,2,7.9,4013,"TNG, LD",6.557
+4004,Marissa Flores,Human,1,7.9,4000,TNG,6.552
+4342,Monroe,Human,1,7.9,4000,TNG,6.552
+2789,Jay Gordon Graas,Human,1,7.9,4000,TNG,6.552
+4760,Paterson Supra,Human,1,7.9,4000,TNG,6.552
+230,Alyssa Ogawa,Human,16,7.74,4676,TNG,6.54
+187,Alfonse Pacelli,Human,20,7.04,10661,TNG,6.531
+5766,Stella Mudd,Human,2,7.5,6039,"TOS, DIS",6.528
+2215,Grimes,Human,2,7.5,6022,"VOY, DIS",6.528
+2294,Harcourt Fenton Mudd,Human,5,7.35,7040,"DIS, TOS, TAS",6.512
+2487,Icheb,Brunali,12,7.22,8179,"VOY, PIC",6.508
+923,Casey,Human,6,7.47,6062,"TNG, LD",6.505
+2458,Hutchison,Human,22,7.73,4378,ENT,6.485
+2133,Gowron,Klingon,12,7.55,5280,"DS9, TNG",6.475
+1152,Curzon Dax,Trill,2,7.6,5023,DS9,6.475
+4659,Opaka,Bajoran,3,7.59,5048,DS9,6.474
+2774,Jasad,Cardassian,1,7.6,5000,DS9,6.473
+1483,Doran,Human,1,7.6,5000,DS9,6.473
+2825,Jennifer Sisko,Human,3,7.59,5046,DS9,6.472
+692,Bochra,Romulan,1,7.8,4000,TNG,6.47
+4757,Patahk,Romulan,1,7.8,4000,TNG,6.47
+5133,Reginald Barclay,Human,11,7.7,4262,"VOY, TNG",6.438
+6652,William McKenzie,Human,36,7.09,8731,VOY,6.435
+2755,Jannar,Xindi-Arboreal,10,8.37,2166,ENT,6.431
+1458,Dolim,Xindi-Reptilian,8,8.38,2129,ENT,6.423
+1377,Degra,Xindi-Primate,10,8.36,2166,ENT,6.422
+2092,Gleason,Human,2,7.72,4059,TNG,6.416
+3729,Lore,Unknown,5,7.69,4157,"TNG, PIC",6.41
+5987,Talas,Andorian,3,8.4,2036,ENT,6.4
+6124,Thalen,Xindi-Primate,3,8.4,2038,ENT,6.4
+3234,Kellogg,Human,41,6.91,10489,TNG,6.395
+405,Asencia,Vau N'Akat,9,7.83,3509,PRO,6.395
+4576,Noonian Soong,Human,2,7.7,4032,TNG,6.391
+818,Burke,Human,2,7.7,4023,"DS9, TNG",6.39
+2704,Jake Potts,Human,1,7.7,4000,TNG,6.387
+4409,Myers,Human,1,7.7,4000,TNG,6.387
+3374,Kopf,Human,1,7.7,4000,TNG,6.387
+6672,Willie Potts,Human,1,7.7,4000,TNG,6.387
+5671,Sirna Kolrami,Zakdorn,1,7.7,4000,TNG,6.387
+1731,Ethan,Unknown,1,7.7,4000,TNG,6.387
+4281,Min Riker,Human,1,7.7,4000,TNG,6.387
+521,Barash,Unknown,1,7.7,4000,TNG,6.387
+4432,Nagel,Human,1,7.7,4000,TNG,6.387
+735,Bractor,Ferengi,1,7.7,4000,TNG,6.387
+1120,Costa,Human,1,7.7,4000,TNG,6.387
+1528,Duffy,Human,1,7.7,4000,TNG,6.387
+2801,Jean-Luc Riker,Unknown,1,7.7,4000,TNG,6.387
+3794,Lydia Anderson,Human,21,6.77,12309,VOY,6.373
+6380,Tysess,Andorian,8,7.92,3106,PRO,6.369
+3479,L'Rell,Klingon,14,7.23,6692,DIS,6.369
+1425,Dexter Remmick,Human,3,7.05,8043,TNG,6.342
+6668,Williams,Human,6,7.6,4167,"TNG, ENT",6.337
+4556,Nilsson,Human,26,6.43,18759,DIS,6.325
+1473,Donald Varley,Human,1,7.6,4000,TNG,6.304
+4732,Palor Toff,Unknown,1,7.6,4000,TNG,6.304
+6024,Taris,Romulan,1,7.6,4000,TNG,6.304
+6456,Varria,Unknown,1,7.6,4000,TNG,6.304
+3335,Kivas Fajo,Zibalian,1,7.6,4000,TNG,6.304
+3359,Kol,Klingon,7,7.2,6292,"DIS, VOY, TNG",6.298
+6524,Voq,Klingon,4,7.21,6206,DIS,6.295
+6609,Weyoun 7,Vorta,4,7.55,4042,DS9,6.273
+2111,Gor,Breen,4,7.55,4040,DS9,6.272
+5077,Rance,Betarian,1,7.2,6000,DIS,6.264
+699,Boliska,Human,5,6.95,8136,TNG,6.261
+3258,Kes,Ocampa,70,6.68,11515,VOY,6.251
+4587,Noum,Tellarite,7,7.9,2708,PRO,6.245
+708,Borg Queen,Borg,17,7.9,2647,"PIC, VOY, LD",6.23
+1951,Gabrielle Burnham,Human,6,6.9,8141,DIS,6.214
+2851,Jett Reno,Human,14,6.64,11408,DIS,6.206
+6694,Wright,Human,12,6.87,8383,TNG,6.202
+5500,Sarek,Vulcan,14,7.34,4625,"DIS, TOS, TNG, TAS",6.195
+4269,Mila,Cardassian,3,8.12,2056,DS9,6.192
+4915,Pran,Breen,3,8.12,2050,DS9,6.19
+1831,Fitzpatrick,Human,44,6.65,10917,"VOY, TOS",6.184
+5371,Rusot,Cardassian,3,8.11,2042,DS9,6.18
+786,Broca,Cardassian,2,8.11,2029,DS9,6.177
+5459,Sam Rutherford,Unknown,30,7.36,4355,LD,6.164
+563,Beckett Mariner,Human,30,7.36,4355,LD,6.164
+2678,Jack Ransom,Human,30,7.36,4355,LD,6.164
+904,Carol Freeman,Human,30,7.36,4355,LD,6.164
+736,Brad Boimler,Human,30,7.36,4355,LD,6.164
+1171,D'Vana Tendi,Orion,30,7.36,4355,LD,6.164
+235,Amanda Grayson,Human,12,7.33,4476,"DIS, TOS, TAS",6.161
+3715,Lonar,Cardassian,1,8.1,2000,DS9,6.157
+6586,Weldon,Human,1,8.1,2000,DS9,6.157
+2402,Hilliard,Human,1,8.1,2000,DS9,6.157
+693,Bodan,Bajoran,1,8.1,2000,DS9,6.157
+5164,Revok,Cardassian,1,8.1,2000,DS9,6.157
+2552,Ishka,Ferengi,5,8.05,2093,DS9,6.156
+5609,Shaxs,Bajoran,26,7.35,4301,LD,6.153
+5883,T'Ana,Caitian,26,7.35,4300,LD,6.151
+1204,D. Nhan,Barzan,15,7.29,4562,DIS,6.146
+3585,Leah Brahms,Human,3,7.4,4047,"TNG, LD",6.143
+1034,Christy Henshaw,Human,2,7.4,4035,TNG,6.141
+1960,Galek Sar,Promellian,1,7.4,4000,TNG,6.138
+4904,Porthos,Unknown,37,6.95,6745,"ENT, DIS",6.125
+4456,Naomi Wildman,Human,19,6.62,10345,VOY,6.118
+5733,Soval,Vulcan,12,7.91,2260,ENT,6.112
+3603,Leland,Human,8,7.3,4296,DIS,6.111
+3804,M'Pella,Unknown,23,7.26,4512,DS9,6.109
+5499,Sarda,Unknown,1,7.6,3000,DS9,6.085
+6296,Tosk,Unknown,1,7.6,3000,DS9,6.085
+255,Amin,Human,2,7.31,4053,DIS,6.074
+4149,Me Hani Ika Hali Ka Po,Xahean,2,7.31,4053,DIS,6.074
+4535,Nicola,Human,2,7.31,4053,DIS,6.074
+3435,Kroad,Human,2,7.31,4053,DIS,6.074
+1080,Colt,Unknown,2,7.31,4053,DIS,6.074
+3944,Mann,Human,2,7.31,4053,DIS,6.074
+3597,Leeta,Bajoran,17,7.23,4364,DS9,6.058
+2307,Harrison,Human,18,6.98,5845,TOS,6.058
+5050,Raffaela Musiker,Human,28,7.05,5358,PIC,6.054
+1847,Foster,Human,21,7.17,4459,"VOY, ENT",6.028
+686,Bobby,Human,14,6.97,5672,TOS,6.022
+3389,Korok,Klingon,3,7.25,4021,"ENT, VOY",6.02
+456,Axum,Axum's species,2,7.9,2021,VOY,6.013
+3562,Laura,Human,2,7.9,2021,VOY,6.013
+5667,Siral,Unknown,1,7.9,2000,VOY,6.005
+6070,Telev,Andorian,1,7.9,2000,ENT,6.005
+4403,Muroc,Vulcan,1,7.9,2000,ENT,6.005
+1849,Four of Twelve,Unknown,1,7.9,2000,VOY,6.005
+6018,Tarah,Andorian,1,7.9,2000,ENT,6.005
+804,Brunt,Ferengi,8,7.2,4138,DS9,5.997
+4404,Murphy,Human,29,7.11,4604,VOY,5.996
+3918,Maihar'du,Hupyrian,7,7.19,4119,DS9,5.983
+6795,Zek,Ferengi,7,7.19,4119,DS9,5.983
+2176,Gregory Quinn,Human,2,7.2,4043,TNG,5.981
+6458,Vash,Human,3,7.2,4067,"TNG, DS9",5.981
+2751,Janice Rand,Human,9,6.95,5411,"TOS, VOY",5.974
+130,Ajur,Vorgon,1,7.2,4000,TNG,5.972
+3032,Joval,Risian,1,7.2,4000,TNG,5.972
+5911,T'Shanik,Vulcan,1,7.2,4000,TNG,5.972
+707,Boratus,Vorgon,1,7.2,4000,TNG,5.972
+5329,Rondon,Zaldan,1,7.2,4000,TNG,5.972
+4642,Oliana Mirren,Human,1,7.2,4000,TNG,5.972
+5732,Sovak,Ferengi,1,7.2,4000,TNG,5.972
+2703,Jake Kurland,Human,1,7.2,4000,TNG,5.972
+4356,Mordock,Benzite,1,7.2,4000,TNG,5.972
+953,Chang,Human,1,7.2,4000,TNG,5.972
+3642,Lewis,Human,5,6.97,5210,TOS,5.961
+5703,Solbor,Bajoran,3,7.8,2040,DS9,5.946
+792,Brooks,Human,27,6.76,6556,VOY,5.941
+2896,Joe Carey,Human,7,6.81,6120,VOY,5.937
+4953,Q,Q,22,6.98,4920,"TNG, PIC, VOY, DS9, LD",5.931
+366,Arex,Edosian,11,6.49,9225,TAS,5.928
+976,Charles Vance,Human,16,6.33,11422,DIS,5.916
+1821,Fields,Human,3,6.93,5109,TOS,5.914
+6175,Thompson,Human,16,6.55,8286,VOY,5.91
+5909,T'Rina,Vulcan,10,6.33,11184,DIS,5.899
+755,Brenner,Human,1,6.9,5000,TOS,5.877
+5795,Stiles,Human,1,6.9,5000,TOS,5.877
+2108,Golwat,Bolian,6,7.68,2108,VOY,5.875
+3106,Kadan,Unknown,2,7.69,2019,VOY,5.856
+2697,Jaffen,Norvalen,2,7.69,2019,VOY,5.856
+6390,Umali,Unknown,1,7.7,2000,VOY,5.853
+3200,Kayshon,The Children of Tama,9,7.67,2058,LD,5.851
+121,Agnes Jurati,Borg,20,6.88,4917,PIC,5.849
+289,Andy Billups,Human,17,7.2,3226,LD,5.82
+3791,Luther Sloan,Human,3,7.61,2047,DS9,5.806
+1140,Cristóbal Rios,Human,18,6.85,4772,PIC,5.804
+3172,Kashimuro Nozawa,Human,38,6.83,4848,VOY,5.793
+1653,Elnor,Romulan,15,6.86,4632,PIC,5.793
+6285,Torigan,Human,14,7.1,3438,TNG,5.779
+1786,Fantome,Fantome's species,1,7.6,2000,VOY,5.777
+3721,Loquar,Overlooker,1,7.6,2000,VOY,5.777
+722,Bosaal,Unknown,1,7.6,2000,VOY,5.777
+2848,Jessica Sloan,Human,1,7.6,2000,DS9,5.777
+6433,Valen,Annari,1,7.6,2000,VOY,5.777
+1982,Garon,Nygean,1,7.6,2000,VOY,5.777
+517,Bandee,Human,1,7.6,2000,DS9,5.777
+3542,Laris,Romulan,7,6.88,4352,PIC,5.762
+465,B'Etor,Klingon,4,7.13,3105,"TNG, DS9",5.732
+3788,Lursa,Klingon,4,7.13,3105,"TNG, DS9",5.732
+2533,Ira Graves,Human,1,6.9,4000,TNG,5.723
+5550,Selar,Vulcan,1,6.9,4000,TNG,5.723
+3149,Kareen Brianon,Human,1,6.9,4000,TNG,5.723
+3552,Larson,Human,6,7.46,2142,"VOY, TNG",5.721
+1796,Feezal Phlox,Denobulan,1,7.5,2000,ENT,5.701
+6762,Yuris,Vulcan,1,7.5,2000,ENT,5.701
+718,Boris Karloff,Human,1,7.5,2000,ENT,5.701
+6584,Weiss,Human,1,7.5,2000,VOY,5.701
+3221,Kejal,Cardassian,1,7.5,2000,VOY,5.701
+2488,Iden,Bajoran,1,7.5,2000,VOY,5.701
+5812,Strom,Vulcan,1,7.5,2000,ENT,5.701
+1479,Donik,Hirogen,1,7.5,2000,VOY,5.701
+4666,Oratt,Vulcan,1,7.5,2000,ENT,5.701
+1869,Frankenstein's monster,Unknown,2,7.49,2018,ENT,5.701
+5310,Rollman,Human,2,7.11,3028,DS9,5.699
+3110,Kahless,Unknown,2,7.09,3034,"TNG, TOS",5.688
+1449,Divok,Klingon,1,7.1,3000,TNG,5.685
+5976,Tahna Los,Bajoran,1,7.1,3000,DS9,5.685
+3390,Koroth,Klingon,1,7.1,3000,TNG,5.685
+1252,Danar,Cardassian,1,7.1,3000,DS9,5.685
+6286,Torin,Klingon,1,7.1,3000,TNG,5.685
+3533,Lang,Human,4,7.43,2098,"TOS, VOY",5.681
+98,Adam Soong,Human,6,6.79,4190,PIC,5.663
+3592,Lee,Human,4,6.81,4091,"PIC, DS9",5.662
+6767,Yvette Picard,Human,7,6.78,4252,"PIC, TNG",5.662
+3241,Kemi,Haliian,2,6.82,4051,PIC,5.661
+5660,Sing,Bajoran,2,6.82,4051,PIC,5.661
+4376,Moshe,Trill,2,6.82,4051,PIC,5.661
+6405,Urtern,Human,2,6.82,4051,PIC,5.661
+382,Armstrong,Human,25,6.84,3917,"TNG, PIC, ENT",5.656
+3017,Joseph Sisko,Human,7,7.36,2158,DS9,5.652
+5155,Renée Picard,Human,4,6.79,4116,PIC,5.65
+6096,Teresa Ramirez,Human,7,6.77,4234,PIC,5.65
+3380,Kore Soong,Human,4,6.79,4107,PIC,5.648
+5180,Ricardo,Human,5,6.77,4154,PIC,5.644
+5994,Tallinn,Romulan,6,6.77,4195,PIC,5.643
+4126,Maya Orlando,Human,1,6.8,4000,PIC,5.64
+237,Amanda Manes,Human,1,6.8,4000,PIC,5.64
+5240,River Campos,Human,1,6.8,4000,PIC,5.64
+172,Alex Davis,Human,1,6.8,4000,PIC,5.64
+3593,Lee Dashel,Human,1,6.8,4000,PIC,5.64
+5126,Reese Fisher,Human,1,6.8,4000,PIC,5.64
+1244,Damron,Xindi-Reptilian,2,7.4,2018,ENT,5.635
+6305,Tracy Pollard,Human,16,6.08,10559,DIS,5.632
+1243,Dammar,Nyrian,1,7.4,2000,VOY,5.625
+2765,Jarlath,Jarlath's species,1,7.4,2000,VOY,5.625
+5988,Taleen,Nyrian,1,7.4,2000,VOY,5.625
+3577,Lawrence Strode,Human,1,7.4,2000,ENT,5.625
+4324,Molina,Human,1,7.4,2000,VOY,5.625
+5233,Rislan,Nyrian,1,7.4,2000,VOY,5.625
+2021,Gennaro,Unknown,1,7.4,2000,VOY,5.625
+3719,Loomis,Human,1,7.4,2000,ENT,5.625
+2044,Georgia Tandy,Human,1,7.4,2000,ENT,5.625
+5116,Rebi,Wysanti,6,6.76,4082,VOY,5.622
+460,Azan,Wysanti,6,6.76,4082,VOY,5.622
+3678,Linus,Unknown,21,6.28,7682,DIS,5.615
+5496,Sarah Sisko,Human,5,7.33,2093,DS9,5.606
+5236,Rita Tannenbaum,Human,36,6.61,4791,DS9,5.6
+108,Adira Tal,Unknown,18,6.03,10508,DIS,5.585
+4202,Mezoti,Norcadian,5,7.3,2082,VOY,5.579
+2224,Grudge,Unknown,11,6.03,10275,DIS,5.573
+3403,Kova Esmar,Haliian,10,8.79,566,PIC,5.572
+3654,Liam Shaw,Human,10,8.79,566,PIC,5.572
+4097,Matthew Mura,Bajoran,10,8.79,566,PIC,5.572
+5642,Sidney La Forge,Human,10,8.79,566,PIC,5.572
+2671,Jack Crusher,Human,10,8.79,566,PIC,5.572
+6826,Zora,Unknown,12,6.03,10261,"DIS, TOS",5.566
+5434,Saghi,Bajoran,2,7.31,2023,DS9,5.565
+2964,John Torres,Human,2,7.3,2019,VOY,5.554
+4294,Miral Paris,Klingon,2,7.3,2003,VOY,5.55
+1827,First,Kelemane's species,1,7.3,2000,VOY,5.549
+2153,Grat,Tandaran,1,7.3,2000,ENT,5.549
+893,Carl Torres,Human,1,7.3,2000,VOY,5.549
+1641,Elizabeth Torres,Human,1,7.3,2000,VOY,5.549
+4233,Michael Torres,Human,1,7.3,2000,VOY,5.549
+5440,Sajen,Suliban,1,7.3,2000,ENT,5.549
+1266,Danik,Suliban,1,7.3,2000,ENT,5.549
+3343,Klev,Tandaran,1,7.3,2000,ENT,5.549
+4465,Narra,Suliban,1,7.3,2000,ENT,5.549
+1361,Dean Torres,Human,1,7.3,2000,VOY,5.549
+4769,Patrick Gibson,Human,12,6.63,4223,VOY,5.538
+6203,Timothy Lang,Human,12,7.16,2249,VOY,5.526
+4228,Michael Rostov,Human,3,6.65,4018,ENT,5.52
+535,Barnes,Trill,14,7.78,1162,LD,5.49
+6553,W. Woods,Human,22,7.03,2409,"ENT, DIS",5.478
+2824,Jennifer Sh'reyan,Andorian,9,7.82,1081,LD,5.465
+3235,Kelly,Human,17,7.02,2349,"DS9, ENT, TOS",5.452
+1146,Culluh,Kazon,6,7.11,2110,VOY,5.44
+5572,Seska,Cardassian,13,7.04,2274,VOY,5.439
+751,Braxton,Human,3,7.13,2052,VOY,5.436
+1944,Gabler,Human,4,6.65,3512,TAS,5.431
+3807,M'Ress,Caitian,5,6.48,4307,TAS,5.426
+109,Aditya Sahil,Human,3,6.52,4092,DIS,5.42
+3625,Les Buenamigo,Human,5,7.82,1020,LD,5.419
+435,Audrey Willa,Human,5,6.5,4147,DIS,5.418
+1600,Edward Jellico,Human,4,8.03,844,"TNG, PRO",5.414
+6786,Zareh,Unknown,3,6.51,4075,DIS,5.411
+4251,Migleemo,Migleemo's species,5,7.81,1024,LD,5.411
+3407,Kovich,Human,7,6.49,4185,DIS,5.409
+5984,Tal Celes,Bajoran,2,7.1,2019,VOY,5.404
+4688,Osyraa,Orion,4,6.49,4107,DIS,5.403
+778,Brin,Bajoran,2,7.09,2021,"DS9, VOY",5.4
+4308,Mitchell,Human,2,7.09,2022,"VOY, ENT",5.4
+2509,Ina,Human,4,6.49,4102,DIS,5.399
+441,Aurellio,Human,2,6.5,4033,DIS,5.399
+6059,Teemo,Human,2,6.5,4033,DIS,5.399
+4793,Pav,Unknown,2,6.5,4047,DIS,5.398
+2155,Gray Tal,Unknown,10,6.07,7291,DIS,5.397
+6758,Yun,Otrin's species,1,7.1,2000,VOY,5.397
+4775,Patterson,Human,1,7.1,2000,VOY,5.397
+4373,Mortimer Harren,Human,1,7.1,2000,VOY,5.397
+2351,Hendricks,Human,1,7.1,2000,VOY,5.397
+6663,William Telfer,Human,1,7.1,2000,VOY,5.397
+3945,Mannus,Human,1,7.1,2000,VOY,5.397
+6475,Verin,Otrin's species,1,7.1,2000,VOY,5.397
+4689,Otrin,Otrin's species,1,7.1,2000,VOY,5.397
+1526,Ducane,Human,1,7.1,2000,VOY,5.397
+807,Bu'kaH,Klingon,1,7.1,2000,ENT,5.397
+2556,Issa,Kelpien,2,6.5,4036,DIS,5.396
+5819,Su'Kal,Kelpien,3,6.49,4076,DIS,5.396
+5779,Steve Levy,Human,2,7.82,991,LD,5.392
+4844,Petra Aberdeen,Human,3,7.81,994,LD,5.392
+5631,Shira,Unknown,1,6.5,4000,DIS,5.391
+6409,V'Kir,Vulcan,1,6.5,4000,DIS,5.391
+5237,Riva,Ramatisian,1,6.5,4000,TNG,5.391
+4411,N'Raj,Romulan,1,6.5,4000,DIS,5.391
+1493,Doug Bronowski,Human,5,7.02,2115,VOY,5.378
+825,Burton,Human,7,6.66,3215,TNG,5.376
+6490,Victoria Nuzé,Human,1,7.8,972,LD,5.367
+466,B'Nir,Ornaran,1,7.8,972,LD,5.367
+1454,Doctor Chaotica,Human,3,7.01,2047,VOY,5.346
+5511,Satan's Robot,Unknown,3,7.01,2047,VOY,5.346
+5405,S. Money,Human,10,6.95,2167,ENT,5.337
+3717,Lonzak,Human,2,7.0,2024,VOY,5.332
+767,Brian Sofin,Human,3,6.41,4042,VOY,5.327
+5628,Shilat,Kantare,1,7.0,2000,ENT,5.321
+5361,Rulat,Kazon,1,7.0,2000,VOY,5.321
+6042,Tavin,Vulcan,1,7.0,2000,ENT,5.321
+3463,Kuulan,Kantare,1,7.0,2000,ENT,5.321
+283,Andrews,Human,1,7.0,2000,VOY,5.321
+1753,Ezral,Kantare,1,7.0,2000,ENT,5.321
+3656,Liana,Kantare,1,7.0,2000,ENT,5.321
+3080,K'orin,Klingon,1,7.0,2000,LD,5.321
+4974,Quimp,Ferengi,1,7.0,2000,LD,5.321
+6230,Tolaris,Vulcan,1,7.0,2000,ENT,5.321
+1167,D'Marr,Unknown,1,7.0,2000,ENT,5.321
+3402,Kov,Vulcan,1,7.0,2000,ENT,5.321
+4125,Maya,Kantare,1,7.0,2000,ENT,5.321
+4118,Maxwell Burke,Human,2,6.41,4023,VOY,5.32
+5355,Rudolph Ransom,Human,2,6.41,4023,VOY,5.32
+4019,Marla Gilmore,Human,2,6.41,4023,VOY,5.32
+298,Angelo Tassoni,Human,2,6.41,4023,VOY,5.32
+4566,Noah Lessing,Human,2,6.41,4023,VOY,5.32
+4006,Mark Jameson,Human,1,6.4,4000,TNG,5.308
+316,Anne Jameson,Human,1,6.4,4000,TNG,5.308
+3162,Karnas,Mordanite,1,6.4,4000,TNG,5.308
+1699,Eric Burton,Human,3,6.59,3063,TNG,5.292
+3891,Maddy Calloway,Human,1,6.6,3000,TNG,5.284
+6534,Voval,Iyaaran,1,6.6,3000,TNG,5.284
+3722,Loquel,Iyaaran,1,6.6,3000,TNG,5.284
+4018,Marla E. Finn,Human,1,6.6,3000,TNG,5.284
+1103,Corell,Human,1,6.6,3000,TNG,5.284
+6576,Walter Pierce,Human,1,6.6,3000,TNG,5.284
+3706,Lois R. Eckridge,Human,1,6.6,3000,TNG,5.284
+261,Anaanda Ziff,Human,1,6.6,3000,TNG,5.284
+803,Bruno Salvatore,Human,1,6.6,3000,TNG,5.284
+6648,William Hodges,Human,1,6.6,3000,TNG,5.284
+4459,Nara,Unknown,1,6.6,3000,TNG,5.284
+1262,Daniel Kwan,Napean,1,6.6,3000,TNG,5.284
+310,Anna,Unknown,1,6.6,3000,TNG,5.284
+832,Byleth,Iyaaran,1,6.6,3000,TNG,5.284
+2359,Henry,Human,3,6.92,2059,"DS9, ENT, TNG",5.278
+1870,Franklin,Human,2,6.92,2034,"TNG, ENT",5.271
+4468,Nash,Human,1,6.9,2000,ENT,5.245
+616,Bethany,Skagaran,1,6.9,2000,ENT,5.245
+6753,Yral,Skagaran,1,6.9,2000,ENT,5.245
+1633,Eliot Ness,Human,1,6.9,2000,VOY,5.245
+5427,Saavdra,Nakan,1,6.9,2000,VOY,5.245
+5990,Taliyah,Skagaran,1,6.9,2000,ENT,5.245
+1509,Draysik,Skagaran,1,6.9,2000,ENT,5.245
+3884,MacReady,Human,1,6.9,2000,ENT,5.245
+555,Bathar,Unknown,1,6.9,2000,VOY,5.245
+595,Bennings,Human,1,6.9,2000,ENT,5.245
+4794,Pavel Chekov,Human,35,6.1,5338,TOS,5.232
+5913,T'Veen,Vulcan,8,8.59,421,PIC,5.195
+538,Barniss Frex,Denobulan,2,7.8,779,PRO,5.192
+3881,MacDonald,Human,1,8.5,448,PRO,5.191
+410,Asif,Human,2,7.5,1016,LD,5.19
+3146,Karavitus,Human,2,7.5,1016,LD,5.19
+6525,Vorik,Vulcan,8,6.75,2158,VOY,5.186
+4288,Minooki,Unknown,1,7.5,1000,LD,5.182
+4386,Moxy,Moxy's species,1,7.5,1000,LD,5.182
+4184,Meredith,Human,1,7.5,1000,LD,5.182
+6303,Toz,Edosian,1,7.5,1000,LD,5.182
+5993,Talli,Mari,1,6.8,2000,VOY,5.169
+6080,Tembit,Mari,1,6.8,2000,VOY,5.169
+2226,Guill,Mari,1,6.8,2000,VOY,5.169
+4561,Nimira,Mari,1,6.8,2000,VOY,5.169
+1858,Frane,Mari,1,6.8,2000,VOY,5.169
+6103,Terril,Mari,1,6.8,2000,VOY,5.169
+3930,Malin,Mari,1,6.8,2000,VOY,5.169
+341,Anya,Allasomorph,2,6.21,4014,"LD, TNG",5.152
+6025,Tark,Argelian,1,6.2,4000,TOS,5.142
+387,Aron,Human,1,6.2,4000,TNG,5.142
+2763,Jaris,Argelian,1,6.2,4000,TOS,5.142
+4367,Morla,Argelian,1,6.2,4000,TOS,5.142
+5446,Salia,Allasomorph,1,6.2,4000,TNG,5.142
+2353,Hengist,Rigel IV native,1,6.2,4000,TOS,5.142
+5123,Redjac,Unknown,1,6.2,4000,TOS,5.142
+2064,Gibson,Human,1,6.2,4000,TNG,5.142
+2355,Hennesey,Human,1,6.2,4000,TNG,5.142
+5866,Sybo,Argelian,1,6.2,4000,TOS,5.142
+3620,Leonardo da Vinci,Human,3,6.74,2046,"VOY, LD",5.141
+3170,Kaseth,Romulan,2,7.75,737,PRO,5.121
+3716,Longo,Human,4,6.13,4164,TNG,5.109
+4450,Nandi,Ferengi,2,7.55,863,PRO,5.108
+6122,Thadiun Okona,Coalition of Madena species,3,7.67,779,"PRO, TNG",5.108
+6013,Tanis,Kelis' species,2,6.7,2021,VOY,5.102
+3666,Lillias,Nezu,1,6.7,2000,VOY,5.093
+5681,Sklar,Nezu,1,6.7,2000,VOY,5.093
+6036,Tau,Tau's species,1,6.7,2000,VOY,5.093
+6773,Zabel,Human,1,6.7,2000,ENT,5.093
+2281,Hanjuan,Nezu,1,6.7,2000,VOY,5.093
+6463,Vatm,Nezu,1,6.7,2000,VOY,5.093
+3227,Kelis,Kelis' species,1,6.7,2000,VOY,5.093
+3962,Marayna,Unknown,1,6.7,2000,VOY,5.093
+3580,Layna,Kelis' species,1,6.7,2000,VOY,5.093
+2834,Jero,Kelis' species,1,6.7,2000,VOY,5.093
+2128,Goth,Etanian,1,6.7,2000,VOY,5.093
+2608,J. Kelly,Human,1,6.7,2000,ENT,5.093
+153,Alandra La Forge,Human,5,8.98,286,PIC,5.08
+1348,Daystrom Android M-5-10,Unknown,5,8.98,286,PIC,5.08
+614,Bertram,Human,3,6.65,2058,DS9,5.077
+4653,One One,Bynar,1,6.1,4000,TNG,5.06
+4289,Minuet,Human,1,6.1,4000,TNG,5.06
+4978,Quinteros,Human,1,6.1,4000,TNG,5.06
+6801,Zero Zero,Bynar,1,6.1,4000,TNG,5.06
+6800,Zero One,Bynar,1,6.1,4000,TNG,5.06
+4654,One Zero,Bynar,1,6.1,4000,TNG,5.06
+6499,Vinci,Human,18,7.55,808,TOS,5.056
+1153,Cutler,Human,3,6.62,2047,ENT,5.047
+3004,Joran Dax,Trill,3,6.61,2046,DS9,5.037
+3559,Latia,Teplan,2,6.61,2023,"DS9, ENT",5.031
+4633,Ohk,Trill,5,8.85,292,PIC,5.026
+2332,Hector Ilario,Human,1,6.6,2000,DS9,5.017
+3921,Maklii,Tessic's species,1,6.6,2000,ENT,5.017
+6447,Vanderweg,Unknown,1,6.6,2000,DS9,5.017
+2183,Greta Vanderweg,Human,1,6.6,2000,DS9,5.017
+1037,Chu'lak,Vulcan,1,6.6,2000,DS9,5.017
+4955,Q'ell,Tessic's species,1,6.6,2000,ENT,5.017
+3280,Keyla,Tandaran,1,6.6,2000,ENT,5.017
+1554,E'Lis,Tessic's species,1,6.6,2000,ENT,5.017
+6812,Zim Brott,Bolian,1,6.6,2000,DS9,5.017
+1372,Dee'Ahn,Dee'Ahn's species,1,6.6,2000,ENT,5.017
+5175,Rhylo,Unknown,1,6.6,2000,ENT,5.017
+5092,Ravis,Unknown,1,6.6,2000,ENT,5.017
+6115,Tessic,Tessic's species,1,6.6,2000,ENT,5.017
+1065,Cleveland Booker,Kwejian,12,5.71,6277,DIS,4.989
+6607,Weyoun 5,Vorta,15,8.33,397,DS9,4.985
+6347,Trij,Klingon,1,8.3,400,PRO,4.975
+6485,Vic Fontaine,Human,8,6.45,2178,DS9,4.956
+826,Burzaan,Eska,1,6.5,2000,ENT,4.941
+1245,Damrus,Eska,1,6.5,2000,ENT,4.941
+5632,Shiraht,Eska,1,6.5,2000,ENT,4.941
+2219,Grjördslat,Unknown,1,8.0,467,PRO,4.919
+6351,Trodo,Unknown,1,8.0,467,PRO,4.919
+6426,Vadic,Unknown,6,8.58,304,PIC,4.909
+5253,Robert April,Human,3,7.15,929,"SNW, TAS",4.887
+1640,Elizabeth Shelby,Human,3,9.27,191,"TNG, PIC",4.873
+2102,Goff,Retellian,1,6.4,2000,ENT,4.865
+4891,Plinn,Retellian,1,6.4,2000,ENT,4.865
+3116,Kaitaama,Kriosian,1,6.4,2000,ENT,4.865
+5700,Soji Asha,Unknown,10,7.7,547,PIC,4.858
+1625,Eli Foster,Changeling,5,8.6,280,PIC,4.847
+5460,Samantha Wildman,Human,8,6.25,2157,VOY,4.801
+4506,Neral,Romulan,15,7.93,423,"DS9, TNG",4.799
+78,Abaddon,Abaddon's species,1,6.3,2000,VOY,4.789
+1904,Fuchida,Fuchida's species,1,6.3,2000,DS9,4.789
+2743,Janel Tigan,Trill,1,6.3,2000,DS9,4.789
+6717,Yanas Tigan,Trill,1,6.3,2000,DS9,4.789
+1755,Ezri Tigan,Trill,1,6.3,2000,DS9,4.789
+6121,Thadial Bokar,Farian,1,6.3,2000,DS9,4.789
+4585,Norvo Tigan,Trill,1,6.3,2000,DS9,4.789
+1027,Christopher,Human,8,5.91,3202,"DIS, TNG",4.771
+5870,Sylvia,Human,2,5.74,4053,TOS,4.767
+1431,Diatta Ndoye,Human,6,5.92,3135,DIS,4.766
+3720,Lopez,Human,17,7.42,613,TNG,4.764
+3521,Laira Rillak,Unknown,9,5.89,3227,DIS,4.761
+3375,Kor,Klingon,5,6.91,975,"DS9, TOS, TAS",4.76
+5367,Ruon Tarka,Risian,8,5.9,3170,DIS,4.758
+3476,Kzinti Telepath,Kzinti,1,7.0,888,TAS,4.753
+3475,Kzinti Flyer,Kzinti,1,7.0,888,TAS,4.753
+1040,Chuft-Captain,Kzinti,1,7.0,888,TAS,4.753
+2407,Hirai,Human,4,5.9,3069,DIS,4.74
+5965,Taahz Gorev,Tellarite,3,5.89,3075,DIS,4.733
+650,Billy Clanton,Human,1,5.7,4000,TOS,4.728
+6244,Tom McLowery,Human,1,5.7,4000,TOS,4.728
+2495,Ike Clanton,Human,1,5.7,4000,TOS,4.728
+4359,Morgan Earp,Human,1,5.7,4000,TOS,4.728
+6642,William Claiborne,Human,1,5.7,4000,TOS,4.728
+6698,Wyatt Earp,Human,1,5.7,4000,TOS,4.728
+6511,Virgil Earp,Human,1,5.7,4000,TOS,4.728
+1866,Frank McLowery,Human,1,5.7,4000,TOS,4.728
+2304,Harral,Orion,2,5.89,3034,DIS,4.725
+1315,David Garrovick,Human,2,7.77,422,"PRO, TOS",4.701
+1512,Dred 2,Unknown,1,7.7,444,PRO,4.696
+4388,Mr. Murfy No Shoes,Unknown,1,7.9,377,PRO,4.689
+684,Bob Wesley,Human,2,6.75,1039,"TAS, TOS",4.688
+4460,Narek,Romulan,8,7.67,450,PIC,4.687
+4438,Nakamura,Human,3,8.83,199,TNG,4.681
+3159,Karl Four,Arret native,1,7.0,798,TAS,4.678
+3161,Karla Five,Arret native,1,7.0,798,TAS,4.678
+5492,Sarah April,Human,1,7.0,798,TAS,4.678
+5843,Susan Nicoletti,Human,27,7.28,614,VOY,4.672
+1859,Frank,Human,3,6.12,2040,VOY,4.662
+3123,Kali,Klingon,1,6.9,857,TAS,4.661
+1421,Devna,Orion,1,6.9,857,TAS,4.661
+6705,Xerius,Romulan,1,6.9,857,TAS,4.661
+3201,Kaz,Klingon,1,6.9,857,TAS,4.661
+3452,Kuri,Klingon,1,6.9,857,TAS,4.661
+3905,Magen,Unknown,1,6.9,857,TAS,4.661
+319,Anne Nored,Human,1,6.8,944,TAS,4.659
+918,Carter Winston,Human,1,6.8,944,TAS,4.659
+1830,Fitzgerald,Human,2,6.11,2033,"VOY, TOS",4.652
+2443,Hoy,Human,6,8.17,295,TNG,4.65
+703,Boons,Enderprizian,1,7.8,385,PRO,4.646
+2731,James'T,Enderprizian,1,7.8,385,PRO,4.646
+2459,Huur'A,Enderprizian,1,7.8,385,PRO,4.646
+5718,Sool'U,Enderprizian,1,7.8,385,PRO,4.646
+3909,Maggie O'Halloran,Human,2,6.1,2023,VOY,4.645
+5537,Seamus,Human,2,6.1,2023,VOY,4.645
+2134,Grace Declan,Human,2,6.1,2023,VOY,4.645
+3650,Liam,Human,2,6.1,2023,VOY,4.645
+4232,Michael Sullivan,Human,2,6.1,2023,VOY,4.645
+4277,Milo,Human,1,6.1,2000,VOY,4.637
+1269,Danny,Human,1,6.1,2000,VOY,4.637
+1594,Edith Mulchaey,Human,1,6.1,2000,VOY,4.637
+5124,Reel,Human,13,7.43,481,TNG,4.587
+4063,Mary Kim,Human,2,6.01,2019,VOY,4.574
+2348,Hemmer,Aenar,6,7.72,370,SNW,4.566
+5226,Rinna,Taresian,1,6.0,2000,VOY,4.561
+157,Alben,Nasari,1,6.0,2000,VOY,4.561
+3927,Malia,Taresian,1,6.0,2000,VOY,4.561
+3800,Lyris,Taresian,1,6.0,2000,VOY,4.561
+6048,Taymon,Unknown,1,6.0,2000,VOY,4.561
+1627,Eliann,Taresian,1,6.0,2000,VOY,4.561
+3361,Kol-Tai,Dramen,1,6.8,792,TAS,4.54
+1395,Demos,Dramen,1,6.8,792,TAS,4.54
+1275,Dara,Theela's species,2,6.53,1037,"TNG, TAS",4.534
+1456,Dolak,Cardassian,11,7.9,310,"DS9, TNG",4.532
+775,Briel,Unknown,1,6.7,846,TAS,4.517
+1836,Fletcher,Human,5,8.23,236,"TNG, ENT, LD",4.501
+1966,Galloway,Human,6,7.97,281,TOS,4.498
+4463,Narissa,Romulan,7,7.6,370,PIC,4.496
+2448,Hugh,Unknown,6,8.0,274,"TNG, PIC",4.495
+1340,Davison,Unknown,1,6.5,1000,TAS,4.491
+6142,Theela,Theela's species,1,6.5,1000,TAS,4.491
+920,Carver,Human,1,6.5,1000,TAS,4.491
+5080,Randi Bryce,Human,1,6.7,811,TAS,4.489
+6243,Tom Markel,Human,1,6.7,811,TAS,4.489
+2699,Jago,Unknown,1,7.6,359,PRO,4.473
+4892,Plix Tixiplik,Reegrunion,11,7.78,309,"DS9, TNG",4.462
+2658,J.P. Hanson,Human,2,9.25,122,TNG,4.452
+6274,Tora Ziyal,Bajoran,9,8.18,224,DS9,4.428
+1024,Christina,Human,4,8.15,224,SNW,4.412
+4675,Orta,Bajoran,10,7.8,284,"DS9, TNG",4.406
+1110,Cortez,Unknown,1,5.5,3000,DIS,4.404
+6022,Tareckx,Unknown,1,5.5,3000,DIS,4.404
+1559,E. Hamboyan,Human,17,7.56,329,ENT,4.386
+5743,Spot,Unknown,9,7.55,326,"TNG, PIC",4.369
+4631,Oh,Romulan,6,7.59,313,PIC,4.367
+4609,O'Shea,Human,1,6.5,805,TAS,4.35
+4116,Maximillion,Unknown,1,7.4,352,PRO,4.341
+113,Adreek-Hu,Aurelian,1,7.4,352,PRO,4.341
+727,Boxy,Unknown,1,7.4,352,PRO,4.341
+2695,Jae Hwang,Human,2,8.9,130,PIC,4.34
+5693,Sneed,Ferengi,3,8.53,159,PIC,4.33
+61,A. Tamras,Human,14,7.69,271,ENT,4.313
+3607,Lemus,Aquan,1,6.4,826,TAS,4.299
+4504,Nephro,Aquan,1,6.4,826,TAS,4.299
+993,Cheeron,Aquan,1,6.4,826,TAS,4.299
+5222,Rila,Aquan,1,6.4,826,TAS,4.299
+1460,Domar,Aquan,1,6.4,826,TAS,4.299
+1060,Clayton,Human,1,6.4,826,TAS,4.299
+868,Cadmar,Aquan,1,6.4,826,TAS,4.299
+3135,Kamran Gant,Human,5,7.53,293,DIS,4.279
+279,Andrew Powell,Human,2,8.73,132,TNG,4.269
+3723,Lora,Unknown,1,6.3,871,TAS,4.266
+3445,Kukulkan,Kukulkan's species,1,6.4,779,TAS,4.262
+6565,Walking Bear,Human,1,6.4,779,TAS,4.262
+195,Alice,Human,2,6.25,911,"TAS, TOS",4.26
+6615,White Rabbit,Unknown,2,6.25,911,"TAS, TOS",4.26
+4743,Parker,Human,2,8.84,123,"SNW, TNG",4.259
+3132,Kamie,Kataan native,1,9.4,91,TNG,4.25
+4186,Meribor,Kataan native,1,9.4,91,TNG,4.25
+552,Batai,Kataan native,1,9.4,91,TNG,4.25
+1631,Eline,Kataan native,1,9.4,91,TNG,4.25
+800,Bruce Maddox,Human,4,7.88,216,"PIC, TNG",4.242
+182,Alexander Rozhenko,Human,11,7.21,350,"TNG, DS9",4.224
+2727,James Moriarty,Human,3,8.51,142,"TNG, PIC",4.223
+1235,Dahj Asha,Unknown,4,7.71,237,PIC,4.221
+2269,Haj,Unknown,7,7.29,320,DIS,4.208
+5890,T'Kuvma,Klingon,4,7.58,257,DIS,4.208
+6299,Towles,Human,4,8.35,153,TNG,4.205
+1539,"Duras, son of Ja'rod",Klingon,3,8.22,165,"PIC, TNG",4.205
+4967,Queen of Hearts,Human,1,6.2,865,TAS,4.194
+783,Britch Weeton,Human,4,7.52,258,DIS,4.179
+6353,Troy Januzzi,Human,4,7.52,258,DIS,4.179
+2842,Jessel,Human,1,9.1,97,TNG,4.172
+4495,Nell Chilton,Human,1,9.1,97,TNG,4.172
+1957,Gaines,Human,1,9.1,97,TNG,4.172
+4788,Paul Rice,Human,2,8.45,138,TNG,4.168
+120,Agmar,Phylosian,1,6.1,918,TAS,4.162
+5762,Stavos Keniclius 5,Human,1,6.1,918,TAS,4.162
+5741,Spock Two,Unknown,1,6.1,918,TAS,4.162
+5026,R. Ryan,Human,14,7.39,278,"ENT, DIS",4.161
+6051,Tchar,Skorr,1,6.2,819,TAS,4.16
+5725,Sord,Unknown,1,6.2,819,TAS,4.16
+3539,Lara,Human,1,6.2,819,TAS,4.16
+1660,Em/3/Green,Em/3/Green's species,1,6.2,819,TAS,4.16
+6496,Vina,Human,4,7.66,220,"DIS, TOS",4.133
+5549,Sela,Unknown,4,8.21,150,TNG,4.12
+4335,Mom AI,Unknown,3,7.86,186,PIC,4.11
+2932,John Farrell,Human,3,7.88,183,TOS,4.109
+5908,T'Pring,Vulcan,4,7.56,225,"TOS, SNW",4.098
+6806,Zhaban,Romulan,3,7.7,201,PIC,4.085
+369,Ari bn Bem,Pandronian,1,6.1,808,TAS,4.084
+334,Anton Chekov,Human,1,9.4,76,PIC,4.083
+229,Alynna Nechayev,Human,6,7.74,188,"TNG, DS9",4.06
+6213,Titus Rikka,Unknown,2,8.7,105,PIC,4.058
+2291,Hansen,Human,4,7.72,190,"TOS, TNG",4.057
+3454,Kurn,Klingon,4,8.17,142,"TNG, DS9",4.056
+5022,R. Richards,Human,10,7.76,185,ENT,4.053
+1666,Emil,Unknown,4,7.56,210,PIC,4.047
+1677,Enabran Tain,Cardassian,4,8.58,109,DS9,4.033
+3766,Lucien,Megan,1,5.9,928,TAS,4.032
+413,Asmodeus,Megan,1,5.9,928,TAS,4.032
+5649,Silik,Suliban,7,7.77,176,ENT,4.023
+4980,R. Azar,Human,11,7.53,202,ENT,4.003
+3784,Lurak T'Luco,Romulan,2,8.55,107,PIC,4.002
+6568,Walsh,Human,13,7.17,262,"DIS, ENT",3.998
+6137,The Keeper,Talosian,3,7.76,171,"DIS, TOS",3.993
+6674,Wilson,Human,3,7.9,155,TOS,3.991
+1254,Danby Connor,Human,3,7.46,210,DIS,3.99
+4143,McKnight,Human,4,7.93,152,TNG,3.987
+221,Altan Soong,Human,3,7.97,147,PIC,3.983
+2324,Hayes,Human,5,8.04,141,"VOY, TNG",3.983
+4591,Number One,Unknown,2,8.12,133,PIC,3.979
+2225,Guardian of Forever,Unknown,4,7.83,158,"DIS, TOS, TAS",3.967
+1593,Edith Keeler,Human,1,9.2,73,TOS,3.96
+582,Benbassat,Unknown,1,9.3,69,PIC,3.951
+6101,Terral,Vulcan,4,7.34,217,DIS,3.95
+5221,Riggs,Human,2,8.55,98,PIC,3.927
+6793,Zefram Cochrane,Human,5,7.71,159,"ENT, LD, TOS",3.914
+2416,Hogan,Human,7,7.65,164,VOY,3.906
+872,Caler,Xahean,2,7.81,145,PIC,3.892
+3859,M. Romero,Human,6,8.18,115,ENT,3.89
+3946,Manu Noonien-Singh,Human,2,8.3,107,SNW,3.888
+4225,Michael Parsons,Human,10,7.06,244,VOY,3.887
+4853,Phil Boyce,Human,3,7.52,175,TOS,3.886
+1979,Garison,Human,3,7.52,175,TOS,3.886
+3031,José Tyler,Human,3,7.52,175,TOS,3.886
+4884,Pitcairn,Human,3,7.52,175,TOS,3.886
+6384,Ujilli,Klingon,4,7.19,221,DIS,3.882
+5045,Rachel Garrett,Human,1,9.2,67,TNG,3.882
+1884,Fredericks,Human,1,9.2,67,TNG,3.882
+5189,Richard Castillo,Human,1,9.2,67,TNG,3.882
+4862,Phillipa Louvois,Human,1,9.1,69,TNG,3.866
+5862,Swenson,Human,3,7.93,127,TOS,3.848
+1101,Corak,Cardassian,2,8.61,85,TNG,3.835
+5979,Tajor,Cardassian,2,8.61,85,TNG,3.835
+3900,Madred,Cardassian,2,8.61,85,TNG,3.835
+3605,Lemec,Cardassian,2,8.61,85,TNG,3.835
+6277,"Toral, son of Duras",Klingon,3,8.27,102,"TNG, DS9",3.834
+1671,Emmet,Unknown,3,7.63,150,PIC,3.826
+3792,Lwaxana Troi,Betazoid,9,6.71,291,"TNG, DS9",3.808
+5502,Sariel Rager,Human,4,7.58,151,TNG,3.807
+489,B. Moreno,Human,7,7.71,138,ENT,3.805
+1400,Dennas,Klingon,3,7.33,177,DIS,3.799
+1829,Fisher,Human,2,7.68,137,TOS,3.786
+916,Cartaino,Human,1,9.2,59,TNG,3.767
+5717,Sonya Gomez,Human,3,8.03,106,"LD, TNG",3.75
+1741,Evek,Cardassian,6,7.21,180,"VOY, TNG, DS9",3.75
+5071,Ramdha,Romulan,3,7.42,155,PIC,3.747
+4761,Patient 8923/3,Nameless,3,7.33,163,PIC,3.74
+5290,Robin Lefler,Human,2,8.17,96,TNG,3.738
+1632,Eling,Unknown,2,8.1,100,DIS,3.738
+385,Arne Darvin,Klingon,2,8.42,83,"TOS, DS9",3.73
+5600,Sharr,Human,5,7.81,117,VOY,3.726
+760,Brett Anderson,Human,2,7.34,158,DIS,3.722
+2259,Haden,Human,2,8.31,87,TNG,3.719
+529,Bareil Antos,Bajoran,8,7.04,194,DS9,3.71
+1713,Erin Hansen,Unknown,4,8.12,95,VOY,3.708
+3913,Magnus Hansen,Unknown,4,8.12,95,VOY,3.708
+3238,Kelowitz,Human,2,8.1,96,TOS,3.706
+6023,Tarent,Romulan,2,8.02,99,PIC,3.694
+4107,Maurice Picard,Human,4,7.12,177,"PIC, TNG",3.688
+4124,May Ahearn,JahSepp,4,7.1,179,DIS,3.685
+5359,Rukiya,Human,3,7.1,178,SNW,3.684
+4662,Or'Eq,Klingon,2,7.48,137,DIS,3.684
+2656,J.M. Colt,Human,2,7.6,126,TOS,3.682
+6202,Timothy,Human,2,8.04,96,"TOS, TNG",3.68
+2114,Gorch,Tellarite,3,7.47,137,DIS,3.68
+5639,Shukar,Andorian,3,7.47,137,DIS,3.68
+5676,Sito Jaxa,Bajoran,2,8.3,83,TNG,3.677
+606,Berkley,Human,2,7.8,110,TOS,3.673
+4378,Mot,Bolian,3,7.77,111,TNG,3.668
+3890,Maddox,Unknown,2,7.95,99,DIS,3.663
+365,Areel Shaw,Human,1,8.8,63,TOS,3.66
+4255,Mike,Human,1,8.8,63,TOS,3.66
+588,Benjamin Finney,Human,1,8.8,63,TOS,3.66
+2709,Jame Finney,Human,1,8.8,63,TOS,3.66
+6072,Teller,Human,1,8.8,63,TOS,3.66
+5468,Samuel T. Cogley,Human,1,8.8,63,TOS,3.66
+1107,Corrigan,Human,1,8.8,63,TOS,3.66
+6536,Vreenak,Romulan,1,9.4,48,DS9,3.658
+2154,Grathon Tolar,Unknown,1,9.4,48,DS9,3.658
+3077,K'mpec,Klingon,2,8.25,83,TNG,3.655
+345,Apollo,Human,1,9.0,57,TOS,3.654
+911,Carolyn Palamas,Human,1,9.0,57,TOS,3.654
+3068,K'Tal,Klingon,2,8.4,76,TNG,3.649
+4383,Movar,Romulan,2,8.4,76,TNG,3.649
+2318,Harvey,Unknown,2,7.95,96,PIC,3.638
+5668,Siranna,Kelpien,2,7.98,94,DIS,3.635
+6514,Viterian,Kobheerian,2,8.58,68,DS9,3.633
+1353,DePaul,Human,2,7.95,95,TOS,3.628
+5903,T'Pel,Vulcan,4,7.73,108,"VOY, TNG",3.625
+5207,Richter,Human,1,8.2,82,PIC,3.623
+2514,Index,Human,1,8.2,82,PIC,3.623
+3769,Lucsly,Human,1,9.4,46,DS9,3.619
+1533,Dulmur,Human,1,9.4,46,DS9,3.619
+6579,Watley,Human,1,9.4,46,DS9,3.619
+1482,Dorado,Human,8,7.23,148,VOY,3.617
+1624,Eli,Human,3,7.48,125,"TOS, DIS",3.616
+6444,Van Mayter,Human,4,7.27,143,TNG,3.615
+4486,Neela,Bajoran,2,8.49,69,DS9,3.608
+4738,Pardek,Romulan,2,8.25,78,TNG,3.605
+3073,K'Vada,Klingon,2,8.25,78,TNG,3.605
+4758,Patar,Vulcan,2,8.06,86,DIS,3.598
+4822,Perrin,Human,2,8.15,81,TNG,3.591
+597,Benny Russell,Human,2,8.55,65,DS9,3.581
+3061,K'Ehleyr,Klingon,3,7.59,111,TNG,3.58
+5455,Sam,Human,2,7.78,97,TOS,3.566
+4358,Morgan Bateson,Human,1,8.9,53,TNG,3.55
+3427,Krinn,Vulcan,1,8.9,53,PIC,3.55
+3894,Madeline,Human,3,7.33,126,TNG,3.55
+3523,Lal,Unknown,2,7.93,86,"TOS, TNG",3.542
+1300,Dathon,The Children of Tama,1,8.7,57,TNG,3.533
+1046,Clancy,Human,2,7.83,90,TNG,3.53
+3332,Kirsten Clancy,Human,2,7.47,109,PIC,3.511
+4219,Michael Jonas,Human,6,7.13,136,VOY,3.508
+2257,Hadad,Human,1,8.1,75,SNW,3.508
+3278,Key,Human,1,8.1,75,SNW,3.508
+4343,Montgomery,Human,1,8.7,55,TOS,3.502
+5638,Shras,Andorian,1,8.7,55,TOS,3.502
+3019,Josephs,Human,1,8.7,55,TOS,3.502
+2005,Gav,Tellarite,1,8.7,55,TOS,3.502
+6144,Thelev,Unknown,1,8.7,55,TOS,3.502
+324,Annorax,Krenim,2,8.65,56,VOY,3.498
+4617,Obrist,Krenim,2,8.65,56,VOY,3.498
+2424,Homn,Unknown,5,6.68,187,TNG,3.497
+1685,Enoch,Unknown,2,7.54,102,PIC,3.492
+4007,Mark Johnson,Human,6,6.87,159,VOY,3.487
+3994,Marie Kaplan,Human,3,8.04,75,VOY,3.484
+5590,Shankar,Human,2,7.44,106,SNW,3.477
+2494,Ikat'ika,Jem'Hadar,2,8.75,52,DS9,3.474
+6415,V. Brown,Human,4,7.85,82,ENT,3.469
+4693,Owen Paris,Human,6,7.36,109,VOY,3.459
+3274,Kevin Riley,Human,2,7.39,106,TOS,3.452
+6613,Wheeler,Human,2,7.87,79,"SNW, DS9",3.451
+4110,Mavek,Tilonian,2,8.26,64,"TNG, DS9",3.449
+3457,Kurt Bendera,Human,8,6.8,157,VOY,3.445
+2791,Jaya,Tilonian,3,7.93,75,"ENT, TNG",3.433
+5902,T'Pau,Vulcan,5,7.24,113,"TOS, ENT, VOY",3.431
+3388,Korob,Ornithoid life form,1,8.6,53,TOS,3.431
+1888,Freeman,Human,3,7.22,115,TOS,3.43
+2771,Jarvis,Human,6,7.1,124,VOY,3.429
+4306,Mister Hospitality,Unknown,2,7.43,99,PIC,3.423
+704,Boothby,Human,3,7.72,83,"VOY, TNG",3.421
+160,Albert Einstein,Human,2,7.95,73,TNG,3.42
+4365,Moritz Benayoun,Human,2,7.3,107,PIC,3.418
+2602,J. Hayes,Human,5,7.52,92,ENT,3.408
+3030,José I. Mendez,Human,2,7.45,96,TOS,3.407
+1108,Cortan Zweller,Human,1,8.8,47,TNG,3.407
+4814,Penny Muroc,Unknown,1,8.8,47,TNG,3.407
+4032,Marta Batanides,Human,1,8.8,47,TNG,3.407
+1106,Corlina,Human,1,8.8,47,TNG,3.407
+1069,Codex,Unknown,2,7.46,95,PIC,3.405
+356,Arcana,Unknown,2,7.46,95,PIC,3.405
+5433,Saga,Unknown,2,7.46,95,PIC,3.405
+5850,Sutra,Unknown,2,7.46,95,PIC,3.405
+5365,Rune,Unknown,2,7.46,95,PIC,3.405
+750,Brax,Talaxian,2,7.85,75,"VOY, SNW",3.399
+2822,Jennifer,Human,1,8.4,56,SNW,3.396
+6218,Todd,Human,1,8.4,56,SNW,3.396
+1822,Fig,Human,1,8.4,56,SNW,3.396
+6831,Zuniga,Human,1,8.4,56,SNW,3.396
+2857,Jil Orra,Cardassian,1,8.9,44,TNG,3.388
+73,Aamin Marritza,Cardassian,1,9.0,42,DS9,3.385
+3115,Kainon,Bajoran,1,9.0,42,DS9,3.385
+3196,Kaval,Bajoran,1,9.0,42,DS9,3.385
+1803,Felton,Human,5,6.61,165,TNG,3.38
+836,C. Black,Human,4,7.73,78,ENT,3.376
+6479,Vesco,Human,1,8.5,52,PIC,3.375
+917,Carter,Human,2,7.42,93,"SNW, TOS",3.372
+3644,Lewis Zimmerman,Human,3,7.86,72,"DS9, VOY",3.372
+3139,Kang,Klingon,3,7.53,87,"DS9, TOS, VOY",3.371
+2677,Jack R. Crusher,Human,3,7.11,113,TNG,3.368
+1507,Drake,Human,2,7.9,70,"ENT, DIS",3.368
+513,Ballard,Human,1,8.5,51,TNG,3.359
+2262,Haftel,Human,1,8.5,51,TNG,3.359
+2542,Isaac Newton,Human,2,8.13,61,"VOY, TNG",3.357
+5707,Solok,Vulcan,2,7.95,67,"TNG, DS9",3.355
+3648,Li Nalas,Bajoran,3,7.67,78,DS9,3.35
+2766,Jaro Essa,Bajoran,3,7.67,78,DS9,3.35
+5457,Sam Lavelle,Human,1,8.7,46,TNG,3.35
+6037,Taurik,Vulcan,1,8.7,46,TNG,3.35
+577,Ben,Human,1,8.7,46,TNG,3.35
+3006,Joret Dal,Cardassian,1,8.7,46,TNG,3.35
+2374,Herbert Rossoff,Human,1,8.9,42,DS9,3.347
+5350,Roy Ritterhouse,Human,1,8.9,42,DS9,3.347
+3197,Kay Eaton,Human,1,8.9,42,DS9,3.347
+3272,Kevin Mulkahey,Human,1,8.9,42,DS9,3.347
+2870,Jimmy,Human,1,8.9,42,DS9,3.347
+163,Albert Macklin,Human,1,8.9,42,DS9,3.347
+1281,Darlene Kursky,Human,1,8.9,42,DS9,3.347
+1503,Douglas Pabst,Human,1,8.9,42,DS9,3.347
+824,Burt Ryan,Human,1,8.9,42,DS9,3.347
+927,Cassie,Human,1,8.9,42,DS9,3.347
+6669,Willie Hawkins,Human,1,8.9,42,DS9,3.347
+3049,Julius Eaton,Human,1,8.9,42,DS9,3.347
+3304,Kimara Cretak,Romulan,3,7.91,68,DS9,3.347
+2306,Harris,Human,4,7.85,70,ENT,3.347
+2344,Helena Rozhenko,Human,2,7.59,81,TNG,3.344
+3223,Kelby,Human,4,7.72,75,ENT,3.342
+1976,Gareb,Aenar,3,8.33,54,ENT,3.339
+6430,Valdore,Romulan,3,8.33,54,ENT,3.339
+4545,Nijil,Romulan,3,8.33,54,ENT,3.339
+3398,Koss,Vulcan,3,8.06,62,ENT,3.339
+1143,Crosis,Borg,2,7.85,69,TNG,3.334
+6147,Theodore Haskins,Human,1,7.6,79,TOS,3.33
+4431,Nador,Cardassian,1,8.8,43,TNG,3.33
+1642,Elizabeth Tucker,Human,3,8.03,61,ENT,3.316
+5772,Stephen,Human,2,7.56,79,DIS,3.314
+6119,Thaddeus Troi-Riker,Betazoid,1,8.3,53,PIC,3.311
+3264,Kestra Troi-Riker,Betazoid,1,8.3,53,PIC,3.311
+2668,Jack,Human,3,7.69,73,"ENT, DS9",3.309
+5783,Steve Stevens,Human,6,7.43,85,LD,3.309
+1978,Garin,Bre'el IV native,1,8.5,48,TNG,3.308
+4957,Q2,Unknown,1,8.5,48,TNG,3.308
+5125,Reese,Human,2,8.32,52,DS9,3.305
+6411,V'Las,Vulcan,3,8.2,55,ENT,3.302
+5335,Rose,Human,2,7.36,88,"DIS, TNG",3.302
+3213,Keevan,Vorta,2,8.3,52,DS9,3.295
+600,Benton,Human,1,7.7,71,TOS,3.293
+578,Ben Childress,Human,1,7.7,71,TOS,3.293
+1095,Connors,Human,1,7.7,71,TOS,3.293
+1740,Eve McHuron,Human,1,7.7,71,TOS,3.293
+2377,Herm Gossett,Human,1,7.7,71,TOS,3.293
+3904,Magda Kovacs,Human,1,7.7,71,TOS,3.293
+5379,Ruth Bonaventure,Human,1,7.7,71,TOS,3.293
+5992,Tallera,Unknown,2,7.8,67,TNG,3.291
+6466,Vekor,Unknown,2,7.8,67,TNG,3.291
+2090,Giusti,Human,2,7.8,67,TNG,3.291
+359,Arctus Baran,Unknown,2,7.8,67,TNG,3.291
+4462,Narik,Boslic,2,7.8,67,TNG,3.291
+2078,Ginger,Human,2,8.21,54,DS9,3.288
+3541,Larg,Klingon,2,8.0,60,"VOY, TNG",3.287
+2665,Jabara,Bajoran,4,7.09,102,DS9,3.287
+4302,Miri,Unknown,1,8.2,54,TOS,3.286
+3754,Louise,Unknown,1,8.2,54,TOS,3.286
+2701,Jahn,Unknown,1,8.2,54,TOS,3.286
+5333,Rooney,Human,2,8.22,53,"ENT, DS9",3.278
+5910,T'Rul,Romulan,2,8.25,52,DS9,3.275
+2127,Gotana-Retz,Kelemane's species,1,9.0,37,VOY,3.274
+6104,Terrina,Kelemane's species,1,9.0,37,VOY,3.274
+3225,Kelemane,Kelemane's species,1,9.0,37,VOY,3.274
+2115,Gordon,Human,2,7.93,61,"DS9, TNG",3.271
+3076,K'Vort,Klingon,1,8.2,53,DIS,3.271
+3714,Lon Suder,Betazoid,3,7.7,68,VOY,3.262
+6551,W. Willis,Human,3,8.13,54,ENT,3.259
+6141,The Traveler,The Traveler's species,3,6.82,117,TNG,3.255
+6127,Tharn,Halkan,1,8.5,45,TOS,3.254
+1794,Farrell,Human,1,8.5,45,TOS,3.254
+4021,Marlena Moreau,Human,1,8.5,45,TOS,3.254
+4580,Norah Satie,Human,1,8.4,47,TNG,3.252
+5430,Sabin Genestra,Betazoid,1,8.4,47,TNG,3.252
+4497,Nellen Tore,Delbian,1,8.4,47,TNG,3.252
+2561,J'Dan,Klingon,1,8.4,47,TNG,3.252
+5655,Simon Tarses,Romulan,1,8.4,47,TNG,3.252
+6165,Thomas Henry,Human,1,8.4,47,TNG,3.252
+3748,Louis,Human,1,8.3,49,TNG,3.247
+3995,Marie Picard,Human,1,8.3,49,TNG,3.247
+5279,Robert Picard,Human,1,8.3,49,TNG,3.247
+5567,Sergey Rozhenko,Human,1,8.3,49,TNG,3.247
+5154,René Picard,Human,1,8.3,49,TNG,3.247
+2144,Gral,Tellarite,3,7.8,63,"ENT, DS9",3.244
+1687,Enrique Muniz,Human,3,7.58,71,DS9,3.244
+810,Buckley,Unknown,1,8.2,51,SNW,3.24
+1009,Chia,Human,1,8.2,51,SNW,3.24
+4669,Oriana,Human,1,8.2,51,SNW,3.24
+197,Alice Gavin,Unknown,1,8.2,51,SNW,3.24
+1102,Corelki,Human,2,7.65,68,TNG,3.239
+2489,Idrin,Hirogen,2,8.24,50,VOY,3.239
+2245,H. Dunbar,Human,2,8.15,52,VOY,3.237
+5058,Rain Robinson,Human,2,8.15,52,VOY,3.237
+2367,Henry Starling,Human,2,8.15,52,VOY,3.237
+546,Bartel,Human,1,8.5,44,TNG,3.236
+4954,Q'Ral,Tellarite,1,8.0,56,SNW,3.234
+530,Barjan T'Or,Vulcan,1,8.0,56,SNW,3.234
+6462,Vasso L'Gaelia,R'ongovian,1,8.0,56,SNW,3.234
+1418,Dever,Human,1,8.0,56,SNW,3.234
+6808,Zier,Bolian,1,8.0,56,SNW,3.234
+3072,K'Tyll,Vulcan,1,8.0,56,SNW,3.234
+2919,John Bates,Human,1,8.4,46,TNG,3.234
+4237,Michael Williams,Human,1,8.4,46,TNG,3.234
+204,Alidar Jarok,Romulan,1,8.4,46,TNG,3.234
+1629,Elias Sandoval,Human,1,8.3,48,TOS,3.23
+3600,Leila Kalomi,Human,1,8.3,48,TOS,3.23
+4725,Painter,Human,1,8.3,48,TOS,3.23
+2832,Jeremy Lucas,Human,3,7.85,60,ENT,3.227
+6676,"Winger Bingston, Jr.",Human,4,7.73,64,LD,3.226
+1760,F. Hawkins,Human,5,6.87,108,"DIS, ENT",3.222
+3158,Karl,Human,1,8.0,55,TOS,3.22
+3637,Lethe,Human,1,8.0,55,TOS,3.22
+5656,Simon Van Gelder,Human,1,8.0,55,TOS,3.22
+2342,Helen Noel,Human,1,8.0,55,TOS,3.22
+6350,Tristan Adams,Human,1,8.0,55,TOS,3.22
+336,Anton Karidian,Unknown,1,8.1,52,TOS,3.216
+2979,Jon Daily,Unknown,1,8.1,52,TOS,3.216
+3548,Larry Matson,Human,1,8.1,52,TOS,3.216
+4035,Martha Leighton,Human,1,8.1,52,TOS,3.216
+3612,Lenore Karidian,Human,1,8.1,52,TOS,3.216
+6166,Thomas Leighton,Human,1,8.1,52,TOS,3.216
+3228,Kell,Cardassian,2,7.79,61,"DS9, TNG",3.213
+2373,Herbert,Human,2,7.23,84,TNG,3.211
+3125,Kalita,Human,2,7.9,57,"DS9, TNG",3.208
+216,Alonzo Freeman,Human,5,7.43,74,LD,3.207
+2384,Hernandez,Human,3,7.79,60,ENT,3.201
+531,Barlow,Unknown,1,8.1,51,DIS,3.201
+3368,Koloth,Klingon,3,7.39,75,"DS9, TAS, TOS",3.199
+2004,Gaunt Gary,Human,3,7.43,73,VOY,3.197
+4096,Matthew,Human,2,7.19,84,TNG,3.192
+5141,Rejac,Klingon,1,7.2,83,DIS,3.19
+4441,Nambue,Human,1,7.2,83,DIS,3.19
+5216,Ricky,Human,2,8.02,52,VOY,3.182
+4846,Petri,Troyian,1,8.4,43,TOS,3.179
+6580,Watson,Human,1,8.4,43,TOS,3.179
+3441,Kryton,Elasian,1,8.4,43,TOS,3.179
+1739,Evans,Human,1,8.4,43,TOS,3.179
+1616,Elaan,Elasian,1,8.4,43,TOS,3.179
+3550,Lars Lundy,Human,3,8.21,47,LD,3.178
+5132,Regina Barthalomew,Human,1,8.5,41,TNG,3.177
+1519,Drex,Klingon,1,9.0,33,DS9,3.174
+2455,Huraga,Klingon,1,9.0,33,DS9,3.174
+3198,Kaybok,Klingon,1,9.0,33,DS9,3.174
+3931,Malko,Trill,1,9.0,33,DS9,3.174
+2850,Jet Manhaver,Human,4,7.71,60,LD,3.171
+2666,Jabez Wilson,Human,1,8.1,49,TNG,3.169
+3634,Lestrade,Human,1,8.1,49,TNG,3.169
+5585,Shakaar Edon,Bajoran,3,7.48,68,DS9,3.165
+5811,Strickler,Human,3,7.35,73,VOY,3.164
+5450,Sally Whitley,Human,1,8.0,51,PIC,3.161
+4121,Maxwell Nagata,Human,1,8.0,51,PIC,3.161
+762,Bri'onn Raul,Orion,1,8.0,51,PIC,3.161
+5472,Sanders,Human,2,7.74,58,"DS9, TNG",3.157
+1079,Collins,Human,2,7.8,56,"ENT, TNG",3.154
+994,Chekote,Human,2,7.66,60,"TNG, DS9",3.148
+1271,Danny Webb,Human,2,7.85,54,DS9,3.146
+6495,Vin,Human,2,7.85,54,DS9,3.146
+629,Biddle Coleridge,Human,2,7.85,54,DS9,3.146
+610,Bernardo Calvera,Human,2,7.85,54,DS9,3.146
+4234,Michael Webb,Human,2,7.85,54,DS9,3.146
+1028,Christopher Brynner,Human,2,7.85,54,DS9,3.146
+6174,Thomas Riker,Human,2,7.68,58,"DS9, TNG",3.131
+4069,Mary Warren,Human,1,8.0,49,TNG,3.13
+543,Barron,Human,1,8.0,49,TNG,3.13
+4634,Oji,Mintakan,1,8.0,49,TNG,3.13
+1809,Fento,Mintakan,1,8.0,49,TNG,3.13
+3662,Liko,Mintakan,1,8.0,49,TNG,3.13
+4593,Nuria,Mintakan,1,8.0,49,TNG,3.13
+2272,Hali,Mintakan,1,8.0,49,TNG,3.13
+4727,Paki,Mintakan,1,8.0,49,TNG,3.13
+6720,Yari,Mintakan,1,8.0,49,TNG,3.13
+5803,Stonn,Vulcan,2,6.87,94,"TOS, SNW",3.128
+474,B. Cotton,Human,3,7.77,55,ENT,3.126
+2213,Grilka,Klingon,2,7.87,52,DS9,3.124
+6363,Tumek,Klingon,2,7.87,52,DS9,3.124
+4347,Moody,Human,2,6.9,91,TOS,3.122
+1854,Francine,Human,1,8.0,48,TNG,3.113
+1597,Edouard,Human,1,8.0,48,TNG,3.113
+1359,Dean,Human,1,8.0,48,TNG,3.113
+2817,Jenice Manheim,Human,1,8.0,48,TNG,3.113
+4784,Paul Manheim,Human,1,8.0,48,TNG,3.113
+1949,Gabrielle,Human,1,8.0,48,TNG,3.113
+3527,Lance,Human,1,7.7,56,SNW,3.113
+4932,Probasco,Human,1,7.7,56,SNW,3.113
+373,Arik Soong,Human,3,7.73,55,ENT,3.113
+3929,Malik,Human,3,7.73,55,ENT,3.113
+4826,Persis,Human,3,7.73,55,ENT,3.113
+5518,Saul,Human,3,7.73,55,ENT,3.113
+2059,Gi'ral,Klingon,2,7.4,66,TNG,3.111
+6365,Turla,Klingon,2,7.4,66,TNG,3.111
+504,Ba'ktor,Klingon,2,7.4,66,TNG,3.111
+5560,Sentith,Romulan,2,7.4,66,TNG,3.111
+3477,L'Kor,Klingon,2,7.4,66,TNG,3.111
+2698,Jaglom Shrek,Yridian,2,7.4,66,TNG,3.111
+503,Ba'el,Klingon,2,7.4,66,TNG,3.111
+4804,Pel,Romulan,2,7.06,81,"DS9, PIC",3.111
+1840,Flotter,Unknown,2,7.31,69,"VOY, PIC",3.107
+2972,Johnny,Human,1,8.2,43,TNG,3.103
+3700,Locklin,Human,1,8.2,43,TNG,3.103
+2901,Joe Falling Hawk,Human,1,8.3,41,TNG,3.102
+1883,Frederick La Rouque,Human,1,8.3,41,TNG,3.102
+3530,Lane,Human,1,8.3,41,TNG,3.102
+1580,Ed Appel,Human,1,8.1,45,TOS,3.101
+2085,Giotto,Human,1,8.1,45,TOS,3.101
+5287,Roberts,Human,1,8.1,45,TOS,3.101
+5525,Schmitter,Human,1,8.1,45,TOS,3.101
+6446,Vanderberg,Human,1,8.1,45,TOS,3.101
+4379,Mother Horta,Horta,1,8.1,45,TOS,3.101
+4150,Mea 3,Eminian,1,8.0,47,TOS,3.097
+263,Anan 7,Eminian,1,8.0,47,TOS,3.097
+5261,Robert Fox,Human,1,8.0,47,TOS,3.097
+5490,Sar 6,Eminian,1,8.0,47,TOS,3.097
+6008,Tamura,Human,1,8.0,47,TOS,3.097
+5742,Spoeneman,Unknown,1,7.8,52,DIS,3.097
+3825,M. Forbes,Human,2,8.5,37,ENT,3.092
+6087,Tenavik,Klingon,2,7.04,79,DIS,3.086
+2060,Gia,Barkonian,2,7.6,57,"DS9, TNG",3.085
+3112,Kahlest,Klingon,1,8.2,42,TNG,3.084
+6105,Terry,Human,1,8.4,38,TNG,3.077
+3978,Margaret Blackwell,Human,1,8.4,38,TNG,3.077
+3447,Kulge,Klingon,1,8.4,38,TNG,3.077
+1030,Christopher Hobson,Human,1,8.4,38,TNG,3.077
+3218,Keith Craig,Human,1,8.4,38,TNG,3.077
+1710,Erik Pressman,Human,1,8.4,38,TNG,3.077
+5672,Sirol,Romulan,1,8.4,38,TNG,3.077
+5593,Shanthi,Human,1,8.4,38,TNG,3.077
+4605,O'Herlihy,Human,1,7.9,48,TOS,3.075
+2298,Harold,Human,1,7.9,48,TOS,3.075
+6323,Travers,Unknown,1,7.9,48,TOS,3.075
+2728,James Morrow,Human,3,7.45,61,VOY,3.073
+886,Caretaker,Nacene,2,7.27,67,VOY,3.07
+4026,Marquez,Human,2,7.27,67,TNG,3.067
+3038,Juarez baby,Human,1,8.1,43,TNG,3.065
+6413,V'Sal,Bolian,1,8.1,43,TNG,3.065
+191,Alfredo Juarez,Human,1,8.1,43,TNG,3.065
+4175,Mendak,Romulan,1,8.1,43,TNG,3.065
+5554,Selok,Romulan,1,8.1,43,TNG,3.065
+3037,Juarez,Human,1,8.1,43,TNG,3.065
+1284,Daro,Cardassian,1,8.2,41,TNG,3.065
+3886,Macet,Cardassian,1,8.2,41,TNG,3.065
+6071,Telle,Cardassian,1,8.2,41,TNG,3.065
+590,Benjamin Maxwell,Human,1,8.2,41,TNG,3.065
+4647,Omag,Ferengi,1,8.3,39,TNG,3.062
+4741,Parem,Romulan,1,8.3,39,TNG,3.062
+793,Brossmer,Human,1,8.3,39,TNG,3.062
+1170,D'Tan,Romulan,1,8.3,39,TNG,3.062
+243,Amarie,Unknown,1,8.3,39,TNG,3.062
+6452,Varel,Romulan,1,8.3,39,TNG,3.062
+4133,McDowell,Human,1,8.3,39,TNG,3.062
+4303,Mirok,Romulan,1,8.3,39,TNG,3.062
+5818,Sturgeon,Human,1,7.6,55,TOS,3.059
+1283,Darnell,Human,1,7.6,55,TOS,3.059
+537,Barnhart,Human,1,7.6,55,TOS,3.059
+5257,Robert Crater,Human,1,7.6,55,TOS,3.059
+2161,Green,Human,1,7.6,55,TOS,3.059
+4446,Nancy Crater,Unknown,1,7.6,55,TOS,3.059
+3426,Krim,Bajoran,2,7.7,52,DS9,3.057
+877,Calvin Hudson,Human,2,7.8,49,DS9,3.051
+3350,Kobb,Human,2,7.8,49,DS9,3.051
+5442,Sakonna,Vulcan,2,7.8,49,DS9,3.051
+254,Amesha,Human,1,7.8,49,DIS,3.051
+2684,Jacob,Human,1,7.8,49,DIS,3.051
+4552,Niles,Human,2,7.8,49,DS9,3.051
+245,Amaros,Human,2,7.8,49,DS9,3.051
+5441,Sakkath,Vulcan,1,8.1,42,TNG,3.047
+3284,Ki Mendrossen,Human,1,8.1,42,TNG,3.047
+6794,Zegov,Klingon,1,8.0,44,TNG,3.045
+6465,Vekma,Klingon,1,8.0,44,TNG,3.045
+4177,Mendon,Benzite,1,8.0,44,TNG,3.045
+3340,Klag,Klingon,1,8.0,44,TNG,3.045
+3156,Kargan,Klingon,1,8.0,44,TNG,3.045
+4602,O'Donnell,Human,2,8.0,44,VOY,3.045
+218,Alora,Majalan,1,7.7,51,SNW,3.042
+1968,Gamal,Majalan,1,7.7,51,SNW,3.042
+3326,Kirayoshi O'Brien,Human,2,7.66,52,DS9,3.042
+4831,Pete Harkins,Human,2,7.94,45,VOY,3.038
+209,Allenby,Human,3,6.55,102,TNG,3.036
+3105,Kabath,Romulan,1,7.3,63,PIC,3.036
+4482,Naáshala Kunamadéstifee,Trill,1,7.3,63,PIC,3.036
+4875,Pincus,Human,1,7.3,63,PIC,3.036
+1772,F5,Unknown,1,7.3,63,PIC,3.036
+5173,Rhomsew,Unknown,1,7.3,63,PIC,3.036
+1774,F8,Unknown,1,7.3,63,PIC,3.036
+1773,F7,Unknown,1,7.3,63,PIC,3.036
+1667,Emily Bosch,Human,1,7.8,48,PIC,3.036
+4427,Naarg,Tellarite,2,8.4,36,ENT,3.033
+6590,Wendy,Human,2,8.6,33,LD,3.033
+2094,Glidia,Unknown,2,7.75,49,DS9,3.032
+2440,Hovath,Bajoran,2,7.53,55,DS9,3.031
+4554,Nilrem,Malcorian,1,8.1,41,TNG,3.028
+3531,Lanel,Malcorian,1,8.1,41,TNG,3.028
+6039,Tava,Malcorian,1,8.1,41,TNG,3.028
+3437,Krola,Malcorian,1,8.1,41,TNG,3.028
+604,Berel,Malcorian,1,8.1,41,TNG,3.028
+4300,Mirasta Yale,Malcorian,1,8.1,41,TNG,3.028
+449,Avel Durken,Malcorian,1,8.1,41,TNG,3.028
+3594,Lee Kelso,Human,1,7.2,66,TOS,3.027
+167,Alden,Human,1,7.2,66,TOS,3.027
+5692,Smith,Human,1,7.2,66,TOS,3.027
+1637,Elizabeth Dehner,Unknown,1,7.2,66,TOS,3.027
+1994,Gary Mitchell,Unknown,1,7.2,66,TOS,3.027
+4013,Mark Piper,Human,1,7.2,66,TOS,3.027
+3763,Lovok,Changeling,1,8.9,29,DS9,3.027
+6222,Toddman,Human,1,8.9,29,DS9,3.027
+1613,Ekoor,Cardassian,1,8.9,29,DS9,3.027
+3376,Koral,Klingon,2,7.55,54,"TNG, DS9",3.026
+734,Brackett,Human,1,8.2,39,TNG,3.025
+469,B'iJik,Klingon,1,8.2,39,TNG,3.025
+3344,Klim Dokachin,Zakdorn,1,8.2,39,TNG,3.025
+4,335,Unknown,1,7.9,45,PIC,3.025
+6811,Zilah,Human,1,7.9,45,PIC,3.025
+5744,Spot 73,Unknown,1,7.9,45,PIC,3.025
+6829,Zorn,Bandi,1,6.9,79,TNG,3.024
+6287,Torres,Human,1,6.9,79,TNG,3.024
+5557,Senna Tal,Trill,2,6.76,86,DIS,3.02
+3681,Lisa,Human,2,7.37,59,"DS9, TOS",3.019
+1413,Dern,Human,2,7.15,67,TNG,3.016
+6153,Tholos,Andorian,2,7.86,45,ENT,3.009
+5480,Sandríne,Human,2,7.61,51,VOY,3.008
+5630,Shipley,Human,2,6.98,73,TNG,3.004
+5503,Sarin,Suliban,1,7.6,51,ENT,3.003
+3337,Klaang,Klingon,1,7.6,51,ENT,3.003
+4349,Moore,Human,1,7.6,51,ENT,3.003
+6293,Tos,Vulcan,1,7.6,51,ENT,3.003
+897,Carlos,Human,1,7.6,51,ENT,3.003
+1263,Daniel Leonard,Human,1,7.6,51,ENT,3.003
+2360,Henry Archer,Human,1,7.6,51,ENT,3.003
+634,Biggs,Human,2,8.02,41,ENT,2.999
+6535,Vrax,Romulan,2,8.3,36,ENT,2.997
+2760,Jaresh-Inyo,Grazerite,2,7.74,47,DS9,2.996
+3647,Leyton,Human,2,7.74,47,DS9,2.996
+598,Benteen,Human,2,7.74,47,DS9,2.996
+1943,Gabi,Human,2,6.74,84,PIC,2.995
+5385,Ryn,Andorian,3,6.37,108,DIS,2.989
+2888,Joaquin,Human,1,7.8,45,TOS,2.986
+4691,Otto,Human,1,7.8,45,TOS,2.986
+3282,Khan Noonien Singh,Human,1,7.8,45,TOS,2.986
+3185,Kati,Human,1,7.8,45,TOS,2.986
+5739,Spinelli,Human,1,7.8,45,TOS,2.986
+4020,Marla McGivers,Human,1,7.8,45,TOS,2.986
+3465,Kuvak,Vulcan,2,8.21,37,ENT,2.985
+4458,Nar,Overlooker,1,8.6,31,VOY,2.981
+6803,Zet,Overlooker,1,8.6,31,VOY,2.981
+3745,Loth,Unknown,1,8.6,31,VOY,2.981
+1956,Gaila,Orion,2,7.7,47,DS9,2.98
+969,Charles Evans,Human,1,7.5,52,TOS,2.978
+6246,Tom Nellis,Human,1,7.5,52,TOS,2.978
+5069,Ramart,Human,1,7.5,52,TOS,2.978
+6206,Tina Lawton,Human,1,7.5,52,TOS,2.978
+1373,Deela,Scalosian,2,7.21,61,"DS9, TOS",2.977
+5880,Syrus,Tilonian,1,8.1,38,TNG,2.967
+6784,Zarabeth,Sarpeidon native,1,8.1,38,TOS,2.967
+5829,Suna,Tilonian,1,8.1,38,TNG,2.967
+428,Atoz,Sarpeidon native,1,8.1,38,TOS,2.967
+5231,Rishon Uxbridge,Human,1,7.7,46,TNG,2.965
+217,Alonzo Vandermeer,Human,1,7.7,46,PIC,2.965
+2480,Ian,Unknown,1,7.7,46,PIC,2.965
+3276,Kevin Uxbridge,Unknown,1,7.7,46,TNG,2.965
+3199,Kayron,Ferengi,1,7.5,51,TNG,2.963
+6029,Tarr,Ferengi,1,7.5,51,TNG,2.963
+4894,Pola,Vulcan,1,7.5,51,TNG,2.963
+4355,Mordoc,Ferengi,1,7.5,51,TNG,2.963
+4902,Portal 63,Unknown,1,7.5,51,TNG,2.963
+3636,Letek,Ferengi,1,7.5,51,TNG,2.963
+3233,Kellin,Ramuran,2,7.57,49,"DS9, VOY",2.962
+5894,T'Les,Vulcan,2,7.83,43,ENT,2.961
+5072,Ramirez,Human,2,7.87,42,"ENT, DS9",2.961
+1670,Emmanuel,Human,1,8.7,29,VOY,2.959
+6058,Tedran,Kyrian,1,8.7,29,VOY,2.959
+6114,Tessa Omond,Human,1,8.7,29,VOY,2.959
+1662,Emergency Medical Android,Unknown,1,8.7,29,VOY,2.959
+4521,Nevala,Romulan,1,8.7,29,VOY,2.959
+5142,Rekar,Romulan,1,8.7,29,VOY,2.959
+213,Almak,Unknown,1,8.7,29,VOY,2.959
+1241,Daleth,Vaskan,1,8.7,29,VOY,2.959
+5967,Tabris,Kyrian,1,8.7,29,VOY,2.959
+4963,Quarren,Kyrian,1,8.7,29,VOY,2.959
+2974,Johnson,Human,2,6.76,78,"TOS, PIC",2.953
+2179,Grek,Tellarite,1,7.4,53,DIS,2.952
+1738,Evan Connolly,Human,1,7.4,53,DIS,2.952
+1240,Dalen Quaice,Human,1,7.8,43,TNG,2.952
+1690,Enwright,Unknown,1,8.0,39,TOS,2.951
+2302,Harper,Human,1,8.0,39,TOS,2.951
+5193,Richard Daystrom,Human,1,8.0,39,TOS,2.951
+3813,M-5 multitronic unit,Unknown,1,8.0,39,TOS,2.951
+3422,Krell,Klingon,2,7.27,56,"TOS, ENT",2.941
+6412,V'Latak,Vulcan,1,7.3,55,DIS,2.939
+495,B. Scott,Human,2,7.91,40,ENT,2.937
+730,Boylan,Human,2,7.7,44,VOY,2.931
+3744,Loskene,Tholian,1,8.0,38,TOS,2.931
+1961,Galen,Human,1,8.0,38,TNG,2.931
+4590,Nu'Daq,Klingon,1,8.0,38,TNG,2.931
+4607,O'Neil,Human,1,8.0,38,TOS,2.931
+4621,Ocett,Cardassian,1,8.0,38,TNG,2.931
+5864,Swinn,Human,2,7.48,49,VOY,2.924
+6065,Tekeny Ghemor,Cardassian,2,7.54,47,DS9,2.92
+1908,Furel,Bajoran,3,6.96,65,DS9,2.918
+2818,Jenkins,Human,2,7.76,42,VOY,2.918
+796,Brower,Human,1,7.9,39,TNG,2.914
+267,Anaya,Human,1,7.9,39,TNG,2.914
+5583,Shahna,Unknown,1,7.7,43,TOS,2.914
+4939,Provider 1,Provider,1,7.7,43,TOS,2.914
+4941,Provider 3,Provider,1,7.7,43,TOS,2.914
+1967,Galt,Unknown,1,7.7,43,TOS,2.914
+3549,Lars,Unknown,1,7.7,43,TOS,2.914
+2736,Jana Haines,Human,1,7.7,43,TOS,2.914
+4940,Provider 2,Provider,1,7.7,43,TOS,2.914
+3347,Kloog,Unknown,1,7.7,43,TOS,2.914
+6007,Tamoon,Unknown,1,7.7,43,TOS,2.914
+2557,Ithor,Orion,1,7.3,53,DIS,2.912
+2558,Ithyk,Andorian,1,7.3,53,DIS,2.912
+1119,Cosmo Traitt,Betelgeusian,1,7.3,53,DIS,2.912
+6494,Villus Thed,Unknown,2,7.4,50,DS9,2.908
+698,Bok,Ferengi,2,6.75,73,TNG,2.904
+1096,Constance Goodheart,Human,2,7.5,47,VOY,2.902
+1349,Dayton,Human,2,8.1,35,LD,2.902
+1426,Deyos,Vorta,1,8.8,26,DS9,2.9
+293,Angel,Unknown,1,7.2,55,SNW,2.898
+5867,Sybok,Vulcan,1,7.2,55,SNW,2.898
+1852,Fran,Human,1,7.2,55,SNW,2.898
+5148,Remy,Orion,1,7.2,55,SNW,2.898
+6047,Taylor,Human,3,7.75,41,"LD, ENT",2.898
+4652,One,Borg,1,8.6,28,VOY,2.896
+6453,Vargas,Human,1,8.6,28,DS9,2.896
+4392,Mulchaey,Human,1,8.6,28,VOY,2.896
+4429,Nadia Larkin,Human,1,8.6,28,DS9,2.896
+5100,Rayburn,Human,1,7.4,49,TOS,2.895
+4086,Mathews,Human,1,7.4,49,TOS,2.895
+5297,Roger Korby,Human,1,7.4,49,TOS,2.895
+5358,Ruk,Unknown,1,7.4,49,TOS,2.895
+270,Andrea,Unknown,1,7.4,49,TOS,2.895
+797,Brown,Human,1,7.4,49,TOS,2.895
+1540,"Duras, son of Toral",Klingon,2,7.9,38,ENT,2.894
+3588,Leck,Ferengi,2,7.47,47,DS9,2.894
+5227,Rionoj,Boslic,3,7.32,51,DS9,2.892
+1302,Dave Bailey,Human,1,7.0,61,TOS,2.889
+514,Balok,Balok's species,1,7.0,61,TOS,2.889
+1246,Dan Bell,Human,1,7.5,46,TNG,2.888
+1162,Cyrus Redblock,Human,1,7.5,46,TNG,2.888
+1801,Felix Leech,Human,1,7.5,46,TNG,2.888
+6611,Whalen,Human,1,7.5,46,TNG,2.888
+2846,Jessica Bradley,Human,1,7.5,46,TNG,2.888
+4147,McNary,Human,1,7.5,46,TNG,2.888
+6364,Turanj,Hirogen,2,7.55,44,VOY,2.875
+3164,Karr,Hirogen,2,7.55,44,VOY,2.875
+5680,Skantal,Romulan,1,7.2,53,PIC,2.872
+6090,Tenqem Adrev,Romulan,1,7.2,53,PIC,2.872
+6781,Zani,Romulan,1,7.2,53,PIC,2.872
+5584,Shai,Romulan,1,7.2,53,PIC,2.872
+631,Bidran,Romulan,1,7.2,53,PIC,2.872
+3742,Lorrum,Kazon,2,7.5,45,VOY,2.871
+1846,Forra Gegen,Voth,1,8.5,28,VOY,2.862
+4341,Moninger,Unknown,1,8.5,28,ENT,2.862
+4623,Odala,Voth,1,8.5,28,VOY,2.862
+1900,Frola Gegen,Voth,1,8.5,28,VOY,2.862
+6298,Tova Veer,Voth,1,8.5,28,VOY,2.862
+2275,Haluk,Voth,1,8.5,28,VOY,2.862
+3246,Kennelly,Human,1,7.8,38,TNG,2.858
+3214,Keeve Falor,Bajoran,1,7.8,38,TNG,2.858
+2451,Humbolt,Human,1,7.3,49,TOS,2.856
+4879,Piper,Unknown,1,7.3,49,TOS,2.856
+2011,Gelnon,Vorta,2,7.45,45,DS9,2.854
+1422,Devor,Human,1,7.9,36,TNG,2.853
+1356,DeSeve,Human,1,7.9,36,TNG,2.853
+6282,Toreth,Romulan,1,7.9,36,TNG,2.853
+4491,Neil,Human,1,7.9,36,TNG,2.853
+4897,Pomet,Pomet's species,1,7.9,36,TNG,2.853
+878,Calvin Hutchinson,Human,1,7.9,36,TNG,2.853
+3239,Kelsey,Human,1,7.9,36,TNG,2.853
+5515,Satler,Unknown,1,7.9,36,TNG,2.853
+4678,Orton,Arkarian,1,7.9,36,TNG,2.853
+3810,M'ret,Romulan,1,7.9,36,TNG,2.853
+4412,N'Vek,Romulan,1,7.9,36,TNG,2.853
+3330,Kiros,Arkarian,1,7.9,36,TNG,2.853
+507,Badgey,Unknown,2,7.96,35,LD,2.852
+6294,Toscat,Ocampa,1,7.4,46,VOY,2.849
+5309,Rollins,Human,1,7.4,46,VOY,2.849
+93,Adah,Human,1,7.4,46,VOY,2.849
+2667,Jabin,Kazon,1,7.4,46,VOY,2.849
+933,Cavit,Human,1,7.4,46,VOY,2.849
+5752,Stadi,Betazoid,1,7.4,46,VOY,2.849
+1233,Daggin,Ocampa,1,7.4,46,VOY,2.849
+4417,N. Kemper,Human,3,6.63,72,"DIS, ENT",2.845
+4369,Morris,Human,2,6.49,79,PIC,2.844
+6290,Torsus,Borg,1,8.0,34,TNG,2.844
+5774,Stephen Hawking,Human,1,8.0,34,TNG,2.844
+724,Bosus,Borg,1,8.0,34,TNG,2.844
+6046,Tayar,Borg,1,8.0,34,TNG,2.844
+5896,T'Lyn,Vulcan,2,8.62,26,LD,2.839
+4529,Nicholas Locarno,Human,1,7.8,37,TNG,2.837
+5512,Satelk,Vulcan,1,7.8,37,TNG,2.837
+2797,Jean Hajar,Human,1,7.8,37,TNG,2.837
+158,Albert,Human,1,7.8,37,TNG,2.837
+743,Brand,Human,1,7.8,37,TNG,2.837
+429,Attis,Barzan,2,6.53,76,DIS,2.837
+257,Amma,Barzan,2,6.53,76,DIS,2.837
+6235,Tolpra,Barzan,2,6.53,76,DIS,2.837
+5241,Rivers,Human,2,7.85,36,ENT,2.835
+559,Beata,Angel I native,1,7.4,45,TNG,2.833
+6336,Trent,Human,1,7.4,45,TNG,2.833
+5076,Ramsey,Human,1,7.4,45,TNG,2.833
+372,Ariel,Angel I native,1,7.4,45,TNG,2.833
+5159,Retaya,Flaxian,1,8.5,27,DS9,2.832
+5898,T'Mir,Vulcan,1,8.5,27,ENT,2.832
+3906,Maggie,Human,1,8.5,27,ENT,2.832
+6074,Tellus,Vulcan,1,8.5,27,ENT,2.832
+5813,Stron,Vulcan,1,8.5,27,ENT,2.832
+4198,Mestral,Vulcan,1,8.5,27,ENT,2.832
+4979,R. Ascher,Human,1,8.5,27,ENT,2.832
+1997,Gary Seven,Human,1,7.5,42,TOS,2.821
+3679,Lipton,Human,1,7.5,42,TOS,2.821
+1142,Cromwell,Human,1,7.5,42,TOS,2.821
+2675,Jack Nesvig,Human,1,7.5,42,TOS,2.821
+5285,Roberta Lincoln,Human,1,7.5,42,TOS,2.821
+2554,Isis,Unknown,1,7.5,42,TOS,2.821
+980,Charley,Human,1,7.5,42,TOS,2.821
+6706,Xi,Trill,3,6.03,106,DIS,2.818
+3583,Lazarus,Human,1,7.4,44,TOS,2.817
+962,Charlene Masters,Human,1,7.4,44,TOS,2.817
+1261,Daniel Greaves,Human,2,7.86,35,ENT,2.816
+2936,John Frederick Paxton,Human,2,7.86,35,ENT,2.816
+4475,Nathan Samuels,Human,2,7.86,35,ENT,2.816
+3027,Josiah,Human,2,7.86,35,ENT,2.816
+1636,Elizabeth,Unknown,2,7.86,35,ENT,2.816
+1971,Gannet,Human,2,7.86,35,ENT,2.816
+5831,Surak,Vulcan,2,7.08,52,"ENT, TOS",2.813
+326,Antaak,Klingon,2,7.85,35,ENT,2.813
+3956,Marab,Klingon,2,7.85,35,ENT,2.813
+3074,K'Vagh,Klingon,2,7.85,35,ENT,2.813
+2220,Gromek,Human,1,7.5,41,TNG,2.803
+3207,Keel,Capellan,1,7.5,41,TOS,2.803
+1544,Duur,Capellan,1,7.5,41,TOS,2.803
+6776,Zahra,Human,1,7.5,41,TOS,2.803
+131,Akaar,Capellan,1,7.5,41,TOS,2.803
+439,Aurelan Kirk,Human,1,7.5,41,TOS,2.803
+3070,K'Temoc,Klingon,1,7.5,41,TNG,2.803
+2152,Grant,Human,1,7.5,41,TOS,2.803
+3877,Maab,Capellan,1,7.5,41,TOS,2.803
+1622,Eleen,Capellan,1,7.5,41,TOS,2.803
+3165,Kartan,Human,1,7.5,41,TOS,2.803
+1374,Deem,Capellan,1,7.5,41,TOS,2.803
+3415,Kras,Klingon,1,7.5,41,TOS,2.803
+3618,Leonard James Akaar,Capellan,1,7.5,41,TOS,2.803
+5145,Remata'Klan,Jem'Hadar,1,8.5,26,DS9,2.801
+6714,Yak'Talon,Jem'Hadar,1,8.5,26,DS9,2.801
+6724,Yassim,Bajoran,1,8.5,26,DS9,2.801
+4487,Neeley,Human,1,8.5,26,DS9,2.801
+3669,Limara'Son,Jem'Hadar,1,8.5,26,DS9,2.801
+3576,Lawrence Marvick,Human,1,7.7,37,TOS,2.801
+4297,Miranda Jones,Human,1,7.7,37,TOS,2.801
+5041,Raakin,Human,2,7.7,37,ENT,2.801
+74,Aaron,Human,1,7.4,43,TNG,2.8
+6356,Tryla Scott,Human,1,7.4,43,TNG,2.8
+6564,Walker Keel,Human,1,7.4,43,TNG,2.8
+5520,Savar,Vulcan,1,7.4,43,TNG,2.8
+5242,Rixx,Bolian,1,7.4,43,TNG,2.8
+1423,Devro,Overlooker,1,8.4,27,VOY,2.799
+3711,Lokesh,Human,2,7.75,36,ENT,2.798
+1253,Danara Pel,Vidiian,2,7.35,44,VOY,2.798
+4350,Mora Pol,Bajoran,2,7.25,46,DS9,2.791
+4830,Pete Durst,Human,2,7.2,47,VOY,2.787
+5899,T'Paal,Vulcan,1,7.9,33,TNG,2.786
+5517,Satok,Vulcan,1,7.9,33,TNG,2.786
+1159,Cyrano Jones,Human,2,7.15,48,"TAS, TOS",2.784
+3379,Korax,Klingon,2,7.15,48,"TAS, TOS",2.784
+5745,Spot II,Unknown,1,7.3,44,PIC,2.779
+663,Bjayzl,Unknown,1,6.9,55,PIC,2.777
+6538,Vup,Beta Annari,1,6.9,55,PIC,2.777
+1947,Gabriel Hwang,Human,1,6.9,55,PIC,2.777
+4767,Patrick,Human,2,7.21,46,DS9,2.777
+3570,Lauren,Human,2,7.21,46,DS9,2.777
+5504,Sarina Douglas,Human,2,7.21,46,DS9,2.777
+5683,Skoran,Barkonian,1,7.8,34,TNG,2.773
+5059,Rainer,Human,1,7.8,34,TNG,2.773
+1989,Garvin,Barkonian,1,7.8,34,TNG,2.773
+6000,Talur,Barkonian,1,7.8,34,TNG,2.773
+5378,Ruth,Human,1,7.2,46,TOS,2.772
+1729,Esteban Rodriguez,Human,1,7.2,46,TOS,2.772
+1824,Finnegan,Human,1,7.2,46,TOS,2.772
+1464,Don Juan,Human,1,7.2,46,TOS,2.772
+6260,Tonia Barrows,Human,1,7.2,46,TOS,2.772
+667,Black Knight,Human,1,7.2,46,TOS,2.772
+3212,Keeper,Keeper's species,1,7.2,46,TOS,2.772
+3967,Marci Collins,Human,1,8.5,25,VOY,2.769
+4484,Needle Fingers,Unknown,1,8.5,25,VOY,2.769
+2365,Henry Janeway,Human,1,8.5,25,VOY,2.769
+2778,Jason Janeway,Human,1,8.5,25,VOY,2.769
+5592,Shannon O'Donnel,Human,1,8.5,25,VOY,2.769
+3290,Kieran,Human,1,8.5,25,VOY,2.769
+637,Bill,Human,1,8.5,25,VOY,2.769
+3053,Junior,Unknown,1,8.5,25,VOY,2.769
+6184,Three of Five,Borg,1,8.5,25,VOY,2.769
+2049,Gerald Moss,Human,1,8.5,25,VOY,2.769
+5973,Taggert,Human,2,6.45,72,TNG,2.769
+1714,Eris,Vorta,1,8.4,26,DS9,2.769
+4538,Nicole,Unknown,1,8.4,26,VOY,2.769
+5986,Talak'talan,Jem'Hadar,1,8.4,26,DS9,2.769
+3254,Keogh,Human,1,8.4,26,DS9,2.769
+6732,Yerdrin Lek,Yridian,1,8.6,24,ENT,2.768
+3253,Kentor,Human,1,7.4,41,TNG,2.766
+360,Ard'rian McKenzie,Human,1,7.4,41,TNG,2.766
+2124,Gosheven,Human,1,7.4,41,TNG,2.766
+2296,Haritath,Human,1,7.4,41,TNG,2.766
+4108,Maury Ginsberg,Human,1,8.3,27,VOY,2.766
+4975,Quinn,Q,1,8.3,27,VOY,2.766
+6120,Thaddius Riker,Human,1,8.3,27,VOY,2.766
+3259,Kesha,Bajoran,1,8.3,27,DS9,2.766
+4800,Peanut Hamper,Unknown,2,7.91,32,LD,2.766
+5977,Taibak,Romulan,1,7.7,35,TNG,2.759
+533,Barnaby,Human,1,7.7,35,TNG,2.759
+2132,Goval,Borg,1,7.7,35,TNG,2.759
+5445,Salazar,Human,1,7.7,35,TNG,2.759
+6428,Vagh,Klingon,1,7.7,35,TNG,2.759
+5978,Taitt,Human,1,7.7,35,TNG,2.759
+370,Ariana,Tarellian,1,7.2,45,TNG,2.757
+6489,Victoria Miller,Human,1,7.2,45,TNG,2.757
+6431,Valeda Innis,Haven native,1,7.2,45,TNG,2.757
+6693,Wrenn,Tarellian,1,7.2,45,TNG,2.757
+5789,Steven Miller,Human,1,7.2,45,TNG,2.757
+6699,Wyatt Miller,Human,1,7.2,45,TNG,2.757
+22,A. Finch,Human,2,6.4,73,PIC,2.753
+4407,Musa,Human,2,6.4,73,PIC,2.753
+4989,R. Chandler,Human,2,6.4,73,PIC,2.753
+3840,M. Mather,Human,2,6.4,73,PIC,2.753
+6750,Young,Tellarite,2,7.67,35,"VOY, LD",2.75
+6278,Toran,Bajoran,2,6.99,50,DS9,2.749
+702,Boma,Human,1,7.1,47,TOS,2.749
+1815,Ferris,Human,1,7.1,47,TOS,2.749
+1954,Gaetano,Human,1,7.1,47,TOS,2.749
+5605,Shavo,Orion,1,7.1,47,DIS,2.749
+4151,Mears,Human,1,7.1,47,TOS,2.749
+5604,Shava,Orion,1,7.1,47,DIS,2.749
+307,Ann Mulhall,Human,1,7.5,38,TOS,2.748
+5501,Sargon,Arretan,1,7.5,38,TOS,2.748
+6123,Thalassa,Arretan,1,7.5,38,TOS,2.748
+2356,Henoch,Arretan,1,7.5,38,TOS,2.748
+2141,Graham,Human,2,6.44,70,TNG,2.746
+3367,Kolos,Klingon,2,7.06,48,"ENT, DS9",2.746
+2683,Jackson Roykirk,Human,1,7.3,42,TOS,2.746
+4860,Phillip Green,Human,2,6.93,51,"ENT, TOS",2.74
+5488,Santos,Human,1,7.9,31,TNG,2.738
+3887,Macias,Human,1,7.9,31,TNG,2.738
+6754,Yranac,Yridian,1,7.7,34,TNG,2.738
+6461,Vassery,Human,2,7.7,34,LD,2.738
+1182,D. Chang,Human,3,6.77,56,ENT,2.737
+1068,Cobum,Human,1,8.5,24,DS9,2.736
+5674,Sitak,Vulcan,1,8.5,24,DS9,2.736
+4672,Ornithar,Karemma,1,8.3,26,DS9,2.736
+5659,Sims,Human,1,8.2,27,VOY,2.732
+4248,Midia,Unknown,1,8.2,27,DS9,2.732
+2859,Jim,Human,1,8.2,27,VOY,2.732
+1301,Dave,Human,1,8.2,27,VOY,2.732
+697,Boheeka,Cardassian,1,8.2,27,DS9,2.732
+1733,Etheria,Unknown,1,8.2,27,DS9,2.732
+5062,Ralidia,Unknown,1,8.2,27,DS9,2.732
+944,Ch'Pok,Klingon,1,8.2,27,DS9,2.732
+5892,T'Lara,Vulcan,1,8.2,27,DS9,2.732
+3638,Leto,Kwejian,3,5.78,112,DIS,2.732
+3467,Kyheem,Kwejian,3,5.78,112,DIS,2.732
+6789,Zayner,Angosian,1,7.4,39,TNG,2.73
+6560,Wagnor,Angosian,1,7.4,39,TNG,2.73
+2279,Hanar,Kelvan,1,7.4,39,TOS,2.73
+4481,Nayrok,Angosian,1,7.4,39,TNG,2.73
+1730,Etana,Ktarian,1,7.4,39,TNG,2.73
+3226,Kelinda,Kelvan,1,7.4,39,TOS,2.73
+5305,Rojan,Kelvan,1,7.4,39,TOS,2.73
+5295,Roga Danar,Angosian,1,7.4,39,TNG,2.73
+528,Bardoli,Human,1,7.5,37,TOS,2.728
+5243,Rizzo,Human,1,7.5,37,TOS,2.728
+3411,Kozak,Klingon,1,8.1,28,DS9,2.728
+1123,Coutu,Parada/Paradan,1,8.1,28,DS9,2.728
+1165,D'Ghor,Klingon,1,8.1,28,DS9,2.728
+1351,DeCurtis,Human,1,8.1,28,DS9,2.728
+1087,Companion,Human,1,7.1,45,TOS,2.718
+4447,Nancy Hedford,Human,1,7.1,45,TOS,2.718
+4311,Mitena Haro,Unknown,1,7.4,38,TNG,2.711
+1728,Esoqq,Chalnoth,1,7.4,38,TNG,2.711
+3404,Kova Tholl,Mizarian,1,7.4,38,TNG,2.711
+5941,T. Palmer,Human,2,7.2,42,ENT,2.71
+4496,Nella Daren,Human,1,7.5,36,TNG,2.708
+5205,Richardson,Human,1,7.5,36,TNG,2.708
+998,Cheney,Human,1,7.5,36,TNG,2.708
+1396,Deng,Unknown,1,7.5,36,TNG,2.708
+3117,Kal,Coridanite,1,7.2,42,DIS,2.708
+2015,Gene,Unknown,1,7.2,42,DIS,2.708
+4681,Os'ir,Coridanite,1,7.2,42,DIS,2.708
+4473,Nathan,Human,1,8.3,25,DS9,2.704
+128,Ahni Jetal,Human,1,8.3,25,VOY,2.704
+5652,Sim,Human,1,8.4,24,ENT,2.704
+2426,Honey Bare,Human,1,8.2,26,DS9,2.703
+266,Anastasia Komananov,Human,1,8.2,26,DS9,2.703
+706,Borath,Vorta,1,8.2,26,DS9,2.703
+882,Caprice,Human,1,8.2,26,DS9,2.703
+1779,Falcon,Human,1,8.2,26,DS9,2.703
+1527,Duchamps,Human,1,8.2,26,DS9,2.703
+4337,Mona Luvsitt,Human,1,8.2,26,DS9,2.703
+2406,Hippocrates Noah,Human,1,8.2,26,DS9,2.703
+5042,Raan,Suliban,1,8.2,26,ENT,2.703
+6423,Vaatrik,Bajoran,1,8.1,27,DS9,2.699
+1005,Ches'sarro Seeto,Bajoran,1,8.1,27,DS9,2.699
+6326,Trazko,Bajoran,1,8.1,27,DS9,2.699
+6424,Vaatrik Pallra,Bajoran,1,8.1,27,DS9,2.699
+526,Barbara series,Unknown,1,7.3,39,TOS,2.693
+201,Alice series,Unknown,1,7.3,39,TOS,2.693
+4684,Oscar series,Unknown,1,7.3,39,TOS,2.693
+5344,Rowe,Human,1,7.3,39,TOS,2.693
+4582,Norman,Unknown,1,7.3,39,TOS,2.693
+3005,Jordan,Human,1,7.3,39,TOS,2.693
+3919,Maisie series,Unknown,1,7.3,39,TOS,2.693
+2381,Herman series,Unknown,1,7.3,39,TOS,2.693
+6354,Trudy series,Unknown,1,7.3,39,TOS,2.693
+314,Annabelle series,Unknown,1,7.3,39,TOS,2.693
+6091,Tepo,Iotian,1,7.4,37,TOS,2.692
+569,Bela Okmyx,Iotian,1,7.4,37,TOS,2.692
+3126,Kalo,Iotian,1,7.4,37,TOS,2.692
+3155,Karf,Iotian,1,7.4,37,TOS,2.692
+6774,Zabo,Iotian,1,7.4,37,TOS,2.692
+2975,Jojo Krako,Iotian,1,7.4,37,TOS,2.692
+4304,Mirt,Iotian,1,7.4,37,TOS,2.692
+3140,Kaplan,Human,1,7.2,41,TOS,2.691
+4024,Marple,Human,1,7.2,41,TOS,2.691
+4034,Martha Landon,Human,1,7.2,41,TOS,2.691
+2350,Hendorff,Human,1,7.2,41,TOS,2.691
+5521,Sayana,Vaalian,1,7.2,41,TOS,2.691
+3933,Mallory,Human,1,7.2,41,TOS,2.691
+3922,Makora,Vaalian,1,7.2,41,TOS,2.691
+136,Akuta,Vaalian,1,7.2,41,TOS,2.691
+3764,Luaran,Vorta,1,8.7,21,DS9,2.689
+1038,Chu'vok,Klingon,1,8.7,21,DS9,2.689
+6529,Vornar,Cardassian,1,8.7,21,DS9,2.689
+3134,Kaminer,Human,1,7.5,35,TNG,2.688
+5576,Setti,Human,1,7.5,35,TNG,2.688
+1598,Edward Hagler,Human,1,7.5,35,TNG,2.688
+2924,John Christopher,Human,1,7.1,43,TOS,2.687
+1802,Fellini,Human,1,7.1,43,TOS,2.687
+6582,Webb,Human,1,7.1,43,TOS,2.687
+2905,Joe Tormolen,Human,1,6.7,54,TOS,2.685
+5223,Riley Aldrin Shepard,Human,2,7.0,45,DS9,2.679
+6234,Tolor,Orion,2,6.18,75,DIS,2.678
+6533,Vosk,Na'kuhl,2,7.3,38,ENT,2.674
+903,Carmine,Human,2,7.3,38,ENT,2.674
+203,Alicia Travers,Human,2,7.3,38,ENT,2.674
+322,Annie,Human,1,7.4,36,TNG,2.672
+1626,Eli Hollander,Human,1,7.4,36,TNG,2.672
+6432,Valek,Kazon,2,7.1,42,VOY,2.67
+3725,Loran,Kazon,2,7.1,42,VOY,2.67
+5834,Surat,Kazon,2,7.1,42,VOY,2.67
+4740,Parell,Human,1,8.1,26,DS9,2.67
+1945,Gabriel,Human,1,8.1,26,DS9,2.67
+4298,Miranda O'Brien,Human,1,8.1,26,DS9,2.67
+4326,Molly,Human,1,8.1,26,DS9,2.67
+794,Brota,Unknown,1,8.1,26,DS9,2.67
+6730,Yelgrun,Vorta,1,8.1,26,DS9,2.67
+6727,Yedrin Dax,Human,1,8.1,26,DS9,2.67
+6085,Templeton,Human,2,6.97,45,VOY,2.667
+3726,Lord Burleigh,Human,2,6.97,45,VOY,2.667
+367,Argyle,Human,2,6.0,84,TNG,2.666
+6280,Torath,Klingon,1,6.8,49,DIS,2.66
+5912,T'Shen Kovil,Human,1,6.8,49,DIS,2.66
+2140,Grafk,Klingon,1,6.8,49,DIS,2.66
+5650,Silrek,Klingon,1,6.8,49,DIS,2.66
+6588,Wen,Human,1,7.2,39,DIS,2.656
+763,Briam,Kriosian,1,7.3,37,TNG,2.655
+4959,Qol,Ferengi,1,7.3,37,TNG,2.655
+219,Alrik,Valtese,1,7.3,37,TNG,2.655
+3129,Kamala,Kriosian,1,7.3,37,TNG,2.655
+468,B'Tardat,Kaelon,1,7.3,37,TNG,2.655
+6199,Timicin,Kaelon,1,7.3,37,TNG,2.655
+4737,Par Lenor,Ferengi,1,7.3,37,TNG,2.655
+3773,Luisa Kim,Human,1,7.1,41,TNG,2.654
+665,Bjorn Bensen,Human,1,7.1,41,TNG,2.654
+399,Arthur Malencon,Human,1,7.1,41,TNG,2.654
+5073,Ramos,Human,1,7.1,41,TNG,2.654
+3458,Kurt Mandl,Human,1,7.1,41,TNG,2.654
+3450,Kunivas,Klingon,1,7.1,41,TNG,2.654
+3371,Konmel,Klingon,1,7.1,41,TNG,2.654
+3063,K'Nera,Klingon,1,7.1,41,TNG,2.654
+3392,Korris,Klingon,1,7.1,41,TNG,2.654
+383,Armus,Vagran,2,6.71,51,"TNG, LD",2.652
+930,Castro,Human,2,8.05,26,LD,2.652
+239,Amanda Rogers,Q,1,7.4,35,TNG,2.652
+4670,Orn Lote,Tagran,1,7.4,35,TNG,2.652
+4895,Pollux,Human,1,6.2,71,SNW,2.652
+5218,Ridley,Human,1,6.2,71,SNW,2.652
+3310,King,Unknown,1,6.2,71,SNW,2.652
+115,Adya,Human,1,6.2,71,SNW,2.652
+4522,Neve,Human,1,6.2,71,SNW,2.652
+433,Audrey,Human,1,6.2,71,SNW,2.652
+233,Amand Rauth,Human,1,6.2,71,SNW,2.652
+6125,Thalia,Human,1,6.2,71,SNW,2.652
+929,Caster,Human,1,6.2,71,SNW,2.652
+6769,Z'ymira,Human,1,6.2,71,SNW,2.652
+5364,Runa,Unknown,1,6.2,71,SNW,2.652
+1369,Debra,Unknown,1,6.2,71,SNW,2.652
+6376,Tyler,Human,1,7.5,33,TNG,2.645
+5644,Sigmund Freud,Human,1,7.5,33,TNG,2.645
+3202,Kazago,Ferengi,1,6.9,45,TNG,2.642
+5090,Rata,Ferengi,1,6.9,45,TNG,2.642
+2241,H'ta,Klingon,1,8.2,24,DS9,2.639
+2456,Huss,Klingon,1,8.2,24,DS9,2.639
+951,Chandler,Human,1,8.2,24,DS9,2.639
+5918,T'vis,Klingon,1,8.2,24,DS9,2.639
+3413,Krajensky,Changeling,1,8.2,24,DS9,2.639
+3108,Kagan,Human,1,8.2,24,DS9,2.639
+829,Butch,Human,1,8.1,25,VOY,2.639
+4903,Porter,Human,1,8.1,25,VOY,2.639
+3405,Koval,Romulan,1,8.3,23,DS9,2.638
+2389,Hickam,Human,1,8.3,23,DS9,2.638
+4658,Onquanii,Garan,1,8.3,23,VOY,2.638
+364,Ardra,Unknown,1,7.2,38,TNG,2.638
+6635,William B. Harrison,Human,1,7.2,38,TOS,2.638
+6002,Tam Elbrun,Betazoid,1,7.2,38,TNG,2.638
+1057,Claudius Marcus,892-IV native,1,7.2,38,TOS,2.638
+1797,Fek'lhr,Unknown,1,7.2,38,TNG,2.638
+5259,Robert DeSoto,Human,1,7.2,38,TNG,2.638
+1835,Flavius Maximus,892-IV native,1,7.2,38,TOS,2.638
+1419,Devil,Unknown,1,7.2,38,TNG,2.638
+1523,Drusilla,Unknown,1,7.2,38,TOS,2.638
+5563,Septimus,892-IV native,1,7.2,38,TOS,2.638
+2236,Guy of Gisbourne,Human,1,7.2,38,TNG,2.638
+5119,Red Angel,Unknown,1,7.2,38,DIS,2.638
+5039,R.M. Merik,Human,1,7.2,38,TOS,2.638
+2442,Howard Clark,Human,1,7.2,38,TNG,2.638
+2685,Jacob Marley,Unknown,1,7.2,38,TNG,2.638
+3143,Kara,Sigma Draconis VI native,1,7.2,38,TOS,2.638
+91,Acost Jared,Ventaxian,1,7.2,38,TNG,2.638
+90,Achilles,892-IV native,1,7.2,38,TOS,2.638
+3785,Lurin,Ferengi,1,7.3,36,TNG,2.636
+605,Berik,Ferengi,1,7.3,36,TNG,2.636
+4372,Morta,Ferengi,1,7.3,36,TNG,2.636
+4887,Plasus,Ardanan,1,7.3,36,TOS,2.636
+6450,Vanna,Ardanan,1,7.3,36,TOS,2.636
+4250,Midro,Ardanan,1,7.3,36,TOS,2.636
+306,Anka,Ardanan,1,7.3,36,TOS,2.636
+1522,Droxine,Ardanan,1,7.3,36,TOS,2.636
+256,Amina Ramsey,Human,2,7.91,27,LD,2.635
+4176,Mendez,Human,2,6.63,52,"TNG, VOY",2.633
+2364,Henry Garcia,Human,1,7.9,27,DS9,2.632
+2139,Grady,Human,1,7.9,27,DS9,2.632
+4923,Preston,Human,1,7.9,27,DS9,2.632
+3781,Lupaza,Bajoran,2,6.9,44,DS9,2.627
+4916,Pran Tainer,Atrean,1,7.5,32,TNG,2.622
+4105,Mauric,Kesprytt,1,7.5,32,TNG,2.622
+3737,Lorin,Kesprytt,1,7.5,32,TNG,2.622
+3045,Juliana Tainer,Unknown,1,7.5,32,TNG,2.622
+3787,Lurry,Human,1,7.2,37,TOS,2.619
+4558,Nilz Baris,Human,1,7.2,37,TOS,2.619
+1538,Durango,Human,2,7.77,28,LD,2.617
+6472,Vendome,Bolian,2,7.69,29,LD,2.617
+6686,Wong,Human,2,7.69,29,LD,2.617
+4433,Nagilum,Unknown,1,7.0,41,TNG,2.616
+2319,Haskell,Human,1,7.0,41,TNG,2.616
+4581,Nori,Human,2,6.91,43,"DS9, VOY",2.615
+3325,Kira Taban,Bajoran,2,6.95,42,DS9,2.614
+30,A. Jacobson,Human,2,6.58,52,ENT,2.614
+6569,Walter Baxter,Human,2,6.75,47,VOY,2.612
+390,Arridor,Ferengi,2,6.37,59,"VOY, TNG",2.61
+3366,Kolopak,Human,2,6.85,44,VOY,2.608
+4115,Maximilian Forrest,Unknown,1,8.2,23,ENT,2.606
+6098,Terev,Tellarite,1,8.2,23,ENT,2.606
+6608,Weyoun 6,Vorta,1,8.2,23,DS9,2.606
+3635,Letant,Romulan,1,8.2,23,DS9,2.606
+2081,Gint,Ferengi,1,8.2,23,DS9,2.606
+585,Benil,Cardassian,1,7.9,26,DS9,2.604
+2501,Iliana Ghemor,Cardassian,1,7.9,26,DS9,2.604
+1689,Entek,Cardassian,1,7.9,26,DS9,2.604
+6003,Tamal,Human,1,7.9,26,DS9,2.604
+6755,Yteppa,Kobliad,1,7.9,26,DS9,2.604
+6731,Yeln,Bajoran,1,7.9,26,DS9,2.604
+368,Ari,Cardassian,1,7.9,26,DS9,2.604
+5085,Ranor,Cardassian,1,7.9,26,DS9,2.604
+170,Alenis Grem,Bajoran,1,7.9,26,DS9,2.604
+5731,Soto,Lethean,1,7.9,26,DS9,2.604
+3385,Korinas,Cardassian,1,7.9,26,DS9,2.604
+3535,Langor,Brekkian,1,6.8,45,TNG,2.603
+5694,Sobi,Brekkian,1,6.8,45,TNG,2.603
+3977,Margan,Ornaran,1,6.8,45,TNG,2.603
+5314,Romas,Ornaran,1,6.8,45,TNG,2.603
+5887,T'Jon,Ornaran,1,6.8,45,TNG,2.603
+1147,Cunningham,Human,2,7.16,37,ENT,2.603
+4256,Mike Burnham,Human,1,7.2,36,DIS,2.6
+6129,The Albino,Unknown,1,7.8,27,DS9,2.599
+1946,Gabriel Bell,Human,1,7.8,27,DS9,2.599
+5982,Takenta,Tyran,1,7.4,32,TNG,2.587
+3240,Kelso,Human,1,7.4,32,TNG,2.587
+4871,Pierson,Unknown,1,7.4,32,TNG,2.587
+1787,Farallon,Tyran,1,7.4,32,TNG,2.587
+342,Apella,Neural native,1,7.0,39,TOS,2.582
+4575,Nona,Neural native,1,7.0,39,TOS,2.582
+6764,Yutan,Neural native,1,7.0,39,TOS,2.582
+6379,Tyree,Neural native,1,7.0,39,TOS,2.582
+4374,Moseley,Human,1,7.2,35,TNG,2.58
+3954,Mara,Klingon,1,7.2,35,TOS,2.58
+607,Berlinghoff Rasmussen,Human,1,7.2,35,TNG,2.58
+3294,Kila Marr,Human,1,7.2,35,TNG,2.58
+901,Carmen Davila,Human,1,7.2,35,TNG,2.58
+5105,Raymond Marr,Unknown,1,7.2,35,TNG,2.58
+5705,Solis,Human,1,6.9,41,TNG,2.579
+3655,Lian T'Su,Human,1,6.9,41,TNG,2.579
+3704,Logan,Human,1,6.9,41,TNG,2.579
+2681,Jackabog,Pakled,1,8.6,19,LD,2.576
+4806,Pelk,Malon,1,8.0,24,VOY,2.575
+3544,Larr,Menk,1,8.0,24,ENT,2.575
+749,Brathaw,Bolian,1,8.0,24,DS9,2.575
+3266,Keval,Andorian,1,8.0,24,ENT,2.575
+6176,Thon,Andorian,1,8.0,24,ENT,2.575
+1724,Esaak,Valakian,1,8.0,24,ENT,2.575
+1515,Dremk,Malon,1,8.0,24,VOY,2.575
+1816,Fesek,Malon,1,8.0,24,VOY,2.575
+3025,Joshua Kelly,Human,1,7.3,33,TNG,2.574
+6271,Toq,Klingon,1,7.3,33,TNG,2.574
+6227,Tokath,Romulan,1,7.3,33,TNG,2.574
+6313,Trajis Lo-Tarik,Unknown,1,8.1,23,VOY,2.574
+2444,Hoya,Benzite,1,7.9,25,DS9,2.574
+3295,Kilana,Vorta,1,7.9,25,DS9,2.574
+5895,T'Lor,Tiburonian,1,7.9,25,DS9,2.574
+5238,Rivan,Edo,1,6.8,43,TNG,2.573
+3658,Liator,Edo,1,6.8,43,TNG,2.573
+636,Bilecki,Human,1,7.8,26,DS9,2.571
+1346,Day,Bajoran,1,7.8,26,DS9,2.571
+6077,Telok,Klingon,1,7.8,26,DS9,2.571
+1,0413 Theta,Unknown,1,7.8,26,DS9,2.571
+6369,Tuvix,Talaxian,1,7.7,27,VOY,2.566
+305,Anjohl Tennan,Unknown,1,8.3,21,DS9,2.566
+3670,Lin,Human,1,7.1,36,TNG,2.564
+3011,Joseph A. Longo,Human,1,7.1,36,TNG,2.564
+572,Bele,Cheron native,1,7.1,36,TOS,2.564
+3709,Lokai,Cheron native,1,7.1,36,TOS,2.564
+285,Andrus Hagan,Betazoid,1,7.1,36,TNG,2.564
+2073,Gillespie,Human,1,7.1,36,TNG,2.564
+956,Chantal Zaheva,Human,1,7.1,36,TNG,2.564
+4802,Peeples,Human,1,7.1,36,TNG,2.564
+6215,Toby Russell,Human,1,7.2,34,TNG,2.56
+5966,Tabor,Bajoran,2,6.86,40,VOY,2.548
+6563,Walker,Human,1,8.5,19,ENT,2.546
+5666,Sirah,Omega IV native,1,7.0,37,TOS,2.546
+6696,Wu,Omega IV native,1,7.0,37,TOS,2.546
+5328,Ronald Tracey,Human,1,7.0,37,TOS,2.546
+3695,Liyang,Omega IV native,1,7.0,37,TOS,2.546
+1067,Cloud William,Omega IV native,1,7.0,37,TOS,2.546
+6181,Thorne,Human,1,7.1,35,TNG,2.544
+2012,Gem,Gem's species,1,7.1,35,TOS,2.544
+3676,Linke,Human,1,7.1,35,TOS,2.544
+6126,Thann,Vian,1,7.1,35,TOS,2.544
+4695,Ozaba,Human,1,7.1,35,TOS,2.544
+2820,Jenna D'Sora,Human,1,7.1,35,TNG,2.544
+4918,Prax,Devore,1,7.9,24,VOY,2.543
+101,Adar,Brenari,1,7.9,24,VOY,2.543
+3055,Jurot,Betazoid,1,7.9,24,VOY,2.543
+6279,Torat,Torat's species,1,7.9,24,VOY,2.543
+3174,Kashyk,Devore,1,7.9,24,VOY,2.543
+3319,Kir,Brenari,1,7.9,24,VOY,2.543
+231,Alzen,Srivani,1,8.0,23,VOY,2.542
+898,Carlotta,Human,1,8.0,23,VOY,2.542
+5980,Takar,Srivani,1,8.0,23,VOY,2.542
+6657,William Samuels,Human,1,7.8,25,DS9,2.541
+3617,Leonard,Unknown,1,8.1,22,VOY,2.54
+2271,Haley,Human,1,8.1,22,VOY,2.54
+4795,Pavlik,Human,1,7.0,36,TNG,2.528
+5109,Rayna Kapec,Unknown,1,7.1,34,TOS,2.524
+1837,Flint,Human,1,7.1,34,TOS,2.524
+4037,Martin,Human,2,6.32,53,"TNG, VOY",2.521
+5997,Talok,Romulan,1,8.4,19,ENT,2.516
+3360,Kol-Sha,Klingon,1,6.6,44,DIS,2.512
+1439,Diego Vela,Human,1,6.6,44,DIS,2.512
+162,Albert Kim,Unknown,1,6.6,44,DIS,2.512
+269,Andre Haynes,Unknown,1,6.6,44,DIS,2.512
+1863,Frank Darwin,Human,1,7.8,24,VOY,2.511
+3157,Karina,Romulan,1,7.8,24,DS9,2.511
+6436,Valerie Archer,Unknown,1,7.8,24,VOY,2.511
+4746,Parn,Cardassian,1,7.8,24,DS9,2.511
+5139,Reiskin,Unknown,1,7.8,24,VOY,2.511
+5380,Ruwon,Romulan,1,7.8,24,DS9,2.511
+4366,Morka,Klingon,1,7.8,24,DS9,2.511
+3317,Kinis,Unknown,1,7.8,24,VOY,2.511
+430,Atul,Klingon,1,7.8,24,DS9,2.511
+3551,Larsen,Unknown,1,7.8,24,VOY,2.511
+1316,David Gentry,Unknown,1,7.8,24,VOY,2.511
+4604,O'Halloran,Unknown,1,7.8,24,VOY,2.511
+1520,Drofo Awa,Xepolite,1,7.8,24,DS9,2.511
+817,Bullock,Unknown,1,7.8,24,VOY,2.511
+674,Bo'rak,Klingon,1,7.8,24,DS9,2.511
+5640,Siana,Cardassian,1,7.9,23,DS9,2.511
+6701,Wykoff,Human,1,7.9,23,DS9,2.511
+3708,Lojur,Human,1,7.7,25,VOY,2.509
+1441,Dimitri Valtane,Human,1,7.7,25,VOY,2.509
+1088,Compton,Human,1,7.0,35,TOS,2.508
+5048,Rael,Scalosian,1,7.0,35,TOS,2.508
+1614,Ekor,Scalosian,1,7.0,35,TOS,2.508
+2310,"Harry Bernard, Sr.",Human,1,6.8,39,TNG,2.508
+4078,Mason,Human,1,6.8,39,TNG,2.508
+1337,Davies,Human,1,6.8,39,TNG,2.508
+154,Alans,Human,1,6.8,39,TNG,2.508
+5089,Rashella,Aldean,1,6.8,39,TNG,2.508
+3590,Leda,Aldean,1,6.8,39,TNG,2.508
+89,Accolan,Aldean,1,6.8,39,TNG,2.508
+6301,Toya,Human,1,6.8,39,TNG,2.508
+185,Alexandra,Human,1,6.8,39,TNG,2.508
+3186,Katie,Human,1,6.8,39,TNG,2.508
+4931,Prixus,Human,1,6.8,39,TNG,2.508
+1524,Duana,Aldean,1,6.8,39,TNG,2.508
+6017,Tara,Human,1,6.8,39,TNG,2.508
+5506,Sarjenka,Dreman,1,6.8,39,TNG,2.508
+4162,Melian,Aldean,1,6.8,39,TNG,2.508
+2399,Hildebrant,Human,1,6.8,39,TNG,2.508
+2309,Harry Bernard,Human,1,6.8,39,TNG,2.508
+5047,Radue,Aldean,1,6.8,39,TNG,2.508
+402,Arturis,Species 116,1,8.0,22,VOY,2.508
+899,Carlson,Human,1,8.0,22,VOY,2.508
+5312,Romah Doek,Tygarian,1,7.6,26,DS9,2.505
+720,Borum,Bajoran,1,7.6,26,DS9,2.505
+6792,Zef'No,Kressari,1,7.6,26,DS9,2.505
+5685,Slar,Gorn,1,8.1,21,ENT,2.504
+1975,Gardner,Human,1,8.1,21,ENT,2.504
+666,Black,Unknown,1,8.1,21,ENT,2.504
+5140,Reittan Grax,Betazoid,2,5.96,65,"TNG, ENT",2.499
+1788,Farek,Ferengi,2,5.96,65,"TNG, ENT",2.499
+4528,Nibor,Ferengi,2,5.96,65,"TNG, ENT",2.499
+3596,Lee'U,Alshain,2,5.9,68,DIS,2.498
+4041,Martin Wells,Human,2,5.76,75,PIC,2.496
+3917,Maier,Human,2,7.95,22,LD,2.493
+1907,Fuller,Human,2,6.25,53,"DIS, ENT",2.492
+4668,Orgoth,Osaarian,2,6.25,53,"DIS, ENT",2.492
+2619,J. McKenzie,Human,2,6.25,53,"DIS, ENT",2.492
+2117,Gorgan,Non-corporeal lifeform,1,6.9,36,TOS,2.492
+5758,Starnes,Human,1,6.9,36,TOS,2.492
+4600,O'Connel,Human,1,6.9,36,TOS,2.492
+6358,Tsing Tao,Human,1,6.9,36,TOS,2.492
+5781,Steve O'Connel,Human,1,6.9,36,TOS,2.492
+1466,Don Linden,Human,1,6.9,36,TOS,2.492
+4061,Mary Janowski,Human,1,6.9,36,TOS,2.492
+3672,Linden,Human,1,6.9,36,TOS,2.492
+2756,Janowski,Human,1,6.9,36,TOS,2.492
+5099,Ray Tsing Tao,Human,1,6.9,36,TOS,2.492
+6258,Tommy Starnes,Human,1,6.9,36,TOS,2.492
+3434,Krite,J'naii,1,6.8,38,TNG,2.491
+5726,Soren,J'naii,1,6.8,38,TNG,2.491
+4577,Noor,J'naii,1,6.8,38,TNG,2.491
+6638,William Boimler,Human,2,7.74,24,LD,2.491
+512,Baldwin,Human,1,7.0,34,TNG,2.489
+4242,Mickey D,Human,1,6.6,42,TNG,2.482
+6117,Texas,Human,1,6.6,42,TNG,2.482
+6809,Ziggy,Human,1,6.6,42,TNG,2.482
+6448,Vanessa,Human,1,6.6,42,TNG,2.482
+2747,Janeway,Human,2,6.22,53,"VOY, TNG",2.479
+6708,Y'Pora,Bajoran,1,7.8,23,DS9,2.479
+4131,McConnell,Human,1,7.8,23,DS9,2.479
+5224,Riley Frazier,Human,1,7.8,23,VOY,2.479
+4679,Orum,Romulan,1,7.8,23,VOY,2.479
+5792,Stevens,Human,1,7.7,24,DS9,2.479
+2113,Goran'Agar,Jem'Hadar,1,7.7,24,DS9,2.479
+351,Arak'Taral,Jem'Hadar,1,7.7,24,DS9,2.479
+5188,Richard Bashir,Human,1,7.7,24,DS9,2.479
+5127,Regana Tosh,Markalian,1,7.7,24,DS9,2.479
+3382,Korena,Bajoran,1,7.7,24,DS9,2.479
+4195,Meso'Clan,Jem'Hadar,1,7.7,24,DS9,2.479
+4161,Melanie,Human,1,7.7,24,DS9,2.479
+2753,Janklow,Human,1,7.7,24,DS9,2.479
+6082,Temo'Zuma,Jem'Hadar,1,7.7,24,DS9,2.479
+258,Amsha Bashir,Human,1,7.7,24,DS9,2.479
+2286,Hanok,Karemma,1,7.7,24,DS9,2.479
+914,Carson,Human,1,7.7,24,DS9,2.479
+3033,Jovar Tal,Unknown,1,6.4,47,DIS,2.478
+3892,Madela Tal,Unknown,1,6.4,47,DIS,2.478
+885,Cara Tal,Unknown,1,6.4,47,DIS,2.478
+6532,Vos,Trill,1,6.4,47,DIS,2.478
+3171,Kasha Tal,Unknown,1,6.4,47,DIS,2.478
+2772,Jaryn,Lokirrim,1,7.9,22,VOY,2.477
+5083,Ranek,Lokirrim,1,7.9,22,VOY,2.477
+177,Alexana Devos,Rutian,1,6.8,37,TNG,2.474
+3189,Katik Shaw,Rutian,1,6.8,37,TNG,2.474
+3474,Kyril Finn,Rutian,1,6.8,37,TNG,2.474
+2575,J. Carender,Human,1,8.4,18,ENT,2.473
+4421,N. Myers,Human,1,8.4,18,ENT,2.473
+4352,Morak,Klingon,1,8.0,21,VOY,2.473
+6410,V'Lar,Vulcan,1,8.0,21,ENT,2.473
+945,Ch'Rega,Klingon,1,8.0,21,VOY,2.473
+5885,T'Greth,Klingon,1,8.0,21,VOY,2.473
+3354,Kohlar,Klingon,1,8.0,21,VOY,2.473
+5052,Rahda,Human,1,6.9,35,TOS,2.473
+6697,Wyatt,Human,1,6.9,35,TOS,2.473
+6083,Temple,Human,1,6.9,35,TNG,2.473
+5830,Sunad,Zalkonian,1,6.9,35,TNG,2.473
+2918,John B. Watkins,Human,1,6.9,35,TOS,2.473
+2927,John Doe,Zalkonian,1,6.9,35,TNG,2.473
+5471,Sanchez,Human,1,6.9,35,TOS,2.473
+1163,D'Amato,Human,1,6.9,35,TOS,2.473
+3743,Losira,Kalandan,1,6.9,35,TOS,2.473
+6823,Zolan,Zolan's species,1,7.5,26,DS9,2.472
+3400,Kotan Pa'Dar,Cardassian,1,7.5,26,DS9,2.472
+5356,Rugal,Cardassian,1,7.5,26,DS9,2.472
+407,Asha,Cardassian,1,7.5,26,DS9,2.472
+4934,Proka Migdal,Bajoran,1,7.5,26,DS9,2.472
+2977,Jomat Luson,Bajoran,1,7.5,26,DS9,2.472
+1810,Fer'at,Vulcan,1,8.2,19,ENT,2.457
+4759,Patches,Unknown,1,6.7,38,TNG,2.455
+2746,Janet Wallace,Human,1,6.7,38,TOS,2.455
+1618,Elaine Johnson,Human,1,6.7,38,TOS,2.455
+381,Arlene Galway,Human,1,6.7,38,TOS,2.455
+4017,Marla Aster,Human,1,6.7,38,TNG,2.455
+5267,Robert Johnson,Human,1,6.7,38,TOS,2.455
+425,Atkins,Human,1,6.7,38,TOS,2.455
+420,Aster,Human,1,6.7,38,TNG,2.455
+227,Alvin,Human,1,6.7,38,TOS,2.455
+5798,Stocker,Human,1,6.7,38,TOS,2.455
+2831,Jeremy Aster,Human,1,6.7,38,TNG,2.455
+2036,George Primmin,Human,2,6.08,55,DS9,2.449
+244,Amaro,Human,1,7.7,23,DS9,2.447
+2869,Jimenez,Human,1,7.7,23,DS9,2.447
+6261,Tonsa,Bajoran,1,7.7,23,DS9,2.447
+705,Boq'ta,Bolian,1,7.7,23,DS9,2.447
+1661,Emck,Malon,1,7.7,23,VOY,2.447
+4801,Pechetti,Human,1,7.7,23,DS9,2.447
+5366,Runepp,Rasiinian,1,7.7,23,DS9,2.447
+5505,Sarish Rez,Bajoran,1,7.7,23,DS9,2.447
+5971,Tagana,Bajoran,1,7.7,23,DS9,2.447
+2853,Jeyal,Tavnian,1,7.7,23,DS9,2.447
+5800,Stolzoff,Human,1,7.7,23,DS9,2.447
+4651,Onaya,Unknown,1,7.7,23,DS9,2.447
+894,Carl Zeemo,Human,1,7.6,24,DS9,2.446
+3433,Krit,Unknown,1,7.6,24,DS9,2.446
+137,Al,Human,1,7.6,24,DS9,2.446
+3540,Larell,Talura's species,1,7.6,24,DS9,2.446
+4112,Max,Human,1,7.6,24,DS9,2.446
+4434,Nahsk,Unknown,1,7.6,24,DS9,2.446
+6264,Tony Cicci,Human,1,7.6,24,DS9,2.446
+2000,Gathorel Labin,Sikarian,1,7.6,24,VOY,2.446
+5381,Ryan,Human,1,7.6,24,DS9,2.446
+1862,Frank Chalmers,Human,1,7.6,24,DS9,2.446
+2267,Hain,Unknown,1,7.6,24,DS9,2.446
+4563,Nina,Human,1,7.6,24,DS9,2.446
+2761,Jaret Otel,Sikarian,1,7.6,24,VOY,2.446
+6177,Thopok,Klingon,1,7.6,24,DS9,2.446
+989,Charlie Scott,Human,1,7.6,24,DS9,2.446
+2441,Howard,Human,1,7.6,24,DS9,2.446
+1735,Eudana,Sikarian,1,7.6,24,VOY,2.446
+6614,White,Human,1,7.8,22,VOY,2.446
+301,Angie Kirby,Human,1,7.8,22,DS9,2.446
+4958,Qatai,Unknown,1,7.8,22,VOY,2.446
+6832,Zyree,Dosi,1,7.4,26,DS9,2.439
+2517,Inglatu,Dosi,1,7.4,26,DS9,2.439
+5447,Salish,Human,1,6.7,37,TOS,2.437
+3329,Kirok,Unknown,1,6.7,37,TOS,2.437
+4494,Nel Apgar,Tanugan,1,6.7,37,TNG,2.437
+4295,Miramanee,Human,1,6.7,37,TOS,2.437
+6049,Tayna,Tanugan,1,6.7,37,TNG,2.437
+2120,Goro,Human,1,6.7,37,TOS,2.437
+3412,Krag,Tanugan,1,6.7,37,TNG,2.437
+3947,Manua Apgar,Tanugan,1,6.7,37,TNG,2.437
+3357,Kojiro Vance,Unknown,1,8.6,16,PRO,2.437
+3177,Kateras,Boraalan,1,7.0,31,TNG,2.426
+4549,Nikolai Rozhenko,Human,1,7.0,31,TNG,2.426
+2884,Jo'Bril,Takaran,1,7.0,31,TNG,2.426
+3451,Kurak,Klingon,1,7.0,31,TNG,2.426
+1452,Dobara,Boraalan,1,7.0,31,TNG,2.426
+6526,Vorin,Boraalan,1,7.0,31,TNG,2.426
+5900,T'Pan,Vulcan,1,7.0,31,TNG,2.426
+6030,Tarrana,Boraalan,1,7.0,31,TNG,2.426
+5168,Reyga,Ferengi,1,7.0,31,TNG,2.426
+6718,Yareena,Ligonian,1,6.3,46,TNG,2.426
+2265,Hagon,Ligonian,1,6.3,46,TNG,2.426
+3790,Lutan,Ligonian,1,6.3,46,TNG,2.426
+1239,Dale,Human,1,6.4,43,PIC,2.422
+3780,Luna,Unknown,1,6.4,43,PIC,2.422
+5760,Stauss,Human,1,6.4,43,PIC,2.422
+1856,Francis Puga,Human,1,6.4,43,PIC,2.422
+1446,Dirgo,Unknown,1,6.7,36,TNG,2.419
+5713,Songi,Gamelan V native,1,6.7,36,TNG,2.419
+2325,Hayne,Human,1,6.7,36,TNG,2.419
+2550,Ishara Yar,Human,1,6.7,36,TNG,2.419
+6747,Yosh,Unknown,1,6.7,36,TNG,2.419
+6009,Tan Tsu,Human,1,6.7,36,TNG,2.419
+6252,Toman'torax,Jem'Hadar,1,7.6,23,DS9,2.415
+6312,Traistana,Vissian,1,7.6,23,ENT,2.415
+1537,Duran'Adar,Jem'Hadar,1,7.6,23,DS9,2.415
+3443,Kudak'Etan,Jem'Hadar,1,7.6,23,DS9,2.415
+1516,Drennik,Vissian,1,7.6,23,ENT,2.415
+3524,Lamat'Ukan,Jem'Hadar,1,7.6,23,DS9,2.415
+5135,Reginald Smith,Human,1,7.6,23,VOY,2.415
+6606,Weyoun 4,Vorta,1,7.6,23,DS9,2.415
+873,Calla,Vissian,1,7.6,23,ENT,2.415
+1052,Claude,Human,1,7.6,23,VOY,2.415
+963,Charles,Vissian,1,7.6,23,ENT,2.415
+6482,Veylo,Vissian,1,7.6,23,ENT,2.415
+6508,Virak'kara,Jem'Hadar,1,7.6,23,DS9,2.415
+1628,Elias Giger,Human,1,7.6,23,DS9,2.415
+4648,Omet'iklan,Jem'Hadar,1,7.6,23,DS9,2.415
+2560,Ixtana'Rax,Jem'Hadar,1,7.6,23,DS9,2.415
+5879,Syrran,Vulcan,1,8.2,18,ENT,2.414
+412,Askwith,Human,1,8.2,18,ENT,2.414
+2854,Jhamel,Aenar,1,8.2,18,ENT,2.414
+5764,Stel,Vulcan,1,8.2,18,ENT,2.414
+3685,Lissan,Aenar,1,8.2,18,ENT,2.414
+2803,Jeannie Kelly,Human,1,7.7,22,VOY,2.414
+2944,John Kelly,Human,1,7.7,22,VOY,2.414
+5337,Rose Kumagawa,Human,1,7.7,22,VOY,2.414
+273,Andrei Novakovich,Human,1,7.7,22,VOY,2.414
+4797,Paxim,Talaxian,1,7.7,22,VOY,2.414
+2880,Jippeq,Varro,1,7.5,24,VOY,2.414
+3152,Karen Loews,Human,1,7.5,24,DS9,2.414
+1415,Derran Tal,Varro,1,7.5,24,VOY,2.414
+5882,Syvek,Vulcan,1,8.7,15,LD,2.412
+3876,Ma'ah,Klingon,1,8.7,15,LD,2.412
+5884,T'Gai,Vulcan,1,8.7,15,LD,2.412
+5914,T'im,Klingon,1,8.7,15,LD,2.412
+5702,Sokel,Vulcan,1,8.7,15,LD,2.412
+1485,Dorg,Klingon,1,8.7,15,LD,2.412
+6224,Togg,Klingon,1,8.7,15,LD,2.412
+5595,Shara,Vulcan,1,8.7,15,LD,2.412
+5117,Rebner,Pakled,1,8.7,15,LD,2.412
+1974,Gar,Dralian,1,7.8,21,VOY,2.411
+210,Allocator,Unknown,1,7.8,21,VOY,2.411
+1552,Dysek,Dinaali,1,7.8,21,VOY,2.411
+996,Chellick,Jye,1,7.8,21,VOY,2.411
+6520,Voje,Dinaali,1,7.8,21,VOY,2.411
+6055,Tebbis,Dinaali,1,7.8,21,VOY,2.411
+3318,Kipp,Unknown,1,7.8,21,VOY,2.411
+2707,Jakin,T'Lani,1,7.4,25,DS9,2.411
+4597,Nydrom,T'Lani,1,7.4,25,DS9,2.411
+5596,Sharat,Kellerun,1,7.4,25,DS9,2.411
+4164,Melissa,Human,1,7.4,25,DS9,2.411
+3712,Lola Chrystal,Human,1,7.4,25,DS9,2.411
+1555,E'Tyshra,T'Lani,1,7.4,25,DS9,2.411
+2930,John Evansville,Human,1,7.3,26,VOY,2.406
+2672,Jack Hayes,Human,1,7.3,26,VOY,2.406
+1876,Fred Noonan,Human,1,7.3,26,VOY,2.406
+3169,Karyn Berlin,Human,1,7.3,26,VOY,2.406
+251,Amelia Earhart,Human,1,7.3,26,VOY,2.406
+4571,Nogami,Human,1,7.3,26,VOY,2.406
+2750,Janice Lester,Human,1,6.8,33,TOS,2.398
+3136,Kanak,Akoszonam,1,6.8,33,DIS,2.398
+397,Arthur Coleman,Human,1,6.8,33,TOS,2.398
+452,Avryz,Human,1,6.8,33,DIS,2.398
+321,Annette,Human,1,6.5,39,TNG,2.398
+1695,Eric,Human,1,6.5,39,TNG,2.398
+4790,Paul Stubbs,Human,1,6.5,39,TNG,2.398
+3604,Leland T. Lynch,Human,1,6.5,39,TNG,2.398
+579,Ben Prieto,Human,1,6.5,39,TNG,2.398
+1683,Enina Tandro,Klaestron,1,7.1,28,DS9,2.391
+5553,Selin Peers,Trill,1,7.1,28,DS9,2.391
+2505,Ilon Tandro,Klaestron,1,7.1,28,DS9,2.391
+1657,Els Renora,Bajoran,1,7.1,28,DS9,2.391
+4747,Parsons,Human,1,8.1,18,ENT,2.385
+4076,Masaro,Human,1,8.1,18,ENT,2.385
+6180,Thoris,Andorian,1,8.1,18,ENT,2.385
+3119,Kalandra,Human,1,7.5,23,DS9,2.384
+3406,Kovat,Cardassian,1,7.5,23,DS9,2.384
+444,Automated Commander 122,Cravic,1,7.5,23,VOY,2.384
+3229,Kellan,Rakosan,1,7.5,23,VOY,2.384
+5103,Raymond Boone,Human,1,7.5,23,DS9,2.384
+3920,Makbar,Cardassian,1,7.5,23,DS9,2.384
+3327,Kirby,Human,1,7.5,23,DS9,2.384
+446,Automated Unit 6263,Pralor,1,7.5,23,VOY,2.384
+4938,Prototype Unit 0001,Pralor,1,7.5,23,VOY,2.384
+445,Automated Unit 3947,Pralor,1,7.5,23,VOY,2.384
+3480,L'Teis Kardashev,Human,1,6.6,36,DIS,2.383
+5053,Rahma,Osnullus,1,6.6,36,DIS,2.383
+6459,Vasiliy Rozhenko,Human,1,6.6,36,PIC,2.383
+3519,Lai,Bajoran,1,6.6,36,DIS,2.383
+4336,Mona,Human,1,6.6,36,PIC,2.383
+3589,Leclerc,Human,1,6.6,36,PIC,2.383
+518,Bandra,Human,1,6.6,36,DIS,2.383
+1286,Darok,Klingon,1,7.6,22,DS9,2.383
+3629,Leskit,Klingon,1,7.6,22,DS9,2.383
+4718,Pablo Baytart,Unknown,1,7.6,22,VOY,2.383
+4676,Ortikan,Klingon,1,7.6,22,DS9,2.383
+3362,Kolana,Klingon,1,7.6,22,DS9,2.383
+6471,Ven,Species 6339,1,7.6,22,VOY,2.383
+4043,Martis,Ocampa,1,7.6,22,VOY,2.383
+3677,Linnis Paris,Ocampa,1,7.6,22,VOY,2.383
+6040,Tavana,Klingon,1,7.6,22,DS9,2.383
+3578,Laxeth,Talaxian,1,7.6,22,VOY,2.383
+4072,Maryl,Unknown,1,7.6,22,VOY,2.383
+581,Benaren,Ocampa,1,7.6,22,VOY,2.383
+3386,Kornan,Klingon,1,7.6,22,DS9,2.383
+6064,Teirna,Kazon,1,7.6,22,VOY,2.383
+277,Andrew Kim,Human,1,7.6,22,VOY,2.383
+5876,Synon,Klingon,1,7.6,22,DS9,2.383
+328,Anthony Brevelle,Human,1,6.7,34,TNG,2.382
+4780,Paul Hickman,Human,1,6.7,34,TNG,2.382
+2333,Hedrick,Human,1,6.7,34,TNG,2.382
+5846,Susanna Leijten,Human,1,6.7,34,TNG,2.382
+6192,Tilikia,Boslic,1,7.4,24,DS9,2.382
+4572,Noggra,Klingon,1,7.4,24,DS9,2.382
+5293,Rodek,Unknown,1,7.4,24,DS9,2.382
+3494,L. Isao Telaka,Human,1,6.5,38,TNG,2.381
+1308,David,Human,1,6.5,38,TNG,2.381
+3316,Kingsley,Human,1,6.5,38,TNG,2.381
+1380,Dekon Elig,Bajoran,1,7.0,29,DS9,2.381
+414,Asoth,Markalian,1,7.0,29,DS9,2.381
+1964,Galis,Bajoran,1,7.0,29,DS9,2.381
+5837,Surmak Ren,Bajoran,1,7.0,29,DS9,2.381
+2700,Jaheel,Boslic,1,7.0,29,DS9,2.381
+5161,Rettik,Kazon,2,6.15,47,VOY,2.38
+3342,Kleg,Ledosian,1,7.7,21,VOY,2.38
+5719,Sopek,Vulcan,1,7.7,21,ENT,2.38
+6308,Traeg,Coridanite,1,7.7,21,ENT,2.38
+3122,Kalev,Coridanite,1,7.7,21,ENT,2.38
+549,Barus,Ledosian,1,7.7,21,VOY,2.38
+5369,Rurigan,Yaderan,1,7.3,25,DS9,2.378
+4192,Merruk,Yaderan,1,7.3,25,DS9,2.378
+292,Anetra,Yaderan,1,7.3,25,DS9,2.378
+1082,Colyus,Yaderan,1,7.3,25,DS9,2.378
+6045,Taya,Yaderan,1,7.3,25,DS9,2.378
+71,AGIMUS,Unknown,2,7.28,25,LD,2.373
+3397,Kosinski,Human,1,6.3,42,TNG,2.37
+3168,Karyn Archer,Unknown,1,7.9,19,ENT,2.367
+3736,Lorian,Human,1,7.9,19,ENT,2.367
+2163,Greer,Human,1,7.9,19,ENT,2.367
+6603,Westervliet,Human,1,6.5,37,TOS,2.364
+5136,Reginod,Pakled,1,6.5,37,TNG,2.364
+4663,Oracle of the People,Unknown,1,6.5,37,TOS,2.364
+2159,Grebnedlog,Pakled,1,6.5,37,TNG,2.364
+4478,Natira,Fabrini,1,6.5,37,TOS,2.364
+4038,Martin Benbeck,Human,1,6.7,33,TNG,2.363
+76,Aaron Conor,Human,1,6.7,33,TNG,2.363
+2282,Hannah Bates,Human,1,6.7,33,TNG,2.363
+2722,James Komack,Human,1,6.4,39,TOS,2.361
+1692,Epran,Teplan,1,7.4,23,DS9,2.352
+6721,Yarka,Bajoran,1,7.4,23,DS9,2.352
+6341,Trevean,Teplan,1,7.4,23,DS9,2.352
+1615,Ekoria,Teplan,1,7.4,23,DS9,2.352
+4584,Norva,Teplan,1,7.4,23,DS9,2.352
+6386,Ulani Belor,Cardassian,1,7.4,23,DS9,2.352
+1378,Dejar,Cardassian,1,7.4,23,DS9,2.352
+2076,Gilora Rejal,Cardassian,1,7.4,23,DS9,2.352
+3288,Kid Chaos,Chaos entity,1,7.5,22,VOY,2.352
+2218,Grish,Ferengi,1,7.5,22,ENT,2.352
+6388,Ulis,Ferengi,1,7.5,22,ENT,2.352
+4390,Muk,Ferengi,1,7.5,22,ENT,2.352
+3423,Krem,Ferengi,1,7.5,22,ENT,2.352
+3735,Loria,Vhnori,1,7.3,24,VOY,2.35
+4945,Ptera,Vhnori,1,7.3,24,VOY,2.35
+2321,Hatil Garan,Vhnori,1,7.3,24,VOY,2.35
+4507,Neria,Vhnori,1,7.3,24,VOY,2.35
+5086,Ranora,Vhnori,1,7.3,24,VOY,2.35
+3537,Lansor,Species 571,1,7.6,21,VOY,2.349
+2002,Gaul,Vaadwaur,1,7.6,21,VOY,2.349
+2009,Gedrin,Vaadwaur,1,7.6,21,VOY,2.349
+2883,Jisa,Vaadwaur,1,7.6,21,VOY,2.349
+5715,Sonsorra,Borothan,1,7.6,21,ENT,2.349
+4913,Prah Mantoos,Prah Mantoos' species,1,7.6,21,ENT,2.349
+6739,Yivel,Brunali,1,7.6,21,VOY,2.349
+3923,Mala,Brunali,1,7.6,21,VOY,2.349
+6735,Yifay,Brunali,1,7.6,21,VOY,2.349
+3639,Leucon,Brunali,1,7.6,21,VOY,2.349
+1850,Fraddock,Unknown,1,7.6,21,ENT,2.349
+4696,P'Chan,Species 571,1,7.6,21,VOY,2.349
+3996,Marika Wilkarah,Bajoran,1,7.6,21,VOY,2.349
+5147,Remi,Brunali,1,7.6,21,VOY,2.349
+4364,Morin,Vaadwaur,1,7.6,21,VOY,2.349
+5751,Sta'Kiar,Vulcan,2,5.74,59,DIS,2.349
+6522,Volnoth,Acamarian,1,6.5,36,TNG,2.347
+4023,Marouk,Acamarian,1,6.5,36,TNG,2.347
+6223,Tog,Ferengi,1,6.5,36,TNG,2.347
+3932,Mallon,Acamarian,1,6.5,36,TNG,2.347
+4816,Penthor-Mul,Acamarian,1,6.5,36,TNG,2.347
+1842,Foley,Human,1,6.5,36,TNG,2.347
+801,Brull,Acamarian,1,6.5,36,TNG,2.347
+6763,Yuta,Acamarian,1,6.5,36,TNG,2.347
+6078,Temarek,Acamarian,1,6.5,36,TNG,2.347
+1016,Chorgan,Acamarian,1,6.5,36,TNG,2.347
+1436,Dickerson,Human,1,6.6,34,TOS,2.347
+82,Abraham Lincoln,Human,1,6.6,34,TOS,2.347
+2020,Genghis Khan,Unknown,1,6.6,34,TOS,2.347
+6722,Yarnek,Excalbian,1,6.6,34,TOS,2.347
+5617,Shempo,Human,1,8.1,17,LD,2.341
+6501,Vindicta,Human,1,8.1,17,LD,2.341
+3606,Lemonts,Human,1,8.1,17,LD,2.341
+6140,The Spectre,Unknown,1,7.1,26,VOY,2.34
+6507,Viorsa,Viorsa's species,1,7.1,26,VOY,2.34
+3690,Little Woman,Viorsa's species,1,7.1,26,VOY,2.34
+2770,Jarvin,Human,1,7.1,26,VOY,2.34
+6131,The Clown,Viorsa's species,1,7.1,26,VOY,2.34
+3418,Krax,Ferengi,1,7.0,27,DS9,2.333
+4479,Nava,Ferengi,1,7.0,27,DS9,2.333
+6367,Turot,Ferengi,1,7.0,27,DS9,2.333
+2413,Hoex,Ferengi,1,7.0,27,DS9,2.333
+3461,Kushell,Coalition of Madena species,1,6.2,42,TNG,2.332
+5321,Ronald B. Moore,Human,1,6.2,42,TNG,2.332
+602,Benzan,Coalition of Madena species,1,6.2,42,TNG,2.332
+1365,Debin,Coalition of Madena species,1,6.2,42,TNG,2.332
+500,B.G. Robinson,Human,1,6.2,42,TNG,2.332
+6716,Yanar,Coalition of Madena species,1,6.2,42,TNG,2.332
+4856,Philana,Platonian,1,6.5,35,TOS,2.329
+1693,Eraclitus,Platonian,1,6.5,35,TOS,2.329
+1445,Dionyd,Platonian,1,6.5,35,TOS,2.329
+4745,Parmen,Platonian,1,6.5,35,TOS,2.329
+178,Alexander,Platonian,1,6.5,35,TOS,2.329
+3395,Korzak,Karemma,1,8.6,14,LD,2.329
+4194,Mesk,Orion,1,8.6,14,LD,2.329
+1680,Endar,Talarian,1,6.4,37,TNG,2.328
+3000,Jono,Human,1,6.4,37,TNG,2.328
+1092,Connaught Rossa,Human,1,6.4,37,TNG,2.328
+4321,Moira Rossa,Human,1,6.4,37,TNG,2.328
+1094,Connor Rossa,Human,1,6.4,37,TNG,2.328
+2457,Hutchinson,Human,1,6.6,33,TNG,2.327
+2742,Jane Taylor,Human,1,7.9,18,ENT,2.326
+2148,Gramm,Unknown,1,7.4,22,DS9,2.32
+211,Allos,Allos' species,1,7.4,22,VOY,2.32
+2858,Jillur Gueta,Bajoran,1,7.4,22,DS9,2.32
+1384,Dell,Human,1,7.4,22,VOY,2.32
+3698,Lobo,Unknown,1,7.4,22,DS9,2.32
+779,Brin Tusk,Unknown,1,7.4,22,DS9,2.32
+3144,Kara Polus,Unknown,1,7.4,22,DS9,2.32
+3959,Marat Kobar,Unknown,1,7.4,22,DS9,2.32
+571,Belar,Bajoran,1,7.4,22,DS9,2.32
+5313,Romara,Unknown,1,7.4,22,DS9,2.32
+6182,Thrax,Cardassian,1,7.4,22,DS9,2.32
+6201,Timor Landi,Bajoran,1,7.4,22,DS9,2.32
+4636,Okala,Bajoran,1,7.4,22,DS9,2.32
+2549,Ishan Chaye,Bajoran,1,7.4,22,DS9,2.32
+4805,Pelin,Unknown,1,7.4,22,DS9,2.32
+599,Benten Vek,Unknown,1,7.4,22,DS9,2.32
+2434,Horis,Unknown,1,7.4,22,DS9,2.32
+3682,Lisa Cusak,Human,1,7.4,22,DS9,2.32
+3556,Latara,Bajoran,1,7.3,23,DS9,2.32
+5670,Sirella,Klingon,1,7.3,23,DS9,2.32
+135,Akorem Laan,Bajoran,1,7.3,23,DS9,2.32
+4650,Onara,Bajoran,1,7.3,23,DS9,2.32
+2508,Imutta,Bajoran,1,7.3,23,DS9,2.32
+3949,Manuele Atoa,Human,1,7.3,23,DS9,2.32
+4901,Porta,Bajoran,1,7.3,23,DS9,2.32
+776,Brigitte,Human,1,7.5,21,VOY,2.318
+3895,Madeline Reed,Human,1,7.5,21,ENT,2.318
+4008,Mark Latrelle,Human,1,7.5,21,ENT,2.318
+1534,Dumah,B'omar,1,7.5,21,VOY,2.318
+3896,Mademoiselle de Neuf,Human,1,7.5,21,VOY,2.318
+5115,Rebecca Sullivan,Human,1,7.5,21,DS9,2.318
+4066,Mary Reed,Human,1,7.5,21,ENT,2.318
+1584,Eddie,Human,1,7.5,21,ENT,2.318
+4276,Miller,Unknown,1,7.5,21,VOY,2.318
+3193,Katrine,Human,1,7.5,21,VOY,2.318
+2003,Gaumen,B'omar,1,7.5,21,VOY,2.318
+688,Bobby Davis,Human,1,7.5,21,VOY,2.318
+6445,Vance,Human,1,7.5,21,DS9,2.318
+5816,Stuart Reed,Human,1,7.5,21,ENT,2.318
+5143,Rekelen,Cardassian,1,7.2,24,DS9,2.318
+6333,Trena'L,Xyrillian,1,7.2,24,ENT,2.318
+774,Bridget,Human,1,7.2,24,VOY,2.318
+4477,Natima Lang,Cardassian,1,7.2,24,DS9,2.318
+1638,Elizabeth Lense,Human,1,7.2,24,DS9,2.318
+122,Ah'len,Xyrillian,1,7.2,24,ENT,2.318
+1440,Dillard,Human,1,7.2,24,ENT,2.318
+6530,Vorok,Klingon,1,7.2,24,ENT,2.318
+2417,Hogue,Cardassian,1,7.2,24,DS9,2.318
+4596,Ny Terla,Makull's species,1,7.1,25,VOY,2.313
+4799,Pe'Nar Makull,Makull's species,1,7.1,25,VOY,2.313
+3560,Latika,Makull's species,1,7.1,25,VOY,2.313
+6790,Zayra,Bajoran,1,6.8,29,DS9,2.313
+2485,Ibudan,Bajoran,1,6.8,29,DS9,2.313
+3525,Lamonay S.,Unknown,1,6.8,29,DS9,2.313
+1529,Duggan,Unknown,1,6.4,36,DIS,2.311
+6745,Yor,Betelgeusian,1,6.4,36,DIS,2.311
+1467,Donald Cory,Human,1,6.5,34,TOS,2.311
+4031,Marta,Orion,1,6.5,34,TOS,2.311
+1986,Garth,Human,1,6.5,34,TOS,2.311
+5748,Ssestar,Selay,1,6.0,46,TNG,2.31
+5661,Singh,Human,1,6.0,46,TNG,2.31
+506,Badar N'D'D,Antican,1,6.0,46,TNG,2.31
+5112,Razka Karn,Bajoran,1,7.0,26,DS9,2.307
+6719,Yareth,Rakhari,1,7.0,26,DS9,2.307
+2346,Heler,Bajoran,1,7.0,26,DS9,2.307
+2261,Hadran,Rakhari,1,7.0,26,DS9,2.307
+1141,Croden,Rakhari,1,7.0,26,DS9,2.307
+5247,Ro-Kel,Miradorn,1,7.0,26,DS9,2.307
+123,Ah-Kel,Miradorn,1,7.0,26,DS9,2.307
+3261,Kessick,Xindi-Primate,1,7.7,19,ENT,2.307
+2816,Jeffrey Pierce,Human,1,7.7,19,ENT,2.307
+4866,Pierce,Human,1,7.8,18,ENT,2.297
+5814,Strong,Human,1,7.8,18,ENT,2.297
+3910,Magh,Klingon,1,7.8,18,ENT,2.297
+4626,Odona,Gideon,1,6.5,33,TOS,2.292
+3436,Krodak,Gideon,1,6.5,33,TOS,2.292
+2412,Hodin,Gideon,1,6.5,33,TOS,2.292
+1420,Devinoni Ral,Human,1,6.3,37,TNG,2.292
+3646,Leyor,Caldonian,1,6.3,37,TNG,2.292
+626,Bhavani,Barzan,1,6.3,37,TNG,2.292
+2126,Goss,Ferengi,1,6.3,37,TNG,2.292
+5306,Rojay,Human,1,6.3,37,TNG,2.292
+4179,Mendoza,Human,1,6.3,37,TNG,2.292
+2142,Graife,Bolian,1,7.3,22,DS9,2.289
+1838,Flith,Farian,1,7.3,22,DS9,2.289
+80,Abdon,Abdon's species,1,7.3,22,DS9,2.289
+947,Chadwick,Human,1,7.3,22,DS9,2.289
+961,Charlene,Human,1,7.3,22,VOY,2.289
+1007,Chester,Unknown,1,7.3,22,DS9,2.289
+3438,Krole,Unknown,1,7.3,22,DS9,2.289
+6737,Yint,Unknown,1,7.3,22,DS9,2.289
+2812,Jeffrey,Human,1,7.3,22,VOY,2.289
+574,Belle,Human,1,7.3,22,VOY,2.289
+3651,Liam Bilby,Human,1,7.3,22,DS9,2.289
+5057,Raimus,Farian,1,7.3,22,DS9,2.289
+3062,K'Kath,Klingon,1,7.3,22,VOY,2.289
+4363,Morica Bilby,Human,1,7.3,22,DS9,2.289
+6066,Tekoa,Bajoran,1,7.3,22,DS9,2.289
+6612,Whatley,Human,1,7.3,22,DS9,2.289
+4739,Pardshay,Rotciv,1,7.2,23,DS9,2.288
+5825,Sulan,Vidiian,1,7.2,23,VOY,2.288
+6033,Tash,Tash's species,1,7.4,21,VOY,2.287
+4464,Naroq,Kesat,1,7.4,21,VOY,2.287
+6675,Wilson Granger,Human,1,6.2,39,TNG,2.287
+1267,Danilo Odell,Human,1,6.2,39,TNG,2.287
+754,Brenna Odell,Human,1,6.2,39,TNG,2.287
+6487,Victor Granger,Human,1,6.2,39,TNG,2.287
+1643,Elizabeth Vallis,Human,1,6.2,39,TNG,2.287
+3532,Laneth,Klingon,1,7.9,17,ENT,2.283
+2425,Hon-Tihl,Klingon,1,7.0,25,DS9,2.281
+2123,Gorta,Dopterian,1,6.7,29,TNG,2.279
+5360,Rul the Obscure,Unknown,1,6.7,29,DS9,2.279
+4791,Pauley,Human,1,6.7,29,DS9,2.279
+3078,K'mtar,Unknown,1,6.7,29,TNG,2.279
+6741,Yog,Yridian,1,6.7,29,TNG,2.279
+5799,Stol,Ferengi,1,6.7,29,DS9,2.279
+4664,Orak,Klingon,1,7.6,19,ENT,2.277
+3124,Kalin Trose,Pelian,1,6.4,34,TNG,2.275
+3148,Kareel Odan,Trill,1,6.4,34,TNG,2.275
+3558,Lathal Bine,Pelian,1,6.4,34,TNG,2.275
+3601,Leka Trion,Pelian,1,6.4,34,TNG,2.275
+5597,Shari yn Yem,Pandronian,1,8.4,14,LD,2.275
+3346,Klingon Encounter holograms,Unknown,1,8.4,14,LD,2.275
+1474,Donaldson,Human,1,6.5,32,TNG,2.273
+2663,Ja'Dar,Unknown,1,6.5,32,TNG,2.273
+2538,Irina Karlovassi,Human,1,7.7,18,ENT,2.267
+6383,Udar,Human,1,7.7,18,ENT,2.267
+1983,Garos,Malurian,1,7.2,22,ENT,2.258
+3069,K'Temang,Klingon,1,7.2,22,DS9,2.258
+2216,Grimp,Ferengi,1,7.2,22,DS9,2.258
+5177,Riaan,Akaali,1,7.2,22,ENT,2.258
+1902,Frool,Ferengi,1,7.2,22,DS9,2.258
+3777,Lumas,Caatati,1,7.3,21,VOY,2.256
+1379,Dejaren,Serosian,1,7.3,21,VOY,2.256
+4322,Moklor,Klingon,1,7.3,21,VOY,2.256
+5054,Rahmin,Caatati,1,7.3,21,VOY,2.256
+1673,Emony Dax,Trill,1,7.1,23,DS9,2.256
+436,Audrid Dax,Trill,1,7.1,23,DS9,2.256
+3602,Lela Dax,Trill,1,7.1,23,DS9,2.256
+6284,Torias Dax,Trill,1,7.1,23,DS9,2.256
+3718,Lonzo,Ferengi,1,7.1,23,DS9,2.256
+6214,Tobin Dax,Trill,1,7.1,23,DS9,2.256
+2601,J. Hawkings,Human,1,6.2,37,PIC,2.255
+86,Abrom,Zeon,1,6.1,39,TOS,2.25
+2545,Isak,Zeon,1,6.1,39,TOS,2.25
+1681,Eneg,Ekosian,1,6.1,39,TOS,2.25
+1276,Daras,Ekosian,1,6.1,39,TOS,2.25
+2937,John Gill,Human,1,6.1,39,TOS,2.25
+1341,Davod,Zeon,1,6.1,39,TOS,2.25
+4160,Melakon,Ekosian,1,6.1,39,TOS,2.25
+111,Adolf Hitler,Human,1,6.1,39,TOS,2.25
+6044,Taxco,Arbazan,1,6.9,25,DS9,2.248
+6427,Vadosia,Bolian,1,6.9,25,DS9,2.248
+264,Anara,Bajoran,1,6.9,25,DS9,2.248
+3707,Lojal,Vulcan,1,6.9,25,DS9,2.248
+3613,Leo,Human,1,7.5,19,ENT,2.247
+5353,Ruby,Human,1,7.5,19,ENT,2.247
+69,A.G. Robinson,Human,1,7.5,19,ENT,2.247
+516,Baltrim,Bajoran,1,6.8,26,DS9,2.241
+5669,Sirco Ch'Ano,Bajoran,1,6.8,26,DS9,2.241
+4394,Mullibok,Bajoran,1,6.8,26,DS9,2.241
+3209,Keena,Bajoran,1,6.8,26,DS9,2.241
+3470,Kyle Riker,Human,1,6.2,36,TNG,2.239
+2481,Ian Andrew Troi,Human,1,6.4,32,TNG,2.238
+3263,Kestra Troi,Betazoid,1,6.4,32,TNG,2.238
+2334,Hedril,Cairn,1,6.4,32,TNG,2.238
+3953,Maques,Cairn,1,6.4,32,TNG,2.238
+79,Abarca,Qomar,1,7.1,22,VOY,2.226
+4182,Mera,Bajoran,1,7.1,22,DS9,2.226
+6504,Vinka,Qomar,1,7.1,22,VOY,2.226
+3065,K'Par Rinn,Argrathi,1,7.1,22,DS9,2.226
+6449,Vanik,Vulcan,1,7.1,22,ENT,2.226
+3394,Koru,Qomar,1,7.1,22,VOY,2.226
+6207,Tincoo,Qomar,1,7.1,22,VOY,2.226
+5219,Rifkin,Human,1,7.1,22,DS9,2.226
+1606,Ee'char,Argrathi,1,7.1,22,DS9,2.226
+461,Azen,Qomar,1,7.1,22,VOY,2.226
+990,Charlie Whatley,Human,1,7.1,22,DS9,2.226
+2263,Hagath,Hagath's species,1,7.2,21,DS9,2.226
+6001,Talura,Talura's species,1,7.2,21,DS9,2.226
+4469,Nassuc,Palamarian,1,7.2,21,DS9,2.226
+5130,Regent of Palamar,Palamarian,1,7.2,21,DS9,2.226
+6111,Tersa,Kazon,1,7.2,21,VOY,2.226
+4287,Minnis,Kazon,1,7.2,21,VOY,2.226
+1792,Farrakk,Hagath's species,1,7.2,21,DS9,2.226
+3879,Mabus,Trabe,1,7.2,21,VOY,2.226
+3512,Laas,Changeling,1,7.2,21,DS9,2.226
+5522,Scarface,Human,1,6.1,37,TNG,2.219
+5684,Slade Bender,Human,1,6.1,37,TNG,2.219
+5166,Rex,Human,1,6.1,37,TNG,2.219
+4914,Prak,Ferengi,1,6.4,31,TNG,2.218
+5568,Serova,Hekaran,1,6.4,31,TNG,2.218
+5043,Rabal,Hekaran,1,6.4,31,TNG,2.218
+5704,Solin,Vulcan,1,7.4,19,ENT,2.217
+5144,Rellus Tagrim,Takret,1,7.4,19,ENT,2.217
+5152,Renth,Takret,1,7.4,19,ENT,2.217
+4694,Oxilon,Talaxian,1,7.4,19,VOY,2.217
+2217,Griselda,Unknown,1,7.4,19,ENT,2.217
+2231,Guri,Takret,1,7.4,19,ENT,2.217
+4568,Nocona,Nocona's species,1,7.4,19,VOY,2.217
+2796,Jean,Unknown,1,7.4,19,ENT,2.217
+2446,Hubert Hawkins,Unknown,1,7.4,19,ENT,2.217
+1424,Dexa,Talaxian,1,7.4,19,VOY,2.217
+4733,Paltani,Takret,1,7.4,19,ENT,2.217
+6734,Yeto,Klingon,1,6.8,25,DS9,2.216
+5888,T'Kar,Klingon,1,6.8,25,DS9,2.216
+3975,Mareel,Unknown,1,6.8,25,DS9,2.216
+6474,Verad,Trill,1,6.8,25,DS9,2.216
+2145,Gralik Durr,Xindi-Arboreal,1,7.5,18,ENT,2.208
+2386,Hester Dealt,Human,1,5.8,44,TNG,2.208
+2091,Gladstone,Human,1,5.8,44,TNG,2.208
+2484,Ian Troi,Human,1,5.8,44,TNG,2.208
+4439,Nalas,Akoszonam,1,5.9,41,DIS,2.205
+5842,Susan Khouri,Human,1,7.6,17,ENT,2.197
+4183,Mercer,Human,1,7.6,17,ENT,2.197
+946,Ch'Targh,Klingon,1,7.0,22,DS9,2.195
+3401,Koth,Klingon,1,7.0,22,DS9,2.195
+566,Bek,Bajoran,1,7.0,22,DS9,2.195
+3442,Kubus Oak,Bajoran,1,7.0,22,DS9,2.195
+3875,Ma'Bor Jetrel,Haakonian,1,7.0,22,VOY,2.195
+1484,"Doran, daughter of W'mar",Klingon,1,7.0,22,DS9,2.195
+1578,Eblan,Bajoran,1,7.0,22,DS9,2.195
+4410,N'Garen,Klingon,1,7.0,22,DS9,2.195
+3190,Katogh,Klingon,1,7.0,22,DS9,2.195
+2089,Giuseppina Pentangeli,Human,1,7.1,21,VOY,2.195
+6749,Yost,Unknown,1,7.1,21,VOY,2.195
+5905,T'Pera,Vulcan,1,7.1,21,VOY,2.195
+5220,Riga,Monean,1,7.1,21,VOY,2.195
+959,Chardis,Mislenite,1,7.1,21,VOY,2.195
+2828,Jenny Delaney,Human,1,7.1,21,VOY,2.195
+3553,Lasaran,Cardassian,1,7.1,21,DS9,2.195
+1973,Gantt,Bajoran,1,7.1,21,DS9,2.195
+4586,Noss,Unknown,1,7.1,21,VOY,2.195
+2548,Ishan,Sakari,1,7.1,21,VOY,2.195
+4810,Penk,Penk's species,1,7.1,21,VOY,2.195
+819,Burkus,Monean,1,7.1,21,VOY,2.195
+4157,Megan Delaney,Human,1,7.1,21,VOY,2.195
+1980,Garland,Human,1,6.9,23,DS9,2.193
+1486,Dorian Collins,Human,1,6.9,23,DS9,2.193
+2806,Jeff,Human,1,6.9,23,DS9,2.193
+4637,Okalar,Zolan's species,1,6.9,23,DS9,2.193
+1401,Denning,Human,1,6.9,23,DS9,2.193
+4748,Parton,Human,1,6.9,23,DS9,2.193
+6561,Wainwright,Human,1,6.9,23,DS9,2.193
+6197,Tim Watters,Human,1,6.9,23,DS9,2.193
+1732,Ethan Novakovich,Human,1,6.9,23,ENT,2.193
+3150,Karen Farris,Human,1,6.9,23,DS9,2.193
+3974,Mardah,Bajoran,1,6.9,23,DS9,2.193
+2436,Hortak,Bajoran,1,6.9,23,DS9,2.193
+2361,Henry Burleigh,Human,2,6.89,23,VOY,2.19
+560,Beatrice Burleigh,Human,2,6.89,23,VOY,2.19
+661,Birta,Ferengi,1,6.5,28,TNG,2.189
+2782,Jason Vigo,Human,1,6.5,28,TNG,2.189
+6229,Tol,Ferengi,1,6.5,28,TNG,2.189
+5478,Sandra Rhodes,Human,1,6.5,28,TNG,2.189
+6728,Yeggie,Ferengi,1,7.3,19,VOY,2.187
+3283,Khata'n Zshaar,Arkonian,1,7.3,19,ENT,2.187
+3623,Leosa,Human,1,7.3,19,VOY,2.187
+6807,Zho'Kaan,Arkonian,1,7.3,19,ENT,2.187
+5443,Sal,Human,1,7.3,19,ENT,2.187
+4533,Nicky Giorgo,Human,1,7.3,19,ENT,2.187
+2058,Ghrath,Na'kuhl,1,7.3,19,ENT,2.187
+234,Amanda Cole,Human,1,7.3,19,ENT,2.187
+4592,Nunk,Ferengi,1,7.3,19,VOY,2.187
+3417,Kraul,Na'kuhl,1,7.3,19,ENT,2.187
+2904,Joe Prazki,Human,1,7.3,19,ENT,2.187
+2010,Gegis,Ferengi,1,7.3,19,VOY,2.187
+6818,Zlangco,Unknown,1,6.6,26,DS9,2.175
+3010,Joseph,Human,1,6.6,26,DS9,2.175
+5770,Stephan,Human,1,6.6,26,DS9,2.175
+207,Alixus,Human,1,6.6,26,DS9,2.175
+6505,Vinod,Human,1,6.6,26,DS9,2.175
+2107,Golin Shel-la,Unknown,1,6.6,26,DS9,2.175
+4156,Meg,Human,1,6.6,26,DS9,2.175
+4559,Nima,Unknown,1,6.6,26,DS9,2.175
+926,Cassandra,Human,1,6.6,26,DS9,2.175
+6026,Tarmin,Ullian,1,6.2,32,TNG,2.168
+4291,Mira Romaine,Human,1,6.2,32,TOS,2.168
+3522,Lakanta,Unknown,1,6.2,32,TNG,2.168
+2852,Jev,Ullian,1,6.2,32,TNG,2.168
+6562,Wakasa,Human,1,6.2,32,TNG,2.168
+6804,Zetarian,Unknown,1,6.2,32,TOS,2.168
+6068,Telak,Cardassian,1,6.2,32,TNG,2.168
+332,Anthwara,Human,1,6.2,32,TNG,2.168
+1339,Davis,Human,1,6.2,32,TNG,2.168
+2510,Inad,Ullian,1,6.2,32,TNG,2.168
+522,Barbara Brinson,Human,1,7.5,17,LD,2.168
+4548,Niko,Unknown,1,7.5,17,LD,2.168
+5317,Ron Docent,Human,1,7.5,17,LD,2.168
+4527,Nguyen,Human,1,7.5,17,LD,2.168
+299,Angie,Human,1,7.5,17,LD,2.168
+1049,Clare Raymond,Human,1,9.4,9,TNG,2.164
+3510,L.Q. Clemonds,Human,1,9.4,9,TNG,2.164
+5067,Ralph Offenhouse,Human,1,9.4,9,TNG,2.164
+6143,Thei,Romulan,1,9.4,9,TNG,2.164
+6173,Thomas Raymond,Human,1,9.4,9,TNG,2.164
+6056,Tebok,Romulan,1,9.4,9,TNG,2.164
+3399,Kosst Amojan,Unknown,1,7.0,21,DS9,2.164
+5848,Suspiria,Nacene,1,7.0,21,VOY,2.164
+2301,Haron,Kazon,1,7.0,21,VOY,2.164
+1285,Darod,Augris' species,1,6.9,22,VOY,2.163
+4317,Mobara,Bajoran,1,6.9,22,DS9,2.163
+934,Caylem,Augris' species,1,6.9,22,VOY,2.163
+3557,Latha Mabrin,Bajoran,1,6.9,22,DS9,2.163
+437,Augris,Augris' species,1,6.9,22,VOY,2.163
+2086,Girani,Bajoran,1,6.9,22,DS9,2.163
+5645,Silaran Prin,Cardassian,1,6.9,22,DS9,2.163
+777,Brilgar,Bajoran,1,6.9,22,DS9,2.163
+3611,Lenaris Holem,Bajoran,1,6.9,22,DS9,2.163
+5881,Syvar,Vulcan,1,6.9,22,DS9,2.163
+6337,Trentin Fala,Bajoran,1,6.9,22,DS9,2.163
+459,Ayelborne,Organian,1,5.7,43,TOS,2.157
+6329,Trefayne,Organian,1,5.7,43,TOS,2.157
+1059,Claymare,Organian,1,5.7,43,TOS,2.157
+6726,Yediq,Nygean,1,7.2,19,VOY,2.157
+1608,Egrid,Benkaran,1,7.2,19,VOY,2.157
+2976,Joleg,Benkaran,1,7.2,19,VOY,2.157
+2496,Iko,Nygean,1,7.2,19,VOY,2.157
+6231,Tolen Ren,Banea,1,6.7,24,VOY,2.157
+2349,Henard,Human,1,6.7,24,VOY,2.157
+3419,Kray,Banea,1,6.7,24,VOY,2.157
+4485,Neeka,Unknown,1,6.7,24,VOY,2.157
+3661,Lidell Ren,Banea,1,6.7,24,VOY,2.157
+1047,Clar,Prime,1,7.6,16,LD,2.153
+2744,Janet Brooks,Human,1,6.0,35,TNG,2.15
+809,Buck Bokai,Human,1,6.5,26,DS9,2.142
+5363,Rumpelstiltskin,Unknown,1,6.5,26,DS9,2.142
+5469,San,Unknown,1,5.8,39,DIS,2.14
+1716,Erko,Kostolain native,1,6.1,32,TNG,2.133
+879,Campio,Kostolain native,1,6.1,32,TNG,2.133
+1299,Dathan Alaris,Enaran,1,6.9,21,VOY,2.133
+2855,Jhet'leya,Kobali,1,6.9,21,VOY,2.133
+1793,Farran,Enaran,1,6.9,21,VOY,2.133
+5486,Sanric,Enaran,1,6.9,21,VOY,2.133
+1387,Demalos,Enaran,1,6.9,21,VOY,2.133
+1886,Fredik,Enaran,1,6.9,21,VOY,2.133
+3798,Lyndsay Ballard,Human,1,6.9,21,VOY,2.133
+2762,Jareth,Enaran,1,6.9,21,VOY,2.133
+4828,Peshar,Enaran,1,6.9,21,VOY,2.133
+4956,Q'ret,Kobali,1,6.9,21,VOY,2.133
+2844,Jessen,Enaran,1,6.9,21,VOY,2.133
+3003,Jor Brel,Enaran,1,6.9,21,VOY,2.133
+3383,Korenna Mirell,Enaran,1,6.9,21,VOY,2.133
+5051,Rafin,Vori,1,6.8,22,VOY,2.132
+1664,Emi,Emi's species,1,6.8,22,DS9,2.132
+4022,Marna,Vori,1,6.8,22,VOY,2.132
+6328,Treen,Kradin,1,6.8,22,VOY,2.132
+4443,Namon,Vori,1,6.8,22,VOY,2.132
+3167,Karya,Vori,1,6.8,22,VOY,2.132
+4811,Penno,Vori,1,6.8,22,VOY,2.132
+790,Brone,Vori,1,6.8,22,VOY,2.132
+248,Ambassador,Unknown,1,6.8,22,VOY,2.132
+6742,Yolad Belar,Trill,1,6.7,23,DS9,2.129
+1117,Cosimo,Unknown,1,6.7,23,VOY,2.129
+6585,Weld Ram,Bajoran,1,6.7,23,DS9,2.129
+6200,Timor,Trill,1,6.7,23,DS9,2.129
+3659,Libby,Human,1,6.7,23,VOY,2.129
+5150,Renhol,Trill,1,6.7,23,DS9,2.129
+3554,Lasca,Human,1,6.7,23,VOY,2.129
+2535,Irene Hansen,Human,1,7.1,19,VOY,2.127
+6455,Varn,Varn's species,1,7.1,19,VOY,2.127
+6183,Three of Eight,Human,1,7.1,19,VOY,2.127
+363,Ardon Broht,Bolian,1,7.1,19,VOY,2.127
+3176,Katanay,Bajoran,1,7.1,19,VOY,2.127
+1238,Dala,Dala's species,1,7.1,19,VOY,2.127
+4316,Mobar,Dala's species,1,7.1,19,VOY,2.127
+6733,Yerid,Unknown,1,7.1,19,VOY,2.127
+2945,John Kim,Human,1,7.1,19,VOY,2.127
+5093,Ravoc,Unknown,1,7.1,19,VOY,2.127
+6783,Zar,Dala's species,1,7.1,19,VOY,2.127
+6288,Torrey,Human,1,7.1,19,VOY,2.127
+6372,Two of Three,Human,1,7.1,19,VOY,2.127
+6360,Tulak,Human,1,7.1,19,VOY,2.127
+4029,Marseilles,Human,1,7.1,19,VOY,2.127
+3471,Kymble,Trill,1,7.1,19,VOY,2.127
+4667,Orek,Telsian,1,7.1,19,VOY,2.127
+1650,Ellis,Human,1,7.5,16,LD,2.125
+6134,The Dog,Unknown,1,7.5,16,LD,2.125
+4849,Phibeas,Khwopian,1,7.5,16,LD,2.125
+327,Anthony,Unknown,1,7.5,16,LD,2.125
+1518,Drew Prachett,Rigelian,1,7.5,16,LD,2.125
+1542,Durga,Vulcan,1,7.5,16,LD,2.125
+5473,Sanderson,Human,1,7.5,16,LD,2.125
+4690,Ottessa Warren,Trill,1,7.5,16,LD,2.125
+6069,Telek R'Mor,Romulan,1,6.6,24,VOY,2.124
+2052,Gernba,Gelrakian,1,7.2,18,LD,2.12
+6502,Vindor,Gelrakian,1,7.2,18,LD,2.12
+5562,Sepek,Vulcan,1,8.0,13,TAS,2.111
+1708,Erickson,Human,1,8.0,13,TAS,2.111
+554,Bates,Human,1,8.0,13,TAS,2.111
+6145,Thelin,Andorian,1,8.0,13,TAS,2.111
+5757,Stark,Vulcan,1,8.0,13,TAS,2.111
+2186,Grey,Human,1,8.0,13,TAS,2.111
+169,Aleek-Om,Aurelian,1,8.0,13,TAS,2.111
+4601,O'Connor,Human,1,7.3,17,LD,2.11
+6373,Ty Kajada,Kobliad,1,6.4,26,DS9,2.109
+1541,Durg,Markalian,1,6.4,26,DS9,2.109
+5087,Rao Vantika,Kobliad,1,6.4,26,DS9,2.109
+5651,Silva La Forge,Human,1,6.2,29,TNG,2.109
+3971,Marcus Holt,Human,1,6.2,29,TNG,2.109
+1602,Edward M. La Forge,Human,1,6.2,29,TNG,2.109
+2053,Gerron,Bajoran,2,6.82,21,VOY,2.108
+995,Chell,Bolian,2,6.82,21,VOY,2.108
+206,Alixia,Unknown,1,6.8,21,VOY,2.102
+3321,Kira Meru,Bajoran,1,6.8,21,DS9,2.102
+3323,Kira Pohl,Bajoran,1,6.8,21,DS9,2.102
+3324,Kira Reon,Bajoran,1,6.8,21,DS9,2.102
+2270,Halb Daier,Bajoran,1,6.8,21,DS9,2.102
+551,Basso,Bajoran,1,6.8,21,DS9,2.102
+3776,Luma Rahl,Unknown,1,6.8,21,DS9,2.102
+1620,Elani,Drayan,1,6.7,22,VOY,2.101
+6339,Tressa,Drayan,1,6.7,22,VOY,2.101
+593,Bennet,Human,1,6.7,22,VOY,2.101
+166,Alcia,Drayan,1,6.7,22,VOY,2.101
+1105,Corin,Drayan,1,6.7,22,VOY,2.101
+6275,Torak,Klingon,1,6.0,32,TNG,2.098
+347,Aquiel Uhnari,Haliian,1,6.0,32,TNG,2.098
+4102,Maura,Unknown,1,6.0,32,TNG,2.098
+3219,Keith Rocha,Human,1,6.0,32,TNG,2.098
+4351,Morag,Klingon,1,6.0,32,TNG,2.098
+1048,Clara Sutter,Human,1,6.0,32,TNG,2.098
+5851,Sutter,Human,1,6.0,32,TNG,2.098
+2544,Isabella,Human,1,6.0,32,TNG,2.098
+6368,Turrel,Cardassian,1,6.6,23,DS9,2.098
+5232,Riska,Riska's species,1,6.6,23,DS9,2.098
+3587,Leanne,Human,1,6.6,23,DS9,2.098
+3034,Joxom,Unknown,1,7.0,19,VOY,2.097
+4610,O'Zaal,Antarian,1,7.0,19,VOY,2.097
+416,Assan,Imhotep,1,7.0,19,VOY,2.097
+2536,Irina,Unknown,1,7.0,19,VOY,2.097
+1780,Fallit Kot,Unknown,1,6.4,25,DS9,2.085
+4169,Melora Pazlar,Elaysian,1,6.4,25,DS9,2.085
+409,Ashrock,Yridian,1,6.4,25,DS9,2.085
+3649,Li-Paz,Bajoran,1,6.7,21,VOY,2.071
+5435,Sahreen,Human,1,6.7,21,VOY,2.071
+6537,Vrelk,Malon,1,6.7,21,VOY,2.071
+4201,Meyer,Human,1,6.7,21,VOY,2.071
+6395,Unferth,Human,1,6.6,22,VOY,2.069
+1893,Freya,Human,1,6.6,22,VOY,2.069
+2445,Hrothgar,Human,1,6.6,22,VOY,2.069
+4807,Pell,Gosis' species,1,6.9,19,ENT,2.067
+2125,Gosis,Gosis' species,1,6.9,19,ENT,2.067
+510,Baird,Human,1,6.9,19,ENT,2.067
+5516,Sato,Human,1,6.9,19,ENT,2.067
+6081,Temec,Gosis' species,1,6.9,19,ENT,2.067
+205,Alison,Human,1,6.9,19,ENT,2.067
+4466,Narsu,Human,1,5.8,34,TNG,2.062
+6362,Tumak,Skrreea,1,6.4,24,DS9,2.06
+5351,Rozahn,Bajoran,1,6.4,24,DS9,2.06
+2280,Haneek,Skrreea,1,6.4,24,DS9,2.06
+1124,Cowl,Skrreea,1,6.4,24,DS9,2.06
+4381,Motura,Vidiian,1,6.4,24,VOY,2.06
+1412,Dereth,Vidiian,1,6.4,24,VOY,2.06
+6464,Vayna,Skrreea,1,6.4,24,DS9,2.06
+5723,Sorad,Bajoran,1,6.4,24,DS9,2.06
+1955,Gai,Skrreea,1,6.4,24,DS9,2.06
+2328,Hazar,Bajoran,1,6.4,24,DS9,2.06
+6451,Varani,Bajoran,1,6.4,24,DS9,2.06
+6816,Zio,Akritirian,1,6.6,21,VOY,2.04
+6038,Tauvid Rem,Idanian,1,6.6,21,DS9,2.04
+4254,Mika,Bajoran,1,6.6,21,DS9,2.04
+5728,Sorm,Finnean,1,6.6,21,DS9,2.04
+374,Arissa,Unknown,1,6.6,21,DS9,2.04
+6467,Vel,Akritirian,1,6.6,21,VOY,2.04
+6311,Traidy,Finnean,1,6.6,21,DS9,2.04
+4883,Pit,Akritirian,1,6.6,21,VOY,2.04
+1778,Fala,Bajoran,1,6.6,21,DS9,2.04
+601,Benyan,Bajoran,1,6.6,21,DS9,2.04
+4882,Piri,Unknown,1,6.6,21,VOY,2.04
+3680,Liria,Akritirian,1,6.6,21,VOY,2.04
+5179,Rib,Akritirian,1,6.6,21,VOY,2.04
+132,Akary,Unknown,1,6.5,22,ENT,2.038
+2273,Haliz,Kazon,1,6.5,22,VOY,2.038
+5111,Razik,Kazon,1,6.5,22,VOY,2.038
+422,Athan,Unknown,1,6.5,22,ENT,2.038
+3147,Karden,Kazon,1,6.5,22,VOY,2.038
+2734,Jamin,Unknown,1,6.5,22,ENT,2.038
+6473,Vera Fuller,Human,1,6.5,22,ENT,2.038
+4428,Nadet,Unknown,1,6.5,22,ENT,2.038
+3107,Kafar,Takarian,1,6.5,22,VOY,2.038
+3028,Jossen,Vulcan,1,6.8,19,ENT,2.037
+6041,Tavek,Vulcan,1,6.8,19,ENT,2.037
+6819,Zobral,Zobral's species,1,6.8,19,ENT,2.037
+6331,Trellit,Zobral's species,1,6.8,19,ENT,2.037
+4181,Menos,Vulcan,1,6.8,19,ENT,2.037
+5248,Roana,Bajoran,1,6.4,23,DS9,2.034
+4046,Martus Mazur,El-Aurian,1,6.4,23,DS9,2.034
+6314,Trajok,Unknown,1,6.4,23,DS9,2.034
+222,Altovar,Lethean,1,6.4,23,DS9,2.034
+1116,Cos,Unknown,1,6.4,23,DS9,2.034
+376,Arjin,Trill,1,6.4,23,DS9,2.034
+220,Alsia,Unknown,1,6.4,23,DS9,2.034
+5060,Rajiin,Oran'taku,1,6.9,18,ENT,2.032
+2121,Goroth,Klingon,1,6.9,18,ENT,2.032
+3109,Kago,Kago's species,1,6.9,18,ENT,2.032
+1098,Cook,Human,1,6.9,18,ENT,2.032
+6817,Zjod,Unknown,1,6.9,18,ENT,2.032
+5679,Skalaar,Tellarite,1,6.9,18,ENT,2.032
+467,B'Rat Ud,V'radian,1,6.9,18,ENT,2.032
+1942,Gaavrin,Tellarite,1,6.9,18,ENT,2.032
+1915,G. Austin,Human,1,6.9,18,ENT,2.032
+6343,Trevix,Denobulan,1,7.0,17,ENT,2.023
+6744,Yolen,Denobulan,1,7.0,17,ENT,2.023
+6798,Zepht,Denobulan,1,7.0,17,ENT,2.023
+2447,Hudak,Antaran,1,7.0,17,ENT,2.023
+106,Adhar,Unknown,1,6.0,28,DIS,2.02
+4763,Patri Doxica,Akaali,1,6.0,28,DIS,2.02
+3770,Luda,Unknown,1,6.0,28,DIS,2.02
+1800,Felix,Human,1,6.0,28,DIS,2.02
+3882,MacDougal,Human,1,5.1,51,TNG,2.015
+2864,Jim Shimoda,Human,1,5.1,51,TNG,2.015
+4430,Nadine,Human,1,6.5,21,ENT,2.009
+4099,Matthew Ryan,Human,1,6.5,21,ENT,2.009
+253,Ameron,Ilari,1,6.5,21,VOY,2.009
+1391,Demmas,Ilari,1,6.5,21,VOY,2.009
+6188,Tieran,Ilari,1,6.5,21,VOY,2.009
+5606,Shaw,Human,1,6.5,21,ENT,2.009
+3210,Keene,Human,1,6.5,21,ENT,2.009
+5523,Scharn,Entharan,1,6.5,21,VOY,2.009
+3408,Kovin,Entharan,1,6.5,21,VOY,2.009
+5156,Resh,Ilari,1,6.5,21,VOY,2.009
+107,Adin,Ilari,1,6.5,21,VOY,2.009
+6295,Tosin,Unknown,1,6.7,19,VOY,2.007
+508,Bahrat,Unknown,1,6.7,19,VOY,2.007
+5489,Saowin,Unknown,1,6.7,19,VOY,2.007
+1808,Fennim,Unknown,1,6.7,19,VOY,2.007
+5849,Sutok,Unknown,1,6.7,19,VOY,2.007
+3456,Kurros,Unknown,1,6.7,19,VOY,2.007
+2759,Jareb,Triannon,1,6.7,19,ENT,2.007
+2513,Indava,Triannon,1,6.7,19,ENT,2.007
+3793,Lyaal,Triannon,1,6.7,19,ENT,2.007
+6683,Wixiban,Talaxian,1,6.7,19,VOY,2.007
+6710,Y'Sek,Hazari,1,6.7,19,VOY,2.007
+4440,Nalbis,Triannon,1,6.7,19,ENT,2.007
+6723,Yarrick,Triannon,1,6.7,19,ENT,2.007
+1166,D'Jamat,Triannon,1,6.7,19,ENT,2.007
+942,Ceris,Triannon,1,6.7,19,ENT,2.007
+5643,Siggi,Unknown,1,7.6,13,LD,2.006
+1070,Cody,Human,1,7.6,13,LD,2.006
+102,Addix,Addix's species,1,7.6,13,LD,2.006
+3257,Kerner Hauze,Zibalian,1,7.6,13,LD,2.006
+1169,D'Onni,Orion,1,7.6,13,LD,2.006
+6830,Zoumas,Unknown,1,6.8,18,ENT,2.002
+2303,Harrad-Sar,Orion,1,6.8,18,ENT,2.002
+3455,Kuroda Lor-ehn,Enolian,1,6.8,18,ENT,2.002
+6028,Tarquin,Unknown,1,6.8,18,ENT,2.002
+4480,Navaar,Orion,1,6.8,18,ENT,2.002
+1168,D'Nesh,Orion,1,6.8,18,ENT,2.002
+3958,Maras,Orion,1,6.8,18,ENT,2.002
+4870,Piersall,Human,1,6.2,24,DS9,1.996
+1807,Fenna,Halanan,1,6.2,24,DS9,1.996
+4540,Nidell,Halanan,1,6.2,24,DS9,1.996
+2066,Gideon Seyetik,Human,1,6.2,24,DS9,1.996
+5995,Talmadge,Unknown,1,5.7,32,TNG,1.993
+2769,Jarth,Lumerian,1,5.7,32,TNG,1.993
+5577,Sev Maylor,Lumerian,1,5.7,32,TNG,1.993
+5657,Simons,Human,1,5.7,32,TNG,1.993
+6478,Ves Alkar,Lumerian,1,5.7,32,TNG,1.993
+3692,Liva,Lumerian,1,5.7,32,TNG,1.993
+5580,Sevrin,Tiburonian,1,5.4,38,TOS,1.978
+94,Adam,Human,1,5.4,38,TOS,1.978
+6259,Tongo Rad,Catullan,1,5.4,38,TOS,1.978
+2537,Irina Galliulin,Human,1,5.4,38,TOS,1.978
+4111,Mavig,Human,1,5.4,38,TOS,1.978
+6345,Tria,Unknown,1,6.4,21,VOY,1.978
+6255,Tomin,Kadi,1,6.4,21,VOY,1.978
+5791,Steven Price,Human,1,6.4,21,VOY,1.978
+6641,William Chapman,Human,1,6.4,21,VOY,1.978
+152,Alandra,Bolian,1,6.4,21,VOY,1.978
+6684,Woban,Bajoran,1,6.0,26,DS9,1.978
+1789,Faren Kag,Bajoran,1,6.0,26,DS9,1.978
+6454,Varis Sul,Bajoran,1,6.0,26,DS9,1.978
+1505,Doyle,Human,1,6.6,19,VOY,1.977
+6746,Yosa,Human,1,6.6,19,VOY,1.977
+3002,Jor,Human,1,6.6,19,VOY,1.977
+5548,Sek,Vulcan,1,6.6,19,VOY,1.977
+6060,Teero Anaydis,Bajoran,1,6.6,19,VOY,1.977
+308,Ann Smithee,Human,1,6.6,19,VOY,1.977
+5871,Sylvia Ront,Human,1,7.7,12,LD,1.975
+4736,Paolana,Human,1,7.7,12,LD,1.975
+3503,L. Playa,Human,1,7.7,12,LD,1.975
+4333,Molmol,Molmol's species,1,7.7,12,LD,1.975
+2006,Gavin,Human,1,7.7,12,LD,1.975
+900,Carlton Dennis,Human,1,7.7,12,LD,1.975
+3,10111,Unknown,1,7.7,12,LD,1.975
+1783,Falow,Wadi,1,5.8,29,DS9,1.973
+952,Chandra,Wadi,1,5.8,29,DS9,1.973
+1857,Francis Sullivan,Human,1,6.2,23,VOY,1.97
+2503,Illustor,Unknown,1,7.9,11,LD,1.963
+3349,Knicknac,Unknown,1,7.9,11,LD,1.963
+4171,Melponar triplets,Romulan,1,7.9,11,LD,1.963
+2343,Helena Gibson,Human,1,7.9,11,LD,1.963
+2562,J'Vini,Romulan,1,5.6,32,DIS,1.958
+4768,Patrick Fickett,Human,1,5.6,32,DIS,1.958
+3937,Malvus,Mizarian,1,7.6,12,LD,1.949
+2916,John Anderson,Human,1,7.6,12,LD,1.949
+1232,Daelen,Daelen's species,1,6.5,19,VOY,1.947
+451,Avik,Benthan,1,6.5,19,VOY,1.947
+5775,Steth,Benthan,1,6.5,19,VOY,1.947
+4874,Pinar,Bajoran,1,6.1,23,DS9,1.939
+3899,Madrat,Markalian,1,6.1,23,DS9,1.939
+5158,Reskat,Ramuran,1,6.2,21,VOY,1.916
+4630,Ogre of Fire,Unknown,1,6.2,21,VOY,1.916
+6342,Trevis,Unknown,1,6.2,21,VOY,1.916
+1149,Curneth,Ramuran,1,6.2,21,VOY,1.916
+984,Charlie Nichols,Human,1,6.5,18,ENT,1.914
+4578,Nora,Human,1,6.5,18,ENT,1.914
+3710,Loken,Kraylor,1,6.5,18,VOY,1.914
+3036,Juan,Human,1,6.5,18,ENT,1.914
+6094,Terek,Kraylor,1,6.5,18,VOY,1.914
+753,Brell,Kraylor,1,6.5,18,VOY,1.914
+4785,Paul Mayweather,Human,1,6.5,18,ENT,1.914
+1347,Dayla,Kraylor,1,6.5,18,VOY,1.914
+1898,Fritz,Unknown,1,6.5,18,ENT,1.914
+2363,Henry Frankenstein,Unknown,1,6.5,18,ENT,1.914
+2046,Geral,Annari,1,6.5,18,VOY,1.914
+5178,Rianna Mayweather,Human,1,6.5,18,ENT,1.914
+5625,Sherwyns,Human,1,7.7,11,LD,1.913
+4361,Morgo,Sentient volcano,1,7.7,11,LD,1.913
+3081,K'ranch,Kromsapiod,1,7.7,11,LD,1.913
+338,Antonio,Human,1,6.1,22,VOY,1.913
+5983,Tal,Trill symbiont,1,5.2,38,TOS,1.905
+2223,Grubdin,Pakled,1,7.4,12,LD,1.898
+5362,Rumdar,Pakled,1,7.4,12,LD,1.898
+2393,Hij'qa,Klingon,1,6.1,21,VOY,1.886
+3393,Kortar,Klingon,1,6.1,21,VOY,1.886
+4293,Miral,Klingon,1,6.1,21,VOY,1.886
+789,Brok'tan,Klingon,1,6.1,21,VOY,1.886
+1812,Ferin,Vulcan,1,5.3,34,DIS,1.884
+6429,Val Sasha,Human,1,5.3,34,DIS,1.884
+876,Callum,Human,1,5.3,34,DIS,1.884
+4673,Oros,Unknown,1,5.9,23,DIS,1.875
+2460,Hyde,Unknown,1,7.3,12,LD,1.872
+4762,Patingi,Tellarite,1,7.3,12,LD,1.872
+3472,Kynk,Ferengi,1,7.3,12,LD,1.872
+2427,Honus,Human,1,7.3,12,LD,1.872
+5696,Socrates,Human,1,6.2,19,VOY,1.857
+4437,Nakahn,Mikhal Traveler,1,6.2,19,VOY,1.857
+3727,Lord Byron,Human,1,6.2,19,VOY,1.857
+3915,Mahatma Gandhi,Human,1,6.2,19,VOY,1.857
+6775,Zahir,Mikhal Traveler,1,6.2,19,VOY,1.857
+6403,Uri'lash,Hupyrian,1,5.8,23,DS9,1.843
+224,Aluura,Human,1,5.8,23,DS9,1.843
+4557,Nilva,Ferengi,1,5.8,23,DS9,1.843
+1100,Cor'Dee,Zaldan,1,7.4,11,LD,1.839
+3204,Kearns,Human,1,7.4,11,LD,1.839
+6777,Zakari,Human,1,5.7,24,DIS,1.835
+4083,Mat'trub,Human,1,5.7,24,DIS,1.835
+427,Ato Kurr,Human,1,5.7,24,DIS,1.835
+2327,Haz Mazaro,Unknown,1,5.7,24,DIS,1.835
+1674,Emory Erickson,Human,1,6.2,18,ENT,1.826
+4976,Quinn Erickson,Human,1,6.2,18,ENT,1.826
+1257,Danica Erickson,Human,1,6.2,18,ENT,1.826
+821,Burrows,Human,1,6.2,18,ENT,1.826
+3128,Kaltorus,Areore,1,6.9,13,LD,1.821
+5094,Rawda,Areore,1,6.9,13,LD,1.821
+2055,Gettor,Bajoran,1,5.7,23,DS9,1.811
+5959,T. Virts,Human,1,5.3,29,ENT,1.803
+5991,Talla,Andorian,1,5.3,29,ENT,1.803
+4855,Phil Wallace,Human,1,5.3,29,ENT,1.803
+5033,R. Wilcox,Human,1,5.3,29,ENT,1.803
+5326,Ronald Moore,Human,1,5.3,29,ENT,1.803
+3824,M. Fincke,Human,1,5.3,29,ENT,1.803
+1700,Eric Motz,Human,1,5.3,29,ENT,1.803
+290,Andy Simonson,Human,1,5.3,29,ENT,1.803
+1343,Dawn Velazquez,Human,1,5.3,29,ENT,1.803
+737,Brad Yacobian,Human,1,5.3,29,ENT,1.803
+6209,Tiron,Unknown,1,5.6,24,DS9,1.803
+5556,Seltin Rakal,Seltin Rakal's species,1,5.6,24,DS9,1.803
+3687,Lito,Seltin Rakal's species,1,5.6,24,DS9,1.803
+1411,Deral,Seltin Rakal's species,1,5.6,24,DS9,1.803
+6340,Tret,Tret's species,1,6.0,19,ENT,1.797
+4749,Pascal Fullerton,Human,1,5.5,24,DS9,1.77
+354,Arandis,Risian,1,5.5,24,DS9,1.77
+4687,Ossan,Bajoran,1,5.7,21,DS9,1.762
+5330,Ronin,Unknown,1,4.8,36,TNG,1.733
+4101,Maturin,Unknown,1,4.8,36,TNG,1.733
+1799,Felisa Howard,Human,1,4.8,36,TNG,1.733
+4483,Ned Quint,Human,1,4.8,36,TNG,1.733
+3250,Kenneth Dalby,Human,1,8.9,2,VOY,0.978
+2354,Henley,Human,1,8.9,2,VOY,0.978
+5431,Sabrina,Human,1,6.8,3,VOY,0.943
+3378,Korath,Klingon,1,6.8,3,VOY,0.943
+3526,Lana,Human,1,6.8,3,VOY,0.943
+247,Amat'igan,Jem'Hadar,1,8.5,2,DS9,0.934
+949,Chalan Aroya,Bajoran,1,8.5,2,DS9,0.934

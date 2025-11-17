@@ -1,0 +1,22 @@
+Keyword,High-Rated Score,Low-Rated Score,Difference,Pattern Type
+earth,0.0321,0.007,0.0252,High-Rated Keyword
+dominion,0.0267,0.0022,0.0245,Differentiating Keyword
+picard,0.0548,0.0311,0.0237,High-Rated Keyword
+sisko,0.0418,0.0185,0.0233,High-Rated Keyword
+attack,0.0279,0.0056,0.0223,Differentiating Keyword
+borg,0.0291,0.0073,0.0218,High-Rated Keyword
+federation,0.0386,0.0182,0.0205,High-Rated Keyword
+captain,0.049,0.0295,0.0196,High-Rated Keyword
+starfleet,0.0391,0.0203,0.0188,High-Rated Keyword
+archer,0.0364,0.0184,0.0181,High-Rated Keyword
+crew,0.0858,0.0685,0.0172,High-Rated Keyword
+doctor,0.0284,0.0127,0.0157,Differentiating Keyword
+cardassian,0.0228,0.0075,0.0153,Differentiating Keyword
+romulan,0.0195,0.0049,0.0146,Differentiating Keyword
+secret,0.0143,0.0052,0.0091,Differentiating Keyword
+ship,0.0548,0.0467,0.0081,High-Rated Keyword
+time,0.0301,0.022,0.0081,High-Rated Keyword
+voyager,0.0511,0.0462,0.0049,High-Rated Keyword
+alien,0.0358,0.0525,-0.0167,High-Rated Keyword
+enterprise,0.0753,0.105,-0.0297,High-Rated Keyword
+planet,0.035,0.0781,-0.0431,High-Rated Keyword
