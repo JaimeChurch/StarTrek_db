@@ -98,20 +98,22 @@ class StarTrekDataLoader:
         return df
     
     def get_actor_episodes(self):
-        """Get actor performances in episodes"""
+        """Get actor performances in episodes - only primary actors when available"""
         query = """
-        SELECT 
+        SELECT DISTINCT
             ce.episode_id,
-            a.actor_id,
-            a.first_name || ' ' || a.last_name as actor_name,
+            COALESCE(c.primary_actor_id, ca.actor_id) as actor_id,
+            COALESCE(pa.first_name || ' ' || pa.last_name, a.first_name || ' ' || a.last_name) as actor_name,
             c.character_id,
             c.name as character_name,
             ca.series as series_code
         FROM Character_Episodes ce
         JOIN Characters c ON ce.character_id = c.character_id
-        JOIN Character_Actors ca ON c.character_id = ca.character_id
-        JOIN Actors a ON ca.actor_id = a.actor_id
+        LEFT JOIN Actors pa ON c.primary_actor_id = pa.actor_id
+        LEFT JOIN Character_Actors ca ON c.character_id = ca.character_id AND c.primary_actor_id IS NULL
+        LEFT JOIN Actors a ON ca.actor_id = a.actor_id
         JOIN Episodes e ON ce.episode_id = e.episode_id
+        WHERE c.primary_actor_id IS NOT NULL OR ca.actor_id IS NOT NULL
         """
         df = pd.read_sql_query(query, self.conn)
         return df
@@ -238,19 +240,20 @@ class StarTrekDataLoader:
             actor_data = merged[merged['actor_id'] == actor_id]
             actor_name = actor_data['actor_name'].iloc[0]
             
-            # Calculate metrics
-            num_episodes = len(actor_data)
+            # Calculate metrics - count UNIQUE episodes only (not duplicates from multiple characters)
+            num_episodes = actor_data['episode_id'].nunique()
             num_characters = actor_data['character_id'].nunique()
             
             # Get character names sorted by episode count
-            char_episode_counts = actor_data.groupby('character_name').size().sort_values(ascending=False)
+            char_episode_counts = actor_data.groupby('character_name')['episode_id'].nunique().sort_values(ascending=False)
             top_characters = char_episode_counts.head(3).index.tolist()
             character_list = ', '.join(top_characters)  # Show top 3 characters by episode count
             if len(char_episode_counts) > 3:
                 character_list += f" (+{len(char_episode_counts)-3} more)"
             
-            # Weighted average rating (weighted by votes)
-            valid_ratings = actor_data[actor_data['imdb_rating'].notna()]
+            # Weighted average rating (weighted by votes) - use unique episodes
+            unique_episodes = actor_data.drop_duplicates(subset='episode_id')
+            valid_ratings = unique_episodes[unique_episodes['imdb_rating'].notna()]
             if len(valid_ratings) > 0:
                 total_votes = valid_ratings['imdb_votes'].sum()
                 if total_votes > 0:
@@ -264,7 +267,7 @@ class StarTrekDataLoader:
                 total_votes_on_episodes = 0
             
             # Get series appearances (filter out None values)
-            series_list = [s for s in actor_data['series_code_x'].unique() if pd.notna(s)]
+            series_list = [s for s in unique_episodes['series_code_x'].unique() if pd.notna(s)]
             series_str = ', '.join(series_list) if series_list else 'Unknown'
             
             results.append({

@@ -1,0 +1,861 @@
+Episode ID,Series,Season,Episode Number,Title,Actual Rating,Predicted Rating,Difference,IMDB Votes
+1,DS9,7,18,'Til Death Do Us Part,7.4,6.89,-0.51,19
+2,DIS,4,7,...But to Connect,5.9,5.94,0.04,27
+3,TNG,1,15,11001001,6.1,6.1,0.0,4000
+4,VOY,5,23,11:59,8.5,7.81,-0.69,25
+5,TNG,6,8,A Fistful of Datas,7.4,6.91,-0.49,36
+6,DS9,1,4,A Man Alone,6.8,6.53,-0.27,29
+7,LD,3,7,A Mathematically Perfect Redemption,6.9,6.57,-0.33,13
+8,TNG,2,8,A Matter Of Honor,8.0,7.45,-0.55,44
+9,TNG,5,9,A Matter Of Time,7.2,6.74,-0.46,35
+10,TNG,3,14,A Matter of Perspective,6.7,6.42,-0.28,37
+11,PRO,1,9,"A Moral Star, Part 1",8.8,7.16,-1.64,13
+12,PRO,1,10,"A Moral Star, Part 2",8.0,7.42,-0.58,467
+13,ENT,2,5,A Night in Sickbay,6.6,6.43,-0.17,21
+14,TOS,2,20,A Piece of the Action,7.4,6.94,-0.46,37
+15,TOS,2,16,A Private Little War,7.0,6.61,-0.39,39
+16,SNW,1,10,A Quality of Mercy,9.1,8.36,-0.74,6000
+17,DS9,5,17,A Simple Investigation,6.6,6.36,-0.24,21
+18,TOS,1,23,A Taste of Armageddon,8.0,7.34,-0.66,47
+19,DS9,6,1,A Time to Stand,8.5,7.84,-0.66,24
+20,PIC,1,4,Absolute Candor,7.2,6.71,-0.49,53
+21,DS9,4,17,Accession,7.3,6.8,-0.5,23
+22,ENT,1,19,Acquisition,7.5,6.96,-0.54,22
+23,ENT,4,15,Affliction,7.8,7.15,-0.65,18
+24,DS9,7,3,Afterimage,7.2,6.8,-0.4,21
+25,TAS,2,4,Albatross,6.8,6.54,-0.26,792
+26,VOY,6,5,Alice,6.3,6.21,-0.09,2000
+27,TNG,7,25,All Good Things...,9.1,8.38,-0.72,97
+28,DIS,4,8,All In,5.7,5.67,-0.03,24
+29,DIS,4,4,All Is Possible,5.3,5.48,0.18,34
+30,TOS,3,23,All Our Yesterdays,8.1,7.44,-0.66,38
+31,SNW,1,9,All Those Who Wander,8.2,7.46,-0.74,51
+32,PRO,1,13,All the World's a Stage,7.8,7.21,-0.59,385
+33,TNG,3,18,Allegiance,7.4,6.89,-0.51,38
+34,VOY,2,14,Alliances,7.2,6.69,-0.51,21
+35,VOY,3,14,Alter Ego,6.7,6.51,-0.19,2000
+36,TOS,2,5,Amok Time,6.4,6.24,-0.16,39
+37,LD,2,5,An Embarrassment Of Dooplers,7.6,7.05,-0.55,12
+38,DIS,2,4,An Obol for Charon,7.3,6.88,-0.42,43
+39,TOS,3,5,And the Children Shall Lead,6.9,6.51,-0.39,36
+40,TNG,1,14,Angel One,7.4,6.95,-0.45,45
+41,DIS,4,2,Anomaly,5.5,5.58,0.08,35
+42,ENT,3,2,Anomaly,7.7,6.98,-0.72,18
+43,DS9,5,1,Apocalypse Rising,8.2,7.53,-0.67,24
+44,TNG,6,13,Aquiel,6.0,6.07,0.07,32
+45,TOS,1,19,Arena,7.9,7.29,-0.61,48
+46,DS9,2,13,Armageddon Game,7.4,6.92,-0.48,25
+47,VOY,6,18,Ashes to Ashes,6.9,6.59,-0.31,21
+48,TOS,2,26,Assignment: Earth,7.5,6.97,-0.53,42
+49,PIC,2,3,Assimilation,7.1,6.74,-0.36,41
+50,PRO,1,11,Asylum,7.7,7.23,-0.47,401
+51,TNG,7,8,Attached,7.5,6.96,-0.54,32
+52,VOY,7,20,"Author, Author",7.1,6.72,-0.38,19
+53,ENT,4,8,Awakening,8.0,7.37,-0.63,18
+54,ENT,3,18,Azati Prime,8.5,7.84,-0.66,19
+55,DS9,1,5,Babel,7.0,6.59,-0.41,29
+56,ENT,4,12,Babel One,8.4,7.66,-0.74,18
+57,DS9,7,15,"Badda-Bing, Badda-Bang",7.6,6.99,-0.61,24
+58,TOS,1,8,Balance of Terror,6.9,6.56,-0.34,5000
+59,DS9,4,16,Bar Association,7.2,6.72,-0.48,22
+60,VOY,6,3,Barge of the Dead,6.1,6.14,0.04,21
+61,VOY,2,26,"Basics, Part I",7.6,7.05,-0.55,22
+62,VOY,3,1,"Basics, Part II",7.7,7.21,-0.49,22
+63,DS9,1,13,Battle Lines,6.6,6.36,-0.24,26
+64,DIS,1,2,Battle at the Binary Stars,7.5,6.98,-0.52,75
+65,VOY,3,21,Before and After,7.6,7.05,-0.55,22
+66,DS9,6,4,Behind the Lines,7.8,7.21,-0.59,22
+67,TAS,2,2,Bem,6.1,6.08,-0.02,808
+68,TAS,1,1,Beyond the Farthest Star,6.6,6.39,-0.21,12
+69,TNG,6,16,"Birthright, Part I",7.5,7.05,-0.45,33
+70,TNG,6,17,"Birthright, Part II",7.3,6.87,-0.43,33
+71,DS9,5,23,Blaze of Glory,7.5,7.05,-0.45,21
+72,VOY,6,12,Blink of an Eye,9.0,8.33,-0.67,37
+73,VOY,5,14,Bliss,7.8,7.26,-0.54,22
+74,VOY,3,16,Blood Fever,7.1,6.69,-0.41,21
+75,DS9,2,19,Blood Oath,7.8,7.2,-0.6,27
+76,TNG,7,22,Bloodlines,6.5,6.31,-0.19,28
+77,DS9,4,25,Body Parts,8.2,7.61,-0.59,23
+78,VOY,7,7,Body and Soul,7.9,7.25,-0.65,22
+79,TNG,3,6,Booby Trap,7.4,6.96,-0.44,4000
+80,ENT,4,4,Borderland,7.7,7.08,-0.62,19
+81,ENT,4,17,Bound,6.8,6.48,-0.32,18
+82,ENT,2,25,Bounty,6.9,6.52,-0.38,18
+83,TOS,2,14,Bread and Circuses,7.2,6.74,-0.46,38
+84,ENT,1,8,Breaking the Ice,7.1,6.73,-0.37,22
+85,VOY,5,12,Bride of Chaotica!,7.3,6.89,-0.41,24
+86,ENT,1,1,Broken Bow,7.6,7.06,-0.54,51
+87,DS9,4,26,Broken Link,8.5,7.79,-0.71,2
+88,PIC,1,8,Broken Pieces,7.7,7.11,-0.59,46
+89,DIS,2,1,Brother,7.4,6.96,-0.44,53
+90,TNG,4,3,Brothers,7.7,7.12,-0.58,4000
+91,DS9,5,18,Business as Usual,7.2,6.77,-0.43,21
+92,TOS,2,21,By Any Other Name,7.4,6.92,-0.48,39
+93,DS9,5,15,By Inferno's Light,8.8,8.06,-0.74,26
+94,DS9,5,26,Call to Arms,9.0,8.32,-0.68,26
+95,ENT,2,17,Canamar,6.8,6.54,-0.26,18
+96,TNG,3,19,Captain's Holiday,7.2,6.79,-0.41,4000
+97,DS9,1,6,Captive Pursuit,7.6,7.13,-0.47,3000
+98,ENT,2,2,Carbon Creek,8.5,7.74,-0.76,27
+99,DS9,2,5,Cardassians,7.5,6.97,-0.53,26
+100,VOY,1,1,Caretaker,7.4,6.89,-0.51,46
+101,ENT,3,11,Carpenter Street,7.4,6.95,-0.45,2000
+102,VOY,1,13,Cathexis,7.2,6.8,-0.4,24
+103,TOS,2,1,Catspaw,8.6,7.9,-0.7,53
+104,TNG,5,18,Cause And Effect,8.9,8.19,-0.71,53
+105,ENT,2,15,Cease Fire,7.9,7.38,-0.52,2000
+106,TNG,6,10,"Chain Of Command, Part I",8.3,7.59,-0.71,41
+107,TNG,6,11,"Chain Of Command, Part II",8.9,8.11,-0.79,44
+108,DS9,6,16,Change of Heart,7.1,6.74,-0.36,21
+109,TOS,1,7,Charlie X,7.5,7.0,-0.5,52
+110,VOY,6,19,Child's Play,7.6,7.15,-0.45,21
+111,DS9,5,22,Children of Time,8.1,7.47,-0.63,26
+112,SNW,1,2,Children of the Comet,8.0,7.41,-0.59,61
+113,DS9,7,14,Chimera,7.2,6.79,-0.41,21
+114,DIS,1,5,Choose Your Pain,7.3,6.87,-0.43,59
+115,DIS,4,3,Choose to Live,5.6,5.51,-0.09,32
+116,ENT,3,12,Chosen Realm,6.7,6.37,-0.33,19
+117,DS9,7,5,Chrysalis,6.9,6.55,-0.35,22
+118,DS9,3,7,Civil Defense,7.9,7.28,-0.62,26
+119,ENT,1,9,Civilization,7.2,6.81,-0.39,22
+120,TNG,4,14,Clues,8.2,7.56,-0.64,43
+121,VOY,3,15,Coda,7.0,6.72,-0.28,21
+122,TNG,1,4,Code of Honor,6.3,6.18,-0.12,46
+123,ENT,2,22,Cogenitor,7.6,7.13,-0.47,23
+124,VOY,2,10,Cold Fire,7.0,6.7,-0.3,21
+125,ENT,1,11,Cold Front,7.6,7.14,-0.46,21
+126,ENT,4,5,Cold Station 12,7.7,7.05,-0.65,18
+127,VOY,6,16,Collective,7.3,6.91,-0.39,2000
+128,DIS,4,13,Coming Home,5.9,5.9,0.0,3000
+129,TNG,1,19,Coming of Age,7.2,6.73,-0.47,4000
+130,VOY,4,11,Concerning Flight,6.7,6.49,-0.21,2000
+131,TNG,1,25,Conspiracy,7.4,6.96,-0.44,43
+132,TNG,2,11,Contagion,7.6,7.08,-0.52,4000
+133,DIS,1,3,Context Is for Kings,7.7,7.13,-0.57,7000
+134,TNG,5,14,Conundrum,8.2,7.46,-0.74,4000
+135,TNG,5,20,Cost Of Living,6.1,6.06,-0.04,32
+136,ENT,3,23,Countdown,8.5,7.82,-0.68,18
+137,VOY,5,10,Counterpoint,7.9,7.21,-0.69,24
+138,VOY,5,18,Course: Oblivion,5.0,4.89,-0.11,22
+139,TOS,1,14,Court Martial,8.8,8.12,-0.68,63
+140,DS9,7,9,Covenant,6.6,6.39,-0.21,21
+141,LD,1,9,Crisis Point,8.1,7.38,-0.72,17
+142,LD,3,8,Crisis Point 2: Paradoxus,7.9,7.28,-0.62,11
+143,VOY,7,5,Critical Care,7.8,7.34,-0.46,21
+144,DS9,4,13,Crossfire,7.7,7.2,-0.5,23
+145,DS9,2,23,Crossover,7.8,7.24,-0.56,26
+146,PRO,1,14,Crossroads,7.9,7.36,-0.54,378
+147,LD,1,5,Cupid's Errant Arrow,7.5,7.01,-0.49,17
+148,ENT,4,10,Daedalus,6.2,6.12,-0.08,18
+149,TOS,1,10,Dagger of the Mind,8.0,7.34,-0.66,55
+150,ENT,3,19,Damage,8.1,7.45,-0.65,18
+151,VOY,5,15,Dark Frontier,8.5,7.85,-0.65,25
+152,TNG,7,7,Dark Page,6.4,6.22,-0.18,32
+153,VOY,3,18,Darkling,6.2,6.11,-0.09,19
+154,TNG,5,2,Darmok,8.7,8.03,-0.67,57
+155,TNG,4,11,Data's Day,8.1,7.5,-0.6,43
+156,TNG,1,13,Datalore,5.7,5.69,-0.01,42
+157,ENT,2,13,Dawn,7.3,6.86,-0.44,19
+158,DS9,1,8,Dax,7.1,6.75,-0.35,28
+159,VOY,4,3,Day of Honor,7.3,6.91,-0.39,21
+160,TOS,3,11,Day of the Dove,7.2,6.79,-0.41,35
+161,ENT,2,4,Dead Stop,8.0,7.37,-0.63,22
+162,VOY,2,21,Deadlock,8.2,7.64,-0.56,26
+163,ENT,1,13,Dear Doctor,8.0,7.47,-0.53,24
+164,VOY,2,18,Death Wish,8.3,7.7,-0.6,27
+165,DS9,3,9,Defiant,7.9,7.34,-0.56,26
+166,TNG,3,13,Deja Q,8.5,7.87,-0.63,48
+167,VOY,4,24,Demon,7.1,6.77,-0.33,21
+168,ENT,4,20,Demons,7.6,7.11,-0.49,17
+169,TNG,6,26,Descent,8.0,7.4,-0.6,34
+170,TNG,7,1,"Descent, Part II",7.7,7.12,-0.58,35
+171,ENT,1,24,Desert Crossing,6.8,6.49,-0.31,19
+172,DIS,1,10,Despite Yourself,7.8,7.21,-0.59,52
+173,DS9,3,15,Destiny,7.4,6.86,-0.54,23
+174,ENT,1,21,Detained,7.3,6.79,-0.51,2000
+175,TNG,4,13,Devil's Due,7.2,6.73,-0.47,38
+176,DIS,3,5,Die Trying,7.3,6.81,-0.49,37
+177,TNG,5,5,Disaster,7.9,7.33,-0.57,4000
+178,PIC,3,2,Disengage,8.2,7.59,-0.61,54
+179,VOY,3,24,Displaced,7.4,6.84,-0.56,2000
+180,VOY,3,23,Distant Origin,8.5,7.83,-0.67,28
+181,DS9,3,18,Distant Voices,6.4,6.25,-0.15,23
+182,ENT,4,16,Divergence,7.9,7.23,-0.67,17
+183,DS9,5,16,"Doctor Bashir, I Presume",7.7,7.14,-0.56,24
+184,ENT,3,16,Doctor's Orders,7.4,6.95,-0.45,19
+185,PIC,3,7,Dominion,8.2,7.57,-0.63,43
+186,VOY,6,7,Dragon's Teeth,7.6,7.04,-0.56,21
+187,DS9,1,18,Dramatis Personae,7.0,6.69,-0.31,25
+188,VOY,2,17,Dreadnought,7.5,6.99,-0.51,23
+189,PRO,1,4,Dream Catcher,7.4,6.74,-0.66,436
+190,VOY,7,3,Drive,7.0,6.73,-0.27,19
+191,VOY,5,2,Drone,8.6,7.92,-0.68,28
+192,DS9,1,19,Duet,9.0,8.26,-0.74,42
+193,TOS,3,2,Elaan of Troyius,8.4,7.68,-0.72,43
+194,TNG,2,3,"Elementary, Dear Data",8.1,7.48,-0.62,49
+195,VOY,2,4,Elogium,5.8,5.83,0.03,22
+196,VOY,1,9,Emanations,7.3,6.8,-0.5,24
+197,TNG,7,23,Emergence,6.5,6.39,-0.11,29
+198,DS9,1,1,Emissary,7.6,7.02,-0.58,5000
+199,DS9,5,24,Empok Nor,7.7,7.08,-0.62,23
+200,TNG,1,1,Encounter at Farpoint,6.9,6.57,-0.33,79
+201,VOY,7,25,Endgame,6.8,6.55,-0.25,3
+202,TNG,5,3,Ensign Ro,7.8,7.23,-0.57,38
+203,LD,1,2,Envoys,7.0,6.63,-0.37,2000
+204,DS9,3,4,Equilibrium,6.7,6.42,-0.28,23
+205,VOY,5,26,Equinox,6.4,6.27,-0.13,4000
+206,VOY,6,1,"Equinox, Part II",8.1,7.47,-0.63,23
+207,TOS,1,27,Errand of Mercy,5.7,5.6,-0.1,43
+208,PIC,1,9,"Et in Arcadia Ego, Part 1",7.3,6.87,-0.43,44
+209,PIC,1,10,"Et in Arcadia Ego, Part 2",7.6,7.08,-0.52,51
+210,TNG,5,16,Ethics,7.2,6.82,-0.38,34
+211,TNG,3,1,Evolution,6.5,6.3,-0.2,39
+212,VOY,1,8,Ex Post Facto,6.7,6.44,-0.26,24
+213,ENT,3,6,Exile,6.8,6.52,-0.28,18
+214,DS9,3,22,Explorers,7.2,6.79,-0.41,24
+215,ENT,3,3,Extinction,6.0,5.96,-0.04,19
+216,DS9,7,23,Extreme Measures,7.6,6.99,-0.61,2000
+217,VOY,5,3,Extreme Risk,6.7,6.46,-0.24,21
+218,TNG,7,18,Eye of the Beholder,6.6,6.33,-0.27,3000
+219,VOY,1,7,Eye of the Needle,6.6,6.41,-0.19,24
+220,ENT,3,21,E²,7.9,7.3,-0.6,19
+221,TNG,6,14,Face Of The Enemy,7.9,7.25,-0.65,36
+222,VOY,1,14,Faces,7.2,6.82,-0.38,23
+223,DS9,3,25,Facets,7.1,6.65,-0.45,23
+224,VOY,6,11,Fair Haven,6.2,6.11,-0.09,23
+225,VOY,3,13,Fair Trade,6.7,6.43,-0.27,19
+226,ENT,1,23,Fallen Hero,8.0,7.41,-0.59,21
+227,VOY,3,5,False Profits,6.5,6.33,-0.17,22
+228,TNG,4,2,Family,8.3,7.65,-0.65,49
+229,DS9,3,23,Family Business,7.2,6.82,-0.38,23
+230,DS9,6,13,Far Beyond the Stars,8.9,8.08,-0.82,42
+231,DIS,3,2,Far From Home,7.2,6.79,-0.41,42
+232,PIC,2,10,Farewell,6.8,6.44,-0.36,4000
+233,DS9,3,10,Fascination,6.2,6.14,-0.06,24
+234,DS9,6,5,Favor the Bold,8.5,7.83,-0.67,24
+235,VOY,3,20,Favorite Son,6.0,6.01,0.01,2000
+236,DS9,5,20,Ferengi Love Songs,6.7,6.43,-0.27,21
+237,DS9,7,13,Field of Fire,6.6,6.32,-0.28,2000
+238,ENT,1,3,Fight or Flight,7.0,6.68,-0.32,23
+239,TNG,4,9,Final Mission,6.7,6.42,-0.28,36
+240,PRO,1,7,First Con-tact,7.4,6.98,-0.42,419
+241,TNG,4,15,First Contact,8.1,7.41,-0.69,41
+242,LD,2,10,First First Contact,8.6,7.88,-0.72,13
+243,ENT,2,24,First Flight,7.5,7.04,-0.46,19
+244,TNG,7,21,Firstborn,6.7,6.42,-0.28,29
+245,VOY,3,2,Flashback,7.7,7.13,-0.57,25
+246,VOY,7,9,Flesh and Blood,7.5,6.98,-0.52,2000
+247,PIC,2,5,Fly Me to the Moon,6.6,6.32,-0.28,36
+248,DS9,4,22,For the Cause,8.0,7.38,-0.62,24
+249,DS9,5,13,For the Uniform,7.8,7.27,-0.53,24
+250,TOS,3,10,For the World is Hollow and I Have Touched the Sky,6.5,6.32,-0.18,37
+251,TNG,7,9,Force of Nature,6.4,6.22,-0.18,31
+252,DIS,3,4,Forget Me Not,6.4,6.19,-0.21,47
+253,ENT,1,10,Fortunate Son,6.5,6.29,-0.21,21
+254,TNG,6,21,Frame of Mind,8.1,7.5,-0.6,38
+255,TOS,2,3,Friday's Child,7.5,6.88,-0.62,41
+256,VOY,7,21,Friendship One,7.1,6.65,-0.45,2000
+257,VOY,6,23,Fury,6.2,6.15,-0.05,2000
+258,ENT,1,17,Fusion,7.0,6.67,-0.33,2000
+259,TNG,4,8,Future Imperfect,7.7,7.14,-0.56,4000
+260,ENT,2,16,Future Tense,8.1,7.49,-0.61,2000
+261,VOY,3,8,Future's End,8.2,7.57,-0.63,27
+262,VOY,3,9,"Future's End, Part II",8.1,7.42,-0.68,25
+263,TNG,4,16,Galaxy's Child,7.0,6.66,-0.34,36
+264,TNG,7,4,"Gambit, Part I",7.7,7.13,-0.57,34
+265,TNG,7,5,"Gambit, Part II",7.9,7.27,-0.63,33
+266,TNG,7,19,Genesis,7.0,6.67,-0.33,34
+267,PRO,1,17,Ghost in the Machine,7.9,7.36,-0.54,377
+268,SNW,1,3,Ghosts of Illyria,7.7,7.11,-0.59,56
+269,VOY,6,20,Good Shepherd,7.1,6.69,-0.41,2000
+270,VOY,5,13,Gravity,7.1,6.67,-0.43,21
+271,LD,3,1,Grounded,7.7,7.12,-0.58,12
+272,TNG,4,22,Half a Life,7.3,6.83,-0.47,37
+273,ENT,3,15,Harbinger,7.3,6.89,-0.41,19
+274,DS9,4,19,Hard Time,7.1,6.69,-0.41,22
+275,ENT,3,17,Hatchery,6.6,6.39,-0.21,18
+276,TNG,1,11,Haven,7.2,6.78,-0.42,45
+277,LD,3,6,"Hear All, Trust Nothing",8.6,7.97,-0.63,14
+278,TNG,1,20,Heart of Glory,7.1,6.73,-0.37,41
+279,DS9,3,14,Heart of Stone,7.3,6.96,-0.34,24
+280,TNG,5,11,Hero Worship,6.6,6.4,-0.2,33
+281,VOY,1,12,Heroes and Demons,6.6,6.36,-0.24,22
+282,TNG,1,10,Hide And Q,6.2,6.14,-0.06,42
+283,PIC,2,9,Hide and Seek,5.7,5.79,0.09,38
+284,DS9,4,4,Hippocratic Oath,7.7,7.1,-0.6,24
+285,DS9,6,20,His Way,7.4,6.92,-0.48,25
+286,TNG,3,21,Hollow Pursuits,7.7,7.08,-0.62,4000
+287,ENT,4,3,Home,7.7,7.15,-0.55,25
+288,TNG,1,18,Home Soil,7.1,6.66,-0.44,41
+289,DS9,4,11,Homefront,8.3,7.58,-0.72,25
+290,VOY,7,23,Homestead,7.4,6.88,-0.52,19
+291,TNG,7,13,Homeward,7.0,6.57,-0.43,31
+292,DS9,6,15,Honor Among Thieves,7.3,6.8,-0.5,22
+293,VOY,4,26,Hope and Fear,8.0,7.36,-0.64,22
+294,ENT,2,20,Horizon,6.5,6.27,-0.23,18
+295,TAS,2,5,How Sharper Than a Serpent's Tooth,6.4,6.25,-0.15,779
+296,VOY,7,18,Human Error,7.3,6.93,-0.37,2000
+297,VOY,4,15,Hunters,7.6,7.12,-0.48,21
+298,TNG,5,23,I Borg,8.8,8.11,-0.69,48
+299,LD,2,8,"I, Excretus",8.4,7.75,-0.65,14
+300,TOS,2,12,"I, Mudd",7.3,6.77,-0.53,39
+301,TNG,4,18,Identity Crisis,6.7,6.42,-0.28,34
+302,DIS,2,8,If Memory Serves,8.2,7.52,-0.68,45
+303,DS9,1,16,If Wishes Were Horses,6.5,6.29,-0.21,26
+304,DS9,7,1,Image in the Sand,7.5,6.99,-0.51,22
+305,TNG,5,22,Imaginary Friend,6.0,6.03,0.03,32
+306,VOY,7,2,Imperfection,7.7,7.16,-0.54,21
+307,PIC,3,5,Imposters,8.9,8.17,-0.73,53
+308,DS9,3,20,Improbable Cause,8.5,7.79,-0.71,27
+309,ENT,3,5,Impulse,7.4,6.96,-0.44,19
+310,DS9,5,14,In Purgatory's Shadow,8.7,7.98,-0.72,26
+311,TNG,4,25,In Theory,7.1,6.74,-0.36,35
+312,ENT,4,18,"In a Mirror, Darkly",8.2,7.48,-0.72,23
+313,ENT,4,19,"In a Mirror, Darkly, Part II",8.1,7.35,-0.75,21
+314,DS9,5,25,In the Cards,7.6,7.14,-0.46,23
+315,VOY,5,4,In the Flesh,7.8,7.08,-0.72,24
+316,DS9,1,20,In the Hands of the Prophets,7.7,7.16,-0.54,27
+317,DS9,6,19,In the Pale Moonlight,9.4,8.84,-0.56,48
+318,DS9,4,5,Indiscretion,7.0,6.64,-0.36,26
+319,VOY,5,7,Infinite Regress,7.6,7.06,-0.54,22
+320,TNG,7,10,Inheritance,7.5,6.96,-0.54,32
+321,VOY,2,2,Initiations,6.5,6.29,-0.21,22
+322,VOY,2,22,Innocence,6.7,6.45,-0.25,22
+323,DS9,6,18,Inquisition,8.2,7.52,-0.68,24
+324,VOY,7,6,Inside Man,7.3,6.91,-0.39,19
+325,DS9,7,16,Inter Arma Enim Silent Leges,8.3,7.58,-0.72,23
+326,TNG,7,3,Interface,6.2,6.12,-0.08,29
+327,DIS,1,9,Into the Forest I Go,7.9,7.34,-0.56,54
+328,DS9,2,4,Invasive Procedures,6.8,6.48,-0.32,25
+329,VOY,2,20,Investigations,7.6,7.16,-0.44,22
+330,TOS,3,7,Is There in Truth No Beauty?,7.7,7.16,-0.54,37
+331,DS9,7,10,It's Only a Paper Moon,8.3,7.58,-0.72,27
+332,VOY,1,15,Jetrel,7.0,6.65,-0.35,22
+333,TOS,2,15,Journey to Babel,8.7,8.02,-0.68,55
+334,TNG,7,20,Journey's End,6.2,6.11,-0.09,32
+335,ENT,2,19,Judgment,7.6,7.11,-0.49,19
+336,VOY,5,21,Juggernaut,8.0,7.39,-0.61,24
+337,TNG,1,8,Justice,6.8,6.53,-0.27,43
+338,LD,2,2,"Kayshon, His Eyes Open",7.6,7.06,-0.54,13
+339,ENT,4,9,Kir'Shara,8.4,7.68,-0.72,19
+340,PRO,1,6,Kobayashi,8.6,8.01,-0.59,16
+341,DIS,4,1,Kobayashi Maru,5.9,5.84,-0.06,41
+342,VOY,5,11,Latent Image,8.3,7.67,-0.63,25
+343,VOY,1,16,Learning Curve,8.9,8.13,-0.77,2
+344,TNG,4,6,Legacy,6.7,6.47,-0.23,36
+345,TNG,6,19,Lessons,7.5,6.97,-0.53,36
+346,DS9,5,7,Let He Who Is Without Sin...,5.5,5.48,-0.02,24
+347,PRO,1,12,Let Sleeping Borg Lie,7.7,7.25,-0.45,384
+348,TOS,3,15,Let That Be Your Last Battlefield,7.1,6.72,-0.38,36
+349,DIS,1,6,Lethe,7.3,6.85,-0.45,55
+350,TNG,7,2,Liaisons,6.6,6.36,-0.24,3000
+351,VOY,6,24,Life Line,8.1,7.54,-0.56,22
+352,DS9,3,13,Life Support,6.6,6.37,-0.23,23
+353,VOY,2,19,Lifesigns,7.5,7.01,-0.49,22
+354,SNW,1,6,Lift Us Where Suffering Cannot Reach,7.7,7.08,-0.62,51
+355,DIS,2,7,Light and Shadows,7.3,6.89,-0.41,37
+356,VOY,7,12,Lineage,7.3,6.79,-0.51,2000
+357,DS9,4,8,Little Green Men,6.9,6.57,-0.33,23
+358,VOY,6,21,Live Fast and Prosper,7.1,6.68,-0.42,19
+359,VOY,4,23,Living Witness,8.7,8.13,-0.57,29
+360,TNG,1,7,Lonely Among Us,6.0,6.02,0.02,46
+361,DS9,5,3,Looking for par'Mach in All the Wrong Places,7.6,7.04,-0.56,24
+362,PRO,1,1,Lost and Found,6.9,6.73,-0.17,108000
+363,TNG,2,5,Loud As A Whisper,6.5,6.33,-0.17,4000
+364,TNG,7,15,Lower Decks,8.7,8.01,-0.69,46
+365,VOY,3,12,Macrocosm,7.2,6.79,-0.41,22
+366,DIS,1,7,Magic to Make the Sanest Man Go Mad,7.5,6.99,-0.51,6000
+367,TNG,6,3,Man Of The People,5.7,5.63,-0.07,32
+368,VOY,2,11,Maneuvers,7.0,6.69,-0.31,21
+369,TNG,2,19,Manhunt,6.1,6.07,-0.03,37
+370,PIC,1,2,Maps and Legends,7.3,6.77,-0.53,63
+371,ENT,2,6,Marauders,6.6,6.38,-0.22,2000
+372,TNG,7,17,Masks,5.8,5.82,0.02,34
+373,PRO,1,15,Masquerade,7.6,7.12,-0.48,359
+374,VOY,2,16,Meld,7.8,7.29,-0.51,24
+375,DS9,2,6,Melora,6.4,6.25,-0.15,25
+376,SNW,1,4,Memento Mori,8.4,7.76,-0.64,56
+377,VOY,6,14,Memorial,6.9,6.58,-0.32,2000
+378,PIC,2,8,Mercy,6.2,6.12,-0.08,34
+379,DS9,3,8,Meridian,5.6,5.48,-0.12,24
+380,VOY,4,14,Message in a Bottle,8.7,8.1,-0.6,29
+381,TOS,2,2,Metamorphosis,7.1,6.77,-0.33,45
+382,PRO,1,18,Mindwalk,8.0,7.47,-0.53,383
+383,ENT,2,3,Minefield,7.4,6.98,-0.42,2000
+384,LD,3,3,Mining The Mind's Mines,7.4,6.94,-0.46,11
+385,TOS,1,11,Miri,8.2,7.47,-0.73,54
+386,TOS,2,10,"Mirror, Mirror",8.5,7.76,-0.74,45
+387,LD,1,4,Moist Vessel,7.3,6.83,-0.47,17
+388,PIC,2,7,Monsters,5.4,5.48,0.08,41
+389,TAS,1,5,"More Tribbles, More Troubles",7.0,6.67,-0.33,11
+390,VOY,4,12,Mortal Coil,6.8,6.52,-0.28,21
+391,DS9,1,10,Move Along Home,5.8,5.71,-0.09,29
+392,LD,1,7,Much Ado About Boimler,7.5,6.91,-0.59,16
+393,TAS,1,10,Mudd's Passion,6.3,6.18,-0.12,871
+394,TOS,1,3,Mudd's Women,7.7,7.13,-0.57,71
+395,LD,2,4,"Mugato, Gumato",7.3,6.83,-0.47,12
+396,VOY,6,22,Muse,6.7,6.47,-0.23,2000
+397,TNG,3,24,Ménage à Troi,6.5,6.32,-0.18,36
+398,VOY,7,22,Natural Law,7.7,7.19,-0.51,21
+399,DS9,2,8,Necessary Evil,8.1,7.5,-0.6,27
+400,VOY,4,4,Nemesis,6.8,6.44,-0.36,22
+401,PIC,1,7,Nepenthe,8.3,7.58,-0.72,53
+402,DIS,2,2,New Eden,7.8,7.23,-0.57,49
+403,TNG,5,10,New Ground,6.5,6.31,-0.19,32
+404,VOY,5,1,Night,7.7,7.13,-0.57,23
+405,TNG,4,17,Night Terrors,7.1,6.61,-0.49,36
+406,VOY,7,8,Nightingale,6.5,6.28,-0.22,18
+407,LD,1,10,No Small Parts,8.6,7.92,-0.68,19
+408,PIC,3,4,No Win Scenario,9.0,8.3,-0.7,57
+409,VOY,2,5,Non Sequitur,6.7,6.44,-0.26,23
+410,DS9,5,4,Nor the Battle to the Strong,7.5,6.97,-0.53,23
+411,ENT,3,9,North Star,6.9,6.51,-0.39,2000
+412,VOY,5,8,Nothing Human,7.1,6.76,-0.34,21
+413,ENT,1,20,Oasis,7.0,6.64,-0.36,2000
+414,ENT,4,11,Observer Effect,7.8,7.21,-0.59,19
+415,TOS,2,18,Obsession,7.5,6.95,-0.55,37
+416,DS9,7,7,Once More Unto the Breach,7.6,7.03,-0.57,22
+417,TAS,1,9,Once Upon a Planet,6.2,6.12,-0.08,865
+418,VOY,5,5,Once Upon a Time,6.2,6.13,-0.07,21
+419,VOY,4,25,One,8.1,7.5,-0.6,23
+420,DS9,6,14,One Little Ship,7.6,7.04,-0.56,23
+421,VOY,6,8,One Small Step,7.7,7.15,-0.55,22
+422,TAS,1,3,One of Our Planets Is Missing,6.7,6.46,-0.24,1000
+423,TOS,1,29,Operation -- Annihilate!,7.5,7.01,-0.49,41
+424,DS9,4,10,Our Man Bashir,8.2,7.52,-0.68,26
+425,DS9,2,15,Paradise,6.6,6.38,-0.22,26
+426,DS9,4,12,Paradise Lost,7.1,6.7,-0.4,22
+427,VOY,1,3,Parallax,7.1,6.73,-0.37,26
+428,TNG,7,11,Parallels,8.8,8.1,-0.7,43
+429,VOY,2,7,Parturition,6.4,6.28,-0.12,21
+430,DS9,1,3,Past Prologue,7.1,6.66,-0.44,3000
+431,DS9,3,11,"Past Tense, Part I",7.8,7.15,-0.65,27
+432,DS9,3,12,"Past Tense, Part II",7.9,7.18,-0.72,27
+433,VOY,6,10,Pathfinder,8.4,7.81,-0.59,26
+434,TOS,2,23,Patterns of Force,6.1,6.12,0.02,39
+435,TNG,2,21,Peak Performance,7.7,7.16,-0.54,4000
+436,TNG,2,15,Pen Pals,6.8,6.49,-0.31,39
+437,PIC,2,2,Penance,7.9,7.3,-0.6,45
+438,DS9,7,17,Penumbra,7.3,6.89,-0.41,2000
+439,DIS,3,3,People of Earth,7.2,6.77,-0.43,39
+440,DIS,2,11,Perpetual Infinity,7.2,6.79,-0.41,36
+441,VOY,2,8,Persistence of Vision,6.7,6.45,-0.25,21
+442,VOY,1,5,Phage,6.4,6.27,-0.13,24
+443,TNG,7,6,Phantasms,7.5,7.01,-0.49,33
+444,TOS,3,12,Plato's Stepchildren,6.5,6.33,-0.17,35
+445,DS9,2,17,Playing God,6.4,6.24,-0.16,23
+446,DIS,2,3,Point of Light,6.6,6.35,-0.25,44
+447,TNG,5,15,Power Play,7.3,6.9,-0.4,34
+448,ENT,2,11,Precious Cargo,6.4,6.22,-0.18,2000
+449,TNG,7,24,Preemptive Strike,7.9,7.28,-0.62,31
+450,PRO,1,16,Preludes,7.4,6.94,-0.46,352
+451,VOY,4,16,Prey,8.0,7.42,-0.58,21
+452,VOY,1,10,Prime Factors,7.6,7.14,-0.46,24
+453,DS9,7,11,Prodigal Daughter,6.3,6.18,-0.12,2000
+454,DS9,6,23,Profit and Lace,5.8,5.76,-0.04,23
+455,DS9,2,18,Profit and Loss,7.2,6.73,-0.47,24
+456,DS9,1,15,Progress,6.8,6.47,-0.33,26
+457,DIS,2,9,Project Daedalus,7.9,7.28,-0.62,41
+458,VOY,2,3,Projections,7.8,7.25,-0.55,26
+459,VOY,7,14,Prophecy,8.0,7.42,-0.58,21
+460,DS9,3,16,Prophet Motive,6.8,6.49,-0.31,22
+461,VOY,2,13,Prototype,7.5,6.93,-0.57,23
+462,ENT,3,13,Proving Ground,8.4,7.74,-0.66,2000
+463,TNG,2,16,Q Who,8.9,8.24,-0.66,56
+464,DS9,1,7,Q-Less,6.7,6.41,-0.29,29
+465,VOY,7,19,Q2,7.9,7.35,-0.55,21
+466,TNG,4,20,Qpid,7.2,6.83,-0.37,38
+467,ENT,3,4,Rajiin,6.9,6.54,-0.36,18
+468,VOY,4,10,Random Thoughts,6.8,6.46,-0.34,2000
+469,DS9,5,10,Rapture,7.1,6.7,-0.4,22
+470,TNG,6,7,Rascals,7.3,6.82,-0.48,36
+471,VOY,3,22,Real Life,7.3,6.79,-0.51,22
+472,TNG,6,2,Realm Of Fear,7.3,6.92,-0.38,33
+473,TNG,4,26,Redemption,8.4,7.73,-0.67,38
+474,TNG,5,1,Redemption II,8.4,7.77,-0.63,38
+475,LD,3,5,Reflections,8.1,7.55,-0.55,11
+476,ENT,2,23,Regeneration,8.5,7.81,-0.69,28
+477,DS9,4,6,Rejoined,8.5,7.76,-0.74,3000
+478,VOY,5,24,Relativity,7.1,6.62,-0.48,2000
+479,TNG,6,4,Relics,8.5,7.82,-0.68,44
+480,VOY,3,6,Remember,6.9,6.52,-0.38,21
+481,TNG,4,5,Remember Me,7.8,7.24,-0.56,43
+482,PIC,1,1,Remembrance,8.2,7.41,-0.79,82
+483,VOY,7,24,Renaissance Man,8.6,7.92,-0.68,31
+484,VOY,7,13,Repentance,7.2,6.77,-0.43,19
+485,VOY,7,4,Repression,6.6,6.37,-0.23,19
+486,TOS,3,21,Requiem for Methuselah,7.1,6.72,-0.38,34
+487,VOY,2,12,Resistance,6.9,6.62,-0.28,22
+488,VOY,2,25,Resolutions,7.2,6.83,-0.37,22
+489,DS9,6,8,Resurrection,5.7,5.59,-0.11,21
+490,VOY,4,17,Retrospect,6.5,6.33,-0.17,21
+491,DS9,4,14,Return to Grace,7.2,6.77,-0.43,22
+492,TOS,2,22,Return to Tomorrow,7.5,7.04,-0.46,38
+493,TNG,4,7,Reunion,8.3,7.71,-0.59,41
+494,VOY,4,5,Revulsion,7.3,6.84,-0.46,21
+495,VOY,6,6,Riddles,7.4,6.94,-0.46,21
+496,TNG,6,23,Rightful Heir,7.1,6.73,-0.37,3000
+497,VOY,3,19,Rise,6.7,6.4,-0.3,2000
+498,DS9,2,11,Rivals,6.4,6.24,-0.16,23
+499,DS9,6,2,Rocks and Shoals,8.5,7.75,-0.75,26
+500,ENT,1,18,Rogue Planet,6.5,6.31,-0.19,2000
+501,LD,3,4,Room for Growth,7.5,6.92,-0.58,1000
+502,DIS,4,11,Rosetta,5.6,5.51,-0.09,23
+503,DIS,4,9,Rubicon,5.8,5.72,-0.08,22
+504,DS9,2,7,Rules of Acquisition,7.4,6.85,-0.55,26
+505,DS9,4,18,Rules of Engagement,8.2,7.49,-0.71,27
+506,VOY,3,7,Sacred Ground,5.8,5.8,0.0,23
+507,DS9,6,6,Sacrifice of Angels,9.0,8.26,-0.74,28
+508,DIS,2,5,Saints of Imperfection,6.6,6.39,-0.21,43
+509,TNG,2,17,Samaritan Snare,6.5,6.31,-0.19,37
+510,DS9,2,10,Sanctuary,6.4,6.18,-0.22,24
+511,TNG,3,23,Sarek,8.1,7.54,-0.56,42
+512,DIS,3,6,Scavengers,6.6,6.39,-0.21,36
+513,TNG,6,5,Schisms,7.5,6.96,-0.54,35
+514,VOY,4,7,Scientific Method,8.0,7.39,-0.61,23
+515,VOY,3,26,Scorpion,8.9,8.26,-0.64,29
+516,VOY,4,1,"Scorpion, Part II",8.8,8.13,-0.67,28
+517,TNG,6,24,Second Chances,7.5,7.01,-0.49,32
+518,LD,1,1,Second Contact,6.9,6.6,-0.3,24
+519,DS9,2,9,Second Sight,6.2,6.11,-0.09,24
+520,DS9,3,5,Second Skin,7.9,7.28,-0.62,26
+521,PIC,3,3,Seventeen Seconds,8.5,7.78,-0.72,52
+522,TNG,2,22,Shades of Gray,3.3,4.3,1.0,44
+523,DS9,2,16,Shadowplay,7.3,6.73,-0.57,25
+524,DS9,7,2,Shadows and Symbols,7.9,7.23,-0.67,23
+525,ENT,1,15,Shadows of P'Jem,7.7,7.05,-0.65,21
+526,DS9,3,24,Shakaar,6.9,6.54,-0.36,22
+527,VOY,7,11,Shattered,7.0,6.59,-0.41,2000
+528,DS9,4,20,Shattered Mirror,5.7,5.77,0.07,23
+529,TNG,6,12,Ship In A Bottle,8.5,7.84,-0.66,41
+530,ENT,1,26,Shockwave,8.3,7.68,-0.62,21
+531,ENT,2,1,"Shockwave, Part II",8.2,7.57,-0.63,26
+532,TOS,1,17,Shore Leave,7.2,6.69,-0.51,46
+533,ENT,1,16,Shuttlepod One,7.3,6.98,-0.32,22
+534,DIS,1,8,"Si Vis Pacem, Para Bellum",6.8,6.5,-0.3,49
+535,ENT,1,12,Silent Enemy,7.5,6.97,-0.53,21
+536,TNG,5,4,Silicon Avatar,7.2,6.78,-0.42,35
+537,ENT,3,10,Similitude,8.4,7.78,-0.62,24
+538,ENT,2,9,Singularity,7.4,6.98,-0.42,19
+539,TNG,3,17,Sins of The Father,8.2,7.64,-0.56,42
+540,TNG,1,23,Skin Of Evil,6.5,6.29,-0.21,39
+541,ENT,1,14,Sleeping Dogs,7.1,6.74,-0.36,2000
+542,DS9,5,21,Soldiers of the Empire,7.6,7.04,-0.56,22
+543,VOY,5,22,Someone to Watch Over Me,6.4,6.24,-0.16,21
+544,DS9,6,3,Sons and Daughters,7.0,6.63,-0.37,22
+545,DS9,4,15,Sons of Mogh,7.4,6.91,-0.49,24
+546,TOS,1,24,Space Seed,7.8,7.2,-0.6,45
+547,DIS,4,12,Species Ten-C,6.7,6.5,-0.2,23
+548,TOS,3,1,Spectre of the Gun,5.7,5.94,0.24,4000
+549,VOY,6,17,Spirit Folk,6.1,6.08,-0.02,2000
+550,SNW,1,5,Spock Amok,8.0,7.4,-0.6,56
+551,TOS,3,6,Spock's Brain,7.2,6.8,-0.4,38
+552,PIC,1,5,Stardust City Rag,6.9,6.48,-0.42,55
+553,DS9,4,7,Starship Down,7.7,7.08,-0.62,24
+554,TNG,6,18,Starship Mine,7.9,7.24,-0.66,36
+555,PRO,1,3,Starstruck,7.1,6.75,-0.35,448
+556,VOY,1,11,State of Flux,6.7,6.45,-0.25,24
+557,DS9,6,9,Statistical Probabilities,7.5,6.94,-0.56,24
+558,ENT,2,14,Stigma,7.5,6.99,-0.51,2000
+559,ENT,4,1,Storm Front,7.3,6.85,-0.45,19
+560,ENT,4,2,"Storm Front, Part II",7.3,6.81,-0.49,19
+561,DIS,4,6,Stormy Weather,5.5,5.48,-0.02,3000
+562,DS9,7,19,Strange Bedfellows,7.8,7.2,-0.6,2000
+563,LD,2,1,Strange Energies,7.1,6.75,-0.35,13
+564,ENT,1,4,Strange New World,6.9,6.62,-0.28,23
+565,SNW,1,1,Strange New Worlds,8.1,7.43,-0.67,75
+566,ENT,3,14,Stratagem,8.1,7.47,-0.63,19
+567,DIS,3,11,Su'Kal,6.2,6.12,-0.08,35
+568,TNG,7,14,Sub Rosa,4.8,5.48,0.68,36
+569,DIS,2,13,Such Sweet Sorrow,7.3,6.83,-0.47,4000
+570,DIS,2,14,"Such Sweet Sorrow, Part 2",8.2,7.52,-0.68,53
+571,TNG,4,4,Suddenly Human,6.4,6.25,-0.15,37
+572,PRO,1,19,"Supernova, Part 1",8.3,7.69,-0.61,400
+573,PRO,1,20,"Supernova, Part 2",8.5,7.96,-0.54,448
+574,PIC,3,8,Surrender,8.6,7.89,-0.71,46
+575,VOY,6,2,Survival Instinct,7.6,7.04,-0.56,21
+576,TNG,6,22,Suspicions,7.0,6.67,-0.33,31
+577,TNG,1,22,Symbiosis,6.8,6.45,-0.35,45
+578,DS9,7,22,Tacking Into the Wind,8.7,7.93,-0.77,21
+579,DS9,7,4,Take Me Out to the Holosuite,7.4,6.95,-0.45,26
+580,TNG,6,15,Tapestry,8.8,8.07,-0.73,47
+581,VOY,2,9,Tattoo,6.1,6.08,-0.02,22
+582,DS9,6,26,Tears of the Prophets,8.2,7.56,-0.64,23
+583,LD,1,3,Temporal Edict,7.2,6.81,-0.39,18
+584,LD,1,6,Terminal Provocations,7.2,6.76,-0.44,16
+585,DIS,3,9,"Terra Firma, Part 1",6.4,6.24,-0.16,36
+586,DIS,3,10,"Terra Firma, Part 2",6.4,6.23,-0.17,36
+587,ENT,1,6,Terra Nova,6.5,6.29,-0.21,22
+588,ENT,4,21,Terra Prime,8.1,7.51,-0.59,18
+589,PRO,1,5,Terror Firma,5.9,6.72,0.82,43
+590,DIS,3,1,"That Hope Is You, Part 1",7.3,6.83,-0.47,53
+591,DIS,3,13,"That Hope Is You, Part 2",6.5,6.26,-0.24,4000
+592,TOS,3,14,That Which Survives,6.9,6.57,-0.33,35
+593,VOY,2,1,The 37's,7.3,6.79,-0.51,26
+594,DS9,3,6,The Abandoned,6.9,6.55,-0.35,23
+595,DS9,3,26,The Adversary,8.2,7.59,-0.61,24
+596,ENT,4,14,The Aenar,8.2,7.56,-0.64,18
+597,DS9,2,12,The Alternate,6.7,6.44,-0.26,23
+598,TOS,1,20,The Alternative Factor,7.4,6.89,-0.51,44
+599,TAS,1,13,The Ambergris Element,6.4,6.24,-0.16,826
+600,ENT,1,7,The Andorian Incident,8.0,7.47,-0.53,24
+601,TOS,2,9,The Apple,7.2,6.74,-0.46,41
+602,TNG,1,21,The Arsenal of Freedom,6.9,6.54,-0.36,41
+603,DS9,5,9,The Ascent,7.4,6.87,-0.53,23
+604,DS9,5,5,The Assignment,7.3,6.85,-0.45,22
+605,ENT,4,6,The Augments,7.8,7.21,-0.59,18
+606,TNG,1,9,The Battle,6.9,6.54,-0.36,45
+607,DS9,5,12,The Begotten,7.8,7.24,-0.56,23
+608,TNG,3,26,The Best of Both Worlds,9.3,8.65,-0.65,63
+609,TNG,4,1,"The Best of Both Worlds, Part II",9.2,8.57,-0.63,59
+610,TNG,1,12,The Big Goodbye,7.5,6.97,-0.53,46
+611,TNG,3,5,The Bonding,6.7,6.42,-0.28,38
+612,PIC,3,6,The Bounty,8.9,8.23,-0.67,52
+613,ENT,2,21,The Breach,7.0,6.64,-0.36,17
+614,DIS,1,4,The Butcher's Knife Cares Not for the Lamb's Cry,7.2,6.8,-0.4,6000
+615,TOS,1,0,The Cage,7.6,7.03,-0.57,79
+616,ENT,2,12,The Catwalk,7.4,6.9,-0.5,19
+617,TOS,2,8,The Changeling,7.3,6.9,-0.4,42
+618,DS9,7,20,The Changing Face of Evil,8.3,7.57,-0.73,21
+619,TNG,6,20,The Chase,8.0,7.41,-0.59,38
+620,TNG,2,1,The Child,5.8,5.83,0.03,44
+621,VOY,3,3,The Chute,6.6,6.37,-0.23,21
+622,DS9,2,2,The Circle,7.6,7.03,-0.57,26
+623,TOS,1,28,The City on the Edge of Forever,9.2,8.58,-0.62,73
+624,VOY,1,6,The Cloud,8.2,7.58,-0.62,28
+625,TOS,3,19,The Cloud Minders,7.3,6.94,-0.36,36
+626,DS9,2,24,The Collaborator,7.0,6.6,-0.4,22
+627,ENT,2,8,The Communicator,6.9,6.55,-0.35,19
+628,TOS,1,12,The Conscience of the King,8.1,7.39,-0.71,52
+629,TOS,1,2,The Corbomite Maneuver,7.0,6.61,-0.39,61
+630,ENT,3,22,The Council,8.4,7.75,-0.65,18
+631,TAS,2,6,The Counter-Clock Incident,7.0,6.65,-0.35,798
+632,ENT,2,18,The Crossing,6.9,6.58,-0.32,18
+633,DS9,5,11,The Darkness and the Light,6.9,6.52,-0.38,22
+634,TNG,2,10,The Dauphin,6.2,6.13,-0.07,4000
+635,TOS,2,11,The Deadly Years,6.7,6.45,-0.25,38
+636,TNG,3,10,The Defector,8.4,7.69,-0.71,46
+637,TOS,1,26,The Devil in the Dark,8.1,7.41,-0.69,45
+638,DS9,3,21,The Die is Cast,8.9,8.15,-0.75,29
+639,VOY,5,17,The Disease,7.5,7.0,-0.5,24
+640,DS9,7,24,The Dogs of War,8.1,7.45,-0.65,2000
+641,TOS,2,6,The Doomsday Machine,8.6,7.94,-0.66,5000
+642,TNG,4,21,The Drumhead,8.4,7.72,-0.68,47
+643,SNW,1,8,The Elysian Kingdom,6.2,6.09,-0.11,71
+644,TNG,2,20,The Emissary,7.5,6.96,-0.54,41
+645,TOS,3,8,The Empath,7.1,6.63,-0.47,35
+646,DS9,7,12,The Emperor's New Cloak,6.3,6.16,-0.14,2000
+647,PIC,1,3,The End is the Beginning,7.4,6.95,-0.45,56
+648,TNG,3,7,The Enemy,7.8,7.26,-0.54,4000
+649,TOS,1,4,The Enemy Within,7.8,7.22,-0.58,58
+650,TNG,3,2,The Ensigns of Command,7.4,6.89,-0.51,41
+651,TOS,3,4,The Enterprise Incident,5.2,5.18,-0.02,38
+652,DIS,4,5,The Examples,6.0,6.04,0.04,28
+653,ENT,2,26,The Expanse,8.2,7.52,-0.68,19
+654,TAS,1,15,The Eye of the Beholder,6.7,6.48,-0.22,811
+655,VOY,5,19,The Fight,7.5,6.99,-0.51,22
+656,TNG,5,19,The First Duty,7.8,7.15,-0.65,37
+657,ENT,4,7,The Forge,8.2,7.52,-0.68,18
+658,ENT,3,20,The Forgotten,7.9,7.38,-0.52,18
+659,DS9,1,17,The Forsaken,6.9,6.51,-0.39,25
+660,DIS,4,10,The Galactic Barrier,5.9,5.88,-0.02,23
+661,TOS,1,13,The Galileo Seven,7.1,6.68,-0.42,47
+662,TNG,5,6,The Game,7.4,6.95,-0.45,39
+663,TOS,2,17,The Gamesters of Triskelion,7.7,7.13,-0.57,43
+664,VOY,4,2,The Gift,7.9,7.41,-0.49,24
+665,VOY,6,25,The Haunting of Deck Twelve,7.1,6.76,-0.34,19
+666,TNG,3,12,The High Ground,6.8,6.53,-0.27,37
+667,DS9,2,1,The Homecoming,7.6,6.97,-0.63,26
+668,TNG,4,23,The Host,6.4,6.25,-0.15,34
+669,DS9,3,3,The House of Quark,8.1,7.42,-0.68,28
+670,TNG,3,11,The Hunted,7.4,6.88,-0.52,39
+671,TNG,2,14,The Icarus Factor,6.2,6.11,-0.09,36
+672,TOS,2,19,The Immunity Syndrome,6.8,6.58,-0.22,37
+673,PIC,1,6,The Impossible Box,7.8,7.23,-0.57,48
+674,TAS,1,7,The Infinite Vulcan,6.1,6.08,-0.02,918
+675,TNG,5,25,The Inner Light,9.4,8.85,-0.55,91
+676,DS9,2,26,The Jem'Hadar,8.4,7.78,-0.62,26
+677,TAS,1,16,The Jihad,6.2,6.14,-0.06,819
+678,VOY,4,18,The Killing Game,7.6,7.1,-0.5,23
+679,VOY,4,19,"The Killing Game, Part II",7.5,7.01,-0.49,21
+680,PIC,3,10,The Last Generation,9.4,8.76,-0.64,76
+681,TNG,1,5,The Last Outpost,7.5,6.97,-0.53,51
+682,LD,3,2,The Least Dangerous Game,7.7,7.21,-0.49,11
+683,TOS,3,18,The Lights of Zetar,6.2,6.14,-0.06,32
+684,TAS,1,4,The Lorelei Signal,6.5,6.31,-0.19,1000
+685,TNG,4,10,The Loss,6.0,6.03,0.03,35
+686,TAS,1,8,The Magicks of Megas-Tu,5.9,5.93,0.03,928
+687,DS9,6,10,The Magnificent Ferengi,8.1,7.43,-0.67,26
+688,TOS,1,5,The Man Trap,7.6,7.1,-0.5,55
+689,DS9,2,20,"The Maquis, Part I",7.8,7.17,-0.63,25
+690,DS9,2,21,"The Maquis, Part II",7.8,7.2,-0.6,24
+691,TOS,3,17,The Mark of Gideon,6.5,6.29,-0.21,33
+692,TNG,5,13,The Masterpiece Society,6.7,6.42,-0.28,33
+693,TNG,2,9,The Measure Of A Man,9.1,8.4,-0.7,69
+694,TOS,1,15,"The Menagerie, Part I",7.3,6.86,-0.44,49
+695,TOS,1,16,"The Menagerie, Part II",7.6,7.05,-0.55,47
+696,TNG,4,24,The Mind's Eye,7.7,7.11,-0.59,35
+697,TNG,3,22,The Most Toys,7.6,7.06,-0.54,4000
+698,DS9,4,21,The Muse,7.7,7.16,-0.54,23
+699,DS9,1,11,The Nagus,7.0,6.63,-0.37,27
+700,TNG,1,3,The Naked Now,5.1,5.07,-0.03,51
+701,TOS,1,6,The Naked Time,6.7,6.43,-0.27,54
+702,TNG,1,26,The Neutral Zone,9.4,8.67,-0.73,9
+703,PIC,3,1,The Next Generation,8.4,7.71,-0.69,64
+704,TNG,5,24,The Next Phase,8.3,7.57,-0.73,39
+705,TNG,4,19,The Nth Degree,7.9,7.3,-0.6,39
+706,TNG,3,16,The Offspring,8.5,7.83,-0.67,51
+707,VOY,4,21,The Omega Directive,7.4,6.88,-0.52,22
+708,TOS,2,25,The Omega Glory,7.0,6.74,-0.26,37
+709,TNG,5,17,The Outcast,6.8,6.53,-0.27,38
+710,TNG,2,4,The Outrageous Okona,6.2,6.11,-0.09,42
+711,TOS,3,3,The Paradise Syndrome,6.7,6.44,-0.26,37
+712,DS9,1,9,The Passenger,6.4,6.22,-0.18,26
+713,TNG,7,12,The Pegasus,8.4,7.68,-0.72,38
+714,TNG,5,21,The Perfect Mate,7.3,6.85,-0.45,37
+715,TAS,2,1,The Pirates of Orion,6.5,6.33,-0.17,805
+716,TAS,2,3,The Practical Joker,6.4,6.24,-0.16,816
+717,TNG,3,8,The Price,6.3,6.19,-0.11,37
+718,VOY,3,11,The Q and the Grey,7.1,6.78,-0.32,22
+719,TNG,6,9,The Quality of Life,7.4,6.89,-0.51,32
+720,DS9,4,24,The Quickening,7.4,6.9,-0.5,23
+721,VOY,4,6,The Raven,7.5,7.01,-0.49,21
+722,DS9,6,21,The Reckoning,7.0,6.65,-0.35,21
+723,DIS,2,10,The Red Angel,7.2,6.76,-0.44,38
+724,TOS,1,22,The Return of the Archons,8.7,7.97,-0.73,6000
+725,TNG,2,12,The Royale,6.6,6.38,-0.22,42
+726,DIS,3,8,The Sanctuary,5.8,5.8,0.0,39
+727,TOS,3,22,The Savage Curtain,6.6,6.38,-0.22,34
+728,TNG,2,6,The Schizoid Man,6.9,6.56,-0.34,4000
+729,DS9,3,1,"The Search, Part I",8.3,7.69,-0.61,26
+730,DS9,3,2,"The Search, Part II",8.2,7.6,-0.6,26
+731,SNW,1,7,The Serene Squall,7.2,6.74,-0.46,55
+732,ENT,2,7,The Seventh,6.8,6.52,-0.28,19
+733,DS9,5,2,The Ship,7.9,7.18,-0.72,25
+734,ENT,3,7,The Shipment,7.5,7.04,-0.46,18
+735,DS9,2,3,The Siege,7.8,7.19,-0.61,26
+736,DS9,7,8,The Siege of AR-558,8.6,7.9,-0.7,28
+737,TAS,1,14,The Slaver Weapon,7.0,6.63,-0.37,888
+738,DS9,6,25,The Sound of Her Voice,7.4,6.95,-0.45,22
+739,DIS,2,6,The Sound of Thunder,7.7,7.17,-0.53,41
+740,LD,2,6,The Spy Humongous,7.4,6.9,-0.5,12
+741,TOS,1,18,The Squire of Gothos,7.9,7.27,-0.63,5000
+742,PIC,2,1,The Star Gazer,8.0,7.25,-0.75,51
+743,LD,3,10,The Stars At Night,8.5,7.81,-0.69,11
+744,DS9,1,14,The Storyteller,6.0,6.09,0.09,26
+745,TAS,1,6,The Survivor,6.8,6.5,-0.3,944
+746,TNG,3,3,The Survivors,7.7,7.13,-0.57,46
+747,VOY,3,4,The Swarm,7.1,6.74,-0.36,21
+748,DS9,4,9,The Sword of Kahless,7.9,7.28,-0.62,26
+749,TAS,1,11,The Terratin Incident,6.7,6.45,-0.25,846
+750,VOY,2,23,The Thaw,7.1,6.76,-0.34,26
+751,TOS,3,9,The Tholian Web,8.0,7.4,-0.6,38
+752,TAS,1,12,The Time Trap,6.9,6.53,-0.37,857
+753,TOS,2,13,The Trouble with Tribbles,7.2,6.75,-0.45,37
+754,TOS,2,24,The Ultimate Computer,8.0,7.29,-0.71,39
+755,TNG,3,9,The Vengeance Factor,6.5,6.3,-0.2,36
+756,DS9,4,3,The Visitor,7.7,7.1,-0.6,24
+757,VOY,7,15,The Void,7.6,7.16,-0.44,2000
+758,VOY,6,9,The Voyager Conspiracy,7.4,6.97,-0.43,21
+759,DIS,1,1,The Vulcan Hello,7.2,6.73,-0.47,83
+760,DIS,1,14,"The War Without, The War Within",7.5,7.02,-0.48,42
+761,DS9,4,1,The Way of the Warrior,9.0,8.24,-0.76,33
+762,TOS,3,20,The Way to Eden,5.4,5.48,0.08,38
+763,DS9,2,22,The Wire,8.2,7.53,-0.67,27
+764,DIS,1,11,The Wolf Inside,7.8,7.25,-0.55,48
+765,TNG,4,12,The Wounded,8.2,7.48,-0.72,41
+766,ENT,3,1,The Xindi,7.7,7.15,-0.55,19
+767,DIS,3,12,There Is A Tide...,6.8,6.44,-0.36,33
+768,ENT,4,22,These Are the Voyages...,5.3,5.48,0.18,29
+769,TNG,7,16,Thine Own Self,7.8,7.15,-0.65,34
+770,DS9,5,8,Things Past,7.4,6.79,-0.61,22
+771,VOY,5,20,Think Tank,6.7,6.43,-0.27,19
+772,VOY,5,9,Thirty Days,7.1,6.75,-0.35,21
+773,TOS,1,25,This Side of Paradise,8.3,7.64,-0.66,48
+774,VOY,2,15,Threshold,5.3,5.48,0.18,26
+775,DS9,3,19,Through the Looking Glass,7.4,6.95,-0.45,23
+776,DIS,2,12,Through the Valley of Shadows,7.6,7.05,-0.55,35
+777,DS9,5,19,Ties of Blood and Water,7.1,6.69,-0.41,21
+778,PRO,1,8,Time Amok,7.7,7.14,-0.56,444
+779,TNG,2,13,Time Squared,7.5,7.04,-0.46,41
+780,VOY,1,4,Time and Again,7.1,6.68,-0.42,25
+781,TNG,5,26,Time's Arrow,8.3,7.56,-0.74,41
+782,TNG,6,1,"Time's Arrow, Part II",8.2,7.59,-0.61,4000
+783,DS9,6,24,Time's Orphan,6.1,6.06,-0.04,23
+784,VOY,5,6,Timeless,8.7,8.02,-0.68,29
+785,TNG,6,25,Timescape,8.5,7.83,-0.67,38
+786,TNG,3,20,Tin Man,7.2,6.75,-0.45,38
+787,VOY,6,4,Tinker Tenor Doctor Spy,8.4,7.73,-0.67,27
+788,DS9,4,23,To the Death,7.6,7.07,-0.53,23
+789,TOS,1,21,Tomorrow is Yesterday,7.1,6.71,-0.39,43
+790,TNG,1,16,Too Short A Season,6.4,6.24,-0.16,4000
+791,TNG,3,25,Transfigurations,6.9,6.65,-0.25,35
+792,DS9,7,6,"Treachery, Faith and the Great River",8.2,7.63,-0.57,23
+793,DS9,5,6,Trials and Tribble-ations,9.4,8.77,-0.63,46
+794,DS9,2,25,Tribunal,7.5,7.03,-0.47,23
+795,TNG,6,6,True Q,7.4,6.97,-0.43,35
+796,LD,3,9,Trusted Sources,7.8,7.28,-0.52,972
+797,VOY,6,15,Tsunkatse,7.1,6.74,-0.36,21
+798,TOS,3,24,Turnabout Intruder,6.8,6.5,-0.3,33
+799,VOY,2,24,Tuvix,7.7,7.23,-0.47,27
+800,ENT,3,8,Twilight,8.6,7.83,-0.77,24
+801,VOY,2,6,Twisted,6.9,6.58,-0.32,23
+802,ENT,1,25,Two Days and Two Nights,6.6,6.35,-0.25,2000
+803,PIC,2,6,Two of One,6.2,6.15,-0.05,37
+804,ENT,1,5,Unexpected,7.2,6.78,-0.42,24
+805,VOY,4,22,Unforgettable,6.2,6.13,-0.07,21
+806,TNG,5,7,Unification I,8.2,7.5,-0.7,39
+807,TNG,5,8,Unification II,8.3,7.61,-0.69,39
+808,DIS,3,7,Unification III,6.5,6.28,-0.22,4000
+809,VOY,6,26,Unimatrix Zero,7.9,7.35,-0.55,2000
+810,VOY,7,1,"Unimatrix Zero, Part II",7.8,7.28,-0.52,21
+811,ENT,4,13,United,8.4,7.68,-0.72,18
+812,VOY,3,17,Unity,7.8,7.24,-0.56,23
+813,TNG,2,7,Unnatural Selection,6.5,6.3,-0.2,38
+814,TNG,2,18,Up The Long Ladder,6.2,6.13,-0.07,39
+815,DS9,6,22,Valiant,6.9,6.55,-0.35,23
+816,ENT,2,10,Vanishing Point,6.9,6.58,-0.32,19
+817,DIS,1,12,Vaulting Ambition,8.1,7.47,-0.63,51
+818,LD,1,8,Veritas,7.6,7.07,-0.53,16
+819,TNG,5,12,Violations,6.2,6.13,-0.07,32
+820,VOY,6,13,Virtuoso,7.1,6.73,-0.37,22
+821,VOY,4,20,Vis à Vis,6.5,6.32,-0.18,19
+822,DS9,3,17,Visionary,7.8,7.17,-0.63,24
+823,DS9,1,12,Vortex,7.0,6.65,-0.35,26
+824,ENT,1,22,Vox Sola,6.7,6.41,-0.29,2000
+825,PIC,3,9,Võx,9.3,8.61,-0.69,69
+826,VOY,4,13,Waking Moments,7.5,7.08,-0.42,21
+827,DS9,6,11,Waltz,7.8,7.28,-0.52,23
+828,VOY,5,25,Warhead,8.3,7.66,-0.64,23
+829,VOY,3,10,Warlord,6.5,6.26,-0.24,21
+830,PIC,2,4,Watcher,6.4,6.23,-0.17,43
+831,TNG,1,24,We'll Always Have Paris,8.0,7.33,-0.67,48
+832,LD,2,3,We'll Always Have Tom Paris,7.6,7.05,-0.55,13
+833,LD,2,9,Wej Duj,8.7,7.86,-0.84,15
+834,TOS,1,9,What Are Little Girls Made Of?,7.4,6.96,-0.44,49
+835,DS9,7,25,What You Leave Behind,8.9,8.19,-0.71,29
+836,DIS,1,13,What's Past Is Prologue,8.1,7.51,-0.59,49
+837,DS9,7,21,When It Rains...,8.1,7.45,-0.65,2000
+838,TNG,1,17,When The Bough Breaks,6.8,6.39,-0.41,39
+839,TOS,1,1,Where No Man Has Gone Before,7.2,6.76,-0.44,66
+840,TNG,1,6,Where No One Has Gone Before,6.3,6.19,-0.11,42
+841,LD,2,7,Where Pleasant Fountains Lie,7.7,7.12,-0.58,12
+842,TNG,2,2,Where Silence Has Lease,7.0,6.69,-0.31,41
+843,DS9,2,14,Whispers,8.1,7.47,-0.63,28
+844,TOS,2,4,Who Mourns for Adonais?,9.0,8.3,-0.7,57
+845,DS9,6,12,Who Mourns for Morn?,7.6,6.97,-0.63,24
+846,TNG,3,4,Who Watches The Watchers,8.0,7.34,-0.66,49
+847,TOS,3,16,Whom Gods Destroy,6.5,6.3,-0.2,34
+848,DIS,1,15,Will You Take My Hand?,7.1,6.76,-0.34,47
+849,TOS,3,13,Wink of an Eye,7.0,6.64,-0.36,35
+850,TOS,2,7,Wolf in the Fold,6.2,6.15,-0.05,4000
+851,VOY,7,16,Workforce,7.7,7.16,-0.54,2000
+852,VOY,7,17,"Workforce, Part II",7.1,6.72,-0.38,19
+853,VOY,3,25,Worst Case Scenario,8.0,7.44,-0.56,22
+854,DS9,6,17,Wrongs Darker Than Death or Night,6.8,6.45,-0.35,21
+855,VOY,4,8,Year of Hell,8.7,8.04,-0.66,29
+856,VOY,4,9,"Year of Hell, Part II",8.6,7.89,-0.71,27
+857,TNG,3,15,Yesterday's Enterprise,9.2,8.64,-0.56,67
+858,TAS,1,2,Yesteryear,8.0,7.29,-0.71,13
+859,DS9,6,7,You Are Cordially Invited,7.3,6.83,-0.47,23
+860,ENT,3,24,Zero Hour,8.5,7.8,-0.7,19

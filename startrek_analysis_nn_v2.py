@@ -59,6 +59,7 @@ class StarTrekAnalyzer:
         SELECT 
             e.episode_id,
             e.series_id,
+            e.title,
             e.season,
             e.episode_number,
             e.imdb_rating,
@@ -87,18 +88,20 @@ class StarTrekAnalyzer:
         return pd.read_sql_query(query, self.conn)
     
     def load_actor_episodes(self):
-        """Load actor performances in episodes"""
+        """Load actor performances in episodes - only primary actor per character"""
         query = """
-        SELECT 
+        SELECT DISTINCT
             ce.episode_id,
-            a.actor_id,
-            a.first_name || ' ' || a.last_name as actor_name,
+            COALESCE(c.primary_actor_id, ca.actor_id) as actor_id,
+            COALESCE(pa.first_name || ' ' || pa.last_name, a.first_name || ' ' || a.last_name) as actor_name,
             c.character_id,
             c.name as character_name
         FROM Character_Episodes ce
         JOIN Characters c ON ce.character_id = c.character_id
-        JOIN Character_Actors ca ON c.character_id = ca.character_id
-        JOIN Actors a ON ca.actor_id = a.actor_id
+        LEFT JOIN Actors pa ON c.primary_actor_id = pa.actor_id
+        LEFT JOIN Character_Actors ca ON c.character_id = ca.character_id AND c.primary_actor_id IS NULL
+        LEFT JOIN Actors a ON ca.actor_id = a.actor_id
+        WHERE c.primary_actor_id IS NOT NULL OR ca.actor_id IS NOT NULL
         """
         return pd.read_sql_query(query, self.conn)
     
@@ -412,11 +415,11 @@ class StarTrekAnalyzer:
             actor_episodes = actor_df[actor_df['actor_id'] == actor_id]
             actor_name = actor_episodes['actor_name'].iloc[0]
             
-            # Get their characters (sorted by episode count)
-            char_counts = actor_episodes.groupby('character_name').size().sort_values(ascending=False)
+            # Get their characters (sorted by UNIQUE episode count per character)
+            char_counts = actor_episodes.groupby('character_name')['episode_id'].nunique().sort_values(ascending=False)
             main_characters = ', '.join(char_counts.head(3).index.tolist())
             
-            # Get episode details
+            # Get episode details - use UNIQUE episodes only
             ep_ids = actor_episodes['episode_id'].unique()
             actor_eps = episode_df[episode_df['episode_id'].isin(ep_ids)]
             
@@ -440,17 +443,19 @@ class StarTrekAnalyzer:
             popularity_score = (avg_predicted_rating * np.log1p(num_episodes) * np.log1p(total_votes)) / 100
             
             results.append({
-                'actor_name': actor_name,
-                'main_characters': main_characters,
-                'num_episodes': num_episodes,
-                'nn_avg_rating': round(avg_predicted_rating, 2),
-                'total_votes': int(total_votes),
-                'series': ', '.join(series_list),
-                'popularity_score': round(popularity_score, 2)
+                'Actor ID': actor_id,
+                'Actor Name': actor_name,
+                'Episode Count': num_episodes,
+                'Characters Played': char_counts.shape[0],
+                'Notable Characters': main_characters,
+                'Avg Rating (Weighted)': round(avg_predicted_rating, 2),
+                'Total IMDB Votes': int(total_votes),
+                'Series': ', '.join(series_list),
+                'Popularity Score': round(popularity_score, 2)
             })
         
         results_df = pd.DataFrame(results)
-        results_df = results_df.sort_values('popularity_score', ascending=False)
+        results_df = results_df.sort_values('Popularity Score', ascending=False)
         
         print(f"Analyzed {len(results_df)} actors")
         
@@ -485,6 +490,90 @@ def main():
     # Save model
     torch.save(analyzer.model.state_dict(), 'startrek_nn_model.pth')
     print("\n✓ Model saved to startrek_nn_model.pth")
+    
+    # Predict ratings for all episodes and save to CSV
+    print("\n" + "="*70)
+    print("PREDICTING EPISODE RATINGS")
+    print("="*70)
+    
+    predicted_ratings = analyzer.predict_episode_quality(features)
+    
+    episode_predictions = pd.DataFrame({
+        'Episode ID': episode_ids,
+        'Series': episode_df['series_code'],
+        'Season': episode_df['season'],
+        'Episode Number': episode_df['episode_number'],
+        'Title': episode_df['title'],
+        'Actual Rating': episode_df['imdb_rating'],
+        'Predicted Rating': predicted_ratings.round(2),  # Already scaled to 0-10
+        'Difference': (predicted_ratings - episode_df['imdb_rating']).round(2),
+        'IMDB Votes': episode_df['imdb_votes']
+    })
+    
+    episode_predictions.to_csv('nn_episode_predictions.csv', index=False)
+    print(f"✓ Episode predictions saved to nn_episode_predictions.csv")
+    print(f"  Predicted ratings for {len(episode_predictions)} episodes")
+    
+    # Analyze patterns - extract NN weights for character/species features
+    print("\n" + "="*70)
+    print("ANALYZING CHARACTER/SPECIES PATTERNS FROM NN WEIGHTS")
+    print("="*70)
+    
+    # Get first layer weights (these show feature importance)
+    first_layer_weights = analyzer.model.fc1.weight.data.numpy()  # Shape: (128, num_features)
+    
+    # Average across hidden neurons to get overall feature importance
+    feature_importance = np.abs(first_layer_weights).mean(axis=0)
+    
+    # Feature indices: 
+    # 0-6: basic features (chars, season, episode, date, series)
+    # 7-(7+21): species one-hot
+    # (7+21)-(7+21+13): planets one-hot
+    # (7+21+13)-end: characters one-hot
+    
+    pattern_results = []
+    base_features = 7
+    species_start = base_features
+    species_end = species_start + len(analyzer.all_species)
+    planets_start = species_end
+    planets_end = planets_start + len(analyzer.all_planets)
+    chars_start = planets_end
+    
+    # Get top species by NN weight importance
+    for i, species_name in enumerate(analyzer.all_species):
+        idx = species_start + i
+        importance = feature_importance[idx]
+        
+        pattern_results.append({
+            'Name': species_name,
+            'Type': 'Species',
+            'NN Weight Importance': round(importance, 6),
+            'Feature Index': idx
+        })
+    
+    # Get top characters by NN weight importance (only top 50 to keep file manageable)
+    char_importance = []
+    for i, char_name in enumerate(analyzer.all_characters):
+        idx = chars_start + i
+        importance = feature_importance[idx]
+        char_importance.append((char_name, importance, idx))
+    
+    # Sort and take top 50 characters
+    char_importance.sort(key=lambda x: x[1], reverse=True)
+    for char_name, importance, idx in char_importance[:50]:
+        pattern_results.append({
+            'Name': char_name,
+            'Type': 'Character',
+            'NN Weight Importance': round(importance, 6),
+            'Feature Index': idx
+        })
+    
+    patterns_df = pd.DataFrame(pattern_results)
+    patterns_df = patterns_df.sort_values('NN Weight Importance', ascending=False)
+    patterns_df.to_csv('nn_patterns_analysis.csv', index=False)
+    print(f"✓ Pattern analysis saved to nn_patterns_analysis.csv")
+    print(f"  Extracted NN weights for {len(analyzer.all_species)} species and top 50 characters")
+    print(f"  Higher weights = stronger influence on episode quality prediction")
     
     # Use trained NN to analyze popularity
     char_popularity = analyzer.analyze_character_popularity(episode_df, character_df)

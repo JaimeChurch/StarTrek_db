@@ -1,0 +1,72 @@
+Name,Type,NN Weight Importance,Feature Index
+Towles,Character,0.044375,2800
+Wright,Character,0.04309,2987
+Billy,Character,0.042372,331
+Katherine Pulaski,Character,0.039522,1345
+Larson,Character,0.037741,1549
+Thompson,Character,0.037426,2736
+James Morrow,Character,0.036185,1155
+Devro,Character,0.036036,628
+Tessa Omond,Character,0.035613,2706
+Nelson,Character,0.035458,1984
+Borg,Species,0.035379,10
+Fitzpatrick,Character,0.034898,809
+Dathon,Character,0.034118,580
+Worf,Character,0.033477,2985
+Hogan,Character,0.033136,1053
+J.P. Hanson,Character,0.033087,1123
+Phillipa Louvois,Character,0.032935,2152
+Guinan,Character,0.032923,966
+Foster,Character,0.032415,817
+Edith Keeler,Character,0.032199,693
+Elizabeth Shelby,Character,0.030458,721
+Rettik,Character,0.029079,2281
+Haynem,Character,0.028877,1013
+Hugh,Character,0.0287,1070
+Morgan Bateson,Character,0.028421,1903
+Q,Character,0.028206,2188
+Sonya Gomez,Character,0.028179,2513
+Annorax,Character,0.028107,175
+Mark Johnson,Character,0.028055,1759
+Obrist,Character,0.028012,2039
+Nakamura,Character,0.027999,1945
+Martinez,Character,0.027979,1780
+Ahni Jetal,Character,0.027959,76
+Guardian of Forever,Character,0.027557,964
+Grathon Tolar,Character,0.027554,946
+Gettor,Character,0.027519,901
+Daniels,Character,0.027464,565
+Mezoti,Character,0.027073,1842
+Vorik,Character,0.026997,2923
+Vreenak,Character,0.026811,2931
+Trajis Lo-Tarik,Character,0.026386,2807
+Carolyn Palamas,Character,0.026102,430
+Kurt Bendera,Character,0.025954,1504
+Onquanii,Character,0.025938,2058
+Rom,Character,0.025665,2338
+Sim,Character,0.025388,2479
+Matt Decker,Character,0.025196,1793
+William McKenzie,Character,0.025007,2970
+James,Character,0.02499,1152
+Nicole,Character,0.024701,1995
+Tysess,Character,0.024694,2846
+Species 8472,Species,0.023269,21
+Romulan,Species,0.023,20
+Q,Species,0.021522,19
+Tribble,Species,0.019783,25
+Tholian,Species,0.019503,24
+Changeling,Species,0.0161,13
+Klingon,Species,0.014115,16
+Bajoran,Species,0.013907,8
+Talaxian,Species,0.01319,22
+Cardassian,Species,0.012977,12
+Trill,Species,0.012928,26
+Andorian,Species,0.012838,7
+Orion,Species,0.012673,18
+Ocampa,Species,0.01267,17
+Tellarite,Species,0.012557,23
+Breen,Species,0.012447,11
+Ferengi,Species,0.011832,14
+Vulcan,Species,0.01167,27
+Kazon,Species,0.011387,15
+Betazoid,Species,0.010422,9

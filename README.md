@@ -243,6 +243,86 @@
     up my repository and sort everything into folders for easier 
     navigation. 
 
+11/30
+    I spent the last module getting the v2 of the Star Trek neural net. 
+    Here is a summary of the new neural net. 
+
+        Purpose: Neural network predicts episode quality, drives all analysis
+
+        Neural Network Role: CENTRAL - Trains on 3,073 features:
+            7 basic features (chars, season, episode, date, series)
+            21 species one-hot encodings (from descriptions)
+            13 planet one-hot encodings (from descriptions)
+            3,032 character one-hot encodings
+
+        Key Features:
+            One-Hot Encoding: Creates binary features for every character, species, 
+            and planet
+            Character-Centric: Each of 3,032 characters gets its own feature column
+            NN Predicts Quality: Model learns which character combinations = good episodes
+            Ratings Source: NN PREDICTIONS (scaled 0-1, then × 10 for display)
+
+        Philosophy Difference:
+            V1: Trust the data (IMDB ratings), use NN to find patterns in descriptions
+            V2: Trust the NN to learn what makes episodes good based on cast/characters
+
+    Overall the V2 uses the 3073 features to predict episode quality. The episode quality 
+    for character, actor, and species is used to determine the popularity score for that 
+    entity. I was interested to see how the results would differ from the v1 script, which
+    calculates popularity based on the IMBDB ratings. 
+
+    The original v1 neural nets top 20 actors:
+        1. Michael Dorn: Worf
+        2. Kate Mulgrew: Kathryn Janeway
+        3. Patrick Stewart: Jean-Luc Picard
+        4. Marina Sirtis: Deanna Troi
+        5. Brent Spiner: Data
+        6. Jonathan Frakes: William T. Riker
+        7. Colm Meaney: Miles O'Brien
+        8. LeVar Burton: Geordi La Forge
+        9. Gates McFadden: Beverly Crusher
+        10. Angus Imrie: Zero
+        11. Dee Bradley Baker: Murf
+        12. Jason Mantzoukas: Jankom Pog
+        13. Rylee Alazraqui: Rok-Tahk
+        14. Ella Purnell: Gwyndala
+        15. Brett Gray: Dal R'El
+        16. John Noble: The Diviner
+        17. Leonard Nemoy: Spock
+        18. Jimmi Simpson: Drednok
+        19. William Shatner: James T. Kirk
+        20. Armin Shimerman: Quark
+
+    The v2 nn top 20:
+        1. Michael Dorn: Worf
+        2. Kate Mulgrew: Kathryn Janeway
+        3. Patrick Stewart: Jean-Luc Picard
+        4. Colm Meaney: Miles O'Brien
+        5. Jonathan Frakes: William T. Riker
+        6. Brent Spiner: Data
+        7. Marina Sirtis: Deanna Troi
+        8. LeVar Burton: Geordi La Forge
+        9. Gates McFadden: Beverly Crusher
+        10. Tim Russ: Tuvok
+        11. Robert Beltran: Chakotay
+        12. Robert Duncan McNeill: Tom Paris
+        13. Robert Picardo: The Doctor
+        14. Ethan Phillips: Neelix
+        15. Garrett Wang: Harry Kim
+        16. Roxann Dawson: B'Elanna Torres
+        17. Armin Shimerman: Quark
+        18. Rene Auberjonois: Odo
+        19. Alexander Siddig: Julian Bashir
+        20. Nana Visitor: Kira Nerys
+    
+    The v2's top 20 seems much more accurate to me. The v1 top 20 is full of Prodigy
+    characters. Prodigy only ran for 19 episodes, so I think their popularity is 
+    overblown here. I think this is because there are A LOT more episode ratings 
+    for Star Trek: Prodigy than there are for other ST shows. This could be due
+    to recency or because it's an animated children's show, I'm not sure. 
+
+
+
          
          
             
